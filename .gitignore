@@ -1,6 +1,5 @@
 .idea
 *.xlsx
-schema_out*
 _local/*
 dummy_files/*
 edited_jsons/*
