@@ -7,7 +7,7 @@ usage() {
 }
 
 # Default values
-google_id='1zjDBDvXgb0ydswFBwy47r2c8V1TFnpUj1jcG0xsY7ZI'
+google_id='1wm3zNkeYjnbUDadxjWNssDhI_KnGN3wFj4_ZMCx3Pis'
 objects_gid=0
 links_gid=270346573
 properties_gid=613332252
