@@ -9,6 +9,7 @@ This repository facilitates Gen3 data modeling using Google Sheets. It includes 
 git clone --recurse-submodules "https://github.com/GUARDIANS-infrastructure/omix3schemadev.git"
 python3 -m venv .venv
 source .venv/bin/activate
+cd omix3schemadev
 pip install -r requirements.txt
 ```
 ### 2. Install Docker
