@@ -37,11 +37,11 @@ bash scripts/generate_schema.sh
 
 ### 1. Pull Data Schema from Google Sheets
 
-This step involves pulling the schema design from a Google Sheet template. The template can be accessed [here](https://docs.google.com/spreadsheets/d/1zjDBDvXgb0ydswFBwy47r2c8V1TFnpUj1jcG0xsY7ZI/edit?usp=sharing). Feel free to duplicate this spreadsheet and input your own google sheet id along with the tab ids for objects, links, properties, and enums.
+This step involves pulling the schema design from a Google Sheet template. The template can be accessed [here](https://docs.google.com/spreadsheets/d/1wm3zNkeYjnbUDadxjWNssDhI_KnGN3wFj4_ZMCx3Pis/edit?usp=sharing). Feel free to duplicate this spreadsheet and input your own google sheet id along with the tab ids for objects, links, properties, and enums.
 
 ```bash
 [ -d "schema_out" ] && rm -rf "schema_out"
-python3 sheet2yaml-CLI.py --google-id '1zjDBDvXgb0ydswFBwy47r2c8V1TFnpUj1jcG0xsY7ZI' --objects-gid 0 --links-gid 270346573 --properties-gid 613332252 --enums-gid 1807456496
+python3 sheet2yaml-CLI.py --google-id '1wm3zNkeYjnbUDadxjWNssDhI_KnGN3wFj4_ZMCx3Pis' --objects-gid 0 --links-gid 270346573 --properties-gid 613332252 --enums-gid 1807456496
 ```
 
 ### 2. Move Schema Output
