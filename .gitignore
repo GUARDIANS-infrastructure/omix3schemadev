@@ -1,5 +1,4 @@
 .idea
-*.xlsx
 _local/*
 dummy_files/*
 edited_jsons/*
