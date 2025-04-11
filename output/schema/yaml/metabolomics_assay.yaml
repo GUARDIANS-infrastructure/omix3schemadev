@@ -1,0 +1,46 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: metabolomics_assay
+title: Metabolomics Assay
+type: object
+namespace: https://data.acdc.ozheart.org
+category: experimental_methods
+program: '*'
+project: '*'
+description: Details about the methods that produced the metabolomics file
+additionalProperties: false
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+links:
+- exclusive: null
+  required: true
+  subgroup:
+  - name: samples
+    backref: metabolomics_assays
+    label: generated_from
+    target_type: sample
+    multiplicity: many_to_many
+    required: false
+required:
+- type
+- submitter_id
+- assay_description
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  samples:
+    $ref: _definitions.yaml#/to_many
+  metabolite_names:
+    description: A list of all metabolites assayed in this method
+    type: array
+  assay_description:
+    description: A description of the type of assay used
+    type: string

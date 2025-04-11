@@ -1,0 +1,43 @@
+VARIABLE_NAME,OBJECT,REQUIRED,TYPE,DESCRIPTION,PREFERRED,FORMAT,PATTERN,NUM_MIN,NUM_MAX,UNITS,TERM,TERM_REF,TERM_SOURCE,TERM_VERSION,TERM_ID,TERM_URL,CDE_ID,CDE_VERSION,ARRAY_ITEMS_TYPE
+consent_codes,project,FALSE,array,"Data Use Restrictions that are used to indicate  permissions/restrictions for datasets and/or materials, and relates to the purposes for which datasets and/or material might be removed, stored or used. \n
+        Based on the Data Use Ontology : see http://www.obofoundry.org/ontology/duo.html",,,,,,,,,,,,,,,enum_du
+data_access_url,project,FALSE,string,A URL link that takes you to a page that explains how to gain access to the project,,,,,,,,,,,,,,,
+consent_codes,subject,FALSE,array,"Data Use Restrictions that are used to indicate  permissions/restrictions for datasets and/or materials, and relates to the purposes for which datasets and/or material might be removed, stored or used. \n
+        Based on the Data Use Ontology : see http://www.obofoundry.org/ontology/duo.html",,,,,,,,,,,,,,,enum_du
+baseline_year,subject,TRUE,string,year when baseline measurements were taken,,,,1998,2022,,,,,,,,,,
+cohort_id,subject,FALSE,string,Identifier for the cohort the subject is a part of,,,,,,,,,,,,,,,
+sample_id,sample,TRUE,string,A unique identifier of a sample obtained from a subject,,,,,,,,,,,,,,,
+sample_provider,sample,FALSE,enum_institute,The name of collaborating institute that provided the sample,,,,,,,,,,,,,,,
+sample_source,sample,FALSE,string,"Uberon identifier, anatomical location as described by the Uber Anatomy Ontology (UBERON). (CMG, CCDG)",,,^UBERON:[0-9]{7}$,,,,,,,,,,,,
+date_collected,sample,TRUE,string,The date of sample collection (YYYY-MM-DD),,date,^\d{4}-\d{2}-\d{2},,,,,,,,,,,,
+year_birth,demographic,FALSE,integer,Year of birth at baseline (YYYY),,,,1900,3000,,,,,,,,,,
+month_birth,demographic,FALSE,integer,Month of birth at baseline (MM),,,,1,12,,,,,,,,,,
+diabetes_type,medical_history,FALSE,enum_diabetes,diabetes diagnosed by fasting blood glucose >=7 mmol/l or tx AHA or 2 hour blood glucose >=11.1 mmol/l.,,,,,,,Diabetes mellitus,,hpo,,HP:0000819,http://purl.obolibrary.org/obo/HP_0000819,,2021-10-10,
+hypertension,medical_history,FALSE,enum_hyp_yes_no,Whether the participant has Hypertension,,,,,,,,,,,,,,,
+hypertension_measurement_type,medical_history,FALSE,enum_measurement_type,Whether the hypertension was measured at recruitment/patients on hypertension treatment or self-reported medical diagnosis,,,,,,,,,,,,,,,
+diabetes,medical_history,FALSE,enum_yes_no,Self-reported diabetes in the participant,,,,,,,Diabetes mellitus,,hpo,,HP:0000819,http://purl.obolibrary.org/obo/HP_0000819,,,
+lipid_names,lipidomics_assay,FALSE,array,A list of all lipids assayed in this method,,,,,,,,,,,,,,,enum_lipids
+assay_description,lipidomics_assay,TRUE,string,A description of the type of assay used,,,,,,,,,,,,,,,
+data_type,lipidomics_file,TRUE,enum_ms_data_type,The type of data in this data file,,,,,,,,,,,,,,,
+data_format,lipidomics_file,TRUE,enum_table_data_format,The format of the data in this data file,,,,,,,,,,,,,,,
+data_category,lipidomics_file,TRUE,enum_ms_data_cat,Broad categorization of the contents of the data file,,,,,,,,,,,,,,,
+cv,lipidomics_file,FALSE,number,Coefficient of variation (%),,,,0,100,,,,,,,,,,
+metabolite_names,metabolomics_assay,FALSE,array,A list of all metabolites assayed in this method,,,,,,,,,,,,,,,enum_proteins
+assay_description,metabolomics_assay,TRUE,string,A description of the type of assay used,,,,,,,,,,,,,,,
+data_type,metabolomics_file,TRUE,enum_ms_data_type,The type of data in this data file,,,,,,,,,,,,,,,
+data_format,metabolomics_file,TRUE,enum_table_data_format,The format of the data in this data file,,,,,,,,,,,,,,,
+data_category,metabolomics_file,TRUE,enum_ms_data_cat,Broad categorization of the contents of the data file,,,,,,,,,,,,,,,
+cv,metabolomics_file,FALSE,number,Coefficient of variation (%),,,,0,100,,,,,,,,,,
+experiment_id,proteomics_assay,TRUE,string,"A unique identifier of the experiment performed. (For OMIX3, this will be the iLab ID)",,,,,,,,,,,,,,,enum_metabolites
+instrument_make,proteomics_assay,TRUE,enum_instrument_man,The manufacturer of the instrument used,,,,,,,,,,,,,,,
+instrument_model,proteomics_assay,TRUE,enum_instrument_mod,The model of the instrument used,,,,,,,,,,,,,,,
+operator,proteomics_assay,FALSE,string,Name of the instrument operator,,,,,,,,,,,,,,,
+processing_steps,proteomics_assay,FALSE,enum_proc_steps,The processing step that was performed for this experiment,,,,,,,,,,,,,,,
+data_type,proteomics_file,TRUE,enum_ms_data_type,The type of data in this data file,,,,,,,,,,,,,,,
+data_format,proteomics_file,TRUE,enum_table_data_format,The format of the data in this data file,,,,,,,,,,,,,,,
+data_category,proteomics_file,TRUE,enum_ms_data_cat,Broad categorization of the contents of the data file.,,,,,,,,,,,,,,,
+cv,proteomics_file,FALSE,number,Coefficient of variation (%),,,,0,100,,,,,,,,,,
+facility_run_id,proteomics_file,TRUE,string,A unique identifier of which run the file was generated from ,,,,,,,,,,,,,,,
+facility_batch_id,proteomics_file,TRUE,string,A unique identifier of which batch of samples the file was generated from ,,,,,,,,,,,,,,,
+facility_run_date,proteomics_file,FALSE,string,The date the batch was analysed (YYYY-MM-DD),,date,^\d{4}-\d{2}-\d{2},,,,,,,,,,,,
+data_processing_app,proteomics_file,FALSE,enum_data_proc_app,Application/software used to pre-process the data,,,,,,,,,,,,,,,
