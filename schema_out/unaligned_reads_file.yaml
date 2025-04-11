@@ -17,18 +17,21 @@ systemProperties:
 - created_datetime
 - updated_datetime
 links:
-- name: genomics_assays
-  backref: unaligned_reads_files
-  label: data_from
-  target_type: genomics_assay
-  multiplicity: many_to_many
-  required: false
-- name: core_metadata_collection
-  backref: unaligned_reads_files
-  label: describes
-  target_type: core_metadata_collection
-  multiplicity: one_to_one
-  required: false
+- exclusive: null
+  required: true
+  subgroup:
+  - name: genomics_assays
+    backref: unaligned_reads_files
+    label: data_from
+    target_type: genomics_assay
+    multiplicity: many_to_many
+    required: false
+  - name: core_metadata_collection
+    backref: unaligned_reads_files
+    label: describes
+    target_type: core_metadata_collection
+    multiplicity: one_to_one
+    required: false
 required:
 - type
 - submitter_id

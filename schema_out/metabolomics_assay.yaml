@@ -17,12 +17,15 @@ systemProperties:
 - created_datetime
 - updated_datetime
 links:
-- name: samples
-  backref: metabolomics_assays
-  label: data_from
-  target_type: sample
-  multiplicity: many_to_many
-  required: false
+- exclusive: null
+  required: true
+  subgroup:
+  - name: samples
+    backref: metabolomics_assays
+    label: data_from
+    target_type: sample
+    multiplicity: many_to_many
+    required: false
 required:
 - type
 - submitter_id
@@ -39,5 +42,5 @@ properties:
     description: A list of all metabolites assayed in this method
     type: array
   assay_description:
-    description: A description of the type of assay used.
+    description: A description of the type of assay used
     type: string

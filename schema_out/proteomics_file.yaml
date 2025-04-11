@@ -17,24 +17,29 @@ systemProperties:
 - created_datetime
 - updated_datetime
 links:
-- name: proteomics_assays
-  backref: proteomics_files
-  label: data_from
-  target_type: proteomics_assay
-  multiplicity: many_to_many
-  required: false
-- name: core_metadata_collection
-  backref: proteomics_files
-  label: describes
-  target_type: core_metadata_collection
-  multiplicity: one_to_one
-  required: false
+- exclusive: null
+  required: true
+  subgroup:
+  - name: proteomics_assays
+    backref: proteomics_files
+    label: data_from
+    target_type: proteomics_assay
+    multiplicity: many_to_many
+    required: false
+  - name: core_metadata_collection
+    backref: proteomics_files
+    label: describes
+    target_type: core_metadata_collection
+    multiplicity: one_to_one
+    required: false
 required:
 - type
 - submitter_id
 - data_type
 - data_format
 - data_category
+- facility_run_id
+- facility_batch_id
 uniqueKeys:
 - - id
 - - project_id
@@ -68,3 +73,18 @@ properties:
   cv:
     description: Coefficient of variation (%)
     type: number
+  facility_run_id:
+    description: 'A unique identifier of which run the file was generated from '
+    type: string
+  facility_batch_id:
+    description: 'A unique identifier of which batch of samples the file was generated
+      from '
+    type: string
+  facility_run_date:
+    description: The date the batch was analysed
+    type: string
+    pattern: ^\d{4}-\d{2}-\d{2}
+  data_processing_app:
+    description: Application/software used to generate the data
+    enum:
+    - DIA-NN

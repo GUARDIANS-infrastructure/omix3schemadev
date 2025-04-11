@@ -17,18 +17,21 @@ systemProperties:
 - created_datetime
 - updated_datetime
 links:
-- name: metabolomics_assays
-  backref: metabolomics_files
-  label: data_from
-  target_type: metabolomics_assay
-  multiplicity: many_to_many
-  required: false
-- name: core_metadata_collection
-  backref: metabolomics_files
-  label: describes
-  target_type: core_metadata_collection
-  multiplicity: one_to_one
-  required: false
+- exclusive: null
+  required: true
+  subgroup:
+  - name: metabolomics_assays
+    backref: metabolomics_files
+    label: data_from
+    target_type: metabolomics_assay
+    multiplicity: many_to_many
+    required: false
+  - name: core_metadata_collection
+    backref: metabolomics_files
+    label: describes
+    target_type: core_metadata_collection
+    multiplicity: one_to_one
+    required: false
 required:
 - type
 - submitter_id
@@ -60,7 +63,7 @@ properties:
     - xls
     - xlsx
   data_category:
-    description: Broad categorization of the contents of the data file.
+    description: Broad categorization of the contents of the data file
     enum:
     - mass spec raw
     - mass spec analysed

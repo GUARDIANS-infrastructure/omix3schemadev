@@ -17,12 +17,15 @@ systemProperties:
 - created_datetime
 - updated_datetime
 links:
-- name: samples
-  backref: genomics_assays
-  label: data_from
-  target_type: sample
-  multiplicity: many_to_many
-  required: false
+- exclusive: null
+  required: true
+  subgroup:
+  - name: samples
+    backref: genomics_assays
+    label: generated_from
+    target_type: sample
+    multiplicity: many_to_one
+    required: false
 required:
 - type
 - submitter_id
@@ -33,4 +36,4 @@ uniqueKeys:
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   samples:
-    $ref: _definitions.yaml#/to_many
+    $ref: _definitions.yaml#/to_one

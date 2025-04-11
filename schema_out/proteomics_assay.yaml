@@ -17,16 +17,21 @@ systemProperties:
 - created_datetime
 - updated_datetime
 links:
-- name: samples
-  backref: proteomics_assays
-  label: data_from
-  target_type: sample
-  multiplicity: many_to_many
-  required: false
+- exclusive: null
+  required: true
+  subgroup:
+  - name: samples
+    backref: proteomics_assays
+    label: data_from
+    target_type: sample
+    multiplicity: many_to_many
+    required: false
 required:
 - type
 - submitter_id
-- assay_description
+- experiment_id
+- instrument_make
+- instrument_model
 uniqueKeys:
 - - id
 - - project_id
@@ -35,9 +40,24 @@ properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   samples:
     $ref: _definitions.yaml#/to_many
-  protein_names:
-    description: A list of all proteins assayed in this method
-    type: array
-  assay_description:
-    description: A description of the type of assay used.
+  experiment_id:
+    description: A unique identifier of the experiment performed. (For OMIX3, this
+      will be the iLab ID)
     type: string
+  instrument_make:
+    description: The manufacturer of the instrument used
+    enum:
+    - Thermo Fisher Scientific
+  instrument_model:
+    description: The model of the instrument used
+    enum:
+    - Orbitrap Astral
+  operator:
+    description: Name of the instrument operator
+    type: string
+  processing_steps:
+    description: The processing step that was performed for this experiment
+    enum:
+    - Depletion
+    - Digestion
+    - LC-MS
