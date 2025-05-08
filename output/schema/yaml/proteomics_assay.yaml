@@ -52,6 +52,7 @@ properties:
     description: The model of the instrument used
     enum:
     - Orbitrap Astral
+    - Stellar
   operator:
     description: Name of the instrument operator
     type: string

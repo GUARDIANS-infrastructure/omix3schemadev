@@ -35,7 +35,6 @@ links:
 required:
 - type
 - submitter_id
-- data_type
 - data_format
 - data_category
 - facility_run_id
@@ -50,13 +49,6 @@ properties:
     $ref: _definitions.yaml#/to_many
   core_metadata_collection:
     $ref: _definitions.yaml#/to_one
-  data_type:
-    description: The type of data in this data file
-    enum:
-    - TIC/XIC
-    - MS
-    - MS/MS
-    - Image
   data_format:
     description: The format of the data in this data file
     enum:
@@ -68,8 +60,9 @@ properties:
     description: Broad categorization of the contents of the data file.
     enum:
     - mass spec raw
-    - mass spec analysed
+    - mass spec processed
     - summarised results
+    - quality control
   cv:
     description: Coefficient of variation (%)
     type: number
@@ -88,3 +81,4 @@ properties:
     description: Application/software used to pre-process the data
     enum:
     - DIA-NN
+    - Skyline
