@@ -1,0 +1,1322 @@
+[
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_3771421da6"
+        },
+        "file_format": "9df0ed30e9",
+        "file_name": "391ec661ad",
+        "file_size": 0,
+        "ga4gh_drs_uri": "1dd47c64cc",
+        "md5sum": "14bb3ff4aee08216258fcd8cbb7c4130",
+        "submitter_id": "aligned_reads_file_35f42fd37d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_0accda82fd"
+        },
+        "file_format": "e824ed3a84",
+        "file_name": "b1ceb25475",
+        "file_size": 59,
+        "ga4gh_drs_uri": "2aeecf00b1",
+        "md5sum": "0c630c0409853682aa06d0d39deb6a79",
+        "submitter_id": "aligned_reads_file_95d8e28b46",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c4a488a930"
+        },
+        "file_format": "5578973573",
+        "file_name": "b5398ed18a",
+        "file_size": 3,
+        "ga4gh_drs_uri": "4736fbcb4a",
+        "md5sum": "39571a921f3bd5ae8d20dd0b026f9ca8",
+        "submitter_id": "aligned_reads_file_0c8a70b5e4",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1207f00efa"
+        },
+        "file_format": "62f71d8096",
+        "file_name": "dd022a8f12",
+        "file_size": 26,
+        "ga4gh_drs_uri": "3932f52c00",
+        "md5sum": "383deafffebe8c6fa8d94e7be358005d",
+        "submitter_id": "aligned_reads_file_4961ea3942",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_630eadf404"
+        },
+        "file_format": "867bbbf997",
+        "file_name": "51aea6f195",
+        "file_size": 98,
+        "ga4gh_drs_uri": "5078a8fad3",
+        "md5sum": "24bff5836c86cedd32017598c9c8ab41",
+        "submitter_id": "aligned_reads_file_577939bb72",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1dece9889e"
+        },
+        "file_format": "91626e33f4",
+        "file_name": "f1a88ed805",
+        "file_size": 32,
+        "ga4gh_drs_uri": "bb7b4c92fa",
+        "md5sum": "c14261ef917d9e3e8dda60e2c5d67bc9",
+        "submitter_id": "aligned_reads_file_fcc57a799b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_2b7d4742e5"
+        },
+        "file_format": "face2aedef",
+        "file_name": "de8e6d74b2",
+        "file_size": 31,
+        "ga4gh_drs_uri": "3092de12b8",
+        "md5sum": "b17d6ee73c4ee08bdb5a6135ce20a094",
+        "submitter_id": "aligned_reads_file_85c7fd26c6",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_bc9276f977"
+        },
+        "file_format": "33670143a7",
+        "file_name": "838cd16a14",
+        "file_size": 7,
+        "ga4gh_drs_uri": "aaeffe3902",
+        "md5sum": "2d237c188d956bdf168636265187c5e4",
+        "submitter_id": "aligned_reads_file_45360bf892",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1a83c60fc8"
+        },
+        "file_format": "da305dc09f",
+        "file_name": "50f6f82e02",
+        "file_size": 82,
+        "ga4gh_drs_uri": "41a33ea7c6",
+        "md5sum": "2842a6acc8a6aed6092f2e19518ee895",
+        "submitter_id": "aligned_reads_file_35d5d90c91",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_fb33223fd3"
+        },
+        "file_format": "169e7916c9",
+        "file_name": "6b6f803d1f",
+        "file_size": 0,
+        "ga4gh_drs_uri": "6694512399",
+        "md5sum": "ed32fb1de7d2732f04926d12f65a84b7",
+        "submitter_id": "aligned_reads_file_0b17037b34",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_0916cb73d5"
+        },
+        "file_format": "08c76ddf7b",
+        "file_name": "cd26507ddc",
+        "file_size": 6,
+        "ga4gh_drs_uri": "aeadf229e6",
+        "md5sum": "6244d72e7e94972aa7f397739783e418",
+        "submitter_id": "aligned_reads_file_5ffd3d905a",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_56a215ae63"
+        },
+        "file_format": "6e4e6d174a",
+        "file_name": "ae3cc5146a",
+        "file_size": 21,
+        "ga4gh_drs_uri": "242600c1fb",
+        "md5sum": "4c7f088ff9425ccec99cd6f534e8e93d",
+        "submitter_id": "aligned_reads_file_30de6d2f54",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_0cc10597a8"
+        },
+        "file_format": "5b28536ece",
+        "file_name": "fdc27503ef",
+        "file_size": 67,
+        "ga4gh_drs_uri": "be5aa8faad",
+        "md5sum": "6f564f0ecb6f6ec6e33e3d9dd0f536a3",
+        "submitter_id": "aligned_reads_file_98aec3750e",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a4c7f7a51e"
+        },
+        "file_format": "1682515e63",
+        "file_name": "76d46c0403",
+        "file_size": 14,
+        "ga4gh_drs_uri": "7830733c12",
+        "md5sum": "25576339cdf2eb223fdc649568f34486",
+        "submitter_id": "aligned_reads_file_f7146dd3ca",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a69467069c"
+        },
+        "file_format": "bb366376e3",
+        "file_name": "667cf09a2c",
+        "file_size": 10,
+        "ga4gh_drs_uri": "efdc329b61",
+        "md5sum": "464fc69c1411786027c8fd3423e1ffa1",
+        "submitter_id": "aligned_reads_file_8f9242daf9",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_72a2a20df5"
+        },
+        "file_format": "bc9a05673c",
+        "file_name": "98c137eb21",
+        "file_size": 3,
+        "ga4gh_drs_uri": "b5fa9cafd6",
+        "md5sum": "29354539dd7415cf035c0d7d9e847145",
+        "submitter_id": "aligned_reads_file_cd69b8de0b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_d293c9508b"
+        },
+        "file_format": "4bc8851be2",
+        "file_name": "590651fe46",
+        "file_size": 13,
+        "ga4gh_drs_uri": "362da215ac",
+        "md5sum": "ef5e78f60279dc26632301532fb7f3ec",
+        "submitter_id": "aligned_reads_file_35a0cf911f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c5a79b825c"
+        },
+        "file_format": "16f7188897",
+        "file_name": "d7d24b76af",
+        "file_size": 42,
+        "ga4gh_drs_uri": "2936a25196",
+        "md5sum": "4a43070b340b8046fc98d6fae72c7a7b",
+        "submitter_id": "aligned_reads_file_452fb06322",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4eedf2f206"
+        },
+        "file_format": "8ecc8a8a29",
+        "file_name": "d90c8d0bcb",
+        "file_size": 75,
+        "ga4gh_drs_uri": "b505af1d4c",
+        "md5sum": "2e5e761abba007b61b095ca122a5e722",
+        "submitter_id": "aligned_reads_file_c101353761",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_151edde690"
+        },
+        "file_format": "c810d00413",
+        "file_name": "d056bf51ef",
+        "file_size": 83,
+        "ga4gh_drs_uri": "52696b3e9e",
+        "md5sum": "60484c3e8523cb5d5a7a18ec2333e019",
+        "submitter_id": "aligned_reads_file_fbdaec2f34",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_0b4aeba926"
+        },
+        "file_format": "8039e83e21",
+        "file_name": "7a58e0c97c",
+        "file_size": 16,
+        "ga4gh_drs_uri": "fc9395cd83",
+        "md5sum": "a9d5b6b087a12699984490289f6f4502",
+        "submitter_id": "aligned_reads_file_c22869cec0",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4e28a11832"
+        },
+        "file_format": "bf78b5c491",
+        "file_name": "ad0dfe2b71",
+        "file_size": 35,
+        "ga4gh_drs_uri": "66d5e9773a",
+        "md5sum": "231af49d142ca75997df55510797abda",
+        "submitter_id": "aligned_reads_file_dd41e278f6",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_7571df4eb6"
+        },
+        "file_format": "34d24dc48e",
+        "file_name": "0a6edade90",
+        "file_size": 57,
+        "ga4gh_drs_uri": "77d08aa6c4",
+        "md5sum": "0952fb5d5976e2507fb7d3a4c2921ee3",
+        "submitter_id": "aligned_reads_file_82aa2ffc1f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_913bc58087"
+        },
+        "file_format": "748e4c4fcb",
+        "file_name": "8135985825",
+        "file_size": 46,
+        "ga4gh_drs_uri": "c4a7e29260",
+        "md5sum": "1180afa1a00eef3af9b25acbb328c7fe",
+        "submitter_id": "aligned_reads_file_d732cfbd9e",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b619118856"
+        },
+        "file_format": "50de2842bd",
+        "file_name": "03841cdfe3",
+        "file_size": 52,
+        "ga4gh_drs_uri": "d66ed19e15",
+        "md5sum": "6bcab35c56dee4b18fac3954b10ba7d2",
+        "submitter_id": "aligned_reads_file_e48257fb63",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_7c44b78cc4"
+        },
+        "file_format": "ced63e41ec",
+        "file_name": "34b50cdf39",
+        "file_size": 65,
+        "ga4gh_drs_uri": "9b38954736",
+        "md5sum": "21b20399a9f2916d42e37c26576ba5e6",
+        "submitter_id": "aligned_reads_file_b29dee10e7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_972eb0d73e"
+        },
+        "file_format": "26db87822a",
+        "file_name": "a8b282327a",
+        "file_size": 97,
+        "ga4gh_drs_uri": "dfe9bed1e0",
+        "md5sum": "ecff2822be26ff5ba3493226df3c2beb",
+        "submitter_id": "aligned_reads_file_5763b8b9aa",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_8a58cb2350"
+        },
+        "file_format": "360683ed29",
+        "file_name": "2cb087e9f1",
+        "file_size": 99,
+        "ga4gh_drs_uri": "7272ecb9a5",
+        "md5sum": "60b327af3b6f6ea715e8f7a176f258c2",
+        "submitter_id": "aligned_reads_file_ece2da520d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_64983857d7"
+        },
+        "file_format": "2b8c8e512a",
+        "file_name": "b57c6c6e60",
+        "file_size": 63,
+        "ga4gh_drs_uri": "439249fa15",
+        "md5sum": "ebfd699c7dc94b593f6cb4fdd0084468",
+        "submitter_id": "aligned_reads_file_a3405675dc",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4b917c151d"
+        },
+        "file_format": "62d0eebac2",
+        "file_name": "bed6d3ea36",
+        "file_size": 1,
+        "ga4gh_drs_uri": "ecb17a96ac",
+        "md5sum": "482fc425654c37b7469843efefd32dd6",
+        "submitter_id": "aligned_reads_file_3b21888154",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a8c0d0fc78"
+        },
+        "file_format": "4147c71533",
+        "file_name": "4dae0a5e65",
+        "file_size": 84,
+        "ga4gh_drs_uri": "500a85870a",
+        "md5sum": "2fc29bf8e5e69b733c8a13b287bbf0b6",
+        "submitter_id": "aligned_reads_file_44a5b40603",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_fc035fe931"
+        },
+        "file_format": "10e2afd90a",
+        "file_name": "5bf4304c89",
+        "file_size": 81,
+        "ga4gh_drs_uri": "55a257606c",
+        "md5sum": "98ede95f04f8bd213c39f9e54c492462",
+        "submitter_id": "aligned_reads_file_f29312f9f4",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_0832828fa3"
+        },
+        "file_format": "a72f9bfa73",
+        "file_name": "ff0bafaaef",
+        "file_size": 9,
+        "ga4gh_drs_uri": "46c4737c05",
+        "md5sum": "cc32e5095302a86c0d0024855c0bb6eb",
+        "submitter_id": "aligned_reads_file_825464d667",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1891059fd4"
+        },
+        "file_format": "76ab7e2717",
+        "file_name": "bf0522b195",
+        "file_size": 75,
+        "ga4gh_drs_uri": "573235239a",
+        "md5sum": "76211fdcc908ae69e2dcc6b51d689ece",
+        "submitter_id": "aligned_reads_file_fb974410fd",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_e2bd66ad91"
+        },
+        "file_format": "8def861dcb",
+        "file_name": "b87fa628ea",
+        "file_size": 61,
+        "ga4gh_drs_uri": "d1e95c7efa",
+        "md5sum": "8c76894d9b1f754f1c658e3116d401a9",
+        "submitter_id": "aligned_reads_file_fefc976054",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c088f0ae92"
+        },
+        "file_format": "44971dabe8",
+        "file_name": "5b3385e056",
+        "file_size": 26,
+        "ga4gh_drs_uri": "56c9cc72c0",
+        "md5sum": "4e25f1f37ac7c4f78ecd0ab2b1534631",
+        "submitter_id": "aligned_reads_file_9d191c690f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_dbc51be40b"
+        },
+        "file_format": "d8f575498e",
+        "file_name": "66e273f412",
+        "file_size": 40,
+        "ga4gh_drs_uri": "fae5c877de",
+        "md5sum": "4410c489015206722279232ea86499ed",
+        "submitter_id": "aligned_reads_file_4cef021891",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_f16facf2b5"
+        },
+        "file_format": "15170c2478",
+        "file_name": "6b01434490",
+        "file_size": 73,
+        "ga4gh_drs_uri": "4831589ef8",
+        "md5sum": "4266df6924f29f5671584ffb53af5fe0",
+        "submitter_id": "aligned_reads_file_1305c71b4f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_54766a2d0a"
+        },
+        "file_format": "71541f8a21",
+        "file_name": "f769752392",
+        "file_size": 82,
+        "ga4gh_drs_uri": "91997e3c1d",
+        "md5sum": "dbd8619b33aaec7f05122973fffe7831",
+        "submitter_id": "aligned_reads_file_c5d10e05a8",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_508ff60442"
+        },
+        "file_format": "8d67e9887d",
+        "file_name": "334c9c232b",
+        "file_size": 16,
+        "ga4gh_drs_uri": "eb85ff7b97",
+        "md5sum": "d80b191967b805efabcf729c65bddb9f",
+        "submitter_id": "aligned_reads_file_301bfce4c9",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_d422ccaac5"
+        },
+        "file_format": "1fe8ae5400",
+        "file_name": "9f3125f36c",
+        "file_size": 61,
+        "ga4gh_drs_uri": "6fb276d6b8",
+        "md5sum": "2d4ef7defb3d3f1cb83c8d46a6dc4a59",
+        "submitter_id": "aligned_reads_file_7df8fd7a5d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_439904049e"
+        },
+        "file_format": "d13b6a4a21",
+        "file_name": "c76cef5dc2",
+        "file_size": 94,
+        "ga4gh_drs_uri": "63379a64c7",
+        "md5sum": "43cef704726800432973f8d263c9fd84",
+        "submitter_id": "aligned_reads_file_ff33be5dcd",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_9bb827c324"
+        },
+        "file_format": "4ae59619ba",
+        "file_name": "7883ddc529",
+        "file_size": 60,
+        "ga4gh_drs_uri": "44089af1b3",
+        "md5sum": "6a27c3dd19257f1b6e1f4818d6d266e9",
+        "submitter_id": "aligned_reads_file_96cb9a4e7b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b3213a4b2e"
+        },
+        "file_format": "34f986ff79",
+        "file_name": "265fc2d2d9",
+        "file_size": 49,
+        "ga4gh_drs_uri": "dc6995ca4f",
+        "md5sum": "ab32be0c7919054a056a6bb47b2b78ef",
+        "submitter_id": "aligned_reads_file_ec278e4a96",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ccaf70fda4"
+        },
+        "file_format": "7df984f1e9",
+        "file_name": "1cb03a3827",
+        "file_size": 53,
+        "ga4gh_drs_uri": "03dc63ca64",
+        "md5sum": "11a15c3b3c5ba25fc7c808c8003a8b32",
+        "submitter_id": "aligned_reads_file_221c620e7a",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c5aef312f5"
+        },
+        "file_format": "3c18e0fa1e",
+        "file_name": "ee2b952244",
+        "file_size": 36,
+        "ga4gh_drs_uri": "7ba5859320",
+        "md5sum": "c2fa71ba7518041de91187917fc25cd8",
+        "submitter_id": "aligned_reads_file_f0a51fddf7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_225a6708b0"
+        },
+        "file_format": "95e7740c97",
+        "file_name": "2fbf094279",
+        "file_size": 36,
+        "ga4gh_drs_uri": "880e4188b6",
+        "md5sum": "f72863dc01588fbf26fb493de6c5da32",
+        "submitter_id": "aligned_reads_file_be38718b1e",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_58324a1365"
+        },
+        "file_format": "7ddef5fadb",
+        "file_name": "1afe6d3d84",
+        "file_size": 18,
+        "ga4gh_drs_uri": "4a9b52eb8f",
+        "md5sum": "56aad10f96555be1efb30c45f0d6a376",
+        "submitter_id": "aligned_reads_file_ffbef594ab",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_cadc0f7c52"
+        },
+        "file_format": "0615bc64fd",
+        "file_name": "b17685afe0",
+        "file_size": 83,
+        "ga4gh_drs_uri": "46605afed3",
+        "md5sum": "8897087a8f6b4e5e933f3845e2e94369",
+        "submitter_id": "aligned_reads_file_7323254fce",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a7432ed4bc"
+        },
+        "file_format": "6a4f31cf62",
+        "file_name": "833d8d6563",
+        "file_size": 61,
+        "ga4gh_drs_uri": "676fbac6ef",
+        "md5sum": "5ee1d58536140267267ff375a869fc75",
+        "submitter_id": "aligned_reads_file_e92177ec83",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_add17152a0"
+        },
+        "file_format": "0f51ad11e4",
+        "file_name": "c4bbe22697",
+        "file_size": 8,
+        "ga4gh_drs_uri": "b848452924",
+        "md5sum": "5682e2166c8d39dc340a68d9374da64e",
+        "submitter_id": "aligned_reads_file_02467d8538",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ee71d30de4"
+        },
+        "file_format": "d34f1f552b",
+        "file_name": "252cd23810",
+        "file_size": 96,
+        "ga4gh_drs_uri": "ab21179a58",
+        "md5sum": "545c806e5c78e9357749c3be05e4bce6",
+        "submitter_id": "aligned_reads_file_fd276283a4",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_996f70475d"
+        },
+        "file_format": "36cb331c81",
+        "file_name": "dc6dac3b04",
+        "file_size": 68,
+        "ga4gh_drs_uri": "fac61f01a6",
+        "md5sum": "7891fd4b48e2da68bf0632b606074c0e",
+        "submitter_id": "aligned_reads_file_dd6bd2305f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_33fd87cf5f"
+        },
+        "file_format": "5a9acf843b",
+        "file_name": "0686756c1f",
+        "file_size": 9,
+        "ga4gh_drs_uri": "3279aa2697",
+        "md5sum": "179e4cdb2c0a62aa12c8dce5857900c4",
+        "submitter_id": "aligned_reads_file_f391b8ad92",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c1fb2ec376"
+        },
+        "file_format": "b2a1c0f211",
+        "file_name": "e3d696325e",
+        "file_size": 55,
+        "ga4gh_drs_uri": "862b351cef",
+        "md5sum": "273521bb9d48f505cf248e8e2e38c356",
+        "submitter_id": "aligned_reads_file_974b9a88f7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_79ad91074b"
+        },
+        "file_format": "5b7d60dff5",
+        "file_name": "8b225041f6",
+        "file_size": 4,
+        "ga4gh_drs_uri": "9a86f547d2",
+        "md5sum": "57542b34c21c3b3bda5e2d5cce3146ce",
+        "submitter_id": "aligned_reads_file_11d39c8a56",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_7b966f0072"
+        },
+        "file_format": "57af36619f",
+        "file_name": "6ce8ae41df",
+        "file_size": 7,
+        "ga4gh_drs_uri": "cacd953614",
+        "md5sum": "18cece1a8adc72aff6950e1b83e64873",
+        "submitter_id": "aligned_reads_file_cd0c632fe0",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_e4d4386466"
+        },
+        "file_format": "3e03886a78",
+        "file_name": "f0ae103db7",
+        "file_size": 6,
+        "ga4gh_drs_uri": "640e891336",
+        "md5sum": "8a379051adb4f9e1f2c27e93a41918df",
+        "submitter_id": "aligned_reads_file_cc5f74ef74",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_3b43d65816"
+        },
+        "file_format": "f0a98ff0fa",
+        "file_name": "aeca91a5fc",
+        "file_size": 5,
+        "ga4gh_drs_uri": "cf10d98fb6",
+        "md5sum": "96b9c7befd19d26695e2ffe062af85ab",
+        "submitter_id": "aligned_reads_file_e0f0ed9763",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c22e3181ae"
+        },
+        "file_format": "3715e11561",
+        "file_name": "7101e74d84",
+        "file_size": 50,
+        "ga4gh_drs_uri": "42566f3dbb",
+        "md5sum": "8ca7a7caebd69a7acc7dce2a1057639a",
+        "submitter_id": "aligned_reads_file_bea94e2d10",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a459c42f72"
+        },
+        "file_format": "780b3d1382",
+        "file_name": "45b2625fd6",
+        "file_size": 69,
+        "ga4gh_drs_uri": "6775fe578d",
+        "md5sum": "69e90c3faf4d48f75aa6455a7ee57b1d",
+        "submitter_id": "aligned_reads_file_1fedac3738",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_21b6fdbfd0"
+        },
+        "file_format": "2e8ac2f1e1",
+        "file_name": "7ac997eaf3",
+        "file_size": 72,
+        "ga4gh_drs_uri": "11bc1c9c96",
+        "md5sum": "a62a3d4a1e0b896d880bb57ab3ccb4fa",
+        "submitter_id": "aligned_reads_file_c514edc18d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_978316024b"
+        },
+        "file_format": "7ff7f20e46",
+        "file_name": "89c5859307",
+        "file_size": 27,
+        "ga4gh_drs_uri": "d974591af5",
+        "md5sum": "33fc0b0aadcc55cfb41658196e31a254",
+        "submitter_id": "aligned_reads_file_eeafae0855",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_626e5660d4"
+        },
+        "file_format": "a178d7e2ed",
+        "file_name": "364dc13489",
+        "file_size": 72,
+        "ga4gh_drs_uri": "54b4decd6b",
+        "md5sum": "34f041d2ad2ad95cbe42ea0a73d2b753",
+        "submitter_id": "aligned_reads_file_0a162a48fb",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_f17cbca427"
+        },
+        "file_format": "c0f728335b",
+        "file_name": "24326a0ec9",
+        "file_size": 0,
+        "ga4gh_drs_uri": "32b94a1f5f",
+        "md5sum": "a7f373bd7f557019195e91834d3ef870",
+        "submitter_id": "aligned_reads_file_e042850216",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c9e1567ae5"
+        },
+        "file_format": "e0b2f17069",
+        "file_name": "29434c5854",
+        "file_size": 67,
+        "ga4gh_drs_uri": "74f342fc77",
+        "md5sum": "9dca30a3f1e4e731fc536b4ddcac2f7e",
+        "submitter_id": "aligned_reads_file_64354819e9",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a78ca2a66d"
+        },
+        "file_format": "1e79c8fbba",
+        "file_name": "954f9da898",
+        "file_size": 12,
+        "ga4gh_drs_uri": "ad074581ac",
+        "md5sum": "65e363ea1b3d47af2c58b23d6e0dab7b",
+        "submitter_id": "aligned_reads_file_6c4a3555d3",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_6078fa7b87"
+        },
+        "file_format": "bdacaf2f63",
+        "file_name": "3abdf82f02",
+        "file_size": 58,
+        "ga4gh_drs_uri": "57a4eb48f3",
+        "md5sum": "919f03f3cae15a0e1d88891ce73ea443",
+        "submitter_id": "aligned_reads_file_d6a3502d2d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_d261d5ab18"
+        },
+        "file_format": "3b18295a3c",
+        "file_name": "c24eaaf9f5",
+        "file_size": 100,
+        "ga4gh_drs_uri": "4d17f1c2a4",
+        "md5sum": "c7adc3eb4f54f542e86bcf84e35c2b4a",
+        "submitter_id": "aligned_reads_file_75038bbc1a",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_bf2658451c"
+        },
+        "file_format": "45eeb14276",
+        "file_name": "cd73f37a28",
+        "file_size": 74,
+        "ga4gh_drs_uri": "6f7cc69a13",
+        "md5sum": "71fd6dd656e034cb0facae3321cac7ca",
+        "submitter_id": "aligned_reads_file_7f84916313",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_8aa246af92"
+        },
+        "file_format": "c44128983b",
+        "file_name": "7894d6f29f",
+        "file_size": 51,
+        "ga4gh_drs_uri": "316bc67d2e",
+        "md5sum": "cf40585cece59188df2c38f63441671b",
+        "submitter_id": "aligned_reads_file_f06c66141d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_e7eac8541d"
+        },
+        "file_format": "49b21027ba",
+        "file_name": "384713b49d",
+        "file_size": 47,
+        "ga4gh_drs_uri": "b6f4edbbd5",
+        "md5sum": "bd9c2916fb38f565b2cad74faf2e5228",
+        "submitter_id": "aligned_reads_file_22dcc7e186",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_99950df326"
+        },
+        "file_format": "d5ced03d21",
+        "file_name": "2ce6d2c610",
+        "file_size": 49,
+        "ga4gh_drs_uri": "6d11367908",
+        "md5sum": "9b7ed99d913e92a0329d33d1403b5c7d",
+        "submitter_id": "aligned_reads_file_29f224f367",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_e412335b9c"
+        },
+        "file_format": "06af71eab6",
+        "file_name": "216fb817ca",
+        "file_size": 91,
+        "ga4gh_drs_uri": "33b50f8d16",
+        "md5sum": "3db4d32b32be7b2843452739b6d00d67",
+        "submitter_id": "aligned_reads_file_23c706ed68",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_abeb850792"
+        },
+        "file_format": "b144a34447",
+        "file_name": "20fab8d5c3",
+        "file_size": 27,
+        "ga4gh_drs_uri": "5ed098fad5",
+        "md5sum": "31bb7f7f8bd324b023f8cffabeb44f89",
+        "submitter_id": "aligned_reads_file_e6733704c3",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_35b5aa5fc1"
+        },
+        "file_format": "3360091642",
+        "file_name": "6e6e321853",
+        "file_size": 37,
+        "ga4gh_drs_uri": "b84cb4bb21",
+        "md5sum": "201c4b5d0e9f1333bc4b4fc3f29cc451",
+        "submitter_id": "aligned_reads_file_960712b072",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_908ecc6ae9"
+        },
+        "file_format": "a478cccc62",
+        "file_name": "98260f9e0a",
+        "file_size": 38,
+        "ga4gh_drs_uri": "b1d1a49067",
+        "md5sum": "c54417212ea9b50f0d1e492dee5dacf9",
+        "submitter_id": "aligned_reads_file_81030fd033",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_5289462135"
+        },
+        "file_format": "0f34b58261",
+        "file_name": "e7455c2e12",
+        "file_size": 37,
+        "ga4gh_drs_uri": "42421b635c",
+        "md5sum": "02ae49283f5aa6905d1445cff44e3b91",
+        "submitter_id": "aligned_reads_file_d38b6668cf",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_225fbfa40b"
+        },
+        "file_format": "300211249f",
+        "file_name": "c955e44c30",
+        "file_size": 61,
+        "ga4gh_drs_uri": "f6debe458e",
+        "md5sum": "e5b524377be596e645cc315271953dd1",
+        "submitter_id": "aligned_reads_file_3e8007e492",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b10f0e3fa3"
+        },
+        "file_format": "e84695eee2",
+        "file_name": "6cab3b3f9c",
+        "file_size": 29,
+        "ga4gh_drs_uri": "ea4ef1b60a",
+        "md5sum": "aecf5e0e3817c5bf2006c12f9920a8cc",
+        "submitter_id": "aligned_reads_file_de7702e8ae",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_008327adc6"
+        },
+        "file_format": "4d22102dbb",
+        "file_name": "fd3411ae27",
+        "file_size": 52,
+        "ga4gh_drs_uri": "11a9c7e7aa",
+        "md5sum": "e2761307fa2eff31c67d9313d01dad41",
+        "submitter_id": "aligned_reads_file_f5b39bc9c0",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_9767caf91a"
+        },
+        "file_format": "7fb82583e2",
+        "file_name": "dcf67c4d5a",
+        "file_size": 87,
+        "ga4gh_drs_uri": "2aa455fc0f",
+        "md5sum": "722a3dceff90c70b8971d4ee4597e3a8",
+        "submitter_id": "aligned_reads_file_a8d8c2a7e1",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4a0e21adf9"
+        },
+        "file_format": "8adc77e7ac",
+        "file_name": "db617061ea",
+        "file_size": 53,
+        "ga4gh_drs_uri": "70792ed836",
+        "md5sum": "69fe33aabd9cb40f103b91a03283c502",
+        "submitter_id": "aligned_reads_file_b68133b9a5",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b3df63a7ed"
+        },
+        "file_format": "6e63fe19cb",
+        "file_name": "e630bab7cd",
+        "file_size": 77,
+        "ga4gh_drs_uri": "ffc93787c2",
+        "md5sum": "c2ae759073dad9df7df3aa13a070cda2",
+        "submitter_id": "aligned_reads_file_3776f80fd5",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_153c97bdc0"
+        },
+        "file_format": "57e67060ae",
+        "file_name": "3438550dcd",
+        "file_size": 24,
+        "ga4gh_drs_uri": "3d3b362bff",
+        "md5sum": "611a4afeeb5dc1c460a6049f5f3d5119",
+        "submitter_id": "aligned_reads_file_e4aa053304",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4dfe26e0b5"
+        },
+        "file_format": "c9d0068753",
+        "file_name": "435e2cff7a",
+        "file_size": 55,
+        "ga4gh_drs_uri": "5b44075a21",
+        "md5sum": "8d0224ab4c9c9ba0ba05f49f0652337b",
+        "submitter_id": "aligned_reads_file_2bed2b904c",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_198d23046c"
+        },
+        "file_format": "3af483c52c",
+        "file_name": "5b58d79e6f",
+        "file_size": 50,
+        "ga4gh_drs_uri": "bdb54e9b5f",
+        "md5sum": "2715a268adf5d7937964942ac19cb93c",
+        "submitter_id": "aligned_reads_file_a6a4209fe6",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a82e72da9d"
+        },
+        "file_format": "f327d6af42",
+        "file_name": "d521588a1d",
+        "file_size": 10,
+        "ga4gh_drs_uri": "49ff5cdd41",
+        "md5sum": "109b612a46c28a21c50a60940c810ad3",
+        "submitter_id": "aligned_reads_file_db25800146",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4ad5985827"
+        },
+        "file_format": "854ee6ae52",
+        "file_name": "3697a30272",
+        "file_size": 77,
+        "ga4gh_drs_uri": "b24bad6535",
+        "md5sum": "78f510aec4a368981c5fe746dfd2c2f7",
+        "submitter_id": "aligned_reads_file_445c9b4ccf",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ddef9e08e8"
+        },
+        "file_format": "98e28f1015",
+        "file_name": "26ed359804",
+        "file_size": 71,
+        "ga4gh_drs_uri": "2a7045f7f6",
+        "md5sum": "861303e46daed892a208d56e8af1a1f3",
+        "submitter_id": "aligned_reads_file_d85a847932",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_6a6a174800"
+        },
+        "file_format": "65f12d7c1c",
+        "file_name": "1363c62eec",
+        "file_size": 57,
+        "ga4gh_drs_uri": "6bc8c6beb4",
+        "md5sum": "29d1eab9fd87e27d7961802806447a0a",
+        "submitter_id": "aligned_reads_file_192828b682",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1c88eb4622"
+        },
+        "file_format": "22bad80cb6",
+        "file_name": "a7e9e2963a",
+        "file_size": 82,
+        "ga4gh_drs_uri": "76f1a52ef8",
+        "md5sum": "65ea8c954df445e945584193c70ee4c8",
+        "submitter_id": "aligned_reads_file_ea401e186b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_9df177aa08"
+        },
+        "file_format": "d0fb8c8864",
+        "file_name": "36d9de4907",
+        "file_size": 100,
+        "ga4gh_drs_uri": "121f66d0f4",
+        "md5sum": "69f61236d79851ddf33f69cf41285e44",
+        "submitter_id": "aligned_reads_file_674aee96b0",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_516aa94a79"
+        },
+        "file_format": "8ca161a4f7",
+        "file_name": "6660de71bb",
+        "file_size": 57,
+        "ga4gh_drs_uri": "82fc78cca8",
+        "md5sum": "14f242c6fbb095d9471878b3827817d3",
+        "submitter_id": "aligned_reads_file_2cffe165df",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ef53935780"
+        },
+        "file_format": "63425f3be7",
+        "file_name": "4db5bb7830",
+        "file_size": 2,
+        "ga4gh_drs_uri": "c8632fbad2",
+        "md5sum": "1d490129aeb0f772ba844e92ee7ea73b",
+        "submitter_id": "aligned_reads_file_678ecb1035",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_344ded5e43"
+        },
+        "file_format": "b8659f9705",
+        "file_name": "3f6e2cfc85",
+        "file_size": 5,
+        "ga4gh_drs_uri": "46283ff646",
+        "md5sum": "45c1cf651819c8b1b756f010fd7323e3",
+        "submitter_id": "aligned_reads_file_30c45b3d95",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a5fef1adc7"
+        },
+        "file_format": "7ba5473155",
+        "file_name": "3fd3c2bd0b",
+        "file_size": 99,
+        "ga4gh_drs_uri": "59ae9f3033",
+        "md5sum": "13a3d609e0e58cad02d5b5c2b1a35c1a",
+        "submitter_id": "aligned_reads_file_1192f8767f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_94fcbe192c"
+        },
+        "file_format": "76cb496bb6",
+        "file_name": "245e7ba675",
+        "file_size": 62,
+        "ga4gh_drs_uri": "c6e0cd5226",
+        "md5sum": "2d7cb3bf141bbfe3d19cd652efc659f8",
+        "submitter_id": "aligned_reads_file_9a90a482b1",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_673fd2fd2e"
+        },
+        "file_format": "70a3959cd6",
+        "file_name": "ce3780f075",
+        "file_size": 94,
+        "ga4gh_drs_uri": "cdafe32b59",
+        "md5sum": "6c59d97bc0767183785a1d074e1a78cb",
+        "submitter_id": "aligned_reads_file_2bb407495e",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a78b025d8b"
+        },
+        "file_format": "1bd844cd1b",
+        "file_name": "d33a650cf5",
+        "file_size": 11,
+        "ga4gh_drs_uri": "daa894cbd4",
+        "md5sum": "3a604875db0dd20bea3ce02a24489198",
+        "submitter_id": "aligned_reads_file_7a835a89d9",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_333ba6239d"
+        },
+        "file_format": "f32594a45a",
+        "file_name": "e507da69b5",
+        "file_size": 36,
+        "ga4gh_drs_uri": "4becc246a6",
+        "md5sum": "82b9338e867f465be48072c6b409a642",
+        "submitter_id": "aligned_reads_file_007f4e6dbd",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_8454703dda"
+        },
+        "file_format": "a8d59e90f1",
+        "file_name": "61e4beacad",
+        "file_size": 45,
+        "ga4gh_drs_uri": "5b0d8b48bf",
+        "md5sum": "6b04cb16fe89671e4c8edf803542c733",
+        "submitter_id": "aligned_reads_file_07b37068f4",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c1c4cb107f"
+        },
+        "file_format": "029ae14141",
+        "file_name": "2da3a17206",
+        "file_size": 47,
+        "ga4gh_drs_uri": "3bc5e3837e",
+        "md5sum": "bf7e1cbb27b218928b137208d6c5398c",
+        "submitter_id": "aligned_reads_file_79110d320d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_dca910df76"
+        },
+        "file_format": "a12b633bf2",
+        "file_name": "58a052b780",
+        "file_size": 57,
+        "ga4gh_drs_uri": "6856847630",
+        "md5sum": "05d25aee04af8f97b0bf14195e84de70",
+        "submitter_id": "aligned_reads_file_ac4c8a1682",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_964296e11b"
+        },
+        "file_format": "c624b3fee4",
+        "file_name": "dc9ad3a908",
+        "file_size": 58,
+        "ga4gh_drs_uri": "55cc9d558a",
+        "md5sum": "5796a3c686c3c5fac118c67a9d001adb",
+        "submitter_id": "aligned_reads_file_fea70994b9",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_8b5b042193"
+        },
+        "file_format": "73b38b1059",
+        "file_name": "c14e923bc9",
+        "file_size": 92,
+        "ga4gh_drs_uri": "0e0e7c20c0",
+        "md5sum": "38c10dd6501a975f062e9e3388e2c73b",
+        "submitter_id": "aligned_reads_file_e8133d6ff5",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ffd0998734"
+        },
+        "file_format": "16e650e9cb",
+        "file_name": "7cc9d49f23",
+        "file_size": 34,
+        "ga4gh_drs_uri": "6b6e442d15",
+        "md5sum": "2b25e398070622eeb042d5041ed21ab4",
+        "submitter_id": "aligned_reads_file_c734592f4b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_2aef08a241"
+        },
+        "file_format": "5f568f0674",
+        "file_name": "07f4951553",
+        "file_size": 58,
+        "ga4gh_drs_uri": "65f4f68fe8",
+        "md5sum": "a788429bd1e64ac59c7f479daac3712f",
+        "submitter_id": "aligned_reads_file_0e9c217648",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_8ca4814e8d"
+        },
+        "file_format": "2d8b02c730",
+        "file_name": "9d24d0f8e7",
+        "file_size": 59,
+        "ga4gh_drs_uri": "a8650ea572",
+        "md5sum": "b88c088b95c2000b746a62e27c7a2a9e",
+        "submitter_id": "aligned_reads_file_eb125e15c3",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_60c02fcc6c"
+        },
+        "file_format": "f02790c5ea",
+        "file_name": "1d4f91bb43",
+        "file_size": 27,
+        "ga4gh_drs_uri": "e99f148e2a",
+        "md5sum": "038a07d53229e0aa24b6de3155e55c7d",
+        "submitter_id": "aligned_reads_file_d4a23ba1af",
+        "type": "aligned_reads_file"
+    }
+]

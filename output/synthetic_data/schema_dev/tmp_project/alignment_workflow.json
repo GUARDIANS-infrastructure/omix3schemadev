@@ -1,0 +1,772 @@
+[
+    {
+        "submitter_id": "alignment_workflow_3771421da6",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_3a39f98a0b"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_0accda82fd",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_102e2fca31"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_c4a488a930",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_16a473a707"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_1207f00efa",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_95b1313c1c"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_630eadf404",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_9bbd6fbcba"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_1dece9889e",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_d5dd7a4909"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_2b7d4742e5",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_52f4663ef2"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_bc9276f977",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_1b3cd4df17"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_1a83c60fc8",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_a3bd67eaef"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_fb33223fd3",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_46c1836973"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_0916cb73d5",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_3daec7a539"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_56a215ae63",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_a8ecf11a7e"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_0cc10597a8",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_bd3ae3fb4f"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a4c7f7a51e",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_2a16997f0c"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a69467069c",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_4cee5a37f9"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_72a2a20df5",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_b3d5492165"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_d293c9508b",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_41fb28b9a4"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_c5a79b825c",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_2cd1ad48dd"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_4eedf2f206",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_1267739db5"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_151edde690",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_2915a88533"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_0b4aeba926",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_6bc78d3f72"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_4e28a11832",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_bc791c8fc1"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_7571df4eb6",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_4175684db7"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_913bc58087",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_eecea448c6"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_b619118856",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_7ee8363f7a"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_7c44b78cc4",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_b6fce50335"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_972eb0d73e",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_4e50efb65f"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_8a58cb2350",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_45903ff8dc"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_64983857d7",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_53722fd020"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_4b917c151d",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_63269d186c"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a8c0d0fc78",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_fdf869824f"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_fc035fe931",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_531b73c2c8"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_0832828fa3",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_8caaaf80f8"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_1891059fd4",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_86a0b65cd7"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_e2bd66ad91",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_0ec63e3360"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_c088f0ae92",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_92ae2f8b68"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_dbc51be40b",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_5ee04ba05f"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_f16facf2b5",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_dff4550ba9"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_54766a2d0a",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_4a8e2e909c"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_508ff60442",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_83872b90f9"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_d422ccaac5",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_0fe2f419cb"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_439904049e",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_443c1f9be3"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_9bb827c324",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_95e0941284"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_b3213a4b2e",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_14aeedfb89"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_ccaf70fda4",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_d2175d0151"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_c5aef312f5",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_2c2edd06ce"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_225a6708b0",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_b9e8ab82a7"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_58324a1365",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_0726ef98bb"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_cadc0f7c52",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_f46c91fea2"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a7432ed4bc",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_28e360b4b1"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_add17152a0",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_de1100c056"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_ee71d30de4",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_e96589dde7"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_996f70475d",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_38429403cb"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_33fd87cf5f",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_0e44950c5a"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_c1fb2ec376",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_be89e72fe7"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_79ad91074b",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_6f9c526a39"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_7b966f0072",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_2af01504bb"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_e4d4386466",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_6e7f65d8ab"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_3b43d65816",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_ea963f9306"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_c22e3181ae",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_56c990a4e6"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a459c42f72",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_c87f59f9bd"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_21b6fdbfd0",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_ea2add2873"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_978316024b",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_20803b042c"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_626e5660d4",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_f2b114bf2c"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_f17cbca427",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_c1a224be3a"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_c9e1567ae5",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_2b37d212c5"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a78ca2a66d",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_89a1590c5d"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_6078fa7b87",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_cdace0b597"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_d261d5ab18",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_712f832bac"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_bf2658451c",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_9cf73992d5"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_8aa246af92",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_3e89c23a83"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_e7eac8541d",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_85e3610199"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_99950df326",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_7efbea8486"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_e412335b9c",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_4af24a5d78"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_abeb850792",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_87ce441656"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_35b5aa5fc1",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_ddd06e423d"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_908ecc6ae9",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_39e6581252"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_5289462135",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_dcbba319fa"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_225fbfa40b",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_8b134c8976"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_b10f0e3fa3",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_95e6b0e55f"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_008327adc6",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_39b5e506bb"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_9767caf91a",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_34da53fa34"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_4a0e21adf9",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_c08dd8b756"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_b3df63a7ed",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_53d118da2b"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_153c97bdc0",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_b7b8f3e0b0"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_4dfe26e0b5",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_9465c2cab9"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_198d23046c",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_65880622e0"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a82e72da9d",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_fb464b0bff"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_4ad5985827",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_203f4357a7"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_ddef9e08e8",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_6bd640576a"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_6a6a174800",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_5a250882da"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_1c88eb4622",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_d729798aec"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_9df177aa08",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_f8c2b1ebec"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_516aa94a79",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_b452b1b129"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_ef53935780",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_9e4d14daad"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_344ded5e43",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_548855acca"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a5fef1adc7",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_0deafd5c7c"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_94fcbe192c",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_89c7eb616b"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_673fd2fd2e",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_fbafb04ace"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_a78b025d8b",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_197a73edbc"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_333ba6239d",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_166c0a4b32"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_8454703dda",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_c6275886ae"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_c1c4cb107f",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_2f142df28b"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_dca910df76",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_7f0b88f334"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_964296e11b",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_430f7118c9"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_8b5b042193",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_4d28c917ba"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_ffd0998734",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_676681fb06"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_2aef08a241",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_f900f3691b"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_8ca4814e8d",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_48d74bc2b2"
+        }
+    },
+    {
+        "submitter_id": "alignment_workflow_60c02fcc6c",
+        "type": "alignment_workflow",
+        "unaligned_reads_files": {
+            "submitter_id": "unaligned_reads_file_52ab156849"
+        }
+    }
+]

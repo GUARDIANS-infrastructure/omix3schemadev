@@ -1,0 +1,2092 @@
+[
+    {
+        "cv": 92.63383933573101,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "a1a882f6c6",
+        "facility_run_date": "7964-89-12",
+        "facility_run_id": "7553617ff7",
+        "file_format": "d5061f6077",
+        "file_name": "2d1b6eb568",
+        "file_size": 61,
+        "ga4gh_drs_uri": "a3d5636886",
+        "md5sum": "329bdc216a9d2b13c60c68d2882db1e2",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_4bc1fe8fc4"
+        },
+        "submitter_id": "proteomics_file_f4738f053b",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 21.945016696937223,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "1ea5a116ea",
+        "facility_run_date": "5164-70-21",
+        "facility_run_id": "9c64cb8cb4",
+        "file_format": "9fab907b3b",
+        "file_name": "78473e77ea",
+        "file_size": 65,
+        "ga4gh_drs_uri": "4d6124a54c",
+        "md5sum": "dc119d60d39751faa0f1a72fd4652fe0",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_b6740c9456"
+        },
+        "submitter_id": "proteomics_file_c5cb173f9b",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 81.16504297950193,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "28465237e7",
+        "facility_run_date": "4789-21-26",
+        "facility_run_id": "03141a0f71",
+        "file_format": "302c17730c",
+        "file_name": "c612c0c57d",
+        "file_size": 58,
+        "ga4gh_drs_uri": "abadd0e179",
+        "md5sum": "e1e3ee329d91b7ae06b21e25273d6e20",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_baa984fb1c"
+        },
+        "submitter_id": "proteomics_file_a520d74f32",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 69.71112927920495,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "7af964968e",
+        "facility_run_date": "6468-29-97",
+        "facility_run_id": "32785223b7",
+        "file_format": "787bba13f6",
+        "file_name": "04c17fbff0",
+        "file_size": 21,
+        "ga4gh_drs_uri": "cb26ada339",
+        "md5sum": "5e6160c3f0e21cd60ac07a251a80e3fb",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_209c43b458"
+        },
+        "submitter_id": "proteomics_file_fee8005023",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 26.397609071262483,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "498b9e30d7",
+        "facility_run_date": "3492-99-75",
+        "facility_run_id": "fc9ce0005d",
+        "file_format": "c6ac9b1df5",
+        "file_name": "06b84d4645",
+        "file_size": 98,
+        "ga4gh_drs_uri": "2471bb5638",
+        "md5sum": "f29564a229deb6d24896449239a89b69",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_44ae842405"
+        },
+        "submitter_id": "proteomics_file_4423e3ffd6",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 43.04783615963097,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "9ffd786218",
+        "facility_run_date": "1055-24-26",
+        "facility_run_id": "75ac86e653",
+        "file_format": "08824b47d8",
+        "file_name": "e152425875",
+        "file_size": 62,
+        "ga4gh_drs_uri": "b227f8bb58",
+        "md5sum": "6618ded703c92355af1a05ca2527c82e",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_a8f0cae1c2"
+        },
+        "submitter_id": "proteomics_file_214bff2fa2",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 75.43350182634258,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "0359468248",
+        "facility_run_date": "0149-18-35",
+        "facility_run_id": "7b274ae3a2",
+        "file_format": "33f9958575",
+        "file_name": "376ecb7e5d",
+        "file_size": 39,
+        "ga4gh_drs_uri": "f2cf616148",
+        "md5sum": "9dcaeb5d54c4c9e8b87f7d2e4840ae6f",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_8355516b6c"
+        },
+        "submitter_id": "proteomics_file_35f6aa470b",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 0.6013379449266165,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "12ef5b97cf",
+        "facility_run_date": "9538-99-60",
+        "facility_run_id": "69356bc1d1",
+        "file_format": "dfc900bd4f",
+        "file_name": "e25bfa7206",
+        "file_size": 92,
+        "ga4gh_drs_uri": "6905a98a82",
+        "md5sum": "35edbfb3544a20b5c21c597413365e3b",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_ffaeb1bbe5"
+        },
+        "submitter_id": "proteomics_file_20d71d3c3e",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 65.1150541187243,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "3e3fcba187",
+        "facility_run_date": "2158-27-73",
+        "facility_run_id": "91a63934ff",
+        "file_format": "b3a6c609a7",
+        "file_name": "f3d697cac7",
+        "file_size": 0,
+        "ga4gh_drs_uri": "213760e849",
+        "md5sum": "934cad252f4246bd026b7ab5b95a06e4",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_a2f725d552"
+        },
+        "submitter_id": "proteomics_file_643a93b53f",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 0.8103904735158984,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "7e96fa680e",
+        "facility_run_date": "0700-43-40",
+        "facility_run_id": "33da13a8bc",
+        "file_format": "3f39378bcb",
+        "file_name": "4c73065115",
+        "file_size": 41,
+        "ga4gh_drs_uri": "32bea8b217",
+        "md5sum": "4dda9f10cb83989bed6a2c51479337ba",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_992bd6b89e"
+        },
+        "submitter_id": "proteomics_file_2d69fd75e8",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 37.775432095690654,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "dc61b63b40",
+        "facility_run_date": "7749-85-98",
+        "facility_run_id": "9d22cc90be",
+        "file_format": "1750cae988",
+        "file_name": "1a83cd3187",
+        "file_size": 56,
+        "ga4gh_drs_uri": "e147c77d93",
+        "md5sum": "d069436163b0c96af5db3061c7fe2b2d",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_cae537e3b5"
+        },
+        "submitter_id": "proteomics_file_d66e87a5cb",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 18.132799218217333,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "8b4b380b14",
+        "facility_run_date": "2809-68-69",
+        "facility_run_id": "85aaccf0b5",
+        "file_format": "cfa1cfbdca",
+        "file_name": "f9540a8b35",
+        "file_size": 20,
+        "ga4gh_drs_uri": "b45e54e14c",
+        "md5sum": "9b1730165ec31d083be8f67e049f7ba0",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_9f8dba5b45"
+        },
+        "submitter_id": "proteomics_file_d3efbc2cb8",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 80.47798018648821,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "16f96c15b1",
+        "facility_run_date": "6492-03-58",
+        "facility_run_id": "41a0760ecd",
+        "file_format": "83eda1fe6d",
+        "file_name": "d75e2f732a",
+        "file_size": 25,
+        "ga4gh_drs_uri": "cf41f43523",
+        "md5sum": "c31ae69e1a5df6612acf32ea1c3cec20",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_c657769050"
+        },
+        "submitter_id": "proteomics_file_302baa50d9",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 44.81048214461564,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "a2b642eb0d",
+        "facility_run_date": "7570-35-07",
+        "facility_run_id": "9feb051e5c",
+        "file_format": "f2deaa79f1",
+        "file_name": "bb02c52dde",
+        "file_size": 55,
+        "ga4gh_drs_uri": "e91c6aac65",
+        "md5sum": "5bce8238c4f2067638f77f84c5487ed6",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_50acaf4fcb"
+        },
+        "submitter_id": "proteomics_file_b07edb74e4",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 53.295361767381486,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "d112ff0b2c",
+        "facility_run_date": "9902-77-56",
+        "facility_run_id": "bf2aeb502d",
+        "file_format": "6f41098a1c",
+        "file_name": "3e95cac32b",
+        "file_size": 92,
+        "ga4gh_drs_uri": "3cfb9afe12",
+        "md5sum": "58d5dca1fb1cec4557af7f670310f675",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_dc62b904b0"
+        },
+        "submitter_id": "proteomics_file_e6d3babd86",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 96.53343302440268,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "ef641ac426",
+        "facility_run_date": "5934-41-12",
+        "facility_run_id": "4ed5e5130e",
+        "file_format": "cd7891f0c4",
+        "file_name": "648a14f29e",
+        "file_size": 44,
+        "ga4gh_drs_uri": "c6c2176ae3",
+        "md5sum": "bc9a363503b7d144bbb55b60c29590ad",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_8c121aa16f"
+        },
+        "submitter_id": "proteomics_file_0f97f9934e",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 10.945779050811499,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "facility_batch_id": "f112cdfa06",
+        "facility_run_date": "7931-09-93",
+        "facility_run_id": "f556c4f96e",
+        "file_format": "617737d3d4",
+        "file_name": "ce14e56c16",
+        "file_size": 88,
+        "ga4gh_drs_uri": "5352db1f32",
+        "md5sum": "3d6c1d43a923091235e2381da9fe2e53",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_77a62558f8"
+        },
+        "submitter_id": "proteomics_file_c0d35142f6",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 29.785340578446185,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "c46c9f035d",
+        "facility_run_date": "6608-76-07",
+        "facility_run_id": "a99653c85e",
+        "file_format": "5a7a55120a",
+        "file_name": "b099ae4a5e",
+        "file_size": 25,
+        "ga4gh_drs_uri": "d3b64b3b50",
+        "md5sum": "5195d6c505207939d8e0ee52a3129f9c",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_7e74ffd494"
+        },
+        "submitter_id": "proteomics_file_df5d1c142d",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 62.611007089358964,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "537f0a1611",
+        "facility_run_date": "2524-77-68",
+        "facility_run_id": "c40051b18f",
+        "file_format": "4c2ceaf47a",
+        "file_name": "21f1cd5be6",
+        "file_size": 50,
+        "ga4gh_drs_uri": "3f4c413ed3",
+        "md5sum": "09a70b3cb4e0b304664c6d2c3a20581c",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_f99bfd83c6"
+        },
+        "submitter_id": "proteomics_file_8bfd8bb9b4",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 94.5065255917321,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "6b82f6d7cc",
+        "facility_run_date": "8974-53-39",
+        "facility_run_id": "f9913c3975",
+        "file_format": "2cb667c5c9",
+        "file_name": "25c2220d98",
+        "file_size": 30,
+        "ga4gh_drs_uri": "64d3abe494",
+        "md5sum": "ee759be0551fa883a80d84c4d63d93e3",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_b9cc855606"
+        },
+        "submitter_id": "proteomics_file_2da5ed7c9a",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 68.19512339832552,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "d2cfe30562",
+        "facility_run_date": "1294-61-41",
+        "facility_run_id": "3caf6c02d4",
+        "file_format": "e4384779c0",
+        "file_name": "54ef4738a1",
+        "file_size": 88,
+        "ga4gh_drs_uri": "4089f9ad69",
+        "md5sum": "c780ad90f313416b51db4b2c9f661de2",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_887f1542de"
+        },
+        "submitter_id": "proteomics_file_f58531389d",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 97.17384902430426,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "b255dcc819",
+        "facility_run_date": "3988-86-91",
+        "facility_run_id": "ee36b03866",
+        "file_format": "195b836a92",
+        "file_name": "e627fd509f",
+        "file_size": 62,
+        "ga4gh_drs_uri": "61e58ef3ad",
+        "md5sum": "f834b0d3c5406214eb8e12aac329bc28",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_bb07314831"
+        },
+        "submitter_id": "proteomics_file_83ceef1605",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 67.5223411195163,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "0e7770a331",
+        "facility_run_date": "3145-41-70",
+        "facility_run_id": "5d3fb2de56",
+        "file_format": "0d44464386",
+        "file_name": "5466966388",
+        "file_size": 15,
+        "ga4gh_drs_uri": "3fdf37fde9",
+        "md5sum": "f83d96567651dc0e12f1453d738554fc",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_91deac41de"
+        },
+        "submitter_id": "proteomics_file_187bef7166",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 63.43368682865044,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "08796e6b38",
+        "facility_run_date": "4773-31-29",
+        "facility_run_id": "75be9033dd",
+        "file_format": "8e5d4b0f2e",
+        "file_name": "7a79e66728",
+        "file_size": 91,
+        "ga4gh_drs_uri": "aa847fd491",
+        "md5sum": "d2f0a89868886b7f5580f4ee27fc77dd",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_7eeba6c088"
+        },
+        "submitter_id": "proteomics_file_a95ac8fd56",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 69.91913670683752,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "facility_batch_id": "1db4163ebd",
+        "facility_run_date": "4555-79-01",
+        "facility_run_id": "a83e6ba315",
+        "file_format": "24d9943f8b",
+        "file_name": "446a736989",
+        "file_size": 29,
+        "ga4gh_drs_uri": "c8db479e5e",
+        "md5sum": "445656538efc4fc9d598eeee2d9fcceb",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_cb38a8efc4"
+        },
+        "submitter_id": "proteomics_file_ad19f8cd88",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 75.34736039375656,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "353d60df2b",
+        "facility_run_date": "6388-13-69",
+        "facility_run_id": "148c7f0757",
+        "file_format": "9b2a65305e",
+        "file_name": "32527159a7",
+        "file_size": 99,
+        "ga4gh_drs_uri": "b7dc34ade3",
+        "md5sum": "ed4c7fe64e3a8f782fa125b624251677",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_cf0c6ba84d"
+        },
+        "submitter_id": "proteomics_file_be6e328b3b",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 83.42870617217909,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "08435040f4",
+        "facility_run_date": "8465-97-13",
+        "facility_run_id": "0f3c6fa895",
+        "file_format": "cf66247aef",
+        "file_name": "a29f2e62de",
+        "file_size": 76,
+        "ga4gh_drs_uri": "d085b8f66f",
+        "md5sum": "3e325f90a16857e5d16ef7398b89b9c1",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_1221acfab3"
+        },
+        "submitter_id": "proteomics_file_7d7305556b",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 13.616567425024906,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "0a8e3062c9",
+        "facility_run_date": "7785-64-75",
+        "facility_run_id": "2d35ff5533",
+        "file_format": "366b7bb2a9",
+        "file_name": "bed32877b2",
+        "file_size": 100,
+        "ga4gh_drs_uri": "7bc315840d",
+        "md5sum": "f112283b1a910285da1741fb4b6f4b7a",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_4d6f15390c"
+        },
+        "submitter_id": "proteomics_file_a6584744c9",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 75.43262879357582,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "472549f6c6",
+        "facility_run_date": "8464-19-29",
+        "facility_run_id": "db12b617a5",
+        "file_format": "957724eadb",
+        "file_name": "0a5de66424",
+        "file_size": 95,
+        "ga4gh_drs_uri": "954a5c2862",
+        "md5sum": "205b16c6305726eb2d356f500d8dd551",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_ec42ecaf30"
+        },
+        "submitter_id": "proteomics_file_47403b14e5",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 20.97115608764042,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "bbc896b158",
+        "facility_run_date": "3356-99-07",
+        "facility_run_id": "a4a902facd",
+        "file_format": "5ad383ef72",
+        "file_name": "72ed046cb1",
+        "file_size": 99,
+        "ga4gh_drs_uri": "343c4aae24",
+        "md5sum": "289592f682a7e5bfe18a8f623e854719",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_2d77c1a606"
+        },
+        "submitter_id": "proteomics_file_fb708527da",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 66.51732975306396,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "ecde3ea0fb",
+        "facility_run_date": "7797-35-35",
+        "facility_run_id": "6ac5abdb4d",
+        "file_format": "4f071dd6af",
+        "file_name": "244f63dc01",
+        "file_size": 78,
+        "ga4gh_drs_uri": "75d84026c6",
+        "md5sum": "77426d89a12fdf0c403a798986cdcdc3",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_15a004ed49"
+        },
+        "submitter_id": "proteomics_file_28e196ac7b",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 65.87120680890155,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "2d38f54264",
+        "facility_run_date": "3212-78-46",
+        "facility_run_id": "f5a75ee11d",
+        "file_format": "7d304621c0",
+        "file_name": "d5d1663a88",
+        "file_size": 28,
+        "ga4gh_drs_uri": "e344542fb7",
+        "md5sum": "9babad0442c3aa990872726608088b72",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_3086978dab"
+        },
+        "submitter_id": "proteomics_file_ea6a674e68",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 46.7716306372289,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "12433b439b",
+        "facility_run_date": "0538-01-85",
+        "facility_run_id": "a5246946c9",
+        "file_format": "ab9ba6ab07",
+        "file_name": "d3c601f26a",
+        "file_size": 27,
+        "ga4gh_drs_uri": "2941a7b5c0",
+        "md5sum": "779c36f3f390eb08fdbaf8fe5b6ed206",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_e46f60c981"
+        },
+        "submitter_id": "proteomics_file_3eccafb2cb",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 31.940563118352262,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "64450bfa20",
+        "facility_run_date": "2587-57-60",
+        "facility_run_id": "b3a3834a90",
+        "file_format": "fd434942e7",
+        "file_name": "7daeba2e67",
+        "file_size": 39,
+        "ga4gh_drs_uri": "906d850779",
+        "md5sum": "00e4fff7d99db8d12ea68dbfc720f4c7",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_e18b26c842"
+        },
+        "submitter_id": "proteomics_file_5d45d452ff",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 97.12629878928661,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "073583e170",
+        "facility_run_date": "9639-79-81",
+        "facility_run_id": "18a84785d6",
+        "file_format": "fef5830a44",
+        "file_name": "efa1dbde5d",
+        "file_size": 36,
+        "ga4gh_drs_uri": "3d040d9cae",
+        "md5sum": "576409197b664bf0da2bb3d43b6a57bd",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_bfaf959a0e"
+        },
+        "submitter_id": "proteomics_file_7a4ea672e9",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 18.686713516205657,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "facility_batch_id": "b691614503",
+        "facility_run_date": "6130-07-29",
+        "facility_run_id": "f4d4c689e6",
+        "file_format": "63a98e9bec",
+        "file_name": "a937c2b29a",
+        "file_size": 17,
+        "ga4gh_drs_uri": "e591d59c0e",
+        "md5sum": "b8cd46ad4ade5563ed74bb5bd99c3aad",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_85fb4309a4"
+        },
+        "submitter_id": "proteomics_file_0b8e03f3c7",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 58.06149541795953,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "0332deb5ca",
+        "facility_run_date": "4741-43-17",
+        "facility_run_id": "db5eafc77c",
+        "file_format": "a08949453f",
+        "file_name": "ec1c5287b9",
+        "file_size": 57,
+        "ga4gh_drs_uri": "85a110078c",
+        "md5sum": "edaa29b0fb790133e0b9f9a1e7582c60",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_f3c9a983ee"
+        },
+        "submitter_id": "proteomics_file_6c1e1527b0",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 70.86234725169115,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "facility_batch_id": "f8a7d50eee",
+        "facility_run_date": "6793-03-48",
+        "facility_run_id": "b7fa189113",
+        "file_format": "f5bb5e85df",
+        "file_name": "4e2b2b78f1",
+        "file_size": 61,
+        "ga4gh_drs_uri": "eae568ea66",
+        "md5sum": "e719c1864781b0f5a80da93d98607fc7",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_3291e89db8"
+        },
+        "submitter_id": "proteomics_file_d544313299",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 28.529304149518286,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "8226f43801",
+        "facility_run_date": "2192-12-95",
+        "facility_run_id": "04239ece3b",
+        "file_format": "9ccf10edb9",
+        "file_name": "fc5313c06f",
+        "file_size": 87,
+        "ga4gh_drs_uri": "764287b684",
+        "md5sum": "9af1341da97548a992d018434e6b97c6",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_cafc4b559b"
+        },
+        "submitter_id": "proteomics_file_90b8badc28",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 65.63496881136172,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "81732e78e6",
+        "facility_run_date": "7253-81-58",
+        "facility_run_id": "b5952a9ca7",
+        "file_format": "d1d3909ccb",
+        "file_name": "668e05ba1f",
+        "file_size": 35,
+        "ga4gh_drs_uri": "4330d1b02e",
+        "md5sum": "ecc5bd4603c63305de1d68eb3682b867",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_05334ce0bc"
+        },
+        "submitter_id": "proteomics_file_31b15fed35",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 67.67864718693934,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "6812aca442",
+        "facility_run_date": "8391-37-45",
+        "facility_run_id": "fdf08ab021",
+        "file_format": "5a0d5bfc43",
+        "file_name": "26c72c14db",
+        "file_size": 1,
+        "ga4gh_drs_uri": "1dc10163d5",
+        "md5sum": "dc71737403f2f830fd7375ece433234a",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_a75a2a0465"
+        },
+        "submitter_id": "proteomics_file_1f3a8e8f04",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 17.765529290208292,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "0e204a9aed",
+        "facility_run_date": "6070-83-90",
+        "facility_run_id": "a6c11d912a",
+        "file_format": "82564c335d",
+        "file_name": "afae0ddc40",
+        "file_size": 6,
+        "ga4gh_drs_uri": "5f50a22356",
+        "md5sum": "793bb3b7b51c03705ef49ffb9300a190",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_90a28513e5"
+        },
+        "submitter_id": "proteomics_file_16ccbcd6df",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 4.058943013904537,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "cd9216cde4",
+        "facility_run_date": "5913-12-35",
+        "facility_run_id": "425ba197d1",
+        "file_format": "a2c0bc5af8",
+        "file_name": "a0d3270d94",
+        "file_size": 13,
+        "ga4gh_drs_uri": "5d7929413a",
+        "md5sum": "7628cea4b12fa4c1701494c85088674b",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_a71cd688e6"
+        },
+        "submitter_id": "proteomics_file_70366bac4a",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 64.65409837160749,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "9a04fb408f",
+        "facility_run_date": "6931-34-83",
+        "facility_run_id": "ce1a3feceb",
+        "file_format": "4cd9100961",
+        "file_name": "c2271452e4",
+        "file_size": 88,
+        "ga4gh_drs_uri": "e7809d2778",
+        "md5sum": "f2c42edfd915e8ee6a906290089424a2",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_6dcaacd63d"
+        },
+        "submitter_id": "proteomics_file_5d2e061ce4",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 3.5284845894097527,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "6e5cb2a40a",
+        "facility_run_date": "1346-26-05",
+        "facility_run_id": "de5cd791ad",
+        "file_format": "ed47263aca",
+        "file_name": "e08a9c4e8f",
+        "file_size": 84,
+        "ga4gh_drs_uri": "0130c0833c",
+        "md5sum": "2a2a4a772a6e12cc29b089e252087717",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_ea271e2b4e"
+        },
+        "submitter_id": "proteomics_file_cdfc8d62a9",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 84.39992797527395,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "736ec48e9f",
+        "facility_run_date": "1202-21-81",
+        "facility_run_id": "112a8c4409",
+        "file_format": "ea31ac0a47",
+        "file_name": "3226e283b5",
+        "file_size": 40,
+        "ga4gh_drs_uri": "cd1b511c18",
+        "md5sum": "b4daa683283fbb3e0218ecf50eba1a28",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_5db49968bf"
+        },
+        "submitter_id": "proteomics_file_c90b4f8329",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 50.22172933291845,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "b46abc8bd0",
+        "facility_run_date": "4423-87-67",
+        "facility_run_id": "4c6cf655eb",
+        "file_format": "816030a5d4",
+        "file_name": "9840e34a3a",
+        "file_size": 88,
+        "ga4gh_drs_uri": "b27ceedd04",
+        "md5sum": "d54c92218ec93a044d8eb6889bf4b98f",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_9dbe66a809"
+        },
+        "submitter_id": "proteomics_file_d69c951b7b",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 17.753766905265177,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "0692cc30f9",
+        "facility_run_date": "0055-61-08",
+        "facility_run_id": "72aaab63a9",
+        "file_format": "e184378414",
+        "file_name": "1f5a12fccc",
+        "file_size": 52,
+        "ga4gh_drs_uri": "97ddd3af87",
+        "md5sum": "749a7e88b1dcbb205c25eec7a590f9f9",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_936ba13602"
+        },
+        "submitter_id": "proteomics_file_684534a884",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 3.996819178105826,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "af515601a9",
+        "facility_run_date": "1102-14-74",
+        "facility_run_id": "851708a692",
+        "file_format": "470836153e",
+        "file_name": "c8f0397a00",
+        "file_size": 27,
+        "ga4gh_drs_uri": "f0058e9293",
+        "md5sum": "858c6d6eb6685bf5e63a81f9837f0aaa",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_fb8b26d466"
+        },
+        "submitter_id": "proteomics_file_4e162ddce7",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 94.25522414909587,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "c22dcde0b6",
+        "facility_run_date": "7547-38-81",
+        "facility_run_id": "ef896d423a",
+        "file_format": "cec593b317",
+        "file_name": "d34a02abe6",
+        "file_size": 60,
+        "ga4gh_drs_uri": "d0f8a16703",
+        "md5sum": "a2773313794c22b31b6ad1ff0bf0bf19",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_7f64d0f74f"
+        },
+        "submitter_id": "proteomics_file_376332ca3e",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 28.44099284646938,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "99772bc63c",
+        "facility_run_date": "6788-33-58",
+        "facility_run_id": "5effe31b2e",
+        "file_format": "ab51373a96",
+        "file_name": "7753d6e806",
+        "file_size": 70,
+        "ga4gh_drs_uri": "c89ff6ec19",
+        "md5sum": "c665ef3db794df14d28817fe8ce315b5",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_f943c3cb42"
+        },
+        "submitter_id": "proteomics_file_984e36b500",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 20.662860671852734,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "9785c7dd0d",
+        "facility_run_date": "1291-12-60",
+        "facility_run_id": "6ab50ccfcb",
+        "file_format": "758764a5f4",
+        "file_name": "dca9c7c65a",
+        "file_size": 96,
+        "ga4gh_drs_uri": "caebb7d3c8",
+        "md5sum": "3a5b0f075981376d347c8c83d02df608",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_0327118255"
+        },
+        "submitter_id": "proteomics_file_17fecbee4b",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 76.64490427047559,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "fd0e2cb5c8",
+        "facility_run_date": "9186-36-41",
+        "facility_run_id": "3bcecb73c3",
+        "file_format": "2ae4608570",
+        "file_name": "421d3f80b0",
+        "file_size": 57,
+        "ga4gh_drs_uri": "5f6ae058ca",
+        "md5sum": "de02755a84e560121fda4bd7b9fe0975",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_de8f762042"
+        },
+        "submitter_id": "proteomics_file_b2aab44157",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 20.236293811337912,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "3f0778b6c1",
+        "facility_run_date": "3560-45-33",
+        "facility_run_id": "512f365357",
+        "file_format": "399de48f44",
+        "file_name": "55346c1585",
+        "file_size": 38,
+        "ga4gh_drs_uri": "39ff39032b",
+        "md5sum": "dcf9f79de7d2f56f4faebd4b49adf811",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_f8b9ea48a5"
+        },
+        "submitter_id": "proteomics_file_e41e8c9d3a",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 23.729492026328202,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "facility_batch_id": "1701a9eb90",
+        "facility_run_date": "3620-43-95",
+        "facility_run_id": "ec5f42c45d",
+        "file_format": "bafe9126e0",
+        "file_name": "12eb5f6309",
+        "file_size": 28,
+        "ga4gh_drs_uri": "f1ef35da0e",
+        "md5sum": "38adab0d602305631f89fb126d2a2db7",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_108a43c63c"
+        },
+        "submitter_id": "proteomics_file_ae40e55fdb",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 89.0247192177958,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "2ab0046e53",
+        "facility_run_date": "7528-99-47",
+        "facility_run_id": "79a133edef",
+        "file_format": "384c49c82c",
+        "file_name": "6b72e58d7c",
+        "file_size": 36,
+        "ga4gh_drs_uri": "04fc852ad2",
+        "md5sum": "96b0985e4b05cc06e8d007b3e7eb986a",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_7fc5487807"
+        },
+        "submitter_id": "proteomics_file_c8a5217731",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 15.915506590717332,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "39f7d6b218",
+        "facility_run_date": "1781-88-89",
+        "facility_run_id": "24ff28fa7b",
+        "file_format": "46eb04a265",
+        "file_name": "1e747fcdf4",
+        "file_size": 28,
+        "ga4gh_drs_uri": "963666e526",
+        "md5sum": "e42e3e230e9bdefdb5a9e2afa831c7ce",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_3eb4221ac3"
+        },
+        "submitter_id": "proteomics_file_f660b13734",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 69.76787538529415,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "4c9461c828",
+        "facility_run_date": "7205-18-67",
+        "facility_run_id": "2b0187a0c4",
+        "file_format": "faaa2dbe76",
+        "file_name": "2ac1459f14",
+        "file_size": 47,
+        "ga4gh_drs_uri": "1f9a459b5e",
+        "md5sum": "5d75f2bd2f2724329ec1be1248aed0c2",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_93fceb037d"
+        },
+        "submitter_id": "proteomics_file_e05e4ebab2",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 52.143004203052634,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "ce65f5ded5",
+        "facility_run_date": "5841-20-02",
+        "facility_run_id": "913c6c9e89",
+        "file_format": "0d287c372f",
+        "file_name": "3fd40fdcc9",
+        "file_size": 34,
+        "ga4gh_drs_uri": "09c6c30fed",
+        "md5sum": "57715ed113b1687494a5288257fcf254",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_6370ab6f1c"
+        },
+        "submitter_id": "proteomics_file_dbd2c16e25",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 7.221052706179643,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "666334db47",
+        "facility_run_date": "0850-19-59",
+        "facility_run_id": "f6a07e0f25",
+        "file_format": "ae4a86c1ca",
+        "file_name": "d53a4f58f8",
+        "file_size": 64,
+        "ga4gh_drs_uri": "76f96aed5d",
+        "md5sum": "60f41d160069448a2df287712c3f34df",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_2e78ce3077"
+        },
+        "submitter_id": "proteomics_file_8c1e89b8ea",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 34.881821629425524,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "a078622a1c",
+        "facility_run_date": "6726-70-39",
+        "facility_run_id": "4f429aab67",
+        "file_format": "30605abed9",
+        "file_name": "7412a70bc8",
+        "file_size": 20,
+        "ga4gh_drs_uri": "b9840d477b",
+        "md5sum": "ff041c47e736178ed299a4333ff0338e",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_84fc23ad6c"
+        },
+        "submitter_id": "proteomics_file_2e2afb1ae3",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 18.16854041727689,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "eaf4cf615d",
+        "facility_run_date": "2631-37-86",
+        "facility_run_id": "1a0e4c607d",
+        "file_format": "690fbe8e56",
+        "file_name": "2db459324a",
+        "file_size": 88,
+        "ga4gh_drs_uri": "e4915c0f6b",
+        "md5sum": "d910bc05c9698dca39b4132942f663d5",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_c803aaed73"
+        },
+        "submitter_id": "proteomics_file_26d2f9db50",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 49.10982717993186,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "785a7d366a",
+        "facility_run_date": "2288-88-20",
+        "facility_run_id": "711c8962c9",
+        "file_format": "2487d407ee",
+        "file_name": "87bf844b9f",
+        "file_size": 23,
+        "ga4gh_drs_uri": "33b1cbf731",
+        "md5sum": "f3b94439b50dbe68dc6b9414c20ffe1b",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_f4b494c26d"
+        },
+        "submitter_id": "proteomics_file_f5d4afc784",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 52.88495262645979,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "0bdfe5da98",
+        "facility_run_date": "9136-65-34",
+        "facility_run_id": "c493c31382",
+        "file_format": "38b075f643",
+        "file_name": "64d555bb99",
+        "file_size": 73,
+        "ga4gh_drs_uri": "b51aeae94b",
+        "md5sum": "88c8904fab833b77885c3c511a0871e5",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_5598fc9472"
+        },
+        "submitter_id": "proteomics_file_28ffe6033d",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 25.955388336074137,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "f8d3046f57",
+        "facility_run_date": "2503-17-96",
+        "facility_run_id": "111eb208b9",
+        "file_format": "6746c8608d",
+        "file_name": "84a8a63d2d",
+        "file_size": 90,
+        "ga4gh_drs_uri": "92dc554de9",
+        "md5sum": "d710209324841c0edd611cc9e311452f",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_413c09c2ee"
+        },
+        "submitter_id": "proteomics_file_f94eb82cb6",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 1.4300667685080315,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "cda014b3fb",
+        "facility_run_date": "0202-01-89",
+        "facility_run_id": "4907d42064",
+        "file_format": "535e787941",
+        "file_name": "0e24f8b4b3",
+        "file_size": 68,
+        "ga4gh_drs_uri": "49a7f78a3b",
+        "md5sum": "0a7e38ea18976682ca621dd59b6b64bf",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_a3b958e080"
+        },
+        "submitter_id": "proteomics_file_5acbac33fe",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 47.7836837009459,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "3e1a665c0b",
+        "facility_run_date": "5475-83-24",
+        "facility_run_id": "306c500539",
+        "file_format": "d1dfd9e4c3",
+        "file_name": "8280025a82",
+        "file_size": 38,
+        "ga4gh_drs_uri": "26b537fc5c",
+        "md5sum": "e598d48359c105f0f34880c39cb832c5",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_6daf77f199"
+        },
+        "submitter_id": "proteomics_file_3225e46266",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 37.41800580341319,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "26f5d5f348",
+        "facility_run_date": "7284-60-87",
+        "facility_run_id": "6f8d130854",
+        "file_format": "b6976426ad",
+        "file_name": "674910efd7",
+        "file_size": 58,
+        "ga4gh_drs_uri": "48d24ba104",
+        "md5sum": "2c41b20b4bee2738b030387df31f77a7",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_a3ec14b9a5"
+        },
+        "submitter_id": "proteomics_file_2e04757def",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 71.43315253781073,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "354d31ec12",
+        "facility_run_date": "4435-99-82",
+        "facility_run_id": "30db6ee756",
+        "file_format": "37ad46a2d1",
+        "file_name": "89da0a0662",
+        "file_size": 67,
+        "ga4gh_drs_uri": "fb35bcffb1",
+        "md5sum": "2b0a4bd601b0703a98752f34b0820666",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_267e82522c"
+        },
+        "submitter_id": "proteomics_file_e9b825fec6",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 60.22169963562746,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "5dd438723d",
+        "facility_run_date": "7056-65-39",
+        "facility_run_id": "133c4bfefd",
+        "file_format": "5a1e66f1a6",
+        "file_name": "b59a638927",
+        "file_size": 84,
+        "ga4gh_drs_uri": "7345b1efef",
+        "md5sum": "7a13846a0a5b142fba146bfb50617fab",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_14812671a9"
+        },
+        "submitter_id": "proteomics_file_017eaf61c3",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 29.130859377003702,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "1728ec33e7",
+        "facility_run_date": "9343-88-45",
+        "facility_run_id": "a7295a20a4",
+        "file_format": "618f67ec6f",
+        "file_name": "0c0f6ed5c7",
+        "file_size": 64,
+        "ga4gh_drs_uri": "5da0c973d4",
+        "md5sum": "e5e46880858f42ba2a619dce795905e6",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_850c54c0df"
+        },
+        "submitter_id": "proteomics_file_732d970c1f",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 42.226665965380505,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "04d85e0b91",
+        "facility_run_date": "3460-41-47",
+        "facility_run_id": "073c3a2fec",
+        "file_format": "884bd07b97",
+        "file_name": "0514a006e8",
+        "file_size": 76,
+        "ga4gh_drs_uri": "546a122433",
+        "md5sum": "4217ab67d575183cb939d726e2d2ef08",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_78f4f37f99"
+        },
+        "submitter_id": "proteomics_file_744d6d31e9",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 41.33244600629094,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "c12e511142",
+        "facility_run_date": "2327-33-45",
+        "facility_run_id": "2d2a4c349e",
+        "file_format": "b137720bfc",
+        "file_name": "c02202571f",
+        "file_size": 48,
+        "ga4gh_drs_uri": "38b93741a7",
+        "md5sum": "2a037ce737c4a12820b6e5ec131c542f",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_b061b6547d"
+        },
+        "submitter_id": "proteomics_file_af9148ccaa",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 23.292080965721752,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "ad873b8d86",
+        "facility_run_date": "0362-47-11",
+        "facility_run_id": "4acfed9af5",
+        "file_format": "ef91d91984",
+        "file_name": "1d1daa1502",
+        "file_size": 88,
+        "ga4gh_drs_uri": "6ecc23d18a",
+        "md5sum": "bed8cb576be1b7d18e89f738739b790a",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_97abc85707"
+        },
+        "submitter_id": "proteomics_file_0e2041013a",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 82.12824019003581,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "facility_batch_id": "5069a62af7",
+        "facility_run_date": "2812-75-91",
+        "facility_run_id": "0180c55ffb",
+        "file_format": "3e1484d97e",
+        "file_name": "2b01d61f25",
+        "file_size": 45,
+        "ga4gh_drs_uri": "247c52b163",
+        "md5sum": "08fe62327525c260343c215a230312d0",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_c56d088a94"
+        },
+        "submitter_id": "proteomics_file_a134e47461",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 8.589952073585284,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "5ac13ce89f",
+        "facility_run_date": "4542-29-79",
+        "facility_run_id": "c6d42bc156",
+        "file_format": "6fac554ae9",
+        "file_name": "541ac93a11",
+        "file_size": 38,
+        "ga4gh_drs_uri": "7f79a0b553",
+        "md5sum": "239a61b1252f005c6b06340cf7281049",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_3be845979b"
+        },
+        "submitter_id": "proteomics_file_b2506254cf",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 15.156735257966824,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "1b6d29e4fc",
+        "facility_run_date": "4114-38-22",
+        "facility_run_id": "e5957d7dab",
+        "file_format": "0de8fd42f4",
+        "file_name": "f355ffc17d",
+        "file_size": 91,
+        "ga4gh_drs_uri": "f58cf0ac43",
+        "md5sum": "e7fc1ee1a06ded3d67babd5167fd612e",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_c993db7533"
+        },
+        "submitter_id": "proteomics_file_f9578f7d05",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 76.47521075962707,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "0d941d5f9e",
+        "facility_run_date": "2526-31-14",
+        "facility_run_id": "f068a5c288",
+        "file_format": "4568b58d27",
+        "file_name": "1bf1c2f456",
+        "file_size": 36,
+        "ga4gh_drs_uri": "e8836ed3f3",
+        "md5sum": "79f1a8b373783f985a234fc1604f0068",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_a9ba697ada"
+        },
+        "submitter_id": "proteomics_file_e2096282fb",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 27.74310838354843,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "4cace179e4",
+        "facility_run_date": "5075-86-10",
+        "facility_run_id": "76cb2a7f2e",
+        "file_format": "61c192b0ef",
+        "file_name": "71b7cf23e9",
+        "file_size": 23,
+        "ga4gh_drs_uri": "d7cf645a4b",
+        "md5sum": "db19be96f37beec4727077b9b23fe0b7",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_faf1be5822"
+        },
+        "submitter_id": "proteomics_file_c637f6b2f6",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 69.70438117959806,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "0d5cfced02",
+        "facility_run_date": "3076-28-16",
+        "facility_run_id": "5f6351561d",
+        "file_format": "0d951f86b2",
+        "file_name": "d069ac607f",
+        "file_size": 60,
+        "ga4gh_drs_uri": "76d1f2784e",
+        "md5sum": "2b63a388f02f3182bf13691b0124fffa",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_7d38368a25"
+        },
+        "submitter_id": "proteomics_file_c9e323c684",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 43.362236238156385,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "257fd2b8c7",
+        "facility_run_date": "9418-36-13",
+        "facility_run_id": "d28f403f4e",
+        "file_format": "f3515928c5",
+        "file_name": "88c7d7857d",
+        "file_size": 2,
+        "ga4gh_drs_uri": "d3ea31d02d",
+        "md5sum": "2bb2a5af1eb8f16341432fd26ac8ec5d",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_87ca85290f"
+        },
+        "submitter_id": "proteomics_file_669e925ee6",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 70.01133368734436,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "ae92780cc9",
+        "facility_run_date": "3671-41-32",
+        "facility_run_id": "93fd0796ab",
+        "file_format": "48a2087baf",
+        "file_name": "a1289a01d7",
+        "file_size": 99,
+        "ga4gh_drs_uri": "01f9af65a3",
+        "md5sum": "3cc3eed6f6262633e786b806c5bab8f0",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_5df7752056"
+        },
+        "submitter_id": "proteomics_file_890aafed09",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 6.357541414817824,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "fbbe4166c9",
+        "facility_run_date": "2046-84-85",
+        "facility_run_id": "c7376c8a33",
+        "file_format": "e142492ddb",
+        "file_name": "f34acbea88",
+        "file_size": 28,
+        "ga4gh_drs_uri": "70eb44342b",
+        "md5sum": "2311b45914f2e40d9d295a6386f42b17",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_65f02791a6"
+        },
+        "submitter_id": "proteomics_file_eb1945b6af",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 94.60407407640685,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "bd8cc73e7a",
+        "facility_run_date": "4094-26-60",
+        "facility_run_id": "9a6f5ba1d7",
+        "file_format": "21b14f4299",
+        "file_name": "f036d5e48d",
+        "file_size": 77,
+        "ga4gh_drs_uri": "b9639507fe",
+        "md5sum": "f37d71f140205252af50d15393549a44",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_10b965f7cd"
+        },
+        "submitter_id": "proteomics_file_4b2be6d129",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 97.85850227917192,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "facility_batch_id": "20874be05b",
+        "facility_run_date": "1525-37-78",
+        "facility_run_id": "2101209570",
+        "file_format": "945ca40769",
+        "file_name": "e794a1365c",
+        "file_size": 58,
+        "ga4gh_drs_uri": "9338362ecf",
+        "md5sum": "2cce6ba3129fb22c3b766fc8e7646930",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_9c63bc8764"
+        },
+        "submitter_id": "proteomics_file_b14a82c3af",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 38.1432521326736,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "c632389207",
+        "facility_run_date": "9568-07-79",
+        "facility_run_id": "00e397d7dd",
+        "file_format": "ac10f6f170",
+        "file_name": "e45b9ff119",
+        "file_size": 36,
+        "ga4gh_drs_uri": "bc1d793492",
+        "md5sum": "a3ebd87c23838bce68fb756c08aded64",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_80c4f9a238"
+        },
+        "submitter_id": "proteomics_file_8dddaa0340",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 57.47327795049627,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "59901740c5",
+        "facility_run_date": "9136-42-29",
+        "facility_run_id": "f9c3bf45cc",
+        "file_format": "983509ee9d",
+        "file_name": "e195b5bcc1",
+        "file_size": 47,
+        "ga4gh_drs_uri": "3217ed0725",
+        "md5sum": "fbb4c9251819c368a90d2e18b76aa248",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_93ed377520"
+        },
+        "submitter_id": "proteomics_file_7023aaf11d",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 33.6886588046757,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "7d426ffde1",
+        "facility_run_date": "4846-78-14",
+        "facility_run_id": "11a19097a0",
+        "file_format": "c5d5b0df75",
+        "file_name": "b01df92fda",
+        "file_size": 43,
+        "ga4gh_drs_uri": "856a197972",
+        "md5sum": "6d2efb504a2d7e4e8e12798df52b5ecd",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_c92e7e28e4"
+        },
+        "submitter_id": "proteomics_file_f2d8ea3759",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 88.61493619971603,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "39a2fd57b2",
+        "facility_run_date": "7961-14-42",
+        "facility_run_id": "f5fccf1885",
+        "file_format": "e84c58bf62",
+        "file_name": "c0e4ae3591",
+        "file_size": 9,
+        "ga4gh_drs_uri": "757bccc870",
+        "md5sum": "cbcfa93f7e567202c92198a12453b47a",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_3ab4f2fd43"
+        },
+        "submitter_id": "proteomics_file_79bc1fe7d3",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 64.14053490035168,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "b9df914754",
+        "facility_run_date": "6354-27-97",
+        "facility_run_id": "d93d880ee2",
+        "file_format": "bbed33194c",
+        "file_name": "b781f9f6e6",
+        "file_size": 12,
+        "ga4gh_drs_uri": "8f0bc6a81e",
+        "md5sum": "0971b98b4ae06557e01572a681376ca7",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_1a38294685"
+        },
+        "submitter_id": "proteomics_file_ed0103659c",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 86.18954230879692,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "c6e40f5bea",
+        "facility_run_date": "0143-76-23",
+        "facility_run_id": "9e9ed98b17",
+        "file_format": "7e3ab69535",
+        "file_name": "15e5c281e1",
+        "file_size": 57,
+        "ga4gh_drs_uri": "5421e79c5e",
+        "md5sum": "82901a437119d88042c8d417dab99a97",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_77cfe04253"
+        },
+        "submitter_id": "proteomics_file_3b2306492c",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 40.90079418005856,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "e627822a79",
+        "facility_run_date": "8242-49-14",
+        "facility_run_id": "056007b886",
+        "file_format": "774693cfae",
+        "file_name": "2dc823c4ec",
+        "file_size": 70,
+        "ga4gh_drs_uri": "5aa3cf7260",
+        "md5sum": "00f8cb2499a610c6c29cbfa487331fe1",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_85236a7642"
+        },
+        "submitter_id": "proteomics_file_bca603a062",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 17.694992271802302,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "0f1655256b",
+        "facility_run_date": "0040-76-82",
+        "facility_run_id": "ef025e8097",
+        "file_format": "12d7643332",
+        "file_name": "28ea422c24",
+        "file_size": 20,
+        "ga4gh_drs_uri": "4b2eed3ecb",
+        "md5sum": "454606fe2929bca2a96aaba5d80ab36a",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_2edd42c66e"
+        },
+        "submitter_id": "proteomics_file_ddc46bbf46",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 12.319527265079355,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "05b0421307",
+        "facility_run_date": "5004-29-12",
+        "facility_run_id": "31d1fd544e",
+        "file_format": "15cad1c661",
+        "file_name": "37339f0d22",
+        "file_size": 14,
+        "ga4gh_drs_uri": "38c44d8482",
+        "md5sum": "6b25b991ef14c7c4f890bf6d6cc3b3c0",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_79bcf88875"
+        },
+        "submitter_id": "proteomics_file_223b279040",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 11.737228065618844,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "0ae1da690a",
+        "facility_run_date": "0599-78-41",
+        "facility_run_id": "f575b13dcb",
+        "file_format": "632d443fe1",
+        "file_name": "b711b841e8",
+        "file_size": 37,
+        "ga4gh_drs_uri": "44578435a0",
+        "md5sum": "073bad8755f12fff4ec113e66359c269",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_b379933209"
+        },
+        "submitter_id": "proteomics_file_7c0b06a5a1",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 27.864967569737175,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "b76a24b5ab",
+        "facility_run_date": "0468-78-18",
+        "facility_run_id": "f96cf6d0fe",
+        "file_format": "97a56fe71e",
+        "file_name": "61442d7855",
+        "file_size": 84,
+        "ga4gh_drs_uri": "bdf5e2e15c",
+        "md5sum": "f7859eec3c7ed4dd2de7fe88ba8d2472",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_7fb7dfd98a"
+        },
+        "submitter_id": "proteomics_file_23fd20c6a4",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 11.106285896848089,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "facility_batch_id": "77467465bb",
+        "facility_run_date": "5629-73-89",
+        "facility_run_id": "7c70c0faa2",
+        "file_format": "6940fa3975",
+        "file_name": "c8edac2cf5",
+        "file_size": 12,
+        "ga4gh_drs_uri": "ae65fc053f",
+        "md5sum": "5094a60f6c1a442f4735241954dde90a",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_fbc3355005"
+        },
+        "submitter_id": "proteomics_file_6d071e643a",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 98.74833191761773,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "c649de6c3e",
+        "facility_run_date": "3086-85-87",
+        "facility_run_id": "f9fa7caecf",
+        "file_format": "537bc60805",
+        "file_name": "f0ef1971bd",
+        "file_size": 28,
+        "ga4gh_drs_uri": "893dba8434",
+        "md5sum": "48dd05747c6e8bf792c608aac18ffc7d",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_7954699454"
+        },
+        "submitter_id": "proteomics_file_0734759437",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 12.87079427509078,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "a8d4c222a3",
+        "facility_run_date": "9394-11-76",
+        "facility_run_id": "b4d6a57cc5",
+        "file_format": "34e7fbb7b0",
+        "file_name": "b5f975812d",
+        "file_size": 57,
+        "ga4gh_drs_uri": "1221a78027",
+        "md5sum": "3fd8f67ff6c907a35c37e473cd7c8518",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_e89157c192"
+        },
+        "submitter_id": "proteomics_file_dd04c5e247",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 89.0152867547073,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "fcad12e09a",
+        "facility_run_date": "4248-48-64",
+        "facility_run_id": "c03112abf5",
+        "file_format": "1fd4cf5055",
+        "file_name": "d530f264a1",
+        "file_size": 51,
+        "ga4gh_drs_uri": "698fb5f241",
+        "md5sum": "840f51ccf78e865aabd50e7c838aac41",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_0a90fec537"
+        },
+        "submitter_id": "proteomics_file_5ffb467525",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 18.882614363193717,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "13915456e3",
+        "facility_run_date": "2663-95-87",
+        "facility_run_id": "e7cb0e3e45",
+        "file_format": "d56417dfd5",
+        "file_name": "c489e7d46e",
+        "file_size": 43,
+        "ga4gh_drs_uri": "4abfeb26b2",
+        "md5sum": "0e3ec53ccc9c5a82a0ed4819c8920b16",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_c22660d97a"
+        },
+        "submitter_id": "proteomics_file_af699479a1",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 14.034619826660643,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "794442ef20",
+        "facility_run_date": "1866-22-29",
+        "facility_run_id": "14c36adad6",
+        "file_format": "096c8d17d1",
+        "file_name": "e74463c74c",
+        "file_size": 34,
+        "ga4gh_drs_uri": "e2ef81dd90",
+        "md5sum": "8fb91e8791bf63e9af4f53445d15ea28",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_c2d5cd5c32"
+        },
+        "submitter_id": "proteomics_file_f58fe95212",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 42.75521271411586,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "b883055efd",
+        "facility_run_date": "2724-90-16",
+        "facility_run_id": "080dd380b5",
+        "file_format": "b436284da7",
+        "file_name": "b7afd2caa6",
+        "file_size": 73,
+        "ga4gh_drs_uri": "c527ac769a",
+        "md5sum": "1c8d715a091e6e244bba7133d730db80",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_8d6fca1804"
+        },
+        "submitter_id": "proteomics_file_c720709a59",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 9.220981596677946,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "26c872a0f1",
+        "facility_run_date": "7243-63-46",
+        "facility_run_id": "2778b97cec",
+        "file_format": "22c0d02cc6",
+        "file_name": "13eeab3eb2",
+        "file_size": 76,
+        "ga4gh_drs_uri": "a581b5d74e",
+        "md5sum": "8277f95745398c893da10145b0fd408b",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_0088a43858"
+        },
+        "submitter_id": "proteomics_file_31225d80fb",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 44.052880823773634,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "facility_batch_id": "ecb5f3f3cc",
+        "facility_run_date": "8638-59-94",
+        "facility_run_id": "7a81d68996",
+        "file_format": "8b217b44bc",
+        "file_name": "14f7bec6a9",
+        "file_size": 77,
+        "ga4gh_drs_uri": "46a9a7ee3c",
+        "md5sum": "d1dfc74d4b0658a6fa4058c49214c776",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_54b018b2f0"
+        },
+        "submitter_id": "proteomics_file_749acc2c42",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 66.66286811510726,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "facility_batch_id": "9865831331",
+        "facility_run_date": "7263-96-43",
+        "facility_run_id": "2ca401a5d6",
+        "file_format": "656737b2fb",
+        "file_name": "7a716beb9d",
+        "file_size": 49,
+        "ga4gh_drs_uri": "66b56be071",
+        "md5sum": "31b3c1c015cfa107eeed5fd285269732",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_13d7d243ad"
+        },
+        "submitter_id": "proteomics_file_415b522a2e",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 30.74928190953292,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "73cedaca46",
+        "facility_run_date": "3257-55-89",
+        "facility_run_id": "fa7ac2bb17",
+        "file_format": "e8e42136cf",
+        "file_name": "c7ccbe8553",
+        "file_size": 79,
+        "ga4gh_drs_uri": "14f6beee23",
+        "md5sum": "0a4ba4d96e36b74fa717de26bbdc799b",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_e9796e3f9b"
+        },
+        "submitter_id": "proteomics_file_953ceb4055",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 71.40288825876361,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "facility_batch_id": "81c2eefe7a",
+        "facility_run_date": "9303-84-09",
+        "facility_run_id": "195eaf405b",
+        "file_format": "587c3cece1",
+        "file_name": "6764e561a7",
+        "file_size": 5,
+        "ga4gh_drs_uri": "cf865997f2",
+        "md5sum": "56623dab9ffa7b67f6c82683bdf03fe5",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_061acd6977"
+        },
+        "submitter_id": "proteomics_file_3ac2fb8e04",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 58.79648941244161,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "db0ddabd38",
+        "facility_run_date": "8003-96-66",
+        "facility_run_id": "b74386f613",
+        "file_format": "d3ce817c6b",
+        "file_name": "1301f71033",
+        "file_size": 33,
+        "ga4gh_drs_uri": "0f9533a99d",
+        "md5sum": "ffc129d3a3d284ca8b44f8927dacc2e0",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_d8301b180a"
+        },
+        "submitter_id": "proteomics_file_3ab7956849",
+        "type": "proteomics_file"
+    },
+    {
+        "cv": 40.99895848254766,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "facility_batch_id": "95696a9759",
+        "facility_run_date": "1616-59-03",
+        "facility_run_id": "b4ec621fd4",
+        "file_format": "3cfc2d2c7c",
+        "file_name": "e3c133733f",
+        "file_size": 44,
+        "ga4gh_drs_uri": "716d6a0371",
+        "md5sum": "f22968df123b4a13f8df979c9e965e4c",
+        "proteomics_assays": {
+            "submitter_id": "proteomics_assay_07ba853656"
+        },
+        "submitter_id": "proteomics_file_2aed65e55b",
+        "type": "proteomics_file"
+    }
+]
