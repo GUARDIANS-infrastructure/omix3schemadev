@@ -37,6 +37,7 @@ required:
 - submitter_id
 - data_format
 - data_category
+- data_type
 - facility_run_id
 - facility_batch_id
 uniqueKeys:
@@ -63,6 +64,13 @@ properties:
     - mass spec processed
     - summarised results
     - quality control
+  data_type:
+    description: The data type
+    enum:
+    - csv
+    - tsv
+    - xls
+    - xlsx
   cv:
     description: Coefficient of variation (%)
     type: number

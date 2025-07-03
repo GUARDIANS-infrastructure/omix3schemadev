@@ -1,0 +1,1322 @@
+[
+    {
+        "experiment_id": "3a61794720",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "007890634e",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_a98fe0dc78"
+        },
+        "submitter_id": "lipidomics_assay_a7adcfab14",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "94c79e4659",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "de50467b99",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_945bb1e460"
+        },
+        "submitter_id": "lipidomics_assay_a8df4b0764",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "8dffef63cc",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "56b510d3cf",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_37f8bf40d3"
+        },
+        "submitter_id": "lipidomics_assay_09d904ee67",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "4457c87bdf",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "f7100e0b32",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_4abea134e3"
+        },
+        "submitter_id": "lipidomics_assay_e83bc2778a",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "8e05f23ae1",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "9bc4cbc722",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_97434bf1e5"
+        },
+        "submitter_id": "lipidomics_assay_f2d4b36605",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "e4afbc237c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "58e8ded364",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_d84c4cc471"
+        },
+        "submitter_id": "lipidomics_assay_9eb5af3745",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "9f1ada59f8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "c60e5ca21c",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_7cbe08db83"
+        },
+        "submitter_id": "lipidomics_assay_fa11d8a2f7",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "dd6cf25b8d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "40ae32ee04",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_cca73181e1"
+        },
+        "submitter_id": "lipidomics_assay_361af60fe0",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "6869b8b676",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "75ddffe63c",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_268a3832f5"
+        },
+        "submitter_id": "lipidomics_assay_e518c04121",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "6304bbff04",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "1be75d778c",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_fcfef157b1"
+        },
+        "submitter_id": "lipidomics_assay_86f59f5f40",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "aadb94e3bd",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "0ae7a41538",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_c487f720b9"
+        },
+        "submitter_id": "lipidomics_assay_38287d788a",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "9cb4ea69e7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6634bfed6c",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_8342f9d271"
+        },
+        "submitter_id": "lipidomics_assay_0391bcb02b",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "faeecfe1c4",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "07af677415",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_98406a3e2d"
+        },
+        "submitter_id": "lipidomics_assay_ddccc69548",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "479ab2814f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "daf2785a34",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_07ac155f08"
+        },
+        "submitter_id": "lipidomics_assay_c23e3417ed",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "063ab71077",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "e482ff0c18",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_08748acd6f"
+        },
+        "submitter_id": "lipidomics_assay_1342050a44",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "0dc3078fd0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "71faed3e6e",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_966efc6bed"
+        },
+        "submitter_id": "lipidomics_assay_e2bea24184",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "5caca9ffe0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "d97d2140f1",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_3b810b97e1"
+        },
+        "submitter_id": "lipidomics_assay_f099c6787b",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "4bfac26d16",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "31530a4038",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_22d678b73f"
+        },
+        "submitter_id": "lipidomics_assay_0e3726c45c",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "74ee5ecf5b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a1871d9363",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_93efd46808"
+        },
+        "submitter_id": "lipidomics_assay_b056385e3c",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "da71293467",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "3c277c4ed5",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_8eeef1a842"
+        },
+        "submitter_id": "lipidomics_assay_e4a6afcb62",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "e533d92402",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "3e9d363983",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_2ed16a9de0"
+        },
+        "submitter_id": "lipidomics_assay_aba8813268",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "031b22fb76",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "91970586e6",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_488ced51b8"
+        },
+        "submitter_id": "lipidomics_assay_ffb4934f5a",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "a40c5d1ed2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6637e320f9",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_dbe92bfe1f"
+        },
+        "submitter_id": "lipidomics_assay_d47a460644",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "bd373d8b51",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "707e074f39",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_d98989afd8"
+        },
+        "submitter_id": "lipidomics_assay_5f6a26437f",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "6c9dcb5139",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "47593325a9",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_04bc229b84"
+        },
+        "submitter_id": "lipidomics_assay_022cba45b8",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "e7017c0f1d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "15d22d48e8",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_159b70fcdd"
+        },
+        "submitter_id": "lipidomics_assay_cffb2c7598",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "948f57085e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "5d8ace8b78",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_f6cc1df906"
+        },
+        "submitter_id": "lipidomics_assay_050da728e2",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "aaca8a3458",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6ef15b002e",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_8ce08d09d9"
+        },
+        "submitter_id": "lipidomics_assay_1e371f8516",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "de9a9cafb2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "3c3c16b333",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_dd305abdac"
+        },
+        "submitter_id": "lipidomics_assay_13b44ac25f",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "f2f0fa0fdc",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "47dcb43cf1",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_e6d9fa0b2b"
+        },
+        "submitter_id": "lipidomics_assay_fe23ccc590",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "01bf02f445",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "59bfb7552f",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_7f046f40d2"
+        },
+        "submitter_id": "lipidomics_assay_940bc0d731",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "e534425644",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "b34aa2c794",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_7302485923"
+        },
+        "submitter_id": "lipidomics_assay_7673602d10",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "ca52f06d66",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "43d3f16f1c",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_52ca62adcc"
+        },
+        "submitter_id": "lipidomics_assay_71ba7963dc",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "90973d594c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "810f6e346e",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_fa124c7a72"
+        },
+        "submitter_id": "lipidomics_assay_d2dbf80fbc",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "0a20ae004c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "e017967f24",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_ff6d311396"
+        },
+        "submitter_id": "lipidomics_assay_23745c3606",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "59f62389a9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "62bb801f42",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_924383833f"
+        },
+        "submitter_id": "lipidomics_assay_26e2c3c8c3",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "5774a53f78",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "65e1b1f117",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_e4cc2fb4b9"
+        },
+        "submitter_id": "lipidomics_assay_f5c9b27d50",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "d7561fe346",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8eab891885",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_b04b53e293"
+        },
+        "submitter_id": "lipidomics_assay_85cbfa510f",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "6d66e8f647",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "be08991e45",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_e69d46d1b6"
+        },
+        "submitter_id": "lipidomics_assay_6eef081e6e",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "413b1d8fc5",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "765de5a155",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_26233e80e8"
+        },
+        "submitter_id": "lipidomics_assay_42e39dfa96",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "44ba20ef94",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "328aeaaeda",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_b1c95973bf"
+        },
+        "submitter_id": "lipidomics_assay_e9f155ab97",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "883422aed9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "58bbfa608e",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_a04cad4e90"
+        },
+        "submitter_id": "lipidomics_assay_dc54b99afe",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "5ba4169c6a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "cabf6b78d7",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_4a5c11c14a"
+        },
+        "submitter_id": "lipidomics_assay_f4fbe3401f",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "35f0c387ac",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "e66731470e",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_90ebacc4d3"
+        },
+        "submitter_id": "lipidomics_assay_a8be7f4e13",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "acd303f14f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "bbd451e1ac",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_71d7498667"
+        },
+        "submitter_id": "lipidomics_assay_fb0e8a650a",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "df997382d7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "12036ed912",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_9752267a99"
+        },
+        "submitter_id": "lipidomics_assay_20e2848aa6",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "cd83d4422f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "5475b84018",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_f8f678a8a4"
+        },
+        "submitter_id": "lipidomics_assay_80e91086d0",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "706af264c0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "bdd846d9dc",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_c0ab4cf7dd"
+        },
+        "submitter_id": "lipidomics_assay_34b1fc90ec",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "5659414350",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "1930de42fc",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_8ee121997c"
+        },
+        "submitter_id": "lipidomics_assay_5618432a71",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "9647961e21",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "674b6d6b7c",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_6f127d58b9"
+        },
+        "submitter_id": "lipidomics_assay_a29cd85d71",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "4a3a7f277f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "1867b90e12",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_7f8de5a7b2"
+        },
+        "submitter_id": "lipidomics_assay_5f7ed04abd",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "c5c7c0203f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "c7c332b410",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_356058151d"
+        },
+        "submitter_id": "lipidomics_assay_95b2b91701",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "7c2e265663",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "f5ec911e03",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_30ebb8f846"
+        },
+        "submitter_id": "lipidomics_assay_e0c99bcdf9",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "5fd50996f0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6610b40c17",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_b09a7f74c7"
+        },
+        "submitter_id": "lipidomics_assay_4bf00d7074",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "6e6b0dbecc",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "7ae6df1d33",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_9b4efea7d5"
+        },
+        "submitter_id": "lipidomics_assay_977d6f1f19",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "20d9adb7aa",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "f25bd13145",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_e0c096027e"
+        },
+        "submitter_id": "lipidomics_assay_e0ec5e2a27",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "f2df827529",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "08ea09f635",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_7c5fee2e60"
+        },
+        "submitter_id": "lipidomics_assay_42beae20c5",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "2e89dee98b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "2d08494cca",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_7ead5441b4"
+        },
+        "submitter_id": "lipidomics_assay_aa329285c0",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "3988df7f3b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "432f3eb867",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_51fa49b941"
+        },
+        "submitter_id": "lipidomics_assay_de8325fcf0",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "64e6aa1de0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "25ca37f7d0",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_1b9d5dada6"
+        },
+        "submitter_id": "lipidomics_assay_9b38dc07d1",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "f9453bcecb",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "3e28de2591",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_617027c6ef"
+        },
+        "submitter_id": "lipidomics_assay_96f4bfdbb9",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "4ca6763635",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "36f4e3e616",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_dbf5d0d664"
+        },
+        "submitter_id": "lipidomics_assay_4337e8c3b6",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "e3455d2214",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "261eb16eb3",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_8c03411fa9"
+        },
+        "submitter_id": "lipidomics_assay_8aa91fba3c",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "973497e26a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "508d7909e1",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_ae94dbae1f"
+        },
+        "submitter_id": "lipidomics_assay_f8087c5028",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "c5acb63099",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "aa97990673",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_16cdddb766"
+        },
+        "submitter_id": "lipidomics_assay_5363488cc0",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "f8a54f1eea",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "ab1dfac187",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_32b0b76f70"
+        },
+        "submitter_id": "lipidomics_assay_c28a2b9774",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "76c565999f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "e79e47f404",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_178ca37dcf"
+        },
+        "submitter_id": "lipidomics_assay_7308de4000",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "3b89df3a3d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "ddf4f7e41a",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_2a3d3741f0"
+        },
+        "submitter_id": "lipidomics_assay_822e08e0af",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "73f1e16e86",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "bb171434d3",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_624de0f3b2"
+        },
+        "submitter_id": "lipidomics_assay_c9c709251c",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "763acfce03",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "2b763eb9aa",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_9ed88a4844"
+        },
+        "submitter_id": "lipidomics_assay_c82eba1ad9",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "f5414bf41a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "84078db8fb",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_8895052e10"
+        },
+        "submitter_id": "lipidomics_assay_4d1abe974a",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "f6f67bc9a7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "8497b52e4f",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_c62366429e"
+        },
+        "submitter_id": "lipidomics_assay_6c2d788363",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "5f9c17729a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "12409c0437",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_471434e2f9"
+        },
+        "submitter_id": "lipidomics_assay_c097692962",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "cbdc2c0a21",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "48402a6090",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_a50776ab99"
+        },
+        "submitter_id": "lipidomics_assay_6fb178bae3",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "640f6d6331",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "105afd3d0b",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_1e400575de"
+        },
+        "submitter_id": "lipidomics_assay_dc469c3b80",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "3e9f6be2c9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6629871d1d",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_34378b96a5"
+        },
+        "submitter_id": "lipidomics_assay_54570edf45",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "524448dbfd",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "d2b90d0de8",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_2f849b3ad2"
+        },
+        "submitter_id": "lipidomics_assay_49e6b1093b",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "6a8df9689a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "5c762e3bda",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_d74423e483"
+        },
+        "submitter_id": "lipidomics_assay_026029c2ab",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "dd95af61c8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "7725c27f26",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_c359a58b92"
+        },
+        "submitter_id": "lipidomics_assay_67b70ffaa8",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "c526f750c0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "fb3da23965",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_dc760c7a2a"
+        },
+        "submitter_id": "lipidomics_assay_23861bc450",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "00aeb7934e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "9b8edda975",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_5f0b7edbed"
+        },
+        "submitter_id": "lipidomics_assay_3a6b8d6257",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "184f210515",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "dc7e3eaf11",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_7f4900e7e5"
+        },
+        "submitter_id": "lipidomics_assay_410ca4441b",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "3f5a6356f4",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "015dddd76d",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_85c15f2b87"
+        },
+        "submitter_id": "lipidomics_assay_22ac618bc0",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "4bb2415a2a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "f822609794",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_c46cea5c03"
+        },
+        "submitter_id": "lipidomics_assay_fc51bf5f4f",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "13ac925a86",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "c61105c680",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_ebef3f15f1"
+        },
+        "submitter_id": "lipidomics_assay_7f51654aa7",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "07d219140c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "2c8d666576",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_3e591f900a"
+        },
+        "submitter_id": "lipidomics_assay_bf1b37fc83",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "295d35d8a3",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "98ba6cb0cd",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_44b7717571"
+        },
+        "submitter_id": "lipidomics_assay_ea0ff6bf96",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "92cad73c38",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "e3eade19e7",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_d583de7922"
+        },
+        "submitter_id": "lipidomics_assay_c3c84ad2c0",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "65d6fd059c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "d45f951f1f",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_bcd517cdf2"
+        },
+        "submitter_id": "lipidomics_assay_9446bbb26d",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "abce640acd",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "ff9f3fa0a3",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_a34cfcdcd0"
+        },
+        "submitter_id": "lipidomics_assay_41c32114ce",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "6a41b956a2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "d3d9bbbff4",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_bc605f7d22"
+        },
+        "submitter_id": "lipidomics_assay_d0a82b15e4",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "a05fc5dc88",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "5dc11ec0db",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_edf5c18c3d"
+        },
+        "submitter_id": "lipidomics_assay_ec159312a1",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "1f4afeb48e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "2e819f00cf",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_efcdaf32fe"
+        },
+        "submitter_id": "lipidomics_assay_433e052538",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "fbb4f59c00",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "39b0ea3a86",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_9ad1672ce8"
+        },
+        "submitter_id": "lipidomics_assay_d5cdd84f2c",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "237c6b2d06",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6c73204e3a",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_e2a798e342"
+        },
+        "submitter_id": "lipidomics_assay_b559e1a0e7",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "de2701536b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "2151670b77",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_ef8f123b15"
+        },
+        "submitter_id": "lipidomics_assay_cbdce27d9d",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "9e656061a8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "0b3d56f296",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_a2b821a8a6"
+        },
+        "submitter_id": "lipidomics_assay_401fa10c4e",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "26943c0b2a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "1bf955d9f1",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_2018914121"
+        },
+        "submitter_id": "lipidomics_assay_7f3ebd189c",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "ae6932223a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "b5b0610288",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_b964e3ab4f"
+        },
+        "submitter_id": "lipidomics_assay_79ce46619e",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "20d8a5eab7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "892bfb6fb7",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_94d32fae9d"
+        },
+        "submitter_id": "lipidomics_assay_e4191f6ce7",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "f52d5259cc",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "0e9d4100f3",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_36b69bc389"
+        },
+        "submitter_id": "lipidomics_assay_31311bbf99",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "6b65260575",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "66001ffd2c",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_99e0ea2a1e"
+        },
+        "submitter_id": "lipidomics_assay_4f0df2d0a3",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "ac2add5e88",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "77fbd01c8a",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_0be0a6c796"
+        },
+        "submitter_id": "lipidomics_assay_79cba7405f",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "aaf15c8457",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "f88ade2574",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_8f2bada7ba"
+        },
+        "submitter_id": "lipidomics_assay_d01c4ec398",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "60f6961ed9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "5086ddfe4d",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_7d994e3f6d"
+        },
+        "submitter_id": "lipidomics_assay_9b089ea3b2",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "feccefec44",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "b091f5cb81",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_5a780180b8"
+        },
+        "submitter_id": "lipidomics_assay_8e9176a729",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "49470f0cee",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "fd3141ce82",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_76e6e9cc08"
+        },
+        "submitter_id": "lipidomics_assay_87b75784c7",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "63640421a6",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a0a252b2d4",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_8496593e06"
+        },
+        "submitter_id": "lipidomics_assay_b8b3f47bcf",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "7ed6104164",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "db08239ef2",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_2bf0b60689"
+        },
+        "submitter_id": "lipidomics_assay_f4483cb7bf",
+        "type": "lipidomics_assay"
+    },
+    {
+        "experiment_id": "5738acc40b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "ed8032e665",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_74d986340c"
+        },
+        "submitter_id": "lipidomics_assay_ffa318c82b",
+        "type": "lipidomics_assay"
+    }
+]

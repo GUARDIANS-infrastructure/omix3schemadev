@@ -1,0 +1,2202 @@
+[
+    {
+        "cv": 50.309370848942855,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "fcc8cd5984",
+        "facility_run_date": "3891-50-88",
+        "facility_run_id": "098bc7e815",
+        "file_format": "6918362003",
+        "file_name": "09d753e970",
+        "file_size": 9,
+        "ga4gh_drs_uri": "3c64dea514",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_a7adcfab14"
+        },
+        "md5sum": "a8384e3e89d4861479a4991395a33f9b",
+        "submitter_id": "lipidomics_file_13263cad0d",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 34.32583348782757,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "1fdad020da",
+        "facility_run_date": "4866-06-44",
+        "facility_run_id": "f8e3f3bb6d",
+        "file_format": "7b8fc7f007",
+        "file_name": "07fdaf240f",
+        "file_size": 60,
+        "ga4gh_drs_uri": "b2fdc39fc8",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_a8df4b0764"
+        },
+        "md5sum": "84cc17b48b2c2504253f0a2bfa366cdd",
+        "submitter_id": "lipidomics_file_33659a427f",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 80.04669137732623,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "a41211e848",
+        "facility_run_date": "8482-35-30",
+        "facility_run_id": "665e2a8cdf",
+        "file_format": "b58a660744",
+        "file_name": "4558efcca4",
+        "file_size": 55,
+        "ga4gh_drs_uri": "bfbc36f733",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_09d904ee67"
+        },
+        "md5sum": "e6c52cc5a1f3f4c344f3752597b9d58f",
+        "submitter_id": "lipidomics_file_ab3fe279f3",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 9.766055535175077,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "9ac3c034b5",
+        "facility_run_date": "3669-41-64",
+        "facility_run_id": "b99354abe0",
+        "file_format": "3ecd3a6344",
+        "file_name": "0f64ddee79",
+        "file_size": 61,
+        "ga4gh_drs_uri": "bfefab7a8c",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_e83bc2778a"
+        },
+        "md5sum": "08d1c8b92e1d3c14fbb0dd7598ed9f2d",
+        "submitter_id": "lipidomics_file_e29e28f08b",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 97.05069397552931,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "c9b6df81ce",
+        "facility_run_date": "3982-43-48",
+        "facility_run_id": "28d8df4bd2",
+        "file_format": "eee73d0710",
+        "file_name": "4bbecbab62",
+        "file_size": 75,
+        "ga4gh_drs_uri": "99ef63af36",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_f2d4b36605"
+        },
+        "md5sum": "7790498fcde8cea84c087dd29a2f6593",
+        "submitter_id": "lipidomics_file_e90e19d1a1",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 15.685372092893957,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "50a286509f",
+        "facility_run_date": "7614-56-40",
+        "facility_run_id": "e65430582d",
+        "file_format": "8586503413",
+        "file_name": "e21e52a946",
+        "file_size": 89,
+        "ga4gh_drs_uri": "7ddbfe0a5b",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_9eb5af3745"
+        },
+        "md5sum": "9ee37d59b195cdd4f5b08b7d62970b1f",
+        "submitter_id": "lipidomics_file_fc31f6136f",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 34.750970652400696,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "c2fc29f3f2",
+        "facility_run_date": "9560-42-35",
+        "facility_run_id": "3662079ad9",
+        "file_format": "dcedbea99d",
+        "file_name": "cb57e154f8",
+        "file_size": 41,
+        "ga4gh_drs_uri": "6c6095325f",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_fa11d8a2f7"
+        },
+        "md5sum": "7e85dea8b98c08cf2d3b4f9f8f91e717",
+        "submitter_id": "lipidomics_file_5a0c08238e",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 97.55325884069383,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "54c59d19b4",
+        "facility_run_date": "9326-00-90",
+        "facility_run_id": "fd9a8bca15",
+        "file_format": "9bb3593ac9",
+        "file_name": "85bab0fad8",
+        "file_size": 53,
+        "ga4gh_drs_uri": "a250a0a12a",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_361af60fe0"
+        },
+        "md5sum": "0f105811aa6f31dada915eff1e0956da",
+        "submitter_id": "lipidomics_file_238bb10bae",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 61.19117532404596,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "d4b390f267",
+        "facility_run_date": "7970-57-94",
+        "facility_run_id": "3021af89c7",
+        "file_format": "1f8dc84a40",
+        "file_name": "051a187b15",
+        "file_size": 34,
+        "ga4gh_drs_uri": "7191334645",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_e518c04121"
+        },
+        "md5sum": "ca9da7a19fb4da0bf77b09e714b6376f",
+        "submitter_id": "lipidomics_file_b897343f97",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 91.84411380221421,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "ad91ae2505",
+        "facility_run_date": "5066-17-89",
+        "facility_run_id": "c41c6a9868",
+        "file_format": "8baf00d495",
+        "file_name": "5a8eeedbaa",
+        "file_size": 19,
+        "ga4gh_drs_uri": "d8eb2f5d97",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_86f59f5f40"
+        },
+        "md5sum": "8cdab4abb82d9060b6f5715a723bcd11",
+        "submitter_id": "lipidomics_file_1c5beafb2a",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 19.25418418140694,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "900ca051ed",
+        "facility_run_date": "2709-94-33",
+        "facility_run_id": "a1fd06fe9e",
+        "file_format": "6452a2e568",
+        "file_name": "69dc218377",
+        "file_size": 34,
+        "ga4gh_drs_uri": "74245d7573",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_38287d788a"
+        },
+        "md5sum": "aba3bcd5ce01a33c98218f10bf4dfecf",
+        "submitter_id": "lipidomics_file_84d8b322e8",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 38.793407125577694,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "4e6e08bb26",
+        "facility_run_date": "0923-87-77",
+        "facility_run_id": "63c8c6e234",
+        "file_format": "161c9582a0",
+        "file_name": "7fa8012f3a",
+        "file_size": 30,
+        "ga4gh_drs_uri": "0e920bbebe",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_0391bcb02b"
+        },
+        "md5sum": "8a0ff355bf650fd9d967a2ace4ed1794",
+        "submitter_id": "lipidomics_file_4c02dca1da",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 75.60463217985406,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "81aa1c3043",
+        "facility_run_date": "6199-50-90",
+        "facility_run_id": "1b25e55c34",
+        "file_format": "0b9bae399e",
+        "file_name": "97e94f6c4c",
+        "file_size": 97,
+        "ga4gh_drs_uri": "ef1aa0ea5a",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_ddccc69548"
+        },
+        "md5sum": "7453138baff76cb8169363d1e0c3e3df",
+        "submitter_id": "lipidomics_file_8cf23102c4",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 40.26260898275172,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "7a6242dde2",
+        "facility_run_date": "3752-20-70",
+        "facility_run_id": "e79734e151",
+        "file_format": "68045cf849",
+        "file_name": "da7a90831c",
+        "file_size": 67,
+        "ga4gh_drs_uri": "55c40465e5",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_c23e3417ed"
+        },
+        "md5sum": "68a885dff0ca78a349f4411b02f172fb",
+        "submitter_id": "lipidomics_file_117f3df18c",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 80.46615030187168,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "229a472b54",
+        "facility_run_date": "3568-80-90",
+        "facility_run_id": "46173404c5",
+        "file_format": "3bbe5ed6e4",
+        "file_name": "dbc35fa03e",
+        "file_size": 26,
+        "ga4gh_drs_uri": "7f5972ce75",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_1342050a44"
+        },
+        "md5sum": "603a9eafcec231b41fad233104f7ec51",
+        "submitter_id": "lipidomics_file_7bcd0e147d",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 63.40474939536968,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "e48049e47d",
+        "facility_run_date": "0774-81-53",
+        "facility_run_id": "548c2d51c1",
+        "file_format": "8a9a7ea0d3",
+        "file_name": "cd48432a82",
+        "file_size": 1,
+        "ga4gh_drs_uri": "43214e87c7",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_e2bea24184"
+        },
+        "md5sum": "737a5e66260abe474713b8506f9ac85f",
+        "submitter_id": "lipidomics_file_8792836530",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 57.16760431069209,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "8c94bea309",
+        "facility_run_date": "4427-19-04",
+        "facility_run_id": "fc8851fc17",
+        "file_format": "f16ea26ebb",
+        "file_name": "233ba87964",
+        "file_size": 96,
+        "ga4gh_drs_uri": "e39701798d",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_f099c6787b"
+        },
+        "md5sum": "5f796b8f1db2909039b8266fce1461aa",
+        "submitter_id": "lipidomics_file_f06bfe22c9",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 48.587443089880324,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "203b607880",
+        "facility_run_date": "5654-93-39",
+        "facility_run_id": "a775bdac2d",
+        "file_format": "7dac98405d",
+        "file_name": "246bdfa3f3",
+        "file_size": 36,
+        "ga4gh_drs_uri": "5fcefbd93b",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_0e3726c45c"
+        },
+        "md5sum": "c490d62314c1f6e93957c5abc4cfc67e",
+        "submitter_id": "lipidomics_file_b3707ee2d0",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 91.87615533394097,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "6981c6ddb8",
+        "facility_run_date": "4687-61-20",
+        "facility_run_id": "03fcd17c3b",
+        "file_format": "6fa4b9eb74",
+        "file_name": "3933ec9451",
+        "file_size": 61,
+        "ga4gh_drs_uri": "ae467c092d",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_b056385e3c"
+        },
+        "md5sum": "09690194088ee14a2f9d2529fbad0af5",
+        "submitter_id": "lipidomics_file_ee985ce9a9",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 76.22455780975005,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "2621213b9c",
+        "facility_run_date": "9618-50-82",
+        "facility_run_id": "d4dbe91ae8",
+        "file_format": "87a3d4f994",
+        "file_name": "1272276a42",
+        "file_size": 63,
+        "ga4gh_drs_uri": "f95d2222e9",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_e4a6afcb62"
+        },
+        "md5sum": "1e1495be584b41f1481a81ef29bc31e2",
+        "submitter_id": "lipidomics_file_c0442f734a",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 26.21266111956684,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "299f2a01bf",
+        "facility_run_date": "4178-63-97",
+        "facility_run_id": "7152ba9a83",
+        "file_format": "75286dce92",
+        "file_name": "ccd4c7ccc2",
+        "file_size": 78,
+        "ga4gh_drs_uri": "2d5ef27fce",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_aba8813268"
+        },
+        "md5sum": "f0ab680bb8a16f610baf868e31a9ad55",
+        "submitter_id": "lipidomics_file_bc4d76719c",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 94.87681144402879,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "2962ed4b65",
+        "facility_run_date": "1388-41-61",
+        "facility_run_id": "f9f9f04489",
+        "file_format": "23a9060568",
+        "file_name": "3fc77c93e9",
+        "file_size": 21,
+        "ga4gh_drs_uri": "bb8f0ef610",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_ffb4934f5a"
+        },
+        "md5sum": "d84cc058a05dfb85dd711ad0442916dc",
+        "submitter_id": "lipidomics_file_5b19bb1ab1",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 89.89725278169485,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "2a5c78046a",
+        "facility_run_date": "5993-94-61",
+        "facility_run_id": "3cdcd00851",
+        "file_format": "aaa6552b1a",
+        "file_name": "ae18456151",
+        "file_size": 7,
+        "ga4gh_drs_uri": "441cbc72cb",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_d47a460644"
+        },
+        "md5sum": "570837c13eddfd108e3331873135c833",
+        "submitter_id": "lipidomics_file_d73df1bd53",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 3.0988094663941923,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "5c4d14b063",
+        "facility_run_date": "0979-06-99",
+        "facility_run_id": "79f152c3e4",
+        "file_format": "53c98bc283",
+        "file_name": "c87ba0ef45",
+        "file_size": 3,
+        "ga4gh_drs_uri": "076ddb76cd",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_5f6a26437f"
+        },
+        "md5sum": "aa1343157a0463bc535ed9ff0e6368b3",
+        "submitter_id": "lipidomics_file_b87048a68a",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 14.47670101141666,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "3a065361ca",
+        "facility_run_date": "3092-31-67",
+        "facility_run_id": "c82e3556b8",
+        "file_format": "b32751d0ae",
+        "file_name": "18fd4f5412",
+        "file_size": 12,
+        "ga4gh_drs_uri": "9b05c78232",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_022cba45b8"
+        },
+        "md5sum": "ccb6cde9ebe0dc83a153d5f35ef1bffa",
+        "submitter_id": "lipidomics_file_91131494d5",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 15.897726736879603,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "17a6bb9a0a",
+        "facility_run_date": "2248-59-12",
+        "facility_run_id": "16397a5254",
+        "file_format": "d042a1b545",
+        "file_name": "24a2710761",
+        "file_size": 92,
+        "ga4gh_drs_uri": "23aeaa66d5",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_cffb2c7598"
+        },
+        "md5sum": "3d2e17f46ed03b9ff0a31f062a374f57",
+        "submitter_id": "lipidomics_file_3a8cdc2b0a",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 37.81467549858978,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "5a33cd2bf8",
+        "facility_run_date": "5541-21-08",
+        "facility_run_id": "8ae6ae48d9",
+        "file_format": "21f631d0b6",
+        "file_name": "c484277e58",
+        "file_size": 50,
+        "ga4gh_drs_uri": "09ec287c7f",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_050da728e2"
+        },
+        "md5sum": "edbb2d55e86c94ec191db1f473a16288",
+        "submitter_id": "lipidomics_file_00455a9d30",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 34.70981814139505,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "d60670d872",
+        "facility_run_date": "3372-11-75",
+        "facility_run_id": "e479e891b7",
+        "file_format": "fa27404274",
+        "file_name": "230b190142",
+        "file_size": 2,
+        "ga4gh_drs_uri": "babe207072",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_1e371f8516"
+        },
+        "md5sum": "360177b56152d5925dc0afa078ea1bac",
+        "submitter_id": "lipidomics_file_8401e9a3d1",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 10.610458257459177,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "3bc2a8fb9e",
+        "facility_run_date": "0319-30-91",
+        "facility_run_id": "f54cad14b2",
+        "file_format": "b2135b06ba",
+        "file_name": "a53fc3a9fd",
+        "file_size": 82,
+        "ga4gh_drs_uri": "2192cb536d",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_13b44ac25f"
+        },
+        "md5sum": "05291cc276a5af421b39d57480bd71cb",
+        "submitter_id": "lipidomics_file_38ae284373",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 75.2083220290168,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "e949b52f59",
+        "facility_run_date": "4102-35-81",
+        "facility_run_id": "fcd0257e48",
+        "file_format": "8bd0563288",
+        "file_name": "726f0d9d0c",
+        "file_size": 63,
+        "ga4gh_drs_uri": "e14ca322c6",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_fe23ccc590"
+        },
+        "md5sum": "7a8970de8477aa46105ff99ca44039e8",
+        "submitter_id": "lipidomics_file_57745c8237",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 99.73005476386635,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "d735a7f109",
+        "facility_run_date": "7581-43-70",
+        "facility_run_id": "f1755deb98",
+        "file_format": "b8494f706a",
+        "file_name": "2deec28938",
+        "file_size": 86,
+        "ga4gh_drs_uri": "b4443243ad",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_940bc0d731"
+        },
+        "md5sum": "dbbe40e898703ffff4adc95e67c0ebff",
+        "submitter_id": "lipidomics_file_db42e19951",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 10.275821312182675,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "ed775cbd67",
+        "facility_run_date": "0713-16-52",
+        "facility_run_id": "a2dbf260b8",
+        "file_format": "ccbac054ad",
+        "file_name": "f515484512",
+        "file_size": 48,
+        "ga4gh_drs_uri": "9e5103eb09",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_7673602d10"
+        },
+        "md5sum": "d68f1422038df120ea7e380896cc00c4",
+        "submitter_id": "lipidomics_file_09726f8641",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 55.62657742082708,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "50d20e045c",
+        "facility_run_date": "4027-98-30",
+        "facility_run_id": "1b4b6706d0",
+        "file_format": "30fbe3ba59",
+        "file_name": "9f3fa20f74",
+        "file_size": 48,
+        "ga4gh_drs_uri": "ce77a48283",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_71ba7963dc"
+        },
+        "md5sum": "56500512832ded8a43c5cb11ff31dc37",
+        "submitter_id": "lipidomics_file_add79729fd",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 53.20591995520911,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "4923d9b724",
+        "facility_run_date": "7754-38-21",
+        "facility_run_id": "9757fe1915",
+        "file_format": "7bbc707e81",
+        "file_name": "ae1363bd79",
+        "file_size": 45,
+        "ga4gh_drs_uri": "de8c2f59fe",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_d2dbf80fbc"
+        },
+        "md5sum": "f0fd62fbef145974796e9e2c0f1153a9",
+        "submitter_id": "lipidomics_file_1f6141b6b0",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 11.623202225408546,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "576cb35a39",
+        "facility_run_date": "1148-55-59",
+        "facility_run_id": "bde764d522",
+        "file_format": "bbee7ee02f",
+        "file_name": "93503a47e2",
+        "file_size": 36,
+        "ga4gh_drs_uri": "d20c066544",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_23745c3606"
+        },
+        "md5sum": "171bec1b3479c15e4c9b3d54a8d605fd",
+        "submitter_id": "lipidomics_file_98d07db260",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 33.73916653637651,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "94031a8fe4",
+        "facility_run_date": "5807-60-77",
+        "facility_run_id": "27b264d818",
+        "file_format": "ccfbe897d5",
+        "file_name": "ac2fd6b276",
+        "file_size": 93,
+        "ga4gh_drs_uri": "9cdc1d0bd8",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_26e2c3c8c3"
+        },
+        "md5sum": "bd47b3c5f0eb3390607d779cfab5515c",
+        "submitter_id": "lipidomics_file_dea2bb4122",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 59.217530832373875,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "cbb2884f29",
+        "facility_run_date": "5185-07-78",
+        "facility_run_id": "e1680741bf",
+        "file_format": "54c12518d2",
+        "file_name": "65915d4dc6",
+        "file_size": 62,
+        "ga4gh_drs_uri": "41d765fd9c",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_f5c9b27d50"
+        },
+        "md5sum": "1bcaeaae6ae21db91c8640759da87ec4",
+        "submitter_id": "lipidomics_file_fd7ca4112b",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 53.44750388476639,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "fef7b0f410",
+        "facility_run_date": "5164-90-17",
+        "facility_run_id": "b4efff43ee",
+        "file_format": "97d13ba946",
+        "file_name": "03ed7b0423",
+        "file_size": 49,
+        "ga4gh_drs_uri": "717ee845d5",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_85cbfa510f"
+        },
+        "md5sum": "2efdf2c06175ed5bf8b04924f6816c65",
+        "submitter_id": "lipidomics_file_60640f9f90",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 2.9363569819996216,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "9fa6e29173",
+        "facility_run_date": "0997-39-00",
+        "facility_run_id": "b9468ecc16",
+        "file_format": "22e53e4ae8",
+        "file_name": "d045a60786",
+        "file_size": 80,
+        "ga4gh_drs_uri": "8b186a65f4",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_6eef081e6e"
+        },
+        "md5sum": "20f2a81689b2057437710d83a72848f9",
+        "submitter_id": "lipidomics_file_7e6b3648f7",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 81.37996662770223,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "d6a55399c8",
+        "facility_run_date": "2741-15-98",
+        "facility_run_id": "b7e132ec09",
+        "file_format": "64822d0458",
+        "file_name": "5b34c53ec2",
+        "file_size": 67,
+        "ga4gh_drs_uri": "68b6bfd5c5",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_42e39dfa96"
+        },
+        "md5sum": "f51ca46787d4eb0a99ad626586caa30e",
+        "submitter_id": "lipidomics_file_6122d7d8fc",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 77.43732143538853,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "1140b5da4e",
+        "facility_run_date": "1797-02-45",
+        "facility_run_id": "ffdf7342bf",
+        "file_format": "9e8cb73053",
+        "file_name": "40e01c8422",
+        "file_size": 75,
+        "ga4gh_drs_uri": "f266951cbe",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_e9f155ab97"
+        },
+        "md5sum": "cbf7c33eb8e8f47874909fff08bc2f91",
+        "submitter_id": "lipidomics_file_32f39dbbbb",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 64.59116556667719,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "45236f607c",
+        "facility_run_date": "2542-47-19",
+        "facility_run_id": "6bc5c2a462",
+        "file_format": "9f70aa5455",
+        "file_name": "9bb7442be6",
+        "file_size": 14,
+        "ga4gh_drs_uri": "7b7fefe0c2",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_dc54b99afe"
+        },
+        "md5sum": "14a8ad3f72a990d382b571af1ae4ffcf",
+        "submitter_id": "lipidomics_file_a543e10746",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 86.8853602252769,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "1d758973fb",
+        "facility_run_date": "5167-30-43",
+        "facility_run_id": "da90a0c092",
+        "file_format": "de4ba25932",
+        "file_name": "40bffa5af9",
+        "file_size": 62,
+        "ga4gh_drs_uri": "5913ab4a70",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_f4fbe3401f"
+        },
+        "md5sum": "414d82e3446d864697f12c1e393525f7",
+        "submitter_id": "lipidomics_file_381a0dda86",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 85.59856624002904,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "4aa0b013e9",
+        "facility_run_date": "2064-86-03",
+        "facility_run_id": "6caa0a141c",
+        "file_format": "52addda0cb",
+        "file_name": "477815e192",
+        "file_size": 56,
+        "ga4gh_drs_uri": "0219bc9ff2",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_a8be7f4e13"
+        },
+        "md5sum": "3d2e2f047d8c7516e62e0fb2606270a3",
+        "submitter_id": "lipidomics_file_14638ef1d4",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 73.0757652037463,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "112d26c8ea",
+        "facility_run_date": "9942-68-09",
+        "facility_run_id": "18dccfe5eb",
+        "file_format": "9a2850d57f",
+        "file_name": "6a487b11cd",
+        "file_size": 15,
+        "ga4gh_drs_uri": "7250e85ddc",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_fb0e8a650a"
+        },
+        "md5sum": "693267e397f840a6d36229df13f13b63",
+        "submitter_id": "lipidomics_file_093751b671",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 24.448282580082992,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "3bb4e3ad31",
+        "facility_run_date": "9586-41-80",
+        "facility_run_id": "b53ab8060e",
+        "file_format": "06ee5e4ca3",
+        "file_name": "c49ae2e2e5",
+        "file_size": 92,
+        "ga4gh_drs_uri": "356840486a",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_20e2848aa6"
+        },
+        "md5sum": "f9ca33d0ebc57a2708acc94b4b8ebd7c",
+        "submitter_id": "lipidomics_file_526ed571a8",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 39.88193106283918,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "2793de4545",
+        "facility_run_date": "8913-69-94",
+        "facility_run_id": "d234bcf1a6",
+        "file_format": "b87b5979b9",
+        "file_name": "ec8b4f899f",
+        "file_size": 77,
+        "ga4gh_drs_uri": "a5e8e72bed",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_80e91086d0"
+        },
+        "md5sum": "a2acffe18a1664b530fd79453f4c6740",
+        "submitter_id": "lipidomics_file_8165f06f00",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 52.87239855628284,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "c7e9ef09ff",
+        "facility_run_date": "7192-92-22",
+        "facility_run_id": "dfaf1e6c06",
+        "file_format": "35fa7027dc",
+        "file_name": "586597ddef",
+        "file_size": 80,
+        "ga4gh_drs_uri": "4f91171bd5",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_34b1fc90ec"
+        },
+        "md5sum": "96c07de9cae85235753a9bd3bf47a982",
+        "submitter_id": "lipidomics_file_b560b3adcb",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 46.76024187315975,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "140e598b9b",
+        "facility_run_date": "2701-58-38",
+        "facility_run_id": "a78ee17ff1",
+        "file_format": "09bc4850f2",
+        "file_name": "ceccf8ea11",
+        "file_size": 71,
+        "ga4gh_drs_uri": "99914010ce",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_5618432a71"
+        },
+        "md5sum": "782ef7ec48cf5b5e5c0ac08104ed2580",
+        "submitter_id": "lipidomics_file_5284ba7362",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 91.05915952933852,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "9761300d28",
+        "facility_run_date": "0870-85-38",
+        "facility_run_id": "67129e3c68",
+        "file_format": "294aaeab2d",
+        "file_name": "91c50a73df",
+        "file_size": 85,
+        "ga4gh_drs_uri": "3c609203e7",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_a29cd85d71"
+        },
+        "md5sum": "4748e0719e7eacf65d66a7d55fcd2858",
+        "submitter_id": "lipidomics_file_972ce3588e",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 44.20156147243303,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "82982ffd7f",
+        "facility_run_date": "1600-05-02",
+        "facility_run_id": "278b0f6656",
+        "file_format": "febe886ae5",
+        "file_name": "b2d0157ce4",
+        "file_size": 90,
+        "ga4gh_drs_uri": "f07f869d7e",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_5f7ed04abd"
+        },
+        "md5sum": "7a015846753fe62b1685e50413972dff",
+        "submitter_id": "lipidomics_file_88faecfff9",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 91.46997617732566,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "cacee14dd9",
+        "facility_run_date": "3295-75-22",
+        "facility_run_id": "4f0e8405fa",
+        "file_format": "2ca8d00ec0",
+        "file_name": "c7e1fb6d24",
+        "file_size": 29,
+        "ga4gh_drs_uri": "40a77e7d1a",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_95b2b91701"
+        },
+        "md5sum": "e4d9b215185596cfd0e6633c19c795c4",
+        "submitter_id": "lipidomics_file_07090a618f",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 36.56042445368307,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "9629696f30",
+        "facility_run_date": "3657-76-19",
+        "facility_run_id": "4ee50d5229",
+        "file_format": "7fd1ce09ec",
+        "file_name": "9a8ab6364d",
+        "file_size": 18,
+        "ga4gh_drs_uri": "35276a39cc",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_e0c99bcdf9"
+        },
+        "md5sum": "3f5e3edf91485b2b8780c16db42ebb00",
+        "submitter_id": "lipidomics_file_0e102c00ab",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 50.310345719890435,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "ac8e0cda16",
+        "facility_run_date": "1675-08-16",
+        "facility_run_id": "b4cac9327d",
+        "file_format": "6403939ac1",
+        "file_name": "5468b4e0ab",
+        "file_size": 4,
+        "ga4gh_drs_uri": "a3142a1a8e",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_4bf00d7074"
+        },
+        "md5sum": "d3fdbb97066770cc5843558fe0982f89",
+        "submitter_id": "lipidomics_file_0d9e2d1eee",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 46.918168206982934,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "304a689f45",
+        "facility_run_date": "8074-87-36",
+        "facility_run_id": "8749b2716d",
+        "file_format": "e9a5cae659",
+        "file_name": "15830b6686",
+        "file_size": 72,
+        "ga4gh_drs_uri": "095cfbdfed",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_977d6f1f19"
+        },
+        "md5sum": "b0d400b855652aac9a329cb95ae07250",
+        "submitter_id": "lipidomics_file_f5f48fedec",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 89.9371079814437,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "aa7fe72bd3",
+        "facility_run_date": "4427-07-10",
+        "facility_run_id": "1204e88555",
+        "file_format": "d3597e5227",
+        "file_name": "9a8cd1c2fc",
+        "file_size": 96,
+        "ga4gh_drs_uri": "4f3c95f053",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_e0ec5e2a27"
+        },
+        "md5sum": "e6d22c313601a4282fa7de044d0054c9",
+        "submitter_id": "lipidomics_file_6b792c483d",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 30.09490574644159,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "c8b4e97023",
+        "facility_run_date": "4615-95-11",
+        "facility_run_id": "1d805104c1",
+        "file_format": "c402f0d9a2",
+        "file_name": "0bbbbd6095",
+        "file_size": 92,
+        "ga4gh_drs_uri": "6ae0764886",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_42beae20c5"
+        },
+        "md5sum": "592a9cc2f7132639486a2a5953cb49e8",
+        "submitter_id": "lipidomics_file_2f36314039",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 85.15971060055583,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "503bd7a5ed",
+        "facility_run_date": "6662-85-22",
+        "facility_run_id": "10de3b6398",
+        "file_format": "1c887e5dbb",
+        "file_name": "a4c4feaf29",
+        "file_size": 64,
+        "ga4gh_drs_uri": "370e64549b",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_aa329285c0"
+        },
+        "md5sum": "f2497433fd3e05140def15232d334a4f",
+        "submitter_id": "lipidomics_file_1611c04344",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 33.93455397915177,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "cc54230bf2",
+        "facility_run_date": "6838-94-56",
+        "facility_run_id": "d386a009ed",
+        "file_format": "35a3a6aca5",
+        "file_name": "443d2fd12a",
+        "file_size": 55,
+        "ga4gh_drs_uri": "cf7efce3e5",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_de8325fcf0"
+        },
+        "md5sum": "542496e0fcf50fac26678dfeac42fde7",
+        "submitter_id": "lipidomics_file_5587e6e423",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 17.642327575167528,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "40b19b668f",
+        "facility_run_date": "0031-65-02",
+        "facility_run_id": "b63e0cf52f",
+        "file_format": "7f74b5305c",
+        "file_name": "7ca514ab72",
+        "file_size": 5,
+        "ga4gh_drs_uri": "35383ae82b",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_9b38dc07d1"
+        },
+        "md5sum": "013f2ac0c7a7f7b41bc7140a6c302482",
+        "submitter_id": "lipidomics_file_a452d4d053",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 96.63216016962997,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "e2e0666e95",
+        "facility_run_date": "0439-84-81",
+        "facility_run_id": "38deed6b99",
+        "file_format": "068bb7f93a",
+        "file_name": "951166f985",
+        "file_size": 65,
+        "ga4gh_drs_uri": "1bd5b56d07",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_96f4bfdbb9"
+        },
+        "md5sum": "973683b8b0f3c42f2c98eb7641936285",
+        "submitter_id": "lipidomics_file_6d8ea5f612",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 37.487585765648866,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "18d0249d58",
+        "facility_run_date": "4848-92-20",
+        "facility_run_id": "a08fb46361",
+        "file_format": "94ff0ffbc0",
+        "file_name": "72ab51e188",
+        "file_size": 53,
+        "ga4gh_drs_uri": "05cb465a35",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_4337e8c3b6"
+        },
+        "md5sum": "9bb05ce2ca64728455b6bdb49d74fc3a",
+        "submitter_id": "lipidomics_file_bab1ac1fea",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 62.0298237932406,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "bbea7cf2c0",
+        "facility_run_date": "4257-81-10",
+        "facility_run_id": "1a59f94b05",
+        "file_format": "bdb97aefed",
+        "file_name": "476d022d02",
+        "file_size": 6,
+        "ga4gh_drs_uri": "4c056a32fb",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_8aa91fba3c"
+        },
+        "md5sum": "427dee8be48399ad46b2007aa33012fa",
+        "submitter_id": "lipidomics_file_30a5e2f3e4",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 29.32117328046646,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "c4b99f41e9",
+        "facility_run_date": "7630-46-80",
+        "facility_run_id": "9a235639e8",
+        "file_format": "0b4cf230af",
+        "file_name": "8e1c4e28f6",
+        "file_size": 79,
+        "ga4gh_drs_uri": "a4128d062e",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_f8087c5028"
+        },
+        "md5sum": "291cad31b0d18586326e1a5efbea88ca",
+        "submitter_id": "lipidomics_file_c49f53bab6",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 47.94098200432339,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "69d86c804d",
+        "facility_run_date": "7014-54-65",
+        "facility_run_id": "23c4387aff",
+        "file_format": "dbe9c56b5e",
+        "file_name": "91b8c38a31",
+        "file_size": 99,
+        "ga4gh_drs_uri": "bda2a4f7df",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_5363488cc0"
+        },
+        "md5sum": "1920ad65936dc512997987bc63b397e0",
+        "submitter_id": "lipidomics_file_94cb572497",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 8.861179637874294,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "c732761123",
+        "facility_run_date": "1033-05-10",
+        "facility_run_id": "2ca4de444d",
+        "file_format": "a831622d53",
+        "file_name": "a2bbeaa8e6",
+        "file_size": 41,
+        "ga4gh_drs_uri": "5b7951a048",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_c28a2b9774"
+        },
+        "md5sum": "50a5d9c0966a99abf926039d8ea2aba4",
+        "submitter_id": "lipidomics_file_4e0b9053e3",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 11.698824445923318,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "a97442ec74",
+        "facility_run_date": "8525-96-02",
+        "facility_run_id": "d7429009db",
+        "file_format": "a2e89e1d91",
+        "file_name": "79800857dd",
+        "file_size": 21,
+        "ga4gh_drs_uri": "9fc3b5cc00",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_7308de4000"
+        },
+        "md5sum": "a0429d598b439abde074030555817d1c",
+        "submitter_id": "lipidomics_file_aa2807aadb",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 85.79358395467553,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "e136c7d88c",
+        "facility_run_date": "8132-45-52",
+        "facility_run_id": "2b76037d1d",
+        "file_format": "39c24ee05b",
+        "file_name": "f50f53694a",
+        "file_size": 30,
+        "ga4gh_drs_uri": "94c8858d41",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_822e08e0af"
+        },
+        "md5sum": "bc09632d20b1b71072d0d962544ed9a8",
+        "submitter_id": "lipidomics_file_15d5b38a74",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 58.120099565823665,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "40d8ad7c45",
+        "facility_run_date": "0439-44-25",
+        "facility_run_id": "d28a321e05",
+        "file_format": "331481cfe5",
+        "file_name": "10b0772f77",
+        "file_size": 96,
+        "ga4gh_drs_uri": "507d9d2f25",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_c9c709251c"
+        },
+        "md5sum": "e424901f8ce3a6fc94a8bcc81785428e",
+        "submitter_id": "lipidomics_file_ffda926c7f",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 22.206140430411182,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "2a5fe7f60f",
+        "facility_run_date": "4051-22-54",
+        "facility_run_id": "583d7c44d9",
+        "file_format": "2ed2bd77dd",
+        "file_name": "faa76b2d3e",
+        "file_size": 83,
+        "ga4gh_drs_uri": "8d9252234c",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_c82eba1ad9"
+        },
+        "md5sum": "f58d4a8877133234f354f2c36c3eede4",
+        "submitter_id": "lipidomics_file_60b529b90b",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 16.01406668109977,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "dac265e483",
+        "facility_run_date": "2323-06-09",
+        "facility_run_id": "7e54f653cb",
+        "file_format": "be4121878d",
+        "file_name": "fb0e702ad6",
+        "file_size": 69,
+        "ga4gh_drs_uri": "a572087836",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_4d1abe974a"
+        },
+        "md5sum": "c1d0739fd76f0e2d4c27b313814b652d",
+        "submitter_id": "lipidomics_file_3006297543",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 24.700239654069435,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "a52e9951ed",
+        "facility_run_date": "3850-71-02",
+        "facility_run_id": "d7821a4f0e",
+        "file_format": "bcf93e8cda",
+        "file_name": "4129fa57a5",
+        "file_size": 71,
+        "ga4gh_drs_uri": "f743f4f568",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_6c2d788363"
+        },
+        "md5sum": "ba8e207529c4b928e42c2f926abafeb5",
+        "submitter_id": "lipidomics_file_ce57532a42",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 21.784535095284053,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "3bc627a57c",
+        "facility_run_date": "2476-25-02",
+        "facility_run_id": "392afa06f4",
+        "file_format": "89913d4028",
+        "file_name": "deb4281719",
+        "file_size": 23,
+        "ga4gh_drs_uri": "6300c0ad1b",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_c097692962"
+        },
+        "md5sum": "6c6ddb33eade9d32830e801fbf163b1d",
+        "submitter_id": "lipidomics_file_4ce026b598",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 27.021779919542666,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "839e452d77",
+        "facility_run_date": "4050-71-44",
+        "facility_run_id": "27546f35d5",
+        "file_format": "1084997011",
+        "file_name": "583420a19e",
+        "file_size": 80,
+        "ga4gh_drs_uri": "e0359b03a1",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_6fb178bae3"
+        },
+        "md5sum": "7641c445abbdd5d13c628f57f3220d9b",
+        "submitter_id": "lipidomics_file_fc98bf87e0",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 45.18537188774846,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "da98d21b8a",
+        "facility_run_date": "7603-24-99",
+        "facility_run_id": "43c7fd495a",
+        "file_format": "2bdb9a3a44",
+        "file_name": "982d96cf72",
+        "file_size": 65,
+        "ga4gh_drs_uri": "8f92f7df44",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_dc469c3b80"
+        },
+        "md5sum": "8be9ddbadf746e443b0bc90cce57be2d",
+        "submitter_id": "lipidomics_file_b9483e5def",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 70.44229628002107,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "ad3e14303b",
+        "facility_run_date": "1265-77-68",
+        "facility_run_id": "591d0df358",
+        "file_format": "1b4cb635f9",
+        "file_name": "603c71ea80",
+        "file_size": 14,
+        "ga4gh_drs_uri": "d3c59bfc29",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_54570edf45"
+        },
+        "md5sum": "82f424f4cad9e56acd8041bb88d79661",
+        "submitter_id": "lipidomics_file_284f849925",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 57.90236471989959,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "388fe6d1be",
+        "facility_run_date": "1735-31-21",
+        "facility_run_id": "0715379c54",
+        "file_format": "353c3890bb",
+        "file_name": "61aa1e22e9",
+        "file_size": 52,
+        "ga4gh_drs_uri": "d5e76bf455",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_49e6b1093b"
+        },
+        "md5sum": "3c9244acb80e537952d0d7db8938b2eb",
+        "submitter_id": "lipidomics_file_f5e764435f",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 48.34818234823507,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "513d3170d4",
+        "facility_run_date": "5558-93-25",
+        "facility_run_id": "89927316af",
+        "file_format": "933a83c17d",
+        "file_name": "5cf630f5ab",
+        "file_size": 97,
+        "ga4gh_drs_uri": "35ff8fe11d",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_026029c2ab"
+        },
+        "md5sum": "3b88f0bfa0442ad161c97785f201f6a3",
+        "submitter_id": "lipidomics_file_9b07a86330",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 67.83895157203176,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "0b793e753c",
+        "facility_run_date": "7666-06-82",
+        "facility_run_id": "d215b425de",
+        "file_format": "fefa21a759",
+        "file_name": "0f6f5762b8",
+        "file_size": 33,
+        "ga4gh_drs_uri": "20af68acc4",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_67b70ffaa8"
+        },
+        "md5sum": "9d8be93167aa61b6e03b94723ea1d781",
+        "submitter_id": "lipidomics_file_a7433da16c",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 11.137066044447696,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "d50276127a",
+        "facility_run_date": "7951-48-92",
+        "facility_run_id": "b606dabfb7",
+        "file_format": "e22a055cfb",
+        "file_name": "ecaa05cc32",
+        "file_size": 45,
+        "ga4gh_drs_uri": "1eece238ea",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_23861bc450"
+        },
+        "md5sum": "46de6b32cc5d3dcc354f9417a5b1845e",
+        "submitter_id": "lipidomics_file_ebf3d3c37b",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 45.054375350022994,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "445bcd0df6",
+        "facility_run_date": "0177-39-36",
+        "facility_run_id": "8ab531612e",
+        "file_format": "aa221d40e0",
+        "file_name": "7c390e888d",
+        "file_size": 42,
+        "ga4gh_drs_uri": "d38228163e",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_3a6b8d6257"
+        },
+        "md5sum": "82b36f3c10f7c19ec08fd00788b5fc1b",
+        "submitter_id": "lipidomics_file_ded13504c2",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 50.460001268297226,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "09cdff9704",
+        "facility_run_date": "9486-77-03",
+        "facility_run_id": "80e34bd0ba",
+        "file_format": "718e10076c",
+        "file_name": "7be933724c",
+        "file_size": 29,
+        "ga4gh_drs_uri": "344dc14ed4",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_410ca4441b"
+        },
+        "md5sum": "b3699f16ef0b1f8ddd78be8a24180d79",
+        "submitter_id": "lipidomics_file_775dadb29c",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 74.1961265824107,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "b2e4108877",
+        "facility_run_date": "4107-83-90",
+        "facility_run_id": "d51695fa98",
+        "file_format": "e54b943af2",
+        "file_name": "4e01bd5e12",
+        "file_size": 82,
+        "ga4gh_drs_uri": "bb66d3d8a0",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_22ac618bc0"
+        },
+        "md5sum": "ee7dfa76f5030ec73b48eca50e026345",
+        "submitter_id": "lipidomics_file_de99b19353",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 97.06220183244712,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "7054f7f9db",
+        "facility_run_date": "2724-50-46",
+        "facility_run_id": "7fcae01557",
+        "file_format": "4c993ec3c0",
+        "file_name": "f4ecf79c52",
+        "file_size": 82,
+        "ga4gh_drs_uri": "9b0e7ba262",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_fc51bf5f4f"
+        },
+        "md5sum": "5505fc6312d8ef9d568a0b038659584f",
+        "submitter_id": "lipidomics_file_30f131b07c",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 97.62707439018531,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "09f4dd0eb3",
+        "facility_run_date": "2992-88-24",
+        "facility_run_id": "05ed131fd1",
+        "file_format": "d15f1b53c7",
+        "file_name": "d08b209d8a",
+        "file_size": 89,
+        "ga4gh_drs_uri": "53fc3ecbec",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_7f51654aa7"
+        },
+        "md5sum": "4f1c1bddeb920ddcf1bc520c002fe40d",
+        "submitter_id": "lipidomics_file_f5fd7774a6",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 20.036458893617514,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "abd37ff6af",
+        "facility_run_date": "0990-68-98",
+        "facility_run_id": "a9aaccda10",
+        "file_format": "11cf1ddc86",
+        "file_name": "078e76cb22",
+        "file_size": 95,
+        "ga4gh_drs_uri": "04aa9bd7c9",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_bf1b37fc83"
+        },
+        "md5sum": "b2d4bb164fd076283f7b60405092d42f",
+        "submitter_id": "lipidomics_file_c9e05da172",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 51.17062345428939,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "0829776184",
+        "facility_run_date": "0795-86-67",
+        "facility_run_id": "55befaa659",
+        "file_format": "c99037ade7",
+        "file_name": "550ed5e7b5",
+        "file_size": 92,
+        "ga4gh_drs_uri": "0e21c1b762",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_ea0ff6bf96"
+        },
+        "md5sum": "36e582cc40538598a18964aebe005aad",
+        "submitter_id": "lipidomics_file_a3eed3c680",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 2.4378049523068768,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "cacadef674",
+        "facility_run_date": "2038-57-81",
+        "facility_run_id": "ae7a65cb32",
+        "file_format": "050a894ed4",
+        "file_name": "a9c5f5ca25",
+        "file_size": 6,
+        "ga4gh_drs_uri": "bb4a9d5c22",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_c3c84ad2c0"
+        },
+        "md5sum": "3caea2925f475e68d851dfb3ae67b793",
+        "submitter_id": "lipidomics_file_f1a898c852",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 64.84432108692373,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "8276dc2e31",
+        "facility_run_date": "6396-05-62",
+        "facility_run_id": "8b8781ca26",
+        "file_format": "2f81ec28b5",
+        "file_name": "5820d5f3ca",
+        "file_size": 67,
+        "ga4gh_drs_uri": "d2177d0e6f",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_9446bbb26d"
+        },
+        "md5sum": "f2e36a94a97f1d3711509fda89eaa91f",
+        "submitter_id": "lipidomics_file_7b20b7ad6a",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 10.819158930740292,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "cb756de978",
+        "facility_run_date": "7580-26-66",
+        "facility_run_id": "4d002f541a",
+        "file_format": "d2c447ced3",
+        "file_name": "a52bb189ca",
+        "file_size": 47,
+        "ga4gh_drs_uri": "810d3d0407",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_41c32114ce"
+        },
+        "md5sum": "8bfca6078b895b25d2b9750f88297a67",
+        "submitter_id": "lipidomics_file_511771e6fe",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 60.417984143908974,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "7a5098eb39",
+        "facility_run_date": "5492-19-63",
+        "facility_run_id": "9c96710ce9",
+        "file_format": "c9b7f75cbe",
+        "file_name": "bbf00da2ff",
+        "file_size": 37,
+        "ga4gh_drs_uri": "3f5d9e23d0",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_d0a82b15e4"
+        },
+        "md5sum": "40c8a096f8b988a16d8b1d5e5d9f0908",
+        "submitter_id": "lipidomics_file_0b6d353bc4",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 47.94965203625574,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "9b48734f85",
+        "facility_run_date": "4638-76-44",
+        "facility_run_id": "9a788c5cb5",
+        "file_format": "005c43ef43",
+        "file_name": "b587774e66",
+        "file_size": 84,
+        "ga4gh_drs_uri": "16e7458227",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_ec159312a1"
+        },
+        "md5sum": "5dee12532a1cbbf80499f2b2886ed7d9",
+        "submitter_id": "lipidomics_file_ce78fbd285",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 88.37991873560213,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "9448662a01",
+        "facility_run_date": "6239-75-08",
+        "facility_run_id": "e470ef4cb7",
+        "file_format": "c14ee5334b",
+        "file_name": "974fe17781",
+        "file_size": 6,
+        "ga4gh_drs_uri": "b0923c9208",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_433e052538"
+        },
+        "md5sum": "ce148a42962ed6bb60f8d32f731cc2fa",
+        "submitter_id": "lipidomics_file_19e610ba9d",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 67.51423482896246,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "9c2c2a6c64",
+        "facility_run_date": "0252-39-27",
+        "facility_run_id": "d65919daa1",
+        "file_format": "b1b0166e00",
+        "file_name": "782ff7e610",
+        "file_size": 25,
+        "ga4gh_drs_uri": "991aa7b006",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_d5cdd84f2c"
+        },
+        "md5sum": "f68245eb635f9fd966119998a2d1ac43",
+        "submitter_id": "lipidomics_file_898c03a216",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 3.922645297181482,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "5611f82044",
+        "facility_run_date": "9354-20-29",
+        "facility_run_id": "d287869a8e",
+        "file_format": "c29f1f1872",
+        "file_name": "5ddc3d2cb0",
+        "file_size": 69,
+        "ga4gh_drs_uri": "5907b53f03",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_b559e1a0e7"
+        },
+        "md5sum": "adbf13e9f8a7edc7d7d1a98733604ab4",
+        "submitter_id": "lipidomics_file_2e474aec0c",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 66.15770515447949,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "eadd2f6c20",
+        "facility_run_date": "3164-55-44",
+        "facility_run_id": "74f1ab221d",
+        "file_format": "0420ad59af",
+        "file_name": "2969af4881",
+        "file_size": 64,
+        "ga4gh_drs_uri": "293a892ad7",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_cbdce27d9d"
+        },
+        "md5sum": "3cd40ea0345e9fe924e7778776428b59",
+        "submitter_id": "lipidomics_file_09d34fef7c",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 88.4304353991808,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "efe784ebe3",
+        "facility_run_date": "6293-48-94",
+        "facility_run_id": "289ffa5c39",
+        "file_format": "621974f72d",
+        "file_name": "b3d6f78beb",
+        "file_size": 0,
+        "ga4gh_drs_uri": "59babc029a",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_401fa10c4e"
+        },
+        "md5sum": "6c75b19723a5ea61cc4ae4b6fc0c486f",
+        "submitter_id": "lipidomics_file_d4ef02081c",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 90.53622023728171,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "c0e21ac968",
+        "facility_run_date": "3856-45-67",
+        "facility_run_id": "f5ead94132",
+        "file_format": "3d32e26d5b",
+        "file_name": "822f898816",
+        "file_size": 54,
+        "ga4gh_drs_uri": "e075ff8fd2",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_7f3ebd189c"
+        },
+        "md5sum": "0a870514191e38a37f862a188c24de34",
+        "submitter_id": "lipidomics_file_a61cc0aefa",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 45.43127730582941,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "4a9db9f17c",
+        "facility_run_date": "4471-55-17",
+        "facility_run_id": "e1536c2218",
+        "file_format": "d1b1da968a",
+        "file_name": "0abf234ecf",
+        "file_size": 53,
+        "ga4gh_drs_uri": "580af7afc2",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_79ce46619e"
+        },
+        "md5sum": "384ce9697672282ec9f593c3c7c455c4",
+        "submitter_id": "lipidomics_file_6c9e0b2e85",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 62.15933846013124,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "f38f9c2fc1",
+        "facility_run_date": "4663-85-27",
+        "facility_run_id": "8b5aef1ddb",
+        "file_format": "f14c4519a9",
+        "file_name": "88183946f8",
+        "file_size": 9,
+        "ga4gh_drs_uri": "c292c23704",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_e4191f6ce7"
+        },
+        "md5sum": "cf42fdcee57259fbf6387fd7b4549d74",
+        "submitter_id": "lipidomics_file_ffcc8a3de7",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 82.80844239378666,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "d41513b877",
+        "facility_run_date": "2110-25-53",
+        "facility_run_id": "d9f96b1f42",
+        "file_format": "83537237da",
+        "file_name": "3ed7f6e1fb",
+        "file_size": 25,
+        "ga4gh_drs_uri": "85e2ccc1fb",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_31311bbf99"
+        },
+        "md5sum": "765f39a5d2d89e9c013f8eb3d9848b9c",
+        "submitter_id": "lipidomics_file_91ea6380e0",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 36.816561554585014,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "e23bc64628",
+        "facility_run_date": "4372-01-23",
+        "facility_run_id": "e6197ddb3e",
+        "file_format": "42c8cc31b3",
+        "file_name": "795d2bd75b",
+        "file_size": 75,
+        "ga4gh_drs_uri": "a0a05047a8",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_4f0df2d0a3"
+        },
+        "md5sum": "b9235948f1a21e6d9fdebce644c52e22",
+        "submitter_id": "lipidomics_file_30efe79b6e",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 8.160094133108709,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "a858304fbc",
+        "facility_run_date": "6524-72-90",
+        "facility_run_id": "fa5ec7cb2a",
+        "file_format": "67729a7526",
+        "file_name": "8a0c07a3a5",
+        "file_size": 80,
+        "ga4gh_drs_uri": "7754c372a4",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_79cba7405f"
+        },
+        "md5sum": "9a8468fce48a317ba6e2fd98a03ceafe",
+        "submitter_id": "lipidomics_file_c42f9bb824",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 16.782818309094615,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "c92e88ecdf",
+        "facility_run_date": "9561-18-73",
+        "facility_run_id": "849a7d587c",
+        "file_format": "be5fc15852",
+        "file_name": "a154889385",
+        "file_size": 80,
+        "ga4gh_drs_uri": "1d52888e24",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_d01c4ec398"
+        },
+        "md5sum": "ea81aaa6527f23eeb4eec761010e4b14",
+        "submitter_id": "lipidomics_file_f6dbbba79d",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 97.64900091548671,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "207aa5a623",
+        "facility_run_date": "1531-07-29",
+        "facility_run_id": "b62886bbed",
+        "file_format": "61f2d80265",
+        "file_name": "3629bd31c5",
+        "file_size": 62,
+        "ga4gh_drs_uri": "62c14a053e",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_9b089ea3b2"
+        },
+        "md5sum": "654242f8bdc327a036ba4881146e619f",
+        "submitter_id": "lipidomics_file_da2233339b",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 47.20220518235235,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "556d4145ab",
+        "facility_run_date": "8105-45-64",
+        "facility_run_id": "9d61323d69",
+        "file_format": "8bedb79cad",
+        "file_name": "8b66406f45",
+        "file_size": 90,
+        "ga4gh_drs_uri": "62954caa0b",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_8e9176a729"
+        },
+        "md5sum": "4de1fef74077a4752d521d353585ef99",
+        "submitter_id": "lipidomics_file_9212952bb3",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 37.825961797302746,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "82a2888261",
+        "facility_run_date": "9993-51-72",
+        "facility_run_id": "1738cbdf21",
+        "file_format": "9495e18f63",
+        "file_name": "8b8083d796",
+        "file_size": 28,
+        "ga4gh_drs_uri": "54aed569cd",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_87b75784c7"
+        },
+        "md5sum": "668d67426ee65d68ec95d65f026918aa",
+        "submitter_id": "lipidomics_file_a7610e4ab1",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 1.829685071992404,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "58ba3f56f9",
+        "facility_run_date": "6947-71-09",
+        "facility_run_id": "49363c38fc",
+        "file_format": "6e13e9d934",
+        "file_name": "93a265cccb",
+        "file_size": 69,
+        "ga4gh_drs_uri": "8ad2d17bdb",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_b8b3f47bcf"
+        },
+        "md5sum": "8fdfcac7a0ca9874b11ae237d5cbdc91",
+        "submitter_id": "lipidomics_file_d9adb968ba",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 70.31795724667964,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "431ca8df1e",
+        "facility_run_date": "8674-19-57",
+        "facility_run_id": "46c8b1539c",
+        "file_format": "58baae726e",
+        "file_name": "eba5908ad0",
+        "file_size": 0,
+        "ga4gh_drs_uri": "0a5ea1b1b9",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_f4483cb7bf"
+        },
+        "md5sum": "8ae059246fe562b5e1bdc120414191ca",
+        "submitter_id": "lipidomics_file_a7182fda35",
+        "type": "lipidomics_file"
+    },
+    {
+        "cv": 2.324720690331561,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "9e48fc5307",
+        "facility_run_date": "6515-57-04",
+        "facility_run_id": "c63dcd2602",
+        "file_format": "97c96536a3",
+        "file_name": "45595a7fdd",
+        "file_size": 44,
+        "ga4gh_drs_uri": "9f625cf678",
+        "lipidomics_assays": {
+            "submitter_id": "lipidomics_assay_ffa318c82b"
+        },
+        "md5sum": "84320b4ece1c35007dc79dfbc71f44ce",
+        "submitter_id": "lipidomics_file_814e29cf40",
+        "type": "lipidomics_file"
+    }
+]

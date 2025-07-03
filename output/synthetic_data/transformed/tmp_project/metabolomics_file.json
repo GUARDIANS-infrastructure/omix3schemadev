@@ -1,0 +1,2202 @@
+[
+    {
+        "cv": 93.21976962616446,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "a1d39cd2f4",
+        "facility_run_date": "2947-73-70",
+        "facility_run_id": "037991ded2",
+        "file_format": "bfb6faebd3",
+        "file_name": "dummy_clinical",
+        "file_size": 56,
+        "ga4gh_drs_uri": "63ca296f18",
+        "md5sum": "1928a5a7d33cd27c67f98a3debb16be2",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_600c17c0f3"
+        },
+        "submitter_id": "metabolomics_file_5095098edb",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 91.16735499542426,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "f804d21713",
+        "facility_run_date": "0435-95-08",
+        "facility_run_id": "8a53de8cc9",
+        "file_format": "38e3c7b5d8",
+        "file_name": "dummy_clinical",
+        "file_size": 48,
+        "ga4gh_drs_uri": "abf003da0a",
+        "md5sum": "f020be0b50dc9e460659c249447a729e",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_a70e5eb10a"
+        },
+        "submitter_id": "metabolomics_file_713b7e0c9e",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 21.394932892948994,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "291d68146d",
+        "facility_run_date": "7173-68-38",
+        "facility_run_id": "f916549e73",
+        "file_format": "f0695abf1b",
+        "file_name": "dummy_clinical",
+        "file_size": 29,
+        "ga4gh_drs_uri": "439503e4b8",
+        "md5sum": "3db057df4b4ed8c7daf25e8b5acc9647",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_0f8ca51fa8"
+        },
+        "submitter_id": "metabolomics_file_5a54562832",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 91.35917583495127,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "7cb1fc34ce",
+        "facility_run_date": "0897-44-84",
+        "facility_run_id": "ed7e3cf1a2",
+        "file_format": "9a2c88b44e",
+        "file_name": "dummy_clinical",
+        "file_size": 55,
+        "ga4gh_drs_uri": "03e5e5d3ce",
+        "md5sum": "810d2f27251451f9e10ac4e22aa4bf55",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_237a17f443"
+        },
+        "submitter_id": "metabolomics_file_ef58fecbb3",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 62.367851621590866,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "cb1de7300d",
+        "facility_run_date": "2723-38-11",
+        "facility_run_id": "b3930fc411",
+        "file_format": "52cc768b46",
+        "file_name": "dummy_clinical",
+        "file_size": 21,
+        "ga4gh_drs_uri": "28d07ab7e8",
+        "md5sum": "30eacdad05cad966571700845161d3a0",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_d6df431f0b"
+        },
+        "submitter_id": "metabolomics_file_2413b6f075",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 19.67367260469507,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "2c92770447",
+        "facility_run_date": "2131-40-75",
+        "facility_run_id": "276ba65407",
+        "file_format": "6d3a43e001",
+        "file_name": "dummy_clinical",
+        "file_size": 23,
+        "ga4gh_drs_uri": "453c590a6e",
+        "md5sum": "8b2290db0320dcde97f3f5b5a4e0b9fa",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4b944c8d5b"
+        },
+        "submitter_id": "metabolomics_file_8c15a2315d",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 71.86017449390413,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "99bdf1754e",
+        "facility_run_date": "8707-72-54",
+        "facility_run_id": "87dc37ceb4",
+        "file_format": "2970924791",
+        "file_name": "dummy_clinical",
+        "file_size": 77,
+        "ga4gh_drs_uri": "ddb823a991",
+        "md5sum": "1445283e145116e3aae87802a0fa8fc5",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_1af2253863"
+        },
+        "submitter_id": "metabolomics_file_5423139538",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 35.216711180518445,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "a08b188c78",
+        "facility_run_date": "5870-04-50",
+        "facility_run_id": "4312f0fa32",
+        "file_format": "f681507b03",
+        "file_name": "dummy_clinical",
+        "file_size": 4,
+        "ga4gh_drs_uri": "61c05742b7",
+        "md5sum": "22c1bbabd5a63b494d7363561696c99c",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_b4532db07a"
+        },
+        "submitter_id": "metabolomics_file_bee68084bb",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 78.94406051518362,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "65e7a23a6e",
+        "facility_run_date": "0612-00-91",
+        "facility_run_id": "2790707424",
+        "file_format": "78777a87f9",
+        "file_name": "dummy_clinical",
+        "file_size": 70,
+        "ga4gh_drs_uri": "eb44a1b704",
+        "md5sum": "d210571e6916af7fb620f539761dafbc",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_c8c31d51fc"
+        },
+        "submitter_id": "metabolomics_file_3df3340c93",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 5.989942402058612,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "4df170dcae",
+        "facility_run_date": "7146-52-42",
+        "facility_run_id": "b9f8b64767",
+        "file_format": "7605491e45",
+        "file_name": "dummy_clinical",
+        "file_size": 42,
+        "ga4gh_drs_uri": "05cb2cb4ca",
+        "md5sum": "a8a471fc7211044262e7939913d53086",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_389ec047b9"
+        },
+        "submitter_id": "metabolomics_file_9d9fc10cf2",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 17.721181301023293,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "40f845eb4c",
+        "facility_run_date": "7427-60-07",
+        "facility_run_id": "70329d2eed",
+        "file_format": "34b1e0840c",
+        "file_name": "dummy_clinical",
+        "file_size": 38,
+        "ga4gh_drs_uri": "69b7365dbf",
+        "md5sum": "39da37a084695b0bbca22bc1bf953c78",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_9d51a98627"
+        },
+        "submitter_id": "metabolomics_file_1f9b851d57",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 19.655520551812856,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "541833efb6",
+        "facility_run_date": "7589-57-57",
+        "facility_run_id": "69cd300c72",
+        "file_format": "cd9a54ebfc",
+        "file_name": "dummy_clinical",
+        "file_size": 94,
+        "ga4gh_drs_uri": "30c02d6882",
+        "md5sum": "746a855703f882be25af31dda3671f3f",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_3d66588279"
+        },
+        "submitter_id": "metabolomics_file_d7573084c9",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 41.852106763380846,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "484d6b3222",
+        "facility_run_date": "0462-27-54",
+        "facility_run_id": "6708856269",
+        "file_format": "f1121b4d6b",
+        "file_name": "dummy_clinical",
+        "file_size": 46,
+        "ga4gh_drs_uri": "d929f8fe5d",
+        "md5sum": "04497a50649ff4842b6924f7ba93e5ab",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_0fcc816dc3"
+        },
+        "submitter_id": "metabolomics_file_19914726b5",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 78.31236194632862,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "db4600416c",
+        "facility_run_date": "4476-86-79",
+        "facility_run_id": "1909696dbc",
+        "file_format": "f281465b3b",
+        "file_name": "dummy_clinical",
+        "file_size": 66,
+        "ga4gh_drs_uri": "1eabc3792f",
+        "md5sum": "16bc1ea23c5bae0625ed9db34084e057",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_db47d4798f"
+        },
+        "submitter_id": "metabolomics_file_226c9c0e44",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 76.72872484146855,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "8b1a27b77a",
+        "facility_run_date": "5527-26-99",
+        "facility_run_id": "dae13abe28",
+        "file_format": "91f06a528d",
+        "file_name": "dummy_clinical",
+        "file_size": 82,
+        "ga4gh_drs_uri": "875ddd211c",
+        "md5sum": "42ac81569034027308f9c81193a62d52",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_9df480bb04"
+        },
+        "submitter_id": "metabolomics_file_d4cb899fec",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 55.42022794666956,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "69283cfd4c",
+        "facility_run_date": "7007-69-76",
+        "facility_run_id": "5fa433e06f",
+        "file_format": "6edb896ba9",
+        "file_name": "dummy_clinical",
+        "file_size": 41,
+        "ga4gh_drs_uri": "f14492b9f6",
+        "md5sum": "57ef46ff5a9159285c42a0c10eb7b6c8",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4487187cd6"
+        },
+        "submitter_id": "metabolomics_file_2259c0cb54",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 64.92826832804765,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "98cd55c8d4",
+        "facility_run_date": "3129-82-97",
+        "facility_run_id": "9c4c187ae4",
+        "file_format": "0412f115f3",
+        "file_name": "dummy_clinical",
+        "file_size": 2,
+        "ga4gh_drs_uri": "05ef9f5dca",
+        "md5sum": "cffd102a4a526bae5676264a3c2607bd",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_89b6fe3368"
+        },
+        "submitter_id": "metabolomics_file_0f7e3cf4bd",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 23.88951430346009,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "6c1b28f633",
+        "facility_run_date": "8484-65-16",
+        "facility_run_id": "f3f01361f4",
+        "file_format": "3b699e0307",
+        "file_name": "dummy_clinical",
+        "file_size": 72,
+        "ga4gh_drs_uri": "dcf1b4df94",
+        "md5sum": "48aed0cb7429ee78389ada88fb0964a7",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_dcfbd5b687"
+        },
+        "submitter_id": "metabolomics_file_276efb6f9f",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 10.704526512519251,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "9c54454272",
+        "facility_run_date": "6256-92-61",
+        "facility_run_id": "f61072858a",
+        "file_format": "bca34501e0",
+        "file_name": "dummy_clinical",
+        "file_size": 3,
+        "ga4gh_drs_uri": "0005fddb40",
+        "md5sum": "6ae9172fbed9f26a15368f42833ca531",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_683ff7dc41"
+        },
+        "submitter_id": "metabolomics_file_905109ea69",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 55.303064486180745,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "48304837e4",
+        "facility_run_date": "5940-45-33",
+        "facility_run_id": "e62dea7bc1",
+        "file_format": "3e9f16c0ca",
+        "file_name": "dummy_clinical",
+        "file_size": 88,
+        "ga4gh_drs_uri": "8ffc06b7cf",
+        "md5sum": "0e9c4633c07d577cb501ec4cc4e68fba",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_07b4573755"
+        },
+        "submitter_id": "metabolomics_file_94b08e58f7",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 67.52631274014152,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "7aa43f9aaa",
+        "facility_run_date": "2862-70-73",
+        "facility_run_id": "d4d8b5fe26",
+        "file_format": "f59d28e799",
+        "file_name": "dummy_clinical",
+        "file_size": 68,
+        "ga4gh_drs_uri": "a26a77b44f",
+        "md5sum": "fd41d29540ff73d2de33d6a831acd750",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_673867669f"
+        },
+        "submitter_id": "metabolomics_file_7d2f7919df",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 46.498387271831554,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "be1230dc11",
+        "facility_run_date": "1608-39-26",
+        "facility_run_id": "4d39e16872",
+        "file_format": "4e0b4693d7",
+        "file_name": "dummy_clinical",
+        "file_size": 43,
+        "ga4gh_drs_uri": "1504787f0a",
+        "md5sum": "e63f81ae491f47b7bf9e05734a41cd4f",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4673f2722f"
+        },
+        "submitter_id": "metabolomics_file_4921d74c3e",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 43.9454015781676,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "22ea186a61",
+        "facility_run_date": "6085-00-17",
+        "facility_run_id": "c1c1ddcf13",
+        "file_format": "5662b4c936",
+        "file_name": "dummy_clinical",
+        "file_size": 81,
+        "ga4gh_drs_uri": "535957e0b1",
+        "md5sum": "6fecd0380f2028b7d6b6d81221a326f3",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_27c9ec4349"
+        },
+        "submitter_id": "metabolomics_file_6d606feedb",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 4.355231159497386,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "a43b0297c8",
+        "facility_run_date": "9897-79-27",
+        "facility_run_id": "08ca6b58fb",
+        "file_format": "34bf6d9621",
+        "file_name": "dummy_clinical",
+        "file_size": 73,
+        "ga4gh_drs_uri": "10ad5d27bc",
+        "md5sum": "6372be9ceebcb4594e97eccb2aaaec24",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_9c000a84b7"
+        },
+        "submitter_id": "metabolomics_file_19764dfdf9",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 13.874078138512969,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "b91eff5fff",
+        "facility_run_date": "9335-17-04",
+        "facility_run_id": "770915dcc7",
+        "file_format": "abd75f13b6",
+        "file_name": "dummy_clinical",
+        "file_size": 4,
+        "ga4gh_drs_uri": "db93cef166",
+        "md5sum": "991f11aead52298b88d1ec51b2997c49",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_22e81b40cd"
+        },
+        "submitter_id": "metabolomics_file_b6aca7e68b",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 15.949411698417826,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "8e77681e80",
+        "facility_run_date": "7550-43-68",
+        "facility_run_id": "8fa1c29412",
+        "file_format": "96cc542cbe",
+        "file_name": "dummy_clinical",
+        "file_size": 44,
+        "ga4gh_drs_uri": "7ff729fc2e",
+        "md5sum": "8a54b5582b5db1478c5b311e2e32c962",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_f2f8c60a5e"
+        },
+        "submitter_id": "metabolomics_file_40b235c000",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 86.72810904594142,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "d2666e3012",
+        "facility_run_date": "7595-61-49",
+        "facility_run_id": "ecbe025286",
+        "file_format": "564df4e82f",
+        "file_name": "dummy_clinical",
+        "file_size": 22,
+        "ga4gh_drs_uri": "544333347e",
+        "md5sum": "c1737df971ec22f59ad70a3f7e47ffcc",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_2e73c367ed"
+        },
+        "submitter_id": "metabolomics_file_2cdfc81f4e",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 91.73080926794651,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "aadd4fd741",
+        "facility_run_date": "3071-45-84",
+        "facility_run_id": "fc5a3973cc",
+        "file_format": "d4779e18ea",
+        "file_name": "dummy_clinical",
+        "file_size": 82,
+        "ga4gh_drs_uri": "d9f2cebf2e",
+        "md5sum": "401873d5ade03a341581e8115aa6c129",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_f52d0e6360"
+        },
+        "submitter_id": "metabolomics_file_1777df655d",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 24.98866410714058,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "a79b78b716",
+        "facility_run_date": "5475-90-98",
+        "facility_run_id": "43eabfbd11",
+        "file_format": "7cf1fd374f",
+        "file_name": "dummy_clinical",
+        "file_size": 34,
+        "ga4gh_drs_uri": "4aa7564959",
+        "md5sum": "5bdabe8795f70ff1d0f9f0fb83a39575",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_08ed29aa84"
+        },
+        "submitter_id": "metabolomics_file_869160779f",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 19.87148545240782,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "37f8d08f5d",
+        "facility_run_date": "9556-66-83",
+        "facility_run_id": "2c73b74ecb",
+        "file_format": "b5c8475c81",
+        "file_name": "dummy_clinical",
+        "file_size": 23,
+        "ga4gh_drs_uri": "c0d6beca9b",
+        "md5sum": "51a56c8781858d94c06651804854fc6c",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_bce5f24fdc"
+        },
+        "submitter_id": "metabolomics_file_074569d5d0",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 78.72267549577796,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "6a9c1f11ff",
+        "facility_run_date": "6323-78-43",
+        "facility_run_id": "99ecb51642",
+        "file_format": "d8d882a550",
+        "file_name": "dummy_clinical",
+        "file_size": 85,
+        "ga4gh_drs_uri": "0c6a9c824a",
+        "md5sum": "d4f3aadc3272b701c8bee045055ac6be",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_7d3bbacbb4"
+        },
+        "submitter_id": "metabolomics_file_f3d40b9aaa",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 66.07915056722663,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "497567519c",
+        "facility_run_date": "2934-98-18",
+        "facility_run_id": "3d2030a624",
+        "file_format": "91e58766a2",
+        "file_name": "dummy_clinical",
+        "file_size": 75,
+        "ga4gh_drs_uri": "5740544ec0",
+        "md5sum": "1372ba64e0cc672f6bc7003290552027",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_ab18d52545"
+        },
+        "submitter_id": "metabolomics_file_a396fa1999",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 73.16421607153886,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "25b95e51ec",
+        "facility_run_date": "2977-82-27",
+        "facility_run_id": "b151ccff3d",
+        "file_format": "78f5d2dab0",
+        "file_name": "dummy_clinical",
+        "file_size": 87,
+        "ga4gh_drs_uri": "925d973171",
+        "md5sum": "49286d2a18b8f9c43046ce4702a5edd0",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_b91f3784b3"
+        },
+        "submitter_id": "metabolomics_file_ea0591987c",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 59.05320437906011,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "e00a951af9",
+        "facility_run_date": "4781-64-65",
+        "facility_run_id": "402bccb67e",
+        "file_format": "d4d18929ff",
+        "file_name": "dummy_clinical",
+        "file_size": 21,
+        "ga4gh_drs_uri": "afee83a9ab",
+        "md5sum": "34adaecf2586500710c0bd2c98fad894",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_e9b7c7a3c7"
+        },
+        "submitter_id": "metabolomics_file_509e0d5024",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 60.864526919923875,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "bb3c8f5261",
+        "facility_run_date": "5344-32-77",
+        "facility_run_id": "fdadc98816",
+        "file_format": "075b4f45aa",
+        "file_name": "dummy_clinical",
+        "file_size": 93,
+        "ga4gh_drs_uri": "04f4baa73c",
+        "md5sum": "eb87653834b5e1df680a493c062da03e",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_2f4ec3bbe6"
+        },
+        "submitter_id": "metabolomics_file_2cadb7c1b4",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 40.55392418967344,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "7e7313b6e9",
+        "facility_run_date": "2103-16-54",
+        "facility_run_id": "55fe5ec9e3",
+        "file_format": "ecba3d0549",
+        "file_name": "dummy_clinical",
+        "file_size": 52,
+        "ga4gh_drs_uri": "6c4d6cf449",
+        "md5sum": "40409dcb6c1e9df238f32875e5d6cad0",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_e366187ed4"
+        },
+        "submitter_id": "metabolomics_file_5ee458da55",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 99.2762296359878,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "e5c0d6364a",
+        "facility_run_date": "3690-34-22",
+        "facility_run_id": "886b715159",
+        "file_format": "1f1bfca80d",
+        "file_name": "dummy_clinical",
+        "file_size": 25,
+        "ga4gh_drs_uri": "125b0fee9c",
+        "md5sum": "0b3f384a1eda9e92bf1a4a02a700a385",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_a06bc548a8"
+        },
+        "submitter_id": "metabolomics_file_a00f6cdd3a",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 77.83353717194495,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "ed85626e17",
+        "facility_run_date": "4825-96-77",
+        "facility_run_id": "312663d2aa",
+        "file_format": "282f52aa86",
+        "file_name": "dummy_clinical",
+        "file_size": 14,
+        "ga4gh_drs_uri": "1d8ebdc2fe",
+        "md5sum": "2dfe72dcc5a09f8c99b2ea84cfff9c6a",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_6325193922"
+        },
+        "submitter_id": "metabolomics_file_b236d9b951",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 95.06203493950434,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "506fbebcb3",
+        "facility_run_date": "9594-68-11",
+        "facility_run_id": "934f5b87a6",
+        "file_format": "fa2f7f2232",
+        "file_name": "dummy_clinical",
+        "file_size": 28,
+        "ga4gh_drs_uri": "9b0bdaf3d8",
+        "md5sum": "80e0bd91fee6990a15d5d952857fa95f",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_47c16b82cb"
+        },
+        "submitter_id": "metabolomics_file_495826ac11",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 0.42455634946308995,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "6ce01e52bf",
+        "facility_run_date": "4290-23-28",
+        "facility_run_id": "000795f730",
+        "file_format": "5fbccb6f1f",
+        "file_name": "dummy_clinical",
+        "file_size": 76,
+        "ga4gh_drs_uri": "8e8589e7c7",
+        "md5sum": "50e4fe6f9556cd2bd42ddacabe2766a6",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_5e7f6ff831"
+        },
+        "submitter_id": "metabolomics_file_09f4a46fc4",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 12.934758904516663,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "68d4744531",
+        "facility_run_date": "9218-02-56",
+        "facility_run_id": "dd8e908478",
+        "file_format": "9e00336a81",
+        "file_name": "dummy_clinical",
+        "file_size": 23,
+        "ga4gh_drs_uri": "5183c44d3a",
+        "md5sum": "4b57f24f7eeb0f30014c055f5414f0c4",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4d9e1ed0d2"
+        },
+        "submitter_id": "metabolomics_file_0b9e3da6d7",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 9.042624622643736,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "9c7259b260",
+        "facility_run_date": "9227-31-42",
+        "facility_run_id": "9ffef45304",
+        "file_format": "b7a8d118e5",
+        "file_name": "dummy_clinical",
+        "file_size": 87,
+        "ga4gh_drs_uri": "dcad4f149f",
+        "md5sum": "05513cd1be8aff9ec37535fbac9be03d",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_eaed5116f6"
+        },
+        "submitter_id": "metabolomics_file_24a6e68475",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 34.991608110659996,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "88288ec318",
+        "facility_run_date": "6569-55-79",
+        "facility_run_id": "57b107af29",
+        "file_format": "a3b515c114",
+        "file_name": "dummy_clinical",
+        "file_size": 36,
+        "ga4gh_drs_uri": "ebfd569b6d",
+        "md5sum": "a5ba0a0dbbaa575adcf522ae6531c4ba",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_d419fcd92a"
+        },
+        "submitter_id": "metabolomics_file_1cb487a19a",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 53.82404146939505,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "1e634b9899",
+        "facility_run_date": "6462-28-80",
+        "facility_run_id": "e4cad82cf6",
+        "file_format": "1d42a31ff5",
+        "file_name": "dummy_clinical",
+        "file_size": 95,
+        "ga4gh_drs_uri": "399b529cd3",
+        "md5sum": "15df697506b663b36f0e9ca9b2cd9df3",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_fd8fa8b2d6"
+        },
+        "submitter_id": "metabolomics_file_f9d54135fb",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 11.310340415005038,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "236653f98d",
+        "facility_run_date": "5860-41-86",
+        "facility_run_id": "3ad7c6671f",
+        "file_format": "fba60819b4",
+        "file_name": "dummy_clinical",
+        "file_size": 99,
+        "ga4gh_drs_uri": "bcf9be89a1",
+        "md5sum": "9d5d2bd4c17cc68d2732f43083fdff4b",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4acec60014"
+        },
+        "submitter_id": "metabolomics_file_af28510ae0",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 7.045777235449336,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "d2db1dd780",
+        "facility_run_date": "7723-50-57",
+        "facility_run_id": "7feb9c4ae8",
+        "file_format": "80e14aa148",
+        "file_name": "dummy_clinical",
+        "file_size": 30,
+        "ga4gh_drs_uri": "fffe027810",
+        "md5sum": "33e308815c5e63db12315c46db5010a1",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4d419246ee"
+        },
+        "submitter_id": "metabolomics_file_35740bcfb2",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 15.690828617225772,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "d66d5ab99a",
+        "facility_run_date": "2749-72-99",
+        "facility_run_id": "de2543e092",
+        "file_format": "df4f901774",
+        "file_name": "dummy_clinical",
+        "file_size": 4,
+        "ga4gh_drs_uri": "46d360411d",
+        "md5sum": "d3a57cb750ac3b23533b278109ced39a",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_714383fc38"
+        },
+        "submitter_id": "metabolomics_file_3223f4bc65",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 5.9385580749990226,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "78589491d2",
+        "facility_run_date": "9747-72-88",
+        "facility_run_id": "1e66491e8c",
+        "file_format": "db2109f677",
+        "file_name": "dummy_clinical",
+        "file_size": 96,
+        "ga4gh_drs_uri": "0fb980646d",
+        "md5sum": "74930fb0c28ff97fc4c7172b69f7ddec",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_63d9e2c909"
+        },
+        "submitter_id": "metabolomics_file_1521f78ff0",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 6.461329085205447,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "d8ad4f2654",
+        "facility_run_date": "4594-86-81",
+        "facility_run_id": "20c930055d",
+        "file_format": "8b014407b8",
+        "file_name": "dummy_clinical",
+        "file_size": 68,
+        "ga4gh_drs_uri": "54bb089653",
+        "md5sum": "b0d189cba2edfc84a569044545e4b199",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_20e5923e48"
+        },
+        "submitter_id": "metabolomics_file_4dd747384f",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 18.125345859994646,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "4041f5d5ac",
+        "facility_run_date": "3332-59-43",
+        "facility_run_id": "29d6f75d4f",
+        "file_format": "88c4583fcf",
+        "file_name": "dummy_clinical",
+        "file_size": 61,
+        "ga4gh_drs_uri": "faeef1d8ed",
+        "md5sum": "c841de253bb05d0eae0750d442f7972d",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_bc5cc64424"
+        },
+        "submitter_id": "metabolomics_file_5c1d38af68",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 37.89467562880784,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "8b19ecdeef",
+        "facility_run_date": "8782-97-57",
+        "facility_run_id": "5c390418bb",
+        "file_format": "631caadc86",
+        "file_name": "dummy_clinical",
+        "file_size": 91,
+        "ga4gh_drs_uri": "73743b14c4",
+        "md5sum": "07def21d1f350bdf2db2b909a5310bdb",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_b4ec9a46e4"
+        },
+        "submitter_id": "metabolomics_file_cc8186bc41",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 25.01349304612479,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "6e7e34a446",
+        "facility_run_date": "6170-39-93",
+        "facility_run_id": "45125ba2ac",
+        "file_format": "dace01a2bf",
+        "file_name": "dummy_clinical",
+        "file_size": 94,
+        "ga4gh_drs_uri": "413bdb0cab",
+        "md5sum": "0ba1024c098712a8af83ebca8b55c10e",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_d07ba63d3b"
+        },
+        "submitter_id": "metabolomics_file_97bfa26aa4",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 68.37650320651625,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "b817de2277",
+        "facility_run_date": "8258-25-69",
+        "facility_run_id": "b3d3949cb6",
+        "file_format": "a4b90cf16e",
+        "file_name": "dummy_clinical",
+        "file_size": 6,
+        "ga4gh_drs_uri": "e703949353",
+        "md5sum": "55946468819fa9cf6cb29e053f013d72",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_7844f8e747"
+        },
+        "submitter_id": "metabolomics_file_ee7f2a783d",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 22.50308611016234,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "7f3cfb4807",
+        "facility_run_date": "9928-13-32",
+        "facility_run_id": "3d3527d5e3",
+        "file_format": "c12ca3193b",
+        "file_name": "dummy_clinical",
+        "file_size": 11,
+        "ga4gh_drs_uri": "00e944547a",
+        "md5sum": "12bbc07abc9d90a29d5cb56945fbd5d5",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_202fb92684"
+        },
+        "submitter_id": "metabolomics_file_c13aa969c7",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 97.01811840825792,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "be121fc82d",
+        "facility_run_date": "8675-84-60",
+        "facility_run_id": "3e08c8449e",
+        "file_format": "32ac3b9109",
+        "file_name": "dummy_clinical",
+        "file_size": 18,
+        "ga4gh_drs_uri": "6fca37d64b",
+        "md5sum": "70f151ba346150d7de8533d2683da5a7",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_ac1ca8ada8"
+        },
+        "submitter_id": "metabolomics_file_16d06022be",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 26.981533915278277,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "6ae789ceef",
+        "facility_run_date": "5707-80-75",
+        "facility_run_id": "d54c268712",
+        "file_format": "2b06da18ee",
+        "file_name": "dummy_clinical",
+        "file_size": 75,
+        "ga4gh_drs_uri": "9c521b4689",
+        "md5sum": "31fde57c37c1306391d31effa479e6ac",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_c35ae49d4c"
+        },
+        "submitter_id": "metabolomics_file_561839034b",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 45.42044083461887,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "2aec6fa28c",
+        "facility_run_date": "3147-77-78",
+        "facility_run_id": "834caae283",
+        "file_format": "c0f81a97c1",
+        "file_name": "dummy_clinical",
+        "file_size": 77,
+        "ga4gh_drs_uri": "f73f501087",
+        "md5sum": "73c3b6e9d0932ed3572a187ee572eddf",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_57549fbec4"
+        },
+        "submitter_id": "metabolomics_file_9e7283f408",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 91.29175080902363,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "f953eaa0fb",
+        "facility_run_date": "8112-15-83",
+        "facility_run_id": "530b7c14ee",
+        "file_format": "3a7caf56f9",
+        "file_name": "dummy_clinical",
+        "file_size": 64,
+        "ga4gh_drs_uri": "8585e14b37",
+        "md5sum": "664368664ac71f72da5752c3d4c72f9e",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_05496bc650"
+        },
+        "submitter_id": "metabolomics_file_fefa563343",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 96.60201165700857,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "7657a2c680",
+        "facility_run_date": "7624-43-91",
+        "facility_run_id": "4690b4af01",
+        "file_format": "7c4a29191c",
+        "file_name": "dummy_clinical",
+        "file_size": 1,
+        "ga4gh_drs_uri": "ff9de46da8",
+        "md5sum": "ae7bef9810af66e1c791e87bba6ffda1",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_9ae487513d"
+        },
+        "submitter_id": "metabolomics_file_fe406e6435",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 65.3356371078728,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "3e240af577",
+        "facility_run_date": "9399-66-42",
+        "facility_run_id": "4d6d005744",
+        "file_format": "a920bf730a",
+        "file_name": "dummy_clinical",
+        "file_size": 18,
+        "ga4gh_drs_uri": "68ea385b66",
+        "md5sum": "902d8269b62dda6dd436fb3b81ca6a36",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_0498d91a8f"
+        },
+        "submitter_id": "metabolomics_file_bcfa735839",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 82.56016906184614,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "004bf13b79",
+        "facility_run_date": "7849-59-31",
+        "facility_run_id": "9fc6001864",
+        "file_format": "2e3a8c7c7a",
+        "file_name": "dummy_clinical",
+        "file_size": 49,
+        "ga4gh_drs_uri": "3104f7c28e",
+        "md5sum": "1fe67da39894ac508fa014aa5213936f",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_ed916cb2b9"
+        },
+        "submitter_id": "metabolomics_file_028230dad7",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 83.28686297603535,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "6b94d6b8cf",
+        "facility_run_date": "5966-91-81",
+        "facility_run_id": "43359ec144",
+        "file_format": "e82da65580",
+        "file_name": "dummy_clinical",
+        "file_size": 16,
+        "ga4gh_drs_uri": "3726b70db7",
+        "md5sum": "f2fd0cd261af0a76fc7a85feb2a936c7",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_ba5eae90c7"
+        },
+        "submitter_id": "metabolomics_file_edd30c3c95",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 61.665855843817695,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "27ba4d36d2",
+        "facility_run_date": "3051-58-36",
+        "facility_run_id": "f465870010",
+        "file_format": "c17ed41439",
+        "file_name": "dummy_clinical",
+        "file_size": 64,
+        "ga4gh_drs_uri": "45d735975d",
+        "md5sum": "3537b8bf2f1c37180e004d5d6ad7193f",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_e966ba0474"
+        },
+        "submitter_id": "metabolomics_file_a8de1623ea",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 61.9993023256847,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "fa4fe51b2c",
+        "facility_run_date": "1590-08-50",
+        "facility_run_id": "43acacb7b4",
+        "file_format": "d85d7ed482",
+        "file_name": "dummy_clinical",
+        "file_size": 51,
+        "ga4gh_drs_uri": "2854fca70d",
+        "md5sum": "8d329fa2b1356775baed89a05e242e66",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_579f6d2c78"
+        },
+        "submitter_id": "metabolomics_file_f1b9a8df94",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 48.36195824002761,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "3c9c25e04a",
+        "facility_run_date": "3209-41-25",
+        "facility_run_id": "9ae1a17ec7",
+        "file_format": "3f4c3cc271",
+        "file_name": "dummy_clinical",
+        "file_size": 42,
+        "ga4gh_drs_uri": "810b4d6bd1",
+        "md5sum": "90bb9056651f5ab86da9d996ce0ec6b5",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_b911afc159"
+        },
+        "submitter_id": "metabolomics_file_37af4db1c3",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 52.068581034186025,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "40203c644a",
+        "facility_run_date": "2134-38-65",
+        "facility_run_id": "9982e29ef2",
+        "file_format": "c615cf1a66",
+        "file_name": "dummy_clinical",
+        "file_size": 32,
+        "ga4gh_drs_uri": "d1eb322b8b",
+        "md5sum": "e725eb926077c966fe3ee227a0817bfe",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4e7d71df61"
+        },
+        "submitter_id": "metabolomics_file_a497d1f6f8",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 76.46074053177593,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "650c19e62f",
+        "facility_run_date": "2222-64-09",
+        "facility_run_id": "7146293413",
+        "file_format": "700ccb7b60",
+        "file_name": "dummy_clinical",
+        "file_size": 42,
+        "ga4gh_drs_uri": "c3e3775fb6",
+        "md5sum": "9e19437e00c280325d791b519e74c7d2",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4de03e13d9"
+        },
+        "submitter_id": "metabolomics_file_c2e5519e58",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 65.37007453990444,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "af15ce604c",
+        "facility_run_date": "3107-12-59",
+        "facility_run_id": "209e44319e",
+        "file_format": "e69b8ebbb2",
+        "file_name": "dummy_clinical",
+        "file_size": 33,
+        "ga4gh_drs_uri": "a81805cca4",
+        "md5sum": "2aed27e4c78c2215d7679d041337dc73",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_b89d06c62f"
+        },
+        "submitter_id": "metabolomics_file_ab10421ca0",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 68.43349854906846,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "9469ec86a8",
+        "facility_run_date": "6833-48-87",
+        "facility_run_id": "95ed2199c7",
+        "file_format": "394e7d1ff0",
+        "file_name": "dummy_clinical",
+        "file_size": 45,
+        "ga4gh_drs_uri": "5512d1aa47",
+        "md5sum": "0c60c17fdcadc679ace1f7f7508bc872",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_ba05ccca50"
+        },
+        "submitter_id": "metabolomics_file_c48c4f5d3d",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 80.62221452218718,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "c38e8e80bd",
+        "facility_run_date": "9322-23-39",
+        "facility_run_id": "a713877954",
+        "file_format": "34a3f74600",
+        "file_name": "dummy_clinical",
+        "file_size": 37,
+        "ga4gh_drs_uri": "135943ad90",
+        "md5sum": "e657f02da431c02c4d15203d73b7dc8d",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_e97c5e8da9"
+        },
+        "submitter_id": "metabolomics_file_303ed7014b",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 6.408746937730125,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "9bf7c3264b",
+        "facility_run_date": "3619-87-50",
+        "facility_run_id": "9029eecdac",
+        "file_format": "20413b70ad",
+        "file_name": "dummy_clinical",
+        "file_size": 75,
+        "ga4gh_drs_uri": "9b643f9c94",
+        "md5sum": "42fcd133d316929864b9e83035037e1b",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_9f1fe4891d"
+        },
+        "submitter_id": "metabolomics_file_18f64e43e7",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 68.68748348030672,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "122eb430be",
+        "facility_run_date": "5139-68-11",
+        "facility_run_id": "58b61868ea",
+        "file_format": "42d99da67a",
+        "file_name": "dummy_clinical",
+        "file_size": 14,
+        "ga4gh_drs_uri": "4f1e62e907",
+        "md5sum": "690bd4d6e49e36c1ca6c26c299cd58b1",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_8cef61476c"
+        },
+        "submitter_id": "metabolomics_file_dd289797ac",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 46.99857585908154,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "7b55dd0f88",
+        "facility_run_date": "0841-15-48",
+        "facility_run_id": "553dc8c1c8",
+        "file_format": "8ead7078b8",
+        "file_name": "dummy_clinical",
+        "file_size": 2,
+        "ga4gh_drs_uri": "00a2d76faa",
+        "md5sum": "8107914efd571a7dd47adf91cafa13d6",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_d225f77823"
+        },
+        "submitter_id": "metabolomics_file_ca43f3d77a",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 24.201801399532396,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "5781da4ab7",
+        "facility_run_date": "4882-84-31",
+        "facility_run_id": "01b5792cdb",
+        "file_format": "050f361794",
+        "file_name": "dummy_clinical",
+        "file_size": 32,
+        "ga4gh_drs_uri": "3f8247bb93",
+        "md5sum": "b94e3d22604992d0ac225d4584d39323",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_adb22fc089"
+        },
+        "submitter_id": "metabolomics_file_8cbb89f61d",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 33.7411423888939,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "0818ab8f25",
+        "facility_run_date": "0400-62-26",
+        "facility_run_id": "2c3b1d6ca7",
+        "file_format": "8f41fc35ef",
+        "file_name": "dummy_clinical",
+        "file_size": 49,
+        "ga4gh_drs_uri": "9b5e9be926",
+        "md5sum": "6d73d94765d581732993dc0373ec2b33",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_0f4f200061"
+        },
+        "submitter_id": "metabolomics_file_be55790f9e",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 12.82047403609672,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "08411d5150",
+        "facility_run_date": "5633-52-94",
+        "facility_run_id": "d48eb5d856",
+        "file_format": "4da4b3317c",
+        "file_name": "dummy_clinical",
+        "file_size": 69,
+        "ga4gh_drs_uri": "db7700aca5",
+        "md5sum": "d92eb23b7e0842ff169106299ac7a1d0",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_3683e6b2e0"
+        },
+        "submitter_id": "metabolomics_file_6005a1a1ac",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 1.6643452436095996,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "ac04472cf8",
+        "facility_run_date": "1102-17-27",
+        "facility_run_id": "605d861d38",
+        "file_format": "f7e7294d1e",
+        "file_name": "dummy_clinical",
+        "file_size": 84,
+        "ga4gh_drs_uri": "1fbcadea03",
+        "md5sum": "4a75a248b20ffb13fc0ff115a26bd931",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_5c4b60091e"
+        },
+        "submitter_id": "metabolomics_file_6f1d80edd2",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 96.4272705294939,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "43b2587164",
+        "facility_run_date": "4457-45-37",
+        "facility_run_id": "e7fac1717b",
+        "file_format": "7a0b8641f6",
+        "file_name": "dummy_clinical",
+        "file_size": 25,
+        "ga4gh_drs_uri": "f9ce1741f7",
+        "md5sum": "21055281b3c0ff73103c2d1ddf6f307e",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_01b5f1eb24"
+        },
+        "submitter_id": "metabolomics_file_2ed2acf1d1",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 31.458717036570626,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "7b8ac84d60",
+        "facility_run_date": "3361-45-09",
+        "facility_run_id": "991e19a40e",
+        "file_format": "9393479b39",
+        "file_name": "dummy_clinical",
+        "file_size": 86,
+        "ga4gh_drs_uri": "e41468ed30",
+        "md5sum": "0f74ce762fa32a2b1d619c96d969eac3",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_446028e26b"
+        },
+        "submitter_id": "metabolomics_file_a44939a967",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 84.55514961225323,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "0f18dc15e1",
+        "facility_run_date": "1393-66-14",
+        "facility_run_id": "c5cf6cd23b",
+        "file_format": "d08d274f84",
+        "file_name": "dummy_clinical",
+        "file_size": 63,
+        "ga4gh_drs_uri": "de38e28641",
+        "md5sum": "e72bae899b246def468043756b56d222",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_3e2b95a5c9"
+        },
+        "submitter_id": "metabolomics_file_cd5f7954af",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 54.41512952418466,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "4e5dcf2435",
+        "facility_run_date": "1101-29-16",
+        "facility_run_id": "3f5ca7116a",
+        "file_format": "681f15d6e8",
+        "file_name": "dummy_clinical",
+        "file_size": 28,
+        "ga4gh_drs_uri": "a130d87d32",
+        "md5sum": "18f6d9330abcf585152ce9ec1d71afef",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_7cdac1c290"
+        },
+        "submitter_id": "metabolomics_file_1847be5464",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 92.17403876252067,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "4e30978bee",
+        "facility_run_date": "2079-19-96",
+        "facility_run_id": "59252bb15d",
+        "file_format": "68207d829f",
+        "file_name": "dummy_clinical",
+        "file_size": 24,
+        "ga4gh_drs_uri": "6495df1c20",
+        "md5sum": "31be0ad5a19db41e840be1d4964ef19c",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_fb02ac9fa7"
+        },
+        "submitter_id": "metabolomics_file_edf9614d12",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 95.07075798066766,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "b4826de2ff",
+        "facility_run_date": "2893-90-57",
+        "facility_run_id": "78a353eb9a",
+        "file_format": "5c7e5d990e",
+        "file_name": "dummy_clinical",
+        "file_size": 18,
+        "ga4gh_drs_uri": "8bacb3d41c",
+        "md5sum": "786284cf3e494b26304ace71617c951f",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_b20fc9b3c3"
+        },
+        "submitter_id": "metabolomics_file_f94cb6553d",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 17.19482392538161,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "ef3d9bd07e",
+        "facility_run_date": "8226-45-94",
+        "facility_run_id": "c35646bbc4",
+        "file_format": "b098a97095",
+        "file_name": "dummy_clinical",
+        "file_size": 49,
+        "ga4gh_drs_uri": "e2b885963b",
+        "md5sum": "170b420c8bd82fb11c5f1c430f5b824e",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_85649ac5b0"
+        },
+        "submitter_id": "metabolomics_file_00972bd094",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 30.70024254724548,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "c6500d5b59",
+        "facility_run_date": "2017-21-03",
+        "facility_run_id": "75d4f3a68d",
+        "file_format": "0851a9663c",
+        "file_name": "dummy_clinical",
+        "file_size": 5,
+        "ga4gh_drs_uri": "f990dd756c",
+        "md5sum": "43030423d9266415028ee300f62d7fa4",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_1d8090ca7f"
+        },
+        "submitter_id": "metabolomics_file_d4c4a485fb",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 43.16036917472509,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "3ab88e7173",
+        "facility_run_date": "0324-26-47",
+        "facility_run_id": "1080338301",
+        "file_format": "9501c429f7",
+        "file_name": "dummy_clinical",
+        "file_size": 22,
+        "ga4gh_drs_uri": "b34c54d3f3",
+        "md5sum": "bdcbc4e240ea6235c590d81bb97c6abc",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4ff97741ba"
+        },
+        "submitter_id": "metabolomics_file_89bcf837f4",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 31.00016176802126,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "c4a7d3aced",
+        "facility_run_date": "6471-89-20",
+        "facility_run_id": "5b2abe6ab6",
+        "file_format": "defcd616dd",
+        "file_name": "dummy_clinical",
+        "file_size": 72,
+        "ga4gh_drs_uri": "26ffc8d002",
+        "md5sum": "e447533074cdcd351648a8e8e3ccefa3",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_f01e16f587"
+        },
+        "submitter_id": "metabolomics_file_0e04badb17",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 10.142558238602827,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "a14905a926",
+        "facility_run_date": "6063-58-24",
+        "facility_run_id": "bd9f86176b",
+        "file_format": "507f604c24",
+        "file_name": "dummy_clinical",
+        "file_size": 67,
+        "ga4gh_drs_uri": "b0ae4ea87a",
+        "md5sum": "7d41e1059c1e265889b5163d1a4b2015",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_8765abcdef"
+        },
+        "submitter_id": "metabolomics_file_f31f38d571",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 24.598443985557882,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "cdd48f191b",
+        "facility_run_date": "0254-99-66",
+        "facility_run_id": "aa082be531",
+        "file_format": "a166dfb0ad",
+        "file_name": "dummy_clinical",
+        "file_size": 2,
+        "ga4gh_drs_uri": "c9875f680e",
+        "md5sum": "61a935bc00433dcb784b2f541ba851a7",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_e1f02d90d4"
+        },
+        "submitter_id": "metabolomics_file_a6576f2e26",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 57.91764737846131,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "c0e3a064c8",
+        "facility_run_date": "2937-90-38",
+        "facility_run_id": "de4bb8f648",
+        "file_format": "e173fc82fb",
+        "file_name": "dummy_clinical",
+        "file_size": 27,
+        "ga4gh_drs_uri": "c6cd26c8e0",
+        "md5sum": "101a59eee01e3ca63058311a9c75177d",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_ac7bc13972"
+        },
+        "submitter_id": "metabolomics_file_8504ed1cf4",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 18.571998001642076,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "500e7be6f2",
+        "facility_run_date": "7431-99-21",
+        "facility_run_id": "0843c0a800",
+        "file_format": "8913c109ee",
+        "file_name": "dummy_clinical",
+        "file_size": 21,
+        "ga4gh_drs_uri": "c3f850c111",
+        "md5sum": "e5c5b86a30f5d29a9e31ec94708c6331",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_008b6d6d85"
+        },
+        "submitter_id": "metabolomics_file_6b3f28e2f7",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 12.806265105080527,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "ff54276867",
+        "facility_run_date": "1284-33-99",
+        "facility_run_id": "3458895a35",
+        "file_format": "c7a661a7f8",
+        "file_name": "dummy_clinical",
+        "file_size": 15,
+        "ga4gh_drs_uri": "c21fd9bc6e",
+        "md5sum": "b8a304ce0eb720fd5035dfcd5ce6fe4b",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_1ddf2245a5"
+        },
+        "submitter_id": "metabolomics_file_c030164276",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 42.14645292431592,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "3e29a23f51",
+        "facility_run_date": "4003-73-89",
+        "facility_run_id": "d6ef391421",
+        "file_format": "4819b0f94d",
+        "file_name": "dummy_clinical",
+        "file_size": 77,
+        "ga4gh_drs_uri": "9e2367f298",
+        "md5sum": "921e57e93cba861dac83b9773c5789e4",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_a5f81de187"
+        },
+        "submitter_id": "metabolomics_file_61dd71a481",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 98.20292332607787,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "93843993bb",
+        "facility_run_date": "9118-78-25",
+        "facility_run_id": "a38c33aa67",
+        "file_format": "28e7aa01a4",
+        "file_name": "dummy_clinical",
+        "file_size": 71,
+        "ga4gh_drs_uri": "3e87469277",
+        "md5sum": "58e9fb73668dfaa15e6687433572f6fe",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_119345fdbe"
+        },
+        "submitter_id": "metabolomics_file_36fb639e73",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 25.917769701565053,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "45089911db",
+        "facility_run_date": "4703-32-46",
+        "facility_run_id": "4900129a4f",
+        "file_format": "4efefb32cd",
+        "file_name": "dummy_clinical",
+        "file_size": 48,
+        "ga4gh_drs_uri": "30d9682aa1",
+        "md5sum": "ffbdb76d1539e1969b9ac1c50860fcd2",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_6a80a4bf33"
+        },
+        "submitter_id": "metabolomics_file_a82613cdbd",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 45.439433108522934,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "115514a63c",
+        "facility_run_date": "9712-50-83",
+        "facility_run_id": "bcc0db2b77",
+        "file_format": "587e1ed252",
+        "file_name": "dummy_clinical",
+        "file_size": 2,
+        "ga4gh_drs_uri": "3b745db89d",
+        "md5sum": "2dc3103c608bf9e2de4a8ff2a364044c",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_fb58c674bc"
+        },
+        "submitter_id": "metabolomics_file_1c2b8044ce",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 90.33168954427404,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "790e5dcfc0",
+        "facility_run_date": "5151-90-43",
+        "facility_run_id": "cc4ad42580",
+        "file_format": "a939276418",
+        "file_name": "dummy_clinical",
+        "file_size": 56,
+        "ga4gh_drs_uri": "aeeea43db2",
+        "md5sum": "b08838f320469a227927c7f5b8038d6b",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_892a339d66"
+        },
+        "submitter_id": "metabolomics_file_d09649fc33",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 80.9520672378715,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "83ea8e6b4c",
+        "facility_run_date": "0749-09-29",
+        "facility_run_id": "26820e1a66",
+        "file_format": "81bea76c49",
+        "file_name": "dummy_clinical",
+        "file_size": 26,
+        "ga4gh_drs_uri": "648898c57c",
+        "md5sum": "c9d40c35f3332813ec605a19d0286ed2",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_657d445fe2"
+        },
+        "submitter_id": "metabolomics_file_aa74841d76",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 63.98271065438925,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "6508e569ad",
+        "facility_run_date": "3511-94-15",
+        "facility_run_id": "c064abd094",
+        "file_format": "1c94f7ca05",
+        "file_name": "dummy_clinical",
+        "file_size": 44,
+        "ga4gh_drs_uri": "ac9f44675e",
+        "md5sum": "12923f9267cb0d8898e23973e4347f82",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_a7865b5466"
+        },
+        "submitter_id": "metabolomics_file_e43720290b",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 40.28037136917312,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "df20863e29",
+        "facility_run_date": "3254-26-53",
+        "facility_run_id": "c0491b6a5f",
+        "file_format": "13b2e6db34",
+        "file_name": "dummy_clinical",
+        "file_size": 11,
+        "ga4gh_drs_uri": "7ec84c0bfc",
+        "md5sum": "00c60f7df61ba29df02eebb8f270e250",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_bdd28306bc"
+        },
+        "submitter_id": "metabolomics_file_51bf44236e",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 50.15765686668268,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "11cb300b14",
+        "facility_run_date": "7279-18-13",
+        "facility_run_id": "76027e1715",
+        "file_format": "aacfae1045",
+        "file_name": "dummy_clinical",
+        "file_size": 19,
+        "ga4gh_drs_uri": "61a8a096ae",
+        "md5sum": "a15b6cfb9ab819ef597b2739bd465fe4",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_4bfe8d4272"
+        },
+        "submitter_id": "metabolomics_file_01c07cc0ec",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 94.66707510280219,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "942b1fb23b",
+        "facility_run_date": "4396-06-86",
+        "facility_run_id": "409f88edde",
+        "file_format": "fdb29a9118",
+        "file_name": "dummy_clinical",
+        "file_size": 52,
+        "ga4gh_drs_uri": "f729e530b3",
+        "md5sum": "7644537c525914086a0d898493870111",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_b3edfcf6bd"
+        },
+        "submitter_id": "metabolomics_file_ae7539692e",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 20.48430067196485,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "30b70561c2",
+        "facility_run_date": "6624-84-23",
+        "facility_run_id": "da98c3cb3e",
+        "file_format": "8846f054ee",
+        "file_name": "dummy_clinical",
+        "file_size": 84,
+        "ga4gh_drs_uri": "1cd175b8cc",
+        "md5sum": "ef70bbc4b228a469ae99e870e759ff66",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_e8139776ff"
+        },
+        "submitter_id": "metabolomics_file_a603360749",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 73.34181335881786,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "46d0530d4a",
+        "facility_run_date": "9796-05-19",
+        "facility_run_id": "451a672f83",
+        "file_format": "57172a8f8b",
+        "file_name": "dummy_clinical",
+        "file_size": 51,
+        "ga4gh_drs_uri": "e867f41b8c",
+        "md5sum": "c2eed5b5de8cca10d13fe6227e9b4bb9",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_c034c281cf"
+        },
+        "submitter_id": "metabolomics_file_56305061f4",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 3.754505397261476,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "f8adce7209",
+        "facility_run_date": "3302-22-52",
+        "facility_run_id": "89f7419f39",
+        "file_format": "e45cf1818f",
+        "file_name": "dummy_clinical",
+        "file_size": 68,
+        "ga4gh_drs_uri": "36f1e1954b",
+        "md5sum": "e3dbdb98783120c24ddaa3fbbd383d40",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_cffbbc489f"
+        },
+        "submitter_id": "metabolomics_file_7d295defa5",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 89.54491752255642,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "4024a558af",
+        "facility_run_date": "7075-53-73",
+        "facility_run_id": "321a5fefb1",
+        "file_format": "f35dd270e8",
+        "file_name": "dummy_clinical",
+        "file_size": 6,
+        "ga4gh_drs_uri": "45e7dfa602",
+        "md5sum": "b611975174b3f6c8f4658a0978cd0e85",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_ae794da32d"
+        },
+        "submitter_id": "metabolomics_file_38737f208d",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 43.39165918114579,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "8214442e01",
+        "facility_run_date": "8072-57-60",
+        "facility_run_id": "dad18bc211",
+        "file_format": "96857dd8f7",
+        "file_name": "dummy_clinical",
+        "file_size": 9,
+        "ga4gh_drs_uri": "df702f0cc5",
+        "md5sum": "dfc40521b83de4f1808f460266389011",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_fb72936b2f"
+        },
+        "submitter_id": "metabolomics_file_bf8800849f",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 85.60774541336735,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "3caa952f01",
+        "facility_run_date": "8101-92-93",
+        "facility_run_id": "cfb7339956",
+        "file_format": "781a1afc1c",
+        "file_name": "dummy_clinical",
+        "file_size": 96,
+        "ga4gh_drs_uri": "33ca6917d5",
+        "md5sum": "feb003a323e4be07819f594b4d0ee828",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_ed754a3023"
+        },
+        "submitter_id": "metabolomics_file_8774e6db70",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 67.96005469235395,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "68fb8586ae",
+        "facility_run_date": "2423-88-71",
+        "facility_run_id": "5c16377324",
+        "file_format": "0f530acea3",
+        "file_name": "dummy_clinical",
+        "file_size": 82,
+        "ga4gh_drs_uri": "a820c38aad",
+        "md5sum": "e400576cda78e81432fa795663903cec",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_a1ee5be73a"
+        },
+        "submitter_id": "metabolomics_file_85cd0fa6fc",
+        "type": "metabolomics_file"
+    },
+    {
+        "cv": 34.07904585976471,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "086948f080",
+        "facility_run_date": "9289-41-75",
+        "facility_run_id": "e53497e707",
+        "file_format": "eb946d3960",
+        "file_name": "dummy_clinical",
+        "file_size": 69,
+        "ga4gh_drs_uri": "d0a8030d3f",
+        "md5sum": "891f5ac50cba4ec9c9d3abe43b4688d8",
+        "metabolomics_assays": {
+            "submitter_id": "metabolomics_assay_2eecb972df"
+        },
+        "submitter_id": "metabolomics_file_6c9e007e67",
+        "type": "metabolomics_file"
+    }
+]

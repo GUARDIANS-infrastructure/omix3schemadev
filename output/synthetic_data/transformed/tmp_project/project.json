@@ -1,0 +1,20 @@
+{
+    "authz": [
+        "6cfe3de4e4"
+    ],
+    "availability_mechanism": "c8155a0e4a",
+    "availability_type": null,
+    "code": "tmp_project",
+    "consent_codes": [],
+    "data_access_url": "f2e166930c",
+    "date_collected": "e828216db3",
+    "dbgap_accession_number": "phs-tmp_project",
+    "full_name": "7c6bc4ec2a",
+    "name": "929af25cf6",
+    "project_description": "c1e7c38b29",
+    "project_registration": "5f7bab99dd",
+    "short_name": "1ae2f98e92",
+    "support_id": "bfad1afb09",
+    "support_source": "ee6da2d20b",
+    "type": "project"
+}

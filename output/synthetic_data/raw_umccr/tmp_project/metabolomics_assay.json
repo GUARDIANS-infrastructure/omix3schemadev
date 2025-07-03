@@ -1,0 +1,1322 @@
+[
+    {
+        "experiment_id": "4a5866bc4a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "45a3140ed5",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_a98fe0dc78"
+        },
+        "submitter_id": "metabolomics_assay_600c17c0f3",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "2821764aea",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6c8253a98c",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_945bb1e460"
+        },
+        "submitter_id": "metabolomics_assay_a70e5eb10a",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "692e6fc707",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "5e46316f98",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_37f8bf40d3"
+        },
+        "submitter_id": "metabolomics_assay_0f8ca51fa8",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "950b17fffa",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "b714407d9b",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_4abea134e3"
+        },
+        "submitter_id": "metabolomics_assay_237a17f443",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "3c4e25f5e5",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "27a2a4f6ca",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_97434bf1e5"
+        },
+        "submitter_id": "metabolomics_assay_d6df431f0b",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "6062e28fe0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "ec9ed05a5e",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_d84c4cc471"
+        },
+        "submitter_id": "metabolomics_assay_4b944c8d5b",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "5859a14e75",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "4859191a81",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_7cbe08db83"
+        },
+        "submitter_id": "metabolomics_assay_1af2253863",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "de9d36401a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "eff0b5b98d",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_cca73181e1"
+        },
+        "submitter_id": "metabolomics_assay_b4532db07a",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "d91040166a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "98ba13d58d",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_268a3832f5"
+        },
+        "submitter_id": "metabolomics_assay_c8c31d51fc",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "8ffe2dd30d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8778c7a896",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_fcfef157b1"
+        },
+        "submitter_id": "metabolomics_assay_389ec047b9",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "3e7dec41d6",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "ca60ea84f7",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_c487f720b9"
+        },
+        "submitter_id": "metabolomics_assay_9d51a98627",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "739738d87b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "bb631f353d",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_8342f9d271"
+        },
+        "submitter_id": "metabolomics_assay_3d66588279",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "919ee4149a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a090103fa1",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_98406a3e2d"
+        },
+        "submitter_id": "metabolomics_assay_0fcc816dc3",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "749e74fde6",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6c2feba082",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_07ac155f08"
+        },
+        "submitter_id": "metabolomics_assay_db47d4798f",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "9d11c404d0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "3fb88230d9",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_08748acd6f"
+        },
+        "submitter_id": "metabolomics_assay_9df480bb04",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "eabd3804d7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "fbcb8ed610",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_966efc6bed"
+        },
+        "submitter_id": "metabolomics_assay_4487187cd6",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "533a6266a3",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "bda92089e6",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_3b810b97e1"
+        },
+        "submitter_id": "metabolomics_assay_89b6fe3368",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "b6e342f6d2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "28b6c80494",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_22d678b73f"
+        },
+        "submitter_id": "metabolomics_assay_dcfbd5b687",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "855b0bf5eb",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "0849c84b1b",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_93efd46808"
+        },
+        "submitter_id": "metabolomics_assay_683ff7dc41",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "7acb4bcb1d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "3b5c6f8bc0",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_8eeef1a842"
+        },
+        "submitter_id": "metabolomics_assay_07b4573755",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "e1033dce38",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6419a09e0f",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_2ed16a9de0"
+        },
+        "submitter_id": "metabolomics_assay_673867669f",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "e3c3197e32",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "8601c707ef",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_488ced51b8"
+        },
+        "submitter_id": "metabolomics_assay_4673f2722f",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "414d976225",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a07f94f5e3",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_dbe92bfe1f"
+        },
+        "submitter_id": "metabolomics_assay_27c9ec4349",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "5ab1fcfa7c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "9fec99786b",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_d98989afd8"
+        },
+        "submitter_id": "metabolomics_assay_9c000a84b7",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "49f5980855",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "392a890d5b",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_04bc229b84"
+        },
+        "submitter_id": "metabolomics_assay_22e81b40cd",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "48c0b5a37b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6a0979e8cb",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_159b70fcdd"
+        },
+        "submitter_id": "metabolomics_assay_f2f8c60a5e",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "387a5eb508",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "834bb9ac0c",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_f6cc1df906"
+        },
+        "submitter_id": "metabolomics_assay_2e73c367ed",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "b10fc2e4e9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "9f0e6666be",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_8ce08d09d9"
+        },
+        "submitter_id": "metabolomics_assay_f52d0e6360",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "f3ecfcec12",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6e071bd883",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_dd305abdac"
+        },
+        "submitter_id": "metabolomics_assay_08ed29aa84",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "2b6c41316f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a91a0ba750",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_e6d9fa0b2b"
+        },
+        "submitter_id": "metabolomics_assay_bce5f24fdc",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "c17c96c5db",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "d0cb157630",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_7f046f40d2"
+        },
+        "submitter_id": "metabolomics_assay_7d3bbacbb4",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "5eadf8a51e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "5fb9c6f3fb",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_7302485923"
+        },
+        "submitter_id": "metabolomics_assay_ab18d52545",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "76b642bb0b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "e955573ec0",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_52ca62adcc"
+        },
+        "submitter_id": "metabolomics_assay_b91f3784b3",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "c0026bf920",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "22f3dfe065",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_fa124c7a72"
+        },
+        "submitter_id": "metabolomics_assay_e9b7c7a3c7",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "1d776fa9fc",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "45c50f9feb",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_ff6d311396"
+        },
+        "submitter_id": "metabolomics_assay_2f4ec3bbe6",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "9f9b8e9b6c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "f362ab51ca",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_924383833f"
+        },
+        "submitter_id": "metabolomics_assay_e366187ed4",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "d31bd13392",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "e8c0d658a9",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_e4cc2fb4b9"
+        },
+        "submitter_id": "metabolomics_assay_a06bc548a8",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "0553676ca6",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "5ff848a01a",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_b04b53e293"
+        },
+        "submitter_id": "metabolomics_assay_6325193922",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "2094d4d9b7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "aa157828bd",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_e69d46d1b6"
+        },
+        "submitter_id": "metabolomics_assay_47c16b82cb",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "d3b521973a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "38ea7651ad",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_26233e80e8"
+        },
+        "submitter_id": "metabolomics_assay_5e7f6ff831",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "5357df8257",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a9c87f9e15",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_b1c95973bf"
+        },
+        "submitter_id": "metabolomics_assay_4d9e1ed0d2",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "d40c5da0e8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6bdd8f499a",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_a04cad4e90"
+        },
+        "submitter_id": "metabolomics_assay_eaed5116f6",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "d26444c03f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "25e2aae58a",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_4a5c11c14a"
+        },
+        "submitter_id": "metabolomics_assay_d419fcd92a",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "fa76173f8a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "75dcc49c7b",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_90ebacc4d3"
+        },
+        "submitter_id": "metabolomics_assay_fd8fa8b2d6",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "a03ed0abe5",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a5f942ca07",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_71d7498667"
+        },
+        "submitter_id": "metabolomics_assay_4acec60014",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "49ee0381f9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "9a54dade25",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_9752267a99"
+        },
+        "submitter_id": "metabolomics_assay_4d419246ee",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "5a93336a50",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "ce9eabb99b",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_f8f678a8a4"
+        },
+        "submitter_id": "metabolomics_assay_714383fc38",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "89aa1f03a7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "dd2e30ff1f",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_c0ab4cf7dd"
+        },
+        "submitter_id": "metabolomics_assay_63d9e2c909",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "34be85473a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "64cd748fcd",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_8ee121997c"
+        },
+        "submitter_id": "metabolomics_assay_20e5923e48",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "6b8872873b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "fa9e4dfcb0",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_6f127d58b9"
+        },
+        "submitter_id": "metabolomics_assay_bc5cc64424",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "9c79bc2c18",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "d48fdf9d91",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_7f8de5a7b2"
+        },
+        "submitter_id": "metabolomics_assay_b4ec9a46e4",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "bdd8528555",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8032ad7938",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_356058151d"
+        },
+        "submitter_id": "metabolomics_assay_d07ba63d3b",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "b66f17f11b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "c0626568e9",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_30ebb8f846"
+        },
+        "submitter_id": "metabolomics_assay_7844f8e747",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "0b0fe6b48a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "48152fff7d",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_b09a7f74c7"
+        },
+        "submitter_id": "metabolomics_assay_202fb92684",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "b4ea50a5e8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "1f9275973b",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_9b4efea7d5"
+        },
+        "submitter_id": "metabolomics_assay_ac1ca8ada8",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "ac38037cf9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "db3e61230b",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_e0c096027e"
+        },
+        "submitter_id": "metabolomics_assay_c35ae49d4c",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "6886aec35d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8a7376d01d",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_7c5fee2e60"
+        },
+        "submitter_id": "metabolomics_assay_57549fbec4",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "11b99adee2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "392e358863",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_7ead5441b4"
+        },
+        "submitter_id": "metabolomics_assay_05496bc650",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "f98fc52d76",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6d16a0455f",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_51fa49b941"
+        },
+        "submitter_id": "metabolomics_assay_9ae487513d",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "a3dc771946",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "ae0180bc2b",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_1b9d5dada6"
+        },
+        "submitter_id": "metabolomics_assay_0498d91a8f",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "455b6a4259",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "369a9f20d7",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_617027c6ef"
+        },
+        "submitter_id": "metabolomics_assay_ed916cb2b9",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "0652a0b352",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "4132b57e01",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_dbf5d0d664"
+        },
+        "submitter_id": "metabolomics_assay_ba5eae90c7",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "691d20405b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "0ad53f02f3",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_8c03411fa9"
+        },
+        "submitter_id": "metabolomics_assay_e966ba0474",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "491908255d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "2cd8314dd6",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_ae94dbae1f"
+        },
+        "submitter_id": "metabolomics_assay_579f6d2c78",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "3ced471a5b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "98f37c39fd",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_16cdddb766"
+        },
+        "submitter_id": "metabolomics_assay_b911afc159",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "aeaeb7fc2e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "bb0b1950d8",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_32b0b76f70"
+        },
+        "submitter_id": "metabolomics_assay_4e7d71df61",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "c6478f0350",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "b47779aac3",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_178ca37dcf"
+        },
+        "submitter_id": "metabolomics_assay_4de03e13d9",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "d1fb3acf27",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "f18a847288",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_2a3d3741f0"
+        },
+        "submitter_id": "metabolomics_assay_b89d06c62f",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "306f411833",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a1645a9c48",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_624de0f3b2"
+        },
+        "submitter_id": "metabolomics_assay_ba05ccca50",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "f87b530f34",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "d54f718ea0",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_9ed88a4844"
+        },
+        "submitter_id": "metabolomics_assay_e97c5e8da9",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "fc346f9fc2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "5f93e7bdc5",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_8895052e10"
+        },
+        "submitter_id": "metabolomics_assay_9f1fe4891d",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "6408c5467f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "68582d8cca",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_c62366429e"
+        },
+        "submitter_id": "metabolomics_assay_8cef61476c",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "a3b6e7ada3",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "b565afec2a",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_471434e2f9"
+        },
+        "submitter_id": "metabolomics_assay_d225f77823",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "c5c46d1c78",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "3f0cfbed6e",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_a50776ab99"
+        },
+        "submitter_id": "metabolomics_assay_adb22fc089",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "d507a10a95",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "e376783446",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_1e400575de"
+        },
+        "submitter_id": "metabolomics_assay_0f4f200061",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "284dc94f2e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "3ceb4220ea",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_34378b96a5"
+        },
+        "submitter_id": "metabolomics_assay_3683e6b2e0",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "69f341abc8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "ef6073d97c",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_2f849b3ad2"
+        },
+        "submitter_id": "metabolomics_assay_5c4b60091e",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "3eeed55af0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "9da63b312a",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_d74423e483"
+        },
+        "submitter_id": "metabolomics_assay_01b5f1eb24",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "8dfb68e17c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "9ea9772ebf",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_c359a58b92"
+        },
+        "submitter_id": "metabolomics_assay_446028e26b",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "db1599b4a0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "0531eb06cb",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_dc760c7a2a"
+        },
+        "submitter_id": "metabolomics_assay_3e2b95a5c9",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "5770e0a4ea",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8239792341",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_5f0b7edbed"
+        },
+        "submitter_id": "metabolomics_assay_7cdac1c290",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "eb89aa37db",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "36cb3c8222",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_7f4900e7e5"
+        },
+        "submitter_id": "metabolomics_assay_fb02ac9fa7",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "7fdd5d28ab",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "d329671c1e",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_85c15f2b87"
+        },
+        "submitter_id": "metabolomics_assay_b20fc9b3c3",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "e344eba653",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "28161b9814",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_c46cea5c03"
+        },
+        "submitter_id": "metabolomics_assay_85649ac5b0",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "543c301e48",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "c1279112b1",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_ebef3f15f1"
+        },
+        "submitter_id": "metabolomics_assay_1d8090ca7f",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "0604458c38",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "32c98fc80b",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_3e591f900a"
+        },
+        "submitter_id": "metabolomics_assay_4ff97741ba",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "96642dea81",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6164dd711e",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_44b7717571"
+        },
+        "submitter_id": "metabolomics_assay_f01e16f587",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "bccfc96a40",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "91a314f15a",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_d583de7922"
+        },
+        "submitter_id": "metabolomics_assay_8765abcdef",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "8fc2eed9be",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "9b2d638bde",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_bcd517cdf2"
+        },
+        "submitter_id": "metabolomics_assay_e1f02d90d4",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "1779c0e6c6",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "11d31490c3",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_a34cfcdcd0"
+        },
+        "submitter_id": "metabolomics_assay_ac7bc13972",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "5588112e5c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "458c9957d2",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_bc605f7d22"
+        },
+        "submitter_id": "metabolomics_assay_008b6d6d85",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "53b5aa85a4",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "cf3cdcdb49",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_edf5c18c3d"
+        },
+        "submitter_id": "metabolomics_assay_1ddf2245a5",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "32c47cba8e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "37a53ebb5c",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_efcdaf32fe"
+        },
+        "submitter_id": "metabolomics_assay_a5f81de187",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "fb9b3d8f6d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "049e502bb2",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_9ad1672ce8"
+        },
+        "submitter_id": "metabolomics_assay_119345fdbe",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "be1318be13",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "305949af14",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_e2a798e342"
+        },
+        "submitter_id": "metabolomics_assay_6a80a4bf33",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "4247f84152",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "f7e36e7998",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_ef8f123b15"
+        },
+        "submitter_id": "metabolomics_assay_fb58c674bc",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "686197daae",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "ad3e16b6b3",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_a2b821a8a6"
+        },
+        "submitter_id": "metabolomics_assay_892a339d66",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "ca0916f3a8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "c8b05df230",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_2018914121"
+        },
+        "submitter_id": "metabolomics_assay_657d445fe2",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "14c357598e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "98e10d0475",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_b964e3ab4f"
+        },
+        "submitter_id": "metabolomics_assay_a7865b5466",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "ba724d6889",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "50173c7d18",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_94d32fae9d"
+        },
+        "submitter_id": "metabolomics_assay_bdd28306bc",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "7614143905",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "88325ec16b",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_36b69bc389"
+        },
+        "submitter_id": "metabolomics_assay_4bfe8d4272",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "9179ca29e0",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "c1085354aa",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_99e0ea2a1e"
+        },
+        "submitter_id": "metabolomics_assay_b3edfcf6bd",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "8e0d0b97e2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "135868c94c",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_0be0a6c796"
+        },
+        "submitter_id": "metabolomics_assay_e8139776ff",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "8b5145f628",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "8cf5e0f76e",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_8f2bada7ba"
+        },
+        "submitter_id": "metabolomics_assay_c034c281cf",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "8401174706",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "479a7f2fe9",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_7d994e3f6d"
+        },
+        "submitter_id": "metabolomics_assay_cffbbc489f",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "d1ff2f1364",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "fb8c6b98fd",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_5a780180b8"
+        },
+        "submitter_id": "metabolomics_assay_ae794da32d",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "b18d7e3ec5",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "e25d70483a",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_76e6e9cc08"
+        },
+        "submitter_id": "metabolomics_assay_fb72936b2f",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "2fd4340247",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "168164d81c",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_8496593e06"
+        },
+        "submitter_id": "metabolomics_assay_ed754a3023",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "916a631465",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "5f52f3b445",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_2bf0b60689"
+        },
+        "submitter_id": "metabolomics_assay_a1ee5be73a",
+        "type": "metabolomics_assay"
+    },
+    {
+        "experiment_id": "3bf386d9d6",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "897704788f",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_74d986340c"
+        },
+        "submitter_id": "metabolomics_assay_2eecb972df",
+        "type": "metabolomics_assay"
+    }
+]
