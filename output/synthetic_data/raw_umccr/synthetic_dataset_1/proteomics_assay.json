@@ -1,0 +1,1322 @@
+[
+    {
+        "experiment_id": "43dcc10287",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "3250fc7962",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_e7c3988d57"
+        },
+        "submitter_id": "proteomics_assay_f5655576a3",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "e1503d7a19",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "85ca7d22ce",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_30c791c11f"
+        },
+        "submitter_id": "proteomics_assay_cd9a6d1c16",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "8fbaa89a18",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "cc8448766a",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_f713e31ba4"
+        },
+        "submitter_id": "proteomics_assay_7b782299c8",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "6aad947069",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a40c53338f",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_f2e7ef87d3"
+        },
+        "submitter_id": "proteomics_assay_107d8490f1",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "205a032bea",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "fc89c4057b",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_537f87eb9a"
+        },
+        "submitter_id": "proteomics_assay_d5cf325bdc",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "c7f611b300",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "690f124baa",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_e80cd80c47"
+        },
+        "submitter_id": "proteomics_assay_bfca36ff76",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "3d2e0767ae",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "7904d6c511",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_322c6e7761"
+        },
+        "submitter_id": "proteomics_assay_d2292d1376",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "f768420679",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "60a9dc577c",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_60fc331f21"
+        },
+        "submitter_id": "proteomics_assay_f414e77923",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "ca0b14cec7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "69639ecdc2",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_666cec160b"
+        },
+        "submitter_id": "proteomics_assay_6203ccb487",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "c2d3a3644f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "c9058f21a8",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_8ea9502395"
+        },
+        "submitter_id": "proteomics_assay_e98ba0e1a7",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "c754851ebe",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "2023d1cc9a",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_5fcb958eab"
+        },
+        "submitter_id": "proteomics_assay_273a94c252",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "10d6882cd2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "30dc1b1676",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_3bf920ed03"
+        },
+        "submitter_id": "proteomics_assay_0857470617",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "6637b9e717",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "3a7aeae774",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_39670c7dca"
+        },
+        "submitter_id": "proteomics_assay_1eae046169",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "4fcc78d107",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "20aacd625b",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_4410e13a0a"
+        },
+        "submitter_id": "proteomics_assay_74b2f43b06",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "13de6fd997",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "67ec02da3c",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_120d25dc22"
+        },
+        "submitter_id": "proteomics_assay_ef345dbbfb",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "c960b42f72",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "dbff9bf008",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_d67e654cfe"
+        },
+        "submitter_id": "proteomics_assay_a9c0b591b6",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "21c2589b73",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "7646de82db",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_9fec2d5517"
+        },
+        "submitter_id": "proteomics_assay_2cc0f601b0",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "c864d1e0e9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "e3e1e92494",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_f6e9958ac1"
+        },
+        "submitter_id": "proteomics_assay_cbd526473d",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "8e6c4297a9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "5129ac7c5f",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_04b75fcffe"
+        },
+        "submitter_id": "proteomics_assay_39bdc37f95",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "c065c2f997",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "48230abb1d",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_2ab49e12a5"
+        },
+        "submitter_id": "proteomics_assay_be14f6a4c2",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "f318db0690",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "2cfb0ca643",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_46637180ac"
+        },
+        "submitter_id": "proteomics_assay_11a583fc46",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "fd52819f43",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "e6116c81db",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_b67bc23532"
+        },
+        "submitter_id": "proteomics_assay_99764ed047",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "0401557b73",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "23cd2d90da",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_69ed56fa85"
+        },
+        "submitter_id": "proteomics_assay_7def71df35",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "6903da4bbd",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "a25f7f3068",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_127abb88c4"
+        },
+        "submitter_id": "proteomics_assay_d2438107fc",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "b804eb3b46",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8ba7e64eb1",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_2ee9e4e7e2"
+        },
+        "submitter_id": "proteomics_assay_397c856be8",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "f64c5518eb",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "b7fd84af2d",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_e8595026f4"
+        },
+        "submitter_id": "proteomics_assay_6769b9e012",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "f412669dd3",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "b2f7e645c8",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_8923944d9f"
+        },
+        "submitter_id": "proteomics_assay_0f307bd9af",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "45994da6a4",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "d91d3187a2",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_0cf628b996"
+        },
+        "submitter_id": "proteomics_assay_5255570815",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "8767b7a886",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "ec60f5625c",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_f9a6d2851c"
+        },
+        "submitter_id": "proteomics_assay_ac80c5184b",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "319d3a699c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "32f894ef99",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_fc0e2a16dd"
+        },
+        "submitter_id": "proteomics_assay_1c9006ab79",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "b424230f09",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "fa64e379c8",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_acd52bacf3"
+        },
+        "submitter_id": "proteomics_assay_4108bb2269",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "750f9980db",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "bd63c03cfa",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_288c47c25c"
+        },
+        "submitter_id": "proteomics_assay_0b8d1b194b",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "5502dc4621",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "f6eb38f1cd",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_4e94171aa9"
+        },
+        "submitter_id": "proteomics_assay_04d4cd6b1d",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "007205b89b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "f8b5a555fa",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_4c4d094405"
+        },
+        "submitter_id": "proteomics_assay_3ef7572480",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "fc4da63d2d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8e47c07d98",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_3b1498de62"
+        },
+        "submitter_id": "proteomics_assay_dba7d577f6",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "cec75c4d14",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "7c6089b79f",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_9face0b961"
+        },
+        "submitter_id": "proteomics_assay_fc67dc7916",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "0a2e0b22ed",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "1563eb84d2",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_948451ebb0"
+        },
+        "submitter_id": "proteomics_assay_bd2c9a2b5a",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "e1a8c4e5b7",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "b0871e78db",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_ef3cec4031"
+        },
+        "submitter_id": "proteomics_assay_041add4168",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "aa74adcc48",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "30bad92d9b",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_9a759add78"
+        },
+        "submitter_id": "proteomics_assay_67b9ecf7a9",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "2478d6303c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6352ff8a42",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_5dea097960"
+        },
+        "submitter_id": "proteomics_assay_9a13796a80",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "ea19d651bb",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "46370c93f9",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_16f7e01465"
+        },
+        "submitter_id": "proteomics_assay_e63edbce85",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "e22e92ab78",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "55d3921c98",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_eeecf900a6"
+        },
+        "submitter_id": "proteomics_assay_3835303baa",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "c8c60826c2",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "dcbbdb6909",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_ae34b69018"
+        },
+        "submitter_id": "proteomics_assay_fa465fa9a8",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "cd9b775a38",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "4e87f77b83",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_c237d2b115"
+        },
+        "submitter_id": "proteomics_assay_7a52bd271a",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "bef9babd82",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "bae56044a3",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_95433666b3"
+        },
+        "submitter_id": "proteomics_assay_c1cca2ab7f",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "32189a3f98",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "3c34c5f54d",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_e0a4e171b3"
+        },
+        "submitter_id": "proteomics_assay_61596f4ade",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "e5fc17f65b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "2d184003d1",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_d12b990436"
+        },
+        "submitter_id": "proteomics_assay_7349413002",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "363bfe49d5",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "b15aa85fad",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_f6e18b96ef"
+        },
+        "submitter_id": "proteomics_assay_308fa0808e",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "20ea082e75",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "7ddc97fa99",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_3bfe382877"
+        },
+        "submitter_id": "proteomics_assay_33b5fa01aa",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "76d4fcf2bd",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "8034e132b9",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_1244975cbe"
+        },
+        "submitter_id": "proteomics_assay_80e9fa9035",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "1c26aa7f66",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "43daec7401",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_5b85ea9c78"
+        },
+        "submitter_id": "proteomics_assay_798533eda4",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "aa1669a944",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "9eb93d4e75",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_56f101daa6"
+        },
+        "submitter_id": "proteomics_assay_4ba93b5485",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "ebcac32c23",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "4bc3eda850",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_06c9113de3"
+        },
+        "submitter_id": "proteomics_assay_90dcb9f6de",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "bbdb457e9c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "12b6f14179",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_18c5a0d4da"
+        },
+        "submitter_id": "proteomics_assay_6d98181def",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "f00e1b4403",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "e9748af0e9",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_779de283e9"
+        },
+        "submitter_id": "proteomics_assay_76fff460b3",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "c9686422fc",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "c9e75b72a8",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_39050f4bb3"
+        },
+        "submitter_id": "proteomics_assay_84130332ff",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "3f74e4b829",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "12a5791020",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_67bd2a4d45"
+        },
+        "submitter_id": "proteomics_assay_8f73d462ff",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "b9087836ae",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "487090330c",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_f66d146ebd"
+        },
+        "submitter_id": "proteomics_assay_4980bbaf11",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "80ad7d5e0c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "7f4675f519",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_2536370b84"
+        },
+        "submitter_id": "proteomics_assay_e86880cc51",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "50c4d86156",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "4a82fd5fff",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_2fe4f6b8b6"
+        },
+        "submitter_id": "proteomics_assay_c1681c3b79",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "18cc39b6de",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "da571b4d18",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_b764417ef3"
+        },
+        "submitter_id": "proteomics_assay_4618007d4d",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "ce271241cb",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "4e3ea77dc8",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_fd20203b90"
+        },
+        "submitter_id": "proteomics_assay_4e3a3a117e",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "73290bca34",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "cbd5661f62",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_19b5d447f6"
+        },
+        "submitter_id": "proteomics_assay_33f882eda0",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "fdad2eef15",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "67d269c734",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_200c631931"
+        },
+        "submitter_id": "proteomics_assay_141982ac55",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "116ae1b82e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "29a5c6325e",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_086b833775"
+        },
+        "submitter_id": "proteomics_assay_1e7f14c28e",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "6200b179b9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "2f9874d89b",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_f54e122766"
+        },
+        "submitter_id": "proteomics_assay_59076d256c",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "5250cb765b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8c52957d9d",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_127d676004"
+        },
+        "submitter_id": "proteomics_assay_e203e624ee",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "e790d93b41",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "86b561fc9d",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_1b0dcca7a1"
+        },
+        "submitter_id": "proteomics_assay_68e8e8e37f",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "ef09a64ef1",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "2c15562069",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_74acca390f"
+        },
+        "submitter_id": "proteomics_assay_3a0a15e400",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "f6b730425e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "8c470bef39",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_4bcb08065a"
+        },
+        "submitter_id": "proteomics_assay_12c443d690",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "aae2bfa7b5",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "356cdcf3c8",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_f05f0b05e0"
+        },
+        "submitter_id": "proteomics_assay_aa99c60e88",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "9eb9f33b9b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "f14fc6cea7",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_7924acadd1"
+        },
+        "submitter_id": "proteomics_assay_bd91426a28",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "2167bea8de",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "d00da3c703",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_611a594b80"
+        },
+        "submitter_id": "proteomics_assay_4f0bce6e90",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "f4aca6f4cb",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "43b11a5000",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_a716cdcdd2"
+        },
+        "submitter_id": "proteomics_assay_138d7a90b0",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "730b96df31",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "cc4d2ad2f7",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_67b5e559ad"
+        },
+        "submitter_id": "proteomics_assay_285d26fe21",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "8a4d421868",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "f50a5ea1e6",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_f7d66f40cf"
+        },
+        "submitter_id": "proteomics_assay_f234845a1b",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "e2c0768b6e",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "2166147a8e",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_e7063e49d2"
+        },
+        "submitter_id": "proteomics_assay_9804863c05",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "55cd0e1606",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "5e6b47f213",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_f41f6232a4"
+        },
+        "submitter_id": "proteomics_assay_0e07ab5abd",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "4238207c99",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "055690f1ad",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_9c66873df0"
+        },
+        "submitter_id": "proteomics_assay_3e5b89f0ac",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "e469c2745c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "50b7127db1",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_6d7dfcbe4c"
+        },
+        "submitter_id": "proteomics_assay_d79f34e674",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "5fd0baeda8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "3a10946a74",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_fdf1db271a"
+        },
+        "submitter_id": "proteomics_assay_1a8af83fe5",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "22c3a93f48",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "d4ae887687",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_444faa5740"
+        },
+        "submitter_id": "proteomics_assay_3977d77581",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "1f9069033d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "ae9b2a51ce",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_ea1d2748e3"
+        },
+        "submitter_id": "proteomics_assay_56715aec46",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "10a396416c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "9c9a9e30ac",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_e0ee320fab"
+        },
+        "submitter_id": "proteomics_assay_68ec4fe544",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "60c040c2de",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "0c161170e0",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_bb977efe3a"
+        },
+        "submitter_id": "proteomics_assay_c0549cde81",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "0db33f957a",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "79c1ee8ad8",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_0fa088dfd5"
+        },
+        "submitter_id": "proteomics_assay_b57c9d2694",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "fe3f0b464f",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "0dc5195ba2",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_e68ae36e03"
+        },
+        "submitter_id": "proteomics_assay_2ceb8a557d",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "62814091a8",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a5104ac53e",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_be51d3bf9d"
+        },
+        "submitter_id": "proteomics_assay_ba48808447",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "67dbd80d2b",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "982f183e8f",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_82273f71a6"
+        },
+        "submitter_id": "proteomics_assay_1b0cb1fab0",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "664be10350",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "25b4a0076c",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_ed373dbdc0"
+        },
+        "submitter_id": "proteomics_assay_27ba392a75",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "8cde73a10c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "e5e7e72834",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_f93c033c70"
+        },
+        "submitter_id": "proteomics_assay_e22804e8c9",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "aa8b4b4f29",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6c6cd36b39",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_ee8cf5e6e1"
+        },
+        "submitter_id": "proteomics_assay_fd361ecb99",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "84ab80f4f4",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "c776600879",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_3897553c7e"
+        },
+        "submitter_id": "proteomics_assay_7286e67d70",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "4ca6debdc9",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "d42703e8a4",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_b3f33510a8"
+        },
+        "submitter_id": "proteomics_assay_b2a47e6633",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "95dc557e2d",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "c25fb037fb",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_5c5bb8c5fb"
+        },
+        "submitter_id": "proteomics_assay_593ceea469",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "04cb5780b5",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "bf40acd2e2",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_67d18d2129"
+        },
+        "submitter_id": "proteomics_assay_4ad5b314ce",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "f2d7652b2c",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "013cacb649",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_2d61abf2f2"
+        },
+        "submitter_id": "proteomics_assay_373568bb24",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "dea1fe7dfa",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "a6016ff79b",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_b1fae0f99f"
+        },
+        "submitter_id": "proteomics_assay_5ce0ffcdc2",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "09ff31c1e3",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "43cb071720",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_22a74215da"
+        },
+        "submitter_id": "proteomics_assay_bdf3b4436a",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "cfc9032ba4",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "e3a224bc5a",
+        "processing_steps": "Depletion",
+        "samples": {
+            "submitter_id": "sample_c525595ffa"
+        },
+        "submitter_id": "proteomics_assay_a7b287dac0",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "2e6b7d94be",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "6c239eede1",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_d0807eb74a"
+        },
+        "submitter_id": "proteomics_assay_cbad936fa1",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "3a85a97a92",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "0b384f342e",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_b7c890d788"
+        },
+        "submitter_id": "proteomics_assay_9a651aaddf",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "4f096c1bdb",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "bc9290768b",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_057e425eac"
+        },
+        "submitter_id": "proteomics_assay_8f7bdf0a3f",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "8308a398da",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "02a280686a",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_2b7e0db1f1"
+        },
+        "submitter_id": "proteomics_assay_76f34ecdf2",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "255387ab02",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "40a8d76ac4",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_a4e6e4bf8b"
+        },
+        "submitter_id": "proteomics_assay_95d86a3437",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "e35d3bfcad",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "ee292d3964",
+        "processing_steps": null,
+        "samples": {
+            "submitter_id": "sample_b0902e501d"
+        },
+        "submitter_id": "proteomics_assay_44f6a43c1f",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "979be04c49",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "ab53642798",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_1ab3b2b48a"
+        },
+        "submitter_id": "proteomics_assay_e78388b082",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "eee8a64c05",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Stellar",
+        "operator": "8e74dcd9df",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_d56067969a"
+        },
+        "submitter_id": "proteomics_assay_5710472925",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "7014037ad3",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "6418802d2b",
+        "processing_steps": "Digestion",
+        "samples": {
+            "submitter_id": "sample_87d40a8489"
+        },
+        "submitter_id": "proteomics_assay_8ad6a360af",
+        "type": "proteomics_assay"
+    },
+    {
+        "experiment_id": "a56bc7c439",
+        "instrument_make": "Thermo Fisher Scientific",
+        "instrument_model": "Orbitrap Astral",
+        "operator": "56f656ba34",
+        "processing_steps": "LC-MS",
+        "samples": {
+            "submitter_id": "sample_2859355acc"
+        },
+        "submitter_id": "proteomics_assay_71272e2c36",
+        "type": "proteomics_assay"
+    }
+]

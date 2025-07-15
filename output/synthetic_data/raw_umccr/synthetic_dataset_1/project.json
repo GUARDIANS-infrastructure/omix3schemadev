@@ -1,0 +1,20 @@
+{
+    "authz": [
+        "cea044224a"
+    ],
+    "availability_mechanism": "8ccccbbceb",
+    "availability_type": "Restricted",
+    "code": "synthetic_dataset_1",
+    "consent_codes": [],
+    "data_access_url": "516d1539cc",
+    "date_collected": "19b4ccbfd8",
+    "dbgap_accession_number": "phs-synthetic_dataset_1",
+    "full_name": "ec43f49e86",
+    "name": "ef2a92f2be",
+    "project_description": "f4b718dcfd",
+    "project_registration": "66566ef79e",
+    "short_name": "545b6e22e7",
+    "support_id": "35043f58a7",
+    "support_source": "6940be5b06",
+    "type": "project"
+}

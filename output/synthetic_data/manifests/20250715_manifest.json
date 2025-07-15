@@ -1,0 +1,94 @@
+[
+    {
+        "file_name": "dummy_serum.csv",
+        "object_id": "temp_df3d2f7f-3159-493f-a5cb-08360319ea0d"
+    },
+    {
+        "file_name": "dummy_prot.mgf",
+        "object_id": "temp_3bdc4ae0-2cd6-4ea1-af88-5106d9f67a01"
+    },
+    {
+        "file_name": "dummy_lipids.tsv",
+        "object_id": "temp_4b494a54-ce21-4f62-bf84-454769b065bc"
+    },
+    {
+        "file_name": "dummy_bami.bam.bai",
+        "object_id": "temp_129f013c-5db2-4a60-a762-3f342d7c010f"
+    },
+    {
+        "file_name": "dummy_varbed.bed",
+        "object_id": "temp_abc73e98-6847-42aa-85bd-a2abaf7a9a44"
+    },
+    {
+        "file_name": "dummy_cram.cram",
+        "object_id": "temp_0626899d-a8c9-4e4e-bcd8-f30440dee678"
+    },
+    {
+        "file_name": "dummy_image.dcm",
+        "object_id": "temp_cc56637c-9248-4383-b4a1-18f5894ea7a8"
+    },
+    {
+        "file_name": "dummy_clinical.csv",
+        "object_id": "temp_8817231a-0ecb-409d-b853-320237896591"
+    },
+    {
+        "file_name": "dummy_lipids.txt",
+        "object_id": "temp_64fe1e36-d126-474b-9f70-1caab49c88f1"
+    },
+    {
+        "file_name": "dummy_fastq.fastq.gz",
+        "object_id": "temp_a677f8f9-27ad-4889-a2d6-cfc0f42c7da0"
+    },
+    {
+        "file_name": "dummy_crami.cram.crai",
+        "object_id": "temp_7afacae8-3316-4146-8add-30adaa1f0dd8"
+    },
+    {
+        "file_name": "dummy_vcf.vcf.gz",
+        "object_id": "temp_0f666f6a-3121-45c6-a26f-a617d0e89b15"
+    },
+    {
+        "file_name": "dummy_vcf.vcf",
+        "object_id": "temp_640b69d6-31ab-4b7e-8ea1-5af375219007"
+    },
+    {
+        "file_name": "dummy_crami.crai",
+        "object_id": "temp_e0a035d9-d6db-4945-bcc1-a8e31710e3b8"
+    },
+    {
+        "file_name": "dummy_serum.txt",
+        "object_id": "temp_4674f8e4-4cac-4a4d-8374-209ac6a7e864"
+    },
+    {
+        "file_name": "dummy_image.nii",
+        "object_id": "temp_07f5a99f-71a9-4fad-b45e-48472c586157"
+    },
+    {
+        "file_name": "dummy_clinical.tsv",
+        "object_id": "temp_b9e9b56d-ab73-4f73-b3f2-fb658fa6c852"
+    },
+    {
+        "file_name": "dummy_metab.wiff",
+        "object_id": "temp_bd94f82b-117b-4aa1-a0fa-16cb391bba1b"
+    },
+    {
+        "file_name": "dummy_bami.bai",
+        "object_id": "temp_efdc7e8e-2f67-4ce8-b91a-efc9778d456f"
+    },
+    {
+        "file_name": "dummy_clinical.txt",
+        "object_id": "temp_69070c15-0749-48d1-8a3b-2a79a1e7dc1a"
+    },
+    {
+        "file_name": "dummy_lipids.csv",
+        "object_id": "temp_88df9af3-214f-44e1-8f4b-54e30c4eb189"
+    },
+    {
+        "file_name": "dummy_bam.bam",
+        "object_id": "temp_da5ddab1-0ab7-45ef-bd32-e0a453c80c5f"
+    },
+    {
+        "file_name": "dummy_serum.tsv",
+        "object_id": "temp_a9778a16-9a67-40cd-8adc-6c2b9696b153"
+    }
+]

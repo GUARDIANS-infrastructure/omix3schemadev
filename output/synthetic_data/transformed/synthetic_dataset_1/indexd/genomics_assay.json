@@ -1,0 +1,772 @@
+[
+    {
+        "samples": {
+            "submitter_id": "sample_e7c3988d57"
+        },
+        "submitter_id": "genomics_assay_0f2b8799a0",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_30c791c11f"
+        },
+        "submitter_id": "genomics_assay_6fa6047687",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f713e31ba4"
+        },
+        "submitter_id": "genomics_assay_2e58dd44f7",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f2e7ef87d3"
+        },
+        "submitter_id": "genomics_assay_386c2faf76",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_537f87eb9a"
+        },
+        "submitter_id": "genomics_assay_4d97546a0f",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_e80cd80c47"
+        },
+        "submitter_id": "genomics_assay_caf6aab60b",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_322c6e7761"
+        },
+        "submitter_id": "genomics_assay_eb89a8157c",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_60fc331f21"
+        },
+        "submitter_id": "genomics_assay_bb728f7f11",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_666cec160b"
+        },
+        "submitter_id": "genomics_assay_ea2c08077f",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_8ea9502395"
+        },
+        "submitter_id": "genomics_assay_e33a692b85",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_5fcb958eab"
+        },
+        "submitter_id": "genomics_assay_e4413d8f41",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_3bf920ed03"
+        },
+        "submitter_id": "genomics_assay_c98aad4efa",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_39670c7dca"
+        },
+        "submitter_id": "genomics_assay_80895be7f7",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_4410e13a0a"
+        },
+        "submitter_id": "genomics_assay_ad847dea3e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_120d25dc22"
+        },
+        "submitter_id": "genomics_assay_a6959c5123",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_d67e654cfe"
+        },
+        "submitter_id": "genomics_assay_0d0afae157",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_9fec2d5517"
+        },
+        "submitter_id": "genomics_assay_5fcea14fc5",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f6e9958ac1"
+        },
+        "submitter_id": "genomics_assay_b49b7c3d08",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_04b75fcffe"
+        },
+        "submitter_id": "genomics_assay_9611c40580",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_2ab49e12a5"
+        },
+        "submitter_id": "genomics_assay_bac902e889",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_46637180ac"
+        },
+        "submitter_id": "genomics_assay_a64f50bb79",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_b67bc23532"
+        },
+        "submitter_id": "genomics_assay_0e96ecef82",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_69ed56fa85"
+        },
+        "submitter_id": "genomics_assay_bade0a97c1",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_127abb88c4"
+        },
+        "submitter_id": "genomics_assay_b24d6dfc21",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_2ee9e4e7e2"
+        },
+        "submitter_id": "genomics_assay_69d6c751a1",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_e8595026f4"
+        },
+        "submitter_id": "genomics_assay_3d5e6da721",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_8923944d9f"
+        },
+        "submitter_id": "genomics_assay_016059c24c",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_0cf628b996"
+        },
+        "submitter_id": "genomics_assay_67dc4b162e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f9a6d2851c"
+        },
+        "submitter_id": "genomics_assay_9906fca844",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_fc0e2a16dd"
+        },
+        "submitter_id": "genomics_assay_a8d80a80e5",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_acd52bacf3"
+        },
+        "submitter_id": "genomics_assay_4feb58060a",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_288c47c25c"
+        },
+        "submitter_id": "genomics_assay_1cacaf07ec",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_4e94171aa9"
+        },
+        "submitter_id": "genomics_assay_c219160f20",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_4c4d094405"
+        },
+        "submitter_id": "genomics_assay_46725c6c0a",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_3b1498de62"
+        },
+        "submitter_id": "genomics_assay_3f552f95d6",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_9face0b961"
+        },
+        "submitter_id": "genomics_assay_af6ca4418f",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_948451ebb0"
+        },
+        "submitter_id": "genomics_assay_7ada4e9c61",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_ef3cec4031"
+        },
+        "submitter_id": "genomics_assay_54765fc2a9",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_9a759add78"
+        },
+        "submitter_id": "genomics_assay_931a3b5775",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_5dea097960"
+        },
+        "submitter_id": "genomics_assay_d38b244ff3",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_16f7e01465"
+        },
+        "submitter_id": "genomics_assay_4d9249efc8",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_eeecf900a6"
+        },
+        "submitter_id": "genomics_assay_a7a0bbcb77",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_ae34b69018"
+        },
+        "submitter_id": "genomics_assay_654936d1a0",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_c237d2b115"
+        },
+        "submitter_id": "genomics_assay_72f3a8b5b3",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_95433666b3"
+        },
+        "submitter_id": "genomics_assay_9df8c93b5f",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_e0a4e171b3"
+        },
+        "submitter_id": "genomics_assay_3ced631676",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_d12b990436"
+        },
+        "submitter_id": "genomics_assay_e84407865e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f6e18b96ef"
+        },
+        "submitter_id": "genomics_assay_2de6a9c665",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_3bfe382877"
+        },
+        "submitter_id": "genomics_assay_ccf852e284",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_1244975cbe"
+        },
+        "submitter_id": "genomics_assay_437ee23818",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_5b85ea9c78"
+        },
+        "submitter_id": "genomics_assay_d3cced86d1",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_56f101daa6"
+        },
+        "submitter_id": "genomics_assay_be25ac12dc",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_06c9113de3"
+        },
+        "submitter_id": "genomics_assay_9108df6a3e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_18c5a0d4da"
+        },
+        "submitter_id": "genomics_assay_34e4b38c3c",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_779de283e9"
+        },
+        "submitter_id": "genomics_assay_15464ef809",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_39050f4bb3"
+        },
+        "submitter_id": "genomics_assay_7cdbc9fb50",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_67bd2a4d45"
+        },
+        "submitter_id": "genomics_assay_bc0042f423",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f66d146ebd"
+        },
+        "submitter_id": "genomics_assay_6d182e70a8",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_2536370b84"
+        },
+        "submitter_id": "genomics_assay_23e7f402eb",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_2fe4f6b8b6"
+        },
+        "submitter_id": "genomics_assay_be3bca040d",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_b764417ef3"
+        },
+        "submitter_id": "genomics_assay_b4f39569c6",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_fd20203b90"
+        },
+        "submitter_id": "genomics_assay_46a420868d",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_19b5d447f6"
+        },
+        "submitter_id": "genomics_assay_4477bae64e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_200c631931"
+        },
+        "submitter_id": "genomics_assay_95630e113d",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_086b833775"
+        },
+        "submitter_id": "genomics_assay_3b8c06281e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f54e122766"
+        },
+        "submitter_id": "genomics_assay_3e937e0e1d",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_127d676004"
+        },
+        "submitter_id": "genomics_assay_80998fb98e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_1b0dcca7a1"
+        },
+        "submitter_id": "genomics_assay_14f4b1ef88",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_74acca390f"
+        },
+        "submitter_id": "genomics_assay_2fb5bcdedc",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_4bcb08065a"
+        },
+        "submitter_id": "genomics_assay_cc245025da",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f05f0b05e0"
+        },
+        "submitter_id": "genomics_assay_e79c652306",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_7924acadd1"
+        },
+        "submitter_id": "genomics_assay_2da0982d7b",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_611a594b80"
+        },
+        "submitter_id": "genomics_assay_27c31c873e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_a716cdcdd2"
+        },
+        "submitter_id": "genomics_assay_eff98cada2",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_67b5e559ad"
+        },
+        "submitter_id": "genomics_assay_62272ea463",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f7d66f40cf"
+        },
+        "submitter_id": "genomics_assay_ba65c64523",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_e7063e49d2"
+        },
+        "submitter_id": "genomics_assay_94f6a3cc9c",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f41f6232a4"
+        },
+        "submitter_id": "genomics_assay_4bc824e8e6",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_9c66873df0"
+        },
+        "submitter_id": "genomics_assay_18202eef0c",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_6d7dfcbe4c"
+        },
+        "submitter_id": "genomics_assay_1d7ac6d5a3",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_fdf1db271a"
+        },
+        "submitter_id": "genomics_assay_fc60eca444",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_444faa5740"
+        },
+        "submitter_id": "genomics_assay_b5e2477da2",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_ea1d2748e3"
+        },
+        "submitter_id": "genomics_assay_aae086fb8e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_e0ee320fab"
+        },
+        "submitter_id": "genomics_assay_92e79f897f",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_bb977efe3a"
+        },
+        "submitter_id": "genomics_assay_cdcb62e4c8",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_0fa088dfd5"
+        },
+        "submitter_id": "genomics_assay_272d9e4812",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_e68ae36e03"
+        },
+        "submitter_id": "genomics_assay_0a32dbb3e2",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_be51d3bf9d"
+        },
+        "submitter_id": "genomics_assay_9352bd9683",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_82273f71a6"
+        },
+        "submitter_id": "genomics_assay_dc83a91cbe",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_ed373dbdc0"
+        },
+        "submitter_id": "genomics_assay_2056df5aee",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_f93c033c70"
+        },
+        "submitter_id": "genomics_assay_a75d6401fd",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_ee8cf5e6e1"
+        },
+        "submitter_id": "genomics_assay_e14d8de7fd",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_3897553c7e"
+        },
+        "submitter_id": "genomics_assay_5eca619d01",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_b3f33510a8"
+        },
+        "submitter_id": "genomics_assay_9915470422",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_5c5bb8c5fb"
+        },
+        "submitter_id": "genomics_assay_27b1c1855e",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_67d18d2129"
+        },
+        "submitter_id": "genomics_assay_590f2dda35",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_2d61abf2f2"
+        },
+        "submitter_id": "genomics_assay_6f4f7be2ce",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_b1fae0f99f"
+        },
+        "submitter_id": "genomics_assay_3e05d134df",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_22a74215da"
+        },
+        "submitter_id": "genomics_assay_1c873faa74",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_c525595ffa"
+        },
+        "submitter_id": "genomics_assay_50d6605a05",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_d0807eb74a"
+        },
+        "submitter_id": "genomics_assay_d8692f7cea",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_b7c890d788"
+        },
+        "submitter_id": "genomics_assay_8c4b088580",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_057e425eac"
+        },
+        "submitter_id": "genomics_assay_aadc136194",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_2b7e0db1f1"
+        },
+        "submitter_id": "genomics_assay_0675dd20c1",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_a4e6e4bf8b"
+        },
+        "submitter_id": "genomics_assay_febcf3da96",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_b0902e501d"
+        },
+        "submitter_id": "genomics_assay_dfffd1acf2",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_1ab3b2b48a"
+        },
+        "submitter_id": "genomics_assay_acc52677bd",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_d56067969a"
+        },
+        "submitter_id": "genomics_assay_941589b6dc",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_87d40a8489"
+        },
+        "submitter_id": "genomics_assay_8a2b7b4fdc",
+        "type": "genomics_assay"
+    },
+    {
+        "samples": {
+            "submitter_id": "sample_2859355acc"
+        },
+        "submitter_id": "genomics_assay_64d5d0ade1",
+        "type": "genomics_assay"
+    }
+]

@@ -1,0 +1,92 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: metabolomics_file
+title: Metabolomics File
+type: object
+namespace: https://data.acdc.ozheart.org
+category: data_file
+program: '*'
+project: '*'
+description: Data file containing metabolomics data
+additionalProperties: false
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+links:
+- exclusive: null
+  required: true
+  subgroup:
+  - name: metabolomics_assays
+    backref: metabolomics_files
+    label: data_from
+    target_type: metabolomics_assay
+    multiplicity: many_to_many
+    required: false
+  - name: core_metadata_collection
+    backref: metabolomics_files
+    label: describes
+    target_type: core_metadata_collection
+    multiplicity: one_to_one
+    required: false
+required:
+- type
+- submitter_id
+- data_format
+- data_category
+- data_type
+- facility_run_id
+- facility_batch_id
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+properties:
+  $ref: _definitions.yaml#/data_file_properties
+  metabolomics_assays:
+    $ref: _definitions.yaml#/to_many
+  core_metadata_collection:
+    $ref: _definitions.yaml#/to_one
+  data_format:
+    description: The format of the data in this data file
+    enum:
+    - csv
+    - tsv
+    - xls
+    - xlsx
+  data_category:
+    description: Broad categorization of the contents of the data file.
+    enum:
+    - mass spec raw
+    - mass spec processed
+    - summarised results
+    - quality control
+  data_type:
+    description: The data type
+    enum:
+    - csv
+    - tsv
+    - xls
+    - xlsx
+  cv:
+    description: Coefficient of variation (%)
+    type: number
+  facility_run_id:
+    description: 'A unique identifier of which run the file was generated from '
+    type: string
+  facility_batch_id:
+    description: 'A unique identifier of which batch of samples the file was generated
+      from '
+    type: string
+  facility_run_date:
+    description: The date the batch was analysed (YYYY-MM-DD)
+    type: string
+    pattern: ^\d{4}-\d{2}-\d{2}
+  data_processing_app:
+    description: Application/software used to pre-process the data
+    enum:
+    - DIA-NN
+    - Skyline

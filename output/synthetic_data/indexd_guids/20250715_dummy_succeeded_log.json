@@ -1,0 +1,140 @@
+[
+    {
+        "date_time": "2025-07-15T14:40:03.617141",
+        "project_id": "dummy",
+        "file_name": "dummy_bam.bam",
+        "object_id": "PREFIX/3ae58745-fd2c-4833-a61b-1b95ad04fd6a"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617265",
+        "project_id": "dummy",
+        "file_name": "dummy_bami.bai",
+        "object_id": "PREFIX/d4b9aaf6-c499-4508-926a-b1752b7a2f73"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617274",
+        "project_id": "dummy",
+        "file_name": "dummy_bami.bam.bai",
+        "object_id": "PREFIX/06de9fc3-ca21-4c32-80bc-4bea1b2b8a64"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617277",
+        "project_id": "dummy",
+        "file_name": "dummy_clinical.csv",
+        "object_id": "PREFIX/c86a05f9-1fc3-4179-9985-92015dbaa7fa"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617280",
+        "project_id": "dummy",
+        "file_name": "dummy_clinical.tsv",
+        "object_id": "PREFIX/2e9cec33-dbb2-4fd0-9b87-03ae2fcf1718"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617317",
+        "project_id": "dummy",
+        "file_name": "dummy_clinical.txt",
+        "object_id": "PREFIX/d821ee41-fff7-4bda-861d-0de4b68f82c5"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617321",
+        "project_id": "dummy",
+        "file_name": "dummy_cram.cram",
+        "object_id": "PREFIX/f7cacf47-93ab-4e00-8e69-fc3dffc42542"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617323",
+        "project_id": "dummy",
+        "file_name": "dummy_crami.crai",
+        "object_id": "PREFIX/9631b867-9613-4c5f-8b54-d1f103334d0f"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617325",
+        "project_id": "dummy",
+        "file_name": "dummy_crami.cram.crai",
+        "object_id": "PREFIX/b6e95d30-2354-4cce-bb7f-91f35a9c0b52"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617327",
+        "project_id": "dummy",
+        "file_name": "dummy_fastq.fastq.gz",
+        "object_id": "PREFIX/ee9a3d9b-afba-4458-8867-0ed110a41e1e"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617329",
+        "project_id": "dummy",
+        "file_name": "dummy_image.dcm",
+        "object_id": "PREFIX/66f72a36-c1ed-4206-a369-cadee1edfab6"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617336",
+        "project_id": "dummy",
+        "file_name": "dummy_image.nii",
+        "object_id": "PREFIX/760a9f24-7d17-45cd-8c5a-0455e599793c"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617352",
+        "project_id": "dummy",
+        "file_name": "dummy_lipids.csv",
+        "object_id": "PREFIX/d59dffe0-af44-4cf9-864c-03ad6ae37bae"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617371",
+        "project_id": "dummy",
+        "file_name": "dummy_lipids.tsv",
+        "object_id": "PREFIX/0b0c74bd-da07-4c96-a9db-aaa5edea4d99"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617376",
+        "project_id": "dummy",
+        "file_name": "dummy_lipids.txt",
+        "object_id": "PREFIX/61f1e912-3b07-4734-8d3b-cd5f4d2f66d0"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617379",
+        "project_id": "dummy",
+        "file_name": "dummy_metab.wiff",
+        "object_id": "PREFIX/c04b61d4-296c-4be8-bf4b-7ce3ae71709e"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617391",
+        "project_id": "dummy",
+        "file_name": "dummy_prot.mgf",
+        "object_id": "PREFIX/a861d42a-4f5c-4b91-882e-281ab2fe6949"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617396",
+        "project_id": "dummy",
+        "file_name": "dummy_serum.csv",
+        "object_id": "PREFIX/67cef1cf-bfb5-41fb-b317-60aea3521312"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617399",
+        "project_id": "dummy",
+        "file_name": "dummy_serum.tsv",
+        "object_id": "PREFIX/ed53a453-16f3-40f7-9daf-1caa6accb36e"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617401",
+        "project_id": "dummy",
+        "file_name": "dummy_serum.txt",
+        "object_id": "PREFIX/91404b04-5466-421c-8530-e144ff96d6ee"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617403",
+        "project_id": "dummy",
+        "file_name": "dummy_varbed.bed",
+        "object_id": "PREFIX/51288785-bea3-4179-8c19-a8b59872cd74"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617405",
+        "project_id": "dummy",
+        "file_name": "dummy_vcf.vcf",
+        "object_id": "PREFIX/86698901-3ca2-4a21-8256-bcc0ea21da16"
+    },
+    {
+        "date_time": "2025-07-15T14:40:03.617407",
+        "project_id": "dummy",
+        "file_name": "dummy_vcf.vcf.gz",
+        "object_id": "PREFIX/2040dbc7-23ca-4033-977e-30fecd82abb6"
+    }
+]

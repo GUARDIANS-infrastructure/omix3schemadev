@@ -1,0 +1,2202 @@
+[
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_235b6bda5c"
+        },
+        "cv": 32.691601129142676,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "3c95466c6f",
+        "facility_run_date": "2687-89-12",
+        "facility_run_id": "3faf78b63a",
+        "file_format": "1e7a7684f0",
+        "file_name": "dummy_clinical",
+        "file_size": 12,
+        "ga4gh_drs_uri": "90f307eeb1",
+        "md5sum": "9d609ef873e430d49a699c1521a56fca",
+        "submitter_id": "aligned_reads_file_d109304d24",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_bb61204bf5"
+        },
+        "cv": 29.169966724766827,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "3cac4623f4",
+        "facility_run_date": "1213-21-02",
+        "facility_run_id": "b31e97e274",
+        "file_format": "bf16e6225f",
+        "file_name": "dummy_clinical",
+        "file_size": 54,
+        "ga4gh_drs_uri": "97d1fc3c8a",
+        "md5sum": "6dfd36df4dbdf1ff1b82721323851d5f",
+        "submitter_id": "aligned_reads_file_f10d2d001e",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_d772a3c171"
+        },
+        "cv": 33.69409333322406,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "9134a72d82",
+        "facility_run_date": "0769-55-59",
+        "facility_run_id": "57e25e1835",
+        "file_format": "67e2d39a4f",
+        "file_name": "dummy_clinical",
+        "file_size": 17,
+        "ga4gh_drs_uri": "a2a38f422d",
+        "md5sum": "97e0427a873d4ad8b5f7f17d0a87da83",
+        "submitter_id": "aligned_reads_file_fbbe780610",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_e6df779ee4"
+        },
+        "cv": 95.05022940366659,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "5eca63273f",
+        "facility_run_date": "3969-82-31",
+        "facility_run_id": "b5f4f4fe5a",
+        "file_format": "ab08ef8dce",
+        "file_name": "dummy_clinical",
+        "file_size": 30,
+        "ga4gh_drs_uri": "126e20ad54",
+        "md5sum": "2970232f0c923f5fb6934c171f43b3f5",
+        "submitter_id": "aligned_reads_file_b8835fda8a",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_971f2409cf"
+        },
+        "cv": 19.747177688328897,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "7f45ad3903",
+        "facility_run_date": "5193-07-41",
+        "facility_run_id": "cd2ea58ee2",
+        "file_format": "36b0dee689",
+        "file_name": "dummy_clinical",
+        "file_size": 37,
+        "ga4gh_drs_uri": "971438e7c9",
+        "md5sum": "8155964deacaeabc0e99f81373198f25",
+        "submitter_id": "aligned_reads_file_454246aada",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_307ba66e6a"
+        },
+        "cv": 81.25762833712834,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "e33695da33",
+        "facility_run_date": "3542-56-22",
+        "facility_run_id": "221e1f6ec7",
+        "file_format": "73e0f6fbca",
+        "file_name": "dummy_clinical",
+        "file_size": 57,
+        "ga4gh_drs_uri": "d5fa14f72b",
+        "md5sum": "868e38de0ffca6a8d5ac27e4d00af2da",
+        "submitter_id": "aligned_reads_file_41e317a693",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_9a3a804b5b"
+        },
+        "cv": 18.108594129133238,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "4262702fdc",
+        "facility_run_date": "7096-66-27",
+        "facility_run_id": "ee393083d9",
+        "file_format": "8fccdd3a2b",
+        "file_name": "dummy_clinical",
+        "file_size": 71,
+        "ga4gh_drs_uri": "1decf3eabe",
+        "md5sum": "bc2d9a267a9f3438082b0cc59c3636c9",
+        "submitter_id": "aligned_reads_file_584816099f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4ac8cddc05"
+        },
+        "cv": 75.53583801441218,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "291bf4093e",
+        "facility_run_date": "6884-13-24",
+        "facility_run_id": "0b80680cba",
+        "file_format": "34d28f2d0d",
+        "file_name": "dummy_clinical",
+        "file_size": 95,
+        "ga4gh_drs_uri": "521ebacacc",
+        "md5sum": "b1a8160b626a6916c479129f8406ac38",
+        "submitter_id": "aligned_reads_file_4436ffdcb9",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_e7f7fe7c5a"
+        },
+        "cv": 12.899330510820906,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "b198b13ee5",
+        "facility_run_date": "1081-04-78",
+        "facility_run_id": "1e22fd2b3c",
+        "file_format": "bfbab3b9d2",
+        "file_name": "dummy_clinical",
+        "file_size": 25,
+        "ga4gh_drs_uri": "291dc628b6",
+        "md5sum": "0b68f711f101a2be67dc652a2a051ec7",
+        "submitter_id": "aligned_reads_file_8f714ba125",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_3e48713069"
+        },
+        "cv": 66.65332535281654,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "e62abf318d",
+        "facility_run_date": "0430-86-18",
+        "facility_run_id": "722fd89a78",
+        "file_format": "57e1a6b222",
+        "file_name": "dummy_clinical",
+        "file_size": 44,
+        "ga4gh_drs_uri": "8f3e082da8",
+        "md5sum": "a4000ae0fe6b10cb7918766ce9770be8",
+        "submitter_id": "aligned_reads_file_d3468ff460",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_6c958d5597"
+        },
+        "cv": 85.66403140069451,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "87734970d5",
+        "facility_run_date": "7828-58-22",
+        "facility_run_id": "0efb730d4a",
+        "file_format": "9db7096f6e",
+        "file_name": "dummy_clinical",
+        "file_size": 44,
+        "ga4gh_drs_uri": "c33b2dfdc4",
+        "md5sum": "0903f5b4c21e28d09df6b4f9a2789483",
+        "submitter_id": "aligned_reads_file_78b7996da8",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_6ebdd9ba24"
+        },
+        "cv": 74.56482823471127,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "e48358b59d",
+        "facility_run_date": "5541-24-02",
+        "facility_run_id": "732ead65bf",
+        "file_format": "90e337750f",
+        "file_name": "dummy_clinical",
+        "file_size": 51,
+        "ga4gh_drs_uri": "c88d239e74",
+        "md5sum": "6c57da4d96272c6e6633b0f891afb208",
+        "submitter_id": "aligned_reads_file_3ed4b444eb",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_449deb4b60"
+        },
+        "cv": 67.20458778794381,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "f2849b2c4d",
+        "facility_run_date": "4801-34-72",
+        "facility_run_id": "5f65132b67",
+        "file_format": "5b1e0058ba",
+        "file_name": "dummy_clinical",
+        "file_size": 67,
+        "ga4gh_drs_uri": "57ea8b4825",
+        "md5sum": "0afe88cc70d7be73a5158313c8c9733b",
+        "submitter_id": "aligned_reads_file_b7ea8ca506",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_30fab35c06"
+        },
+        "cv": 92.2349389919657,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "9f342c426d",
+        "facility_run_date": "2329-40-77",
+        "facility_run_id": "92d3a2a771",
+        "file_format": "30de283442",
+        "file_name": "dummy_clinical",
+        "file_size": 18,
+        "ga4gh_drs_uri": "391ea80b63",
+        "md5sum": "6c3fd534b17db4c778adf8fd939eb086",
+        "submitter_id": "aligned_reads_file_ecae67905d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_f7e741a5a0"
+        },
+        "cv": 16.53786749593206,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "3a4089773f",
+        "facility_run_date": "8258-68-63",
+        "facility_run_id": "a9fb2ffe40",
+        "file_format": "775faf249b",
+        "file_name": "dummy_clinical",
+        "file_size": 48,
+        "ga4gh_drs_uri": "017df7dc91",
+        "md5sum": "93015e4bf39b13b555d746ce614604a0",
+        "submitter_id": "aligned_reads_file_fb8c93d7d6",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_3297788b0d"
+        },
+        "cv": 90.57310393618368,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "5c44d4e7b9",
+        "facility_run_date": "3982-74-01",
+        "facility_run_id": "6cb181bd71",
+        "file_format": "ea8d5c3d67",
+        "file_name": "dummy_clinical",
+        "file_size": 59,
+        "ga4gh_drs_uri": "a26ae2aea6",
+        "md5sum": "862532a3f240914c1696b1d696c37f12",
+        "submitter_id": "aligned_reads_file_7ca64a2f02",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_686898510a"
+        },
+        "cv": 57.48076680590665,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "ee480c0d17",
+        "facility_run_date": "8003-23-27",
+        "facility_run_id": "b259907248",
+        "file_format": "17638eba0e",
+        "file_name": "dummy_clinical",
+        "file_size": 64,
+        "ga4gh_drs_uri": "fc0290f0c7",
+        "md5sum": "2853722ccb97c845e87ffc4dff26554f",
+        "submitter_id": "aligned_reads_file_8fc18c58b4",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_120ff2568a"
+        },
+        "cv": 20.61551697962892,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "89eb9f875c",
+        "facility_run_date": "3489-32-69",
+        "facility_run_id": "2d651c1266",
+        "file_format": "10df34b6ed",
+        "file_name": "dummy_clinical",
+        "file_size": 46,
+        "ga4gh_drs_uri": "103b876ef0",
+        "md5sum": "bb04b7b4c12e4f5ff1ac0e19bd6f33db",
+        "submitter_id": "aligned_reads_file_3ff3d053dd",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_54103fa289"
+        },
+        "cv": 78.11785756918005,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "a406b3eee9",
+        "facility_run_date": "1549-29-57",
+        "facility_run_id": "a77d9e28e7",
+        "file_format": "259318a0e6",
+        "file_name": "dummy_clinical",
+        "file_size": 31,
+        "ga4gh_drs_uri": "3ae7c8b6bb",
+        "md5sum": "59c3fbada0d1bbcbba07f1f9a850c7b9",
+        "submitter_id": "aligned_reads_file_dc73a785d7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_34820496af"
+        },
+        "cv": 89.88293918851737,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "46bb4b9f36",
+        "facility_run_date": "1790-86-22",
+        "facility_run_id": "1d3d5667eb",
+        "file_format": "4f572abcca",
+        "file_name": "dummy_clinical",
+        "file_size": 16,
+        "ga4gh_drs_uri": "c5ef407426",
+        "md5sum": "1eb382bf1613d715f9529a0803d84ed7",
+        "submitter_id": "aligned_reads_file_f69161395d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a2a4e57714"
+        },
+        "cv": 64.51316685156898,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "04b4db1c62",
+        "facility_run_date": "7796-56-79",
+        "facility_run_id": "fdba8e2f4d",
+        "file_format": "95ea444321",
+        "file_name": "dummy_clinical",
+        "file_size": 57,
+        "ga4gh_drs_uri": "f81257fba0",
+        "md5sum": "a27db8a390600b730a4117d033e28d44",
+        "submitter_id": "aligned_reads_file_c56d5627b6",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_5291fe8ab1"
+        },
+        "cv": 68.22436812208446,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "a751a37d51",
+        "facility_run_date": "9924-03-48",
+        "facility_run_id": "1e445c0fb9",
+        "file_format": "3162553018",
+        "file_name": "dummy_clinical",
+        "file_size": 23,
+        "ga4gh_drs_uri": "6e30ec7ce5",
+        "md5sum": "ebe8a30ce01c78942913ad0847be9813",
+        "submitter_id": "aligned_reads_file_4ea1a5e33d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_964d9a0611"
+        },
+        "cv": 54.98845007077237,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "f56fda43ba",
+        "facility_run_date": "7200-10-98",
+        "facility_run_id": "7346cea604",
+        "file_format": "b99ae3f8b9",
+        "file_name": "dummy_clinical",
+        "file_size": 10,
+        "ga4gh_drs_uri": "28bc7c3bd6",
+        "md5sum": "6a182ad9fb0bc8dd1adb178c10088c27",
+        "submitter_id": "aligned_reads_file_3ea8745746",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_dc3ac0d053"
+        },
+        "cv": 12.129087349966305,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "ae75669d66",
+        "facility_run_date": "6312-55-13",
+        "facility_run_id": "7edb3b5143",
+        "file_format": "c799cb0b14",
+        "file_name": "dummy_clinical",
+        "file_size": 87,
+        "ga4gh_drs_uri": "aee71087f1",
+        "md5sum": "e816a364fc5c96c398dd8a6e417f7050",
+        "submitter_id": "aligned_reads_file_1202d19ee1",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_7494631107"
+        },
+        "cv": 57.76439883206369,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "7854539740",
+        "facility_run_date": "3402-53-25",
+        "facility_run_id": "36c3ecf3db",
+        "file_format": "c43070e8d6",
+        "file_name": "dummy_clinical",
+        "file_size": 10,
+        "ga4gh_drs_uri": "a69be4dd76",
+        "md5sum": "4576fee4d50b7edfd228197643771114",
+        "submitter_id": "aligned_reads_file_6994357866",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c080986693"
+        },
+        "cv": 20.026545442229484,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "2134ab6d82",
+        "facility_run_date": "7373-03-95",
+        "facility_run_id": "fe7516d8fb",
+        "file_format": "097e36c245",
+        "file_name": "dummy_clinical",
+        "file_size": 6,
+        "ga4gh_drs_uri": "862166b9e0",
+        "md5sum": "140848d3b1c98b14ce4abc9868cb5efc",
+        "submitter_id": "aligned_reads_file_3d7b49196d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_03c6a4ce30"
+        },
+        "cv": 74.11365020197397,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "faf8ac7458",
+        "facility_run_date": "7745-89-40",
+        "facility_run_id": "06280c0fbc",
+        "file_format": "b5a3cf8677",
+        "file_name": "dummy_clinical",
+        "file_size": 13,
+        "ga4gh_drs_uri": "4310602421",
+        "md5sum": "8af5a7780c23342651e9118259eb5e08",
+        "submitter_id": "aligned_reads_file_f0044566c1",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_e4fc95d4fb"
+        },
+        "cv": 40.35892812280119,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "439842a914",
+        "facility_run_date": "1659-40-03",
+        "facility_run_id": "fdb96221e2",
+        "file_format": "8b60234fcf",
+        "file_name": "dummy_clinical",
+        "file_size": 33,
+        "ga4gh_drs_uri": "88e270338b",
+        "md5sum": "8c56ab3eb4ddc7532ef2c98a9ecec29d",
+        "submitter_id": "aligned_reads_file_84ac185644",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_348de40772"
+        },
+        "cv": 6.133820848993176,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "d68dbbf7d3",
+        "facility_run_date": "5282-04-91",
+        "facility_run_id": "1d310f3ddd",
+        "file_format": "dd8efe7d06",
+        "file_name": "dummy_clinical",
+        "file_size": 30,
+        "ga4gh_drs_uri": "106f5dd837",
+        "md5sum": "46cec1cba8c1bb07e03ef6f7d122c2b2",
+        "submitter_id": "aligned_reads_file_979cce5a4f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1801044f8b"
+        },
+        "cv": 48.471240464108135,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "a551e3fc8c",
+        "facility_run_date": "1189-85-18",
+        "facility_run_id": "b5dc0c4dd0",
+        "file_format": "2fb9fe4c50",
+        "file_name": "dummy_clinical",
+        "file_size": 49,
+        "ga4gh_drs_uri": "4a4ed01814",
+        "md5sum": "8237992f892904aa6c0774a8aff862ee",
+        "submitter_id": "aligned_reads_file_4506ca4bc7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_d0a68a9c87"
+        },
+        "cv": 29.01177408585276,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "01f2a6c5e7",
+        "facility_run_date": "4105-38-10",
+        "facility_run_id": "e16297e214",
+        "file_format": "87ad7d5aec",
+        "file_name": "dummy_clinical",
+        "file_size": 98,
+        "ga4gh_drs_uri": "2ff679b3d9",
+        "md5sum": "6cc3eece11fb19e2c99c4a5b5086a26d",
+        "submitter_id": "aligned_reads_file_5a8bd2433b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_f2aa491c82"
+        },
+        "cv": 81.1888233035285,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "bbe720e734",
+        "facility_run_date": "7367-20-44",
+        "facility_run_id": "d12f303c1c",
+        "file_format": "71793827cf",
+        "file_name": "dummy_clinical",
+        "file_size": 98,
+        "ga4gh_drs_uri": "e224df6ece",
+        "md5sum": "0dea9edc8b8f1d2f1196b0d641f5eacc",
+        "submitter_id": "aligned_reads_file_fbfc3e188c",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_14b6c1042f"
+        },
+        "cv": 17.42010120630766,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "868676c2a6",
+        "facility_run_date": "5379-71-75",
+        "facility_run_id": "4900c30409",
+        "file_format": "1a5e57f73a",
+        "file_name": "dummy_clinical",
+        "file_size": 2,
+        "ga4gh_drs_uri": "1d53bdb63b",
+        "md5sum": "ee68c4e171d3ebfcd07cec50edec7e9b",
+        "submitter_id": "aligned_reads_file_27c7bc4919",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ddc8ab274a"
+        },
+        "cv": 40.71013563968576,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "ca4589147e",
+        "facility_run_date": "6680-38-24",
+        "facility_run_id": "08f38835ba",
+        "file_format": "f577a52982",
+        "file_name": "dummy_clinical",
+        "file_size": 48,
+        "ga4gh_drs_uri": "a3a84149c2",
+        "md5sum": "243479e8ae356cd79570b645530e2a6a",
+        "submitter_id": "aligned_reads_file_cdfa3049d6",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c091908dfd"
+        },
+        "cv": 78.760467193672,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "50649e0fd2",
+        "facility_run_date": "7072-69-36",
+        "facility_run_id": "b2e84363ed",
+        "file_format": "2c780807ca",
+        "file_name": "dummy_clinical",
+        "file_size": 37,
+        "ga4gh_drs_uri": "71ee89342a",
+        "md5sum": "3469150c2c4c761fd2b438669d1aec53",
+        "submitter_id": "aligned_reads_file_7def9d65b7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_912c9b8efa"
+        },
+        "cv": 34.26444976785103,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "d5aae5d83e",
+        "facility_run_date": "1306-82-46",
+        "facility_run_id": "ca2b899954",
+        "file_format": "3846bb5b3f",
+        "file_name": "dummy_clinical",
+        "file_size": 100,
+        "ga4gh_drs_uri": "2bf3d945a8",
+        "md5sum": "70415cfbbc5f4bfd7eae9e14d63a772d",
+        "submitter_id": "aligned_reads_file_f8b7ea710d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_9548baaf7c"
+        },
+        "cv": 42.066876420607855,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "b11819868c",
+        "facility_run_date": "7625-67-46",
+        "facility_run_id": "39306f86b4",
+        "file_format": "372a01949a",
+        "file_name": "dummy_clinical",
+        "file_size": 80,
+        "ga4gh_drs_uri": "5dbb1c763f",
+        "md5sum": "4a17662822c64d6f81c1624508ca98ca",
+        "submitter_id": "aligned_reads_file_32050129cb",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_11f39f13c1"
+        },
+        "cv": 5.544983089906664,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "645ea82c5d",
+        "facility_run_date": "0162-41-98",
+        "facility_run_id": "43aa0b78ed",
+        "file_format": "e698008f13",
+        "file_name": "dummy_clinical",
+        "file_size": 43,
+        "ga4gh_drs_uri": "f8cf1189e8",
+        "md5sum": "1fcf4d499e075de17fca24a31f47a6bb",
+        "submitter_id": "aligned_reads_file_ced9698331",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c0f907636b"
+        },
+        "cv": 81.50960081792398,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "4e47c15ab6",
+        "facility_run_date": "9734-89-95",
+        "facility_run_id": "7a5131c9fe",
+        "file_format": "52b3c03abc",
+        "file_name": "dummy_clinical",
+        "file_size": 12,
+        "ga4gh_drs_uri": "ade2d98113",
+        "md5sum": "4533069fba9f3edb5c315eafd61d000f",
+        "submitter_id": "aligned_reads_file_30c6cf84f7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1050f1bee0"
+        },
+        "cv": 63.805247088483874,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "f475951264",
+        "facility_run_date": "3558-70-51",
+        "facility_run_id": "9942bef9f2",
+        "file_format": "e3a60c0764",
+        "file_name": "dummy_clinical",
+        "file_size": 60,
+        "ga4gh_drs_uri": "fe1d70b59a",
+        "md5sum": "437cced230a34af93d1ffff386b61155",
+        "submitter_id": "aligned_reads_file_2cb782bcbb",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_d34a06a0f9"
+        },
+        "cv": 28.474116532616144,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "e03a19cebd",
+        "facility_run_date": "8299-18-35",
+        "facility_run_id": "d554f4f399",
+        "file_format": "9c1c4e0e8b",
+        "file_name": "dummy_clinical",
+        "file_size": 76,
+        "ga4gh_drs_uri": "3a824dbd6d",
+        "md5sum": "2d92494d8ab457e67f3841f9ee8d01d8",
+        "submitter_id": "aligned_reads_file_e86a8cd867",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_103fcac635"
+        },
+        "cv": 70.8949424068589,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "0087d5aca0",
+        "facility_run_date": "4784-14-51",
+        "facility_run_id": "b84c39a00b",
+        "file_format": "7c7cbfbf78",
+        "file_name": "dummy_clinical",
+        "file_size": 38,
+        "ga4gh_drs_uri": "eee6c203ac",
+        "md5sum": "741ea5c7f0d892b790e34955daf3393f",
+        "submitter_id": "aligned_reads_file_572f95a109",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1a01be8320"
+        },
+        "cv": 17.301605728075188,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "e5121e2022",
+        "facility_run_date": "2038-95-26",
+        "facility_run_id": "39dec99e10",
+        "file_format": "6d96fdc25a",
+        "file_name": "dummy_clinical",
+        "file_size": 90,
+        "ga4gh_drs_uri": "33813d07a6",
+        "md5sum": "ddc435b589ed8e00ffd48e5a4d0c7943",
+        "submitter_id": "aligned_reads_file_78f0a4a313",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b7571b2ca8"
+        },
+        "cv": 1.8305683860316835,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "9530fca446",
+        "facility_run_date": "5990-92-06",
+        "facility_run_id": "55ff12f676",
+        "file_format": "44048480b4",
+        "file_name": "dummy_clinical",
+        "file_size": 70,
+        "ga4gh_drs_uri": "b4cbf51799",
+        "md5sum": "b363638e05012fd9782cdd44a5bf87a1",
+        "submitter_id": "aligned_reads_file_1c31eb72d8",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_29e7744672"
+        },
+        "cv": 36.89230747914619,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "f1bbe23849",
+        "facility_run_date": "2279-14-99",
+        "facility_run_id": "413018a906",
+        "file_format": "0e1078d8b6",
+        "file_name": "dummy_clinical",
+        "file_size": 24,
+        "ga4gh_drs_uri": "caf2dd90aa",
+        "md5sum": "a50398137eb0cfef82216251097fcd0f",
+        "submitter_id": "aligned_reads_file_b9311cd8f2",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_0390e5c966"
+        },
+        "cv": 66.19496446816366,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "3d327b5540",
+        "facility_run_date": "4264-07-91",
+        "facility_run_id": "ef3493b6b7",
+        "file_format": "5931b46df8",
+        "file_name": "dummy_clinical",
+        "file_size": 6,
+        "ga4gh_drs_uri": "9a78e79ea3",
+        "md5sum": "0d5577583c2b9d1fb3c40b7402c3b894",
+        "submitter_id": "aligned_reads_file_c8c3b931a8",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_f7142f4ff0"
+        },
+        "cv": 77.53835202140515,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "84ddc6e0d6",
+        "facility_run_date": "3358-60-33",
+        "facility_run_id": "e06084c0b1",
+        "file_format": "15cd36f0e6",
+        "file_name": "dummy_clinical",
+        "file_size": 40,
+        "ga4gh_drs_uri": "c383f157ff",
+        "md5sum": "5c8f0613b9b16fb55c9d50d03509ca1a",
+        "submitter_id": "aligned_reads_file_af0cc17e3a",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a9c6dc1592"
+        },
+        "cv": 59.086085136647824,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "54f78c727f",
+        "facility_run_date": "1954-23-68",
+        "facility_run_id": "761131210c",
+        "file_format": "8151d25609",
+        "file_name": "dummy_clinical",
+        "file_size": 50,
+        "ga4gh_drs_uri": "bc087b2ae3",
+        "md5sum": "10dfd7256e61d0d507f14cd2ab65f548",
+        "submitter_id": "aligned_reads_file_a78744e7fd",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b013b48162"
+        },
+        "cv": 94.56082705273813,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "9255d13b0f",
+        "facility_run_date": "2020-97-80",
+        "facility_run_id": "e493cd231c",
+        "file_format": "9a3b4cb470",
+        "file_name": "dummy_clinical",
+        "file_size": 24,
+        "ga4gh_drs_uri": "bc022141e8",
+        "md5sum": "cffbf15df598aea58883f91f007b7a6d",
+        "submitter_id": "aligned_reads_file_7dfa056254",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ac86159af9"
+        },
+        "cv": 49.55016756207497,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "7243c47787",
+        "facility_run_date": "0532-51-38",
+        "facility_run_id": "6236fd452e",
+        "file_format": "2debae3739",
+        "file_name": "dummy_clinical",
+        "file_size": 52,
+        "ga4gh_drs_uri": "7b3420673e",
+        "md5sum": "38450ac4656591f05141fdc96a0b0745",
+        "submitter_id": "aligned_reads_file_86e1b34d6d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b27a544b69"
+        },
+        "cv": 23.566610855051305,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "eac5ede649",
+        "facility_run_date": "8759-39-58",
+        "facility_run_id": "6cb4255232",
+        "file_format": "a075145b89",
+        "file_name": "dummy_clinical",
+        "file_size": 60,
+        "ga4gh_drs_uri": "81d2f6b632",
+        "md5sum": "3bab16c72467c6ca49f428088eabbe0d",
+        "submitter_id": "aligned_reads_file_f33380673f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_9a912906ee"
+        },
+        "cv": 69.96828457820395,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "975c9552bf",
+        "facility_run_date": "9684-73-79",
+        "facility_run_id": "5565685543",
+        "file_format": "432f7e303e",
+        "file_name": "dummy_clinical",
+        "file_size": 10,
+        "ga4gh_drs_uri": "b417b95132",
+        "md5sum": "c628d6979d7f7ca977eeab8fd67189a4",
+        "submitter_id": "aligned_reads_file_496cc37271",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_275d21802f"
+        },
+        "cv": 63.70789469217871,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "6e1d9593ee",
+        "facility_run_date": "3110-65-68",
+        "facility_run_id": "e293f15903",
+        "file_format": "ebde133666",
+        "file_name": "dummy_clinical",
+        "file_size": 39,
+        "ga4gh_drs_uri": "b6fe96e6c8",
+        "md5sum": "857e7512e39c60b81d1e980177bdde02",
+        "submitter_id": "aligned_reads_file_971d71f057",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_371f1679ed"
+        },
+        "cv": 46.37151456305105,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "2f8b67923c",
+        "facility_run_date": "5601-35-80",
+        "facility_run_id": "754959f9bb",
+        "file_format": "2e5e0c75fa",
+        "file_name": "dummy_clinical",
+        "file_size": 3,
+        "ga4gh_drs_uri": "f804efcc92",
+        "md5sum": "9c02066b90d3630d57bd265fdc7edd14",
+        "submitter_id": "aligned_reads_file_48602fabce",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c6cbf53fc6"
+        },
+        "cv": 79.06802556414529,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "795d33af80",
+        "facility_run_date": "7632-35-55",
+        "facility_run_id": "45bbc15911",
+        "file_format": "9e4ce68711",
+        "file_name": "dummy_clinical",
+        "file_size": 19,
+        "ga4gh_drs_uri": "d18e2a48e9",
+        "md5sum": "9af0d088bd2b51f0220e5d2291cfaefc",
+        "submitter_id": "aligned_reads_file_2ea0f4de90",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c6b4467ac9"
+        },
+        "cv": 61.46475108167642,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "c8c4fe2397",
+        "facility_run_date": "2397-98-15",
+        "facility_run_id": "062a25697b",
+        "file_format": "0aca38c637",
+        "file_name": "dummy_clinical",
+        "file_size": 86,
+        "ga4gh_drs_uri": "85669ed395",
+        "md5sum": "238c01befbfb85069eb0ef7b66bc18bc",
+        "submitter_id": "aligned_reads_file_a412ef0fa5",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_5292251df3"
+        },
+        "cv": 90.34848664332947,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "ed699ae284",
+        "facility_run_date": "0391-11-77",
+        "facility_run_id": "09cce98743",
+        "file_format": "8473086331",
+        "file_name": "dummy_clinical",
+        "file_size": 28,
+        "ga4gh_drs_uri": "85051cd1e2",
+        "md5sum": "e1125bfba24a704a3886d30697173864",
+        "submitter_id": "aligned_reads_file_e398bb5ed3",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b839cbaffc"
+        },
+        "cv": 28.353959260801975,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "353d2b5115",
+        "facility_run_date": "1844-82-40",
+        "facility_run_id": "d5fc231503",
+        "file_format": "afe9773d36",
+        "file_name": "dummy_clinical",
+        "file_size": 45,
+        "ga4gh_drs_uri": "ce0bef0c35",
+        "md5sum": "dd77c1583473205cef4c7a68ed54c0a0",
+        "submitter_id": "aligned_reads_file_3f9893683a",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_c170322b68"
+        },
+        "cv": 79.90453431500765,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "e46528c534",
+        "facility_run_date": "4807-01-96",
+        "facility_run_id": "1beaea8b75",
+        "file_format": "16846a8fa2",
+        "file_name": "dummy_clinical",
+        "file_size": 92,
+        "ga4gh_drs_uri": "6ad5ef0cb8",
+        "md5sum": "ffdf376cb48929da4eda93c96fa41905",
+        "submitter_id": "aligned_reads_file_34e316d2be",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_830bb5bd52"
+        },
+        "cv": 62.1832223166087,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "c15ba98fcd",
+        "facility_run_date": "7233-60-78",
+        "facility_run_id": "f3374f1eee",
+        "file_format": "1a8fbc58b2",
+        "file_name": "dummy_clinical",
+        "file_size": 8,
+        "ga4gh_drs_uri": "ccc9d78b90",
+        "md5sum": "0e6ceb76ad9ed19e2b082dbf3b8d762c",
+        "submitter_id": "aligned_reads_file_1ecff68f13",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_afe0c80303"
+        },
+        "cv": 6.444790350779495,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "30165503d6",
+        "facility_run_date": "5707-71-05",
+        "facility_run_id": "bf5d44c1a1",
+        "file_format": "d84990e26b",
+        "file_name": "dummy_clinical",
+        "file_size": 39,
+        "ga4gh_drs_uri": "50ae4b90f6",
+        "md5sum": "0d4fb9a0c9852c03e7fab7c5277fd4bc",
+        "submitter_id": "aligned_reads_file_374e041a44",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b4cdbc914b"
+        },
+        "cv": 84.14014387519012,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "b14225819f",
+        "facility_run_date": "6384-05-69",
+        "facility_run_id": "3005e4fdfc",
+        "file_format": "491265ce03",
+        "file_name": "dummy_clinical",
+        "file_size": 22,
+        "ga4gh_drs_uri": "8a5492bb02",
+        "md5sum": "cd1dbcfce1b7946781a515be2ae79422",
+        "submitter_id": "aligned_reads_file_df0b1cafc0",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_0bb74755e5"
+        },
+        "cv": 21.547900513022288,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "23083055fc",
+        "facility_run_date": "2560-29-60",
+        "facility_run_id": "a796a60087",
+        "file_format": "4c690efe56",
+        "file_name": "dummy_clinical",
+        "file_size": 47,
+        "ga4gh_drs_uri": "2d6878ef26",
+        "md5sum": "3390cfa6ede2f2f9e5adc490b44f6c63",
+        "submitter_id": "aligned_reads_file_8d8a15b57f",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_974f95d315"
+        },
+        "cv": 57.71226585424194,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "36bd894888",
+        "facility_run_date": "7060-57-67",
+        "facility_run_id": "9d02592dfe",
+        "file_format": "3fef45bb8d",
+        "file_name": "dummy_clinical",
+        "file_size": 70,
+        "ga4gh_drs_uri": "f9fd400068",
+        "md5sum": "e887651132de0d2541d3a4eeb34da871",
+        "submitter_id": "aligned_reads_file_b48fde5c9a",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ed1ddeb124"
+        },
+        "cv": 32.48207209115213,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "655cdfb9fc",
+        "facility_run_date": "5237-48-81",
+        "facility_run_id": "99364b14a8",
+        "file_format": "23b4e6964c",
+        "file_name": "dummy_clinical",
+        "file_size": 43,
+        "ga4gh_drs_uri": "bd51964c52",
+        "md5sum": "50bff6f02637ceb825dc5090c739097e",
+        "submitter_id": "aligned_reads_file_7b63b3a880",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_23b9f8ee0b"
+        },
+        "cv": 18.153881355086277,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "b6d7219f7d",
+        "facility_run_date": "8662-03-65",
+        "facility_run_id": "51fbaed6ab",
+        "file_format": "319fbae4b3",
+        "file_name": "dummy_clinical",
+        "file_size": 26,
+        "ga4gh_drs_uri": "9318b55ed2",
+        "md5sum": "238f0fb9c1bd0d219d2dd8460b95c269",
+        "submitter_id": "aligned_reads_file_03008e4625",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4854511874"
+        },
+        "cv": 25.754800021612322,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "1a85b36528",
+        "facility_run_date": "6952-87-52",
+        "facility_run_id": "257d462c10",
+        "file_format": "8773958c76",
+        "file_name": "dummy_clinical",
+        "file_size": 51,
+        "ga4gh_drs_uri": "ce5bfb98d9",
+        "md5sum": "a6c9ab2f8b4354bd1f36c3634eeef8f0",
+        "submitter_id": "aligned_reads_file_2b51668649",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_79a1e2e7f5"
+        },
+        "cv": 87.43536577344805,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "b27592c344",
+        "facility_run_date": "6594-40-36",
+        "facility_run_id": "2a25c48efb",
+        "file_format": "c3850a2727",
+        "file_name": "dummy_clinical",
+        "file_size": 45,
+        "ga4gh_drs_uri": "ae175baa92",
+        "md5sum": "8561e39faa61b347bb361c44d4aa413f",
+        "submitter_id": "aligned_reads_file_43d613d4d7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_0af63c38cd"
+        },
+        "cv": 58.81286137140626,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "a85c9601b1",
+        "facility_run_date": "7056-06-42",
+        "facility_run_id": "780be787b8",
+        "file_format": "00e1a78b8b",
+        "file_name": "dummy_clinical",
+        "file_size": 53,
+        "ga4gh_drs_uri": "81dfa38539",
+        "md5sum": "50906b383c841a489e63dee3b8735d7e",
+        "submitter_id": "aligned_reads_file_35bdb5151b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_eb40c346e7"
+        },
+        "cv": 69.23702201419434,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "46afeeb13d",
+        "facility_run_date": "3162-59-74",
+        "facility_run_id": "60f94feb18",
+        "file_format": "d193e9fcee",
+        "file_name": "dummy_clinical",
+        "file_size": 82,
+        "ga4gh_drs_uri": "8394ff6d9d",
+        "md5sum": "c6a050700d1d2bfa113bc6c2d3c8da87",
+        "submitter_id": "aligned_reads_file_3f69ee4804",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_399e3eb8ba"
+        },
+        "cv": 24.355372160618273,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "34996a0e43",
+        "facility_run_date": "1997-66-32",
+        "facility_run_id": "2a4ef543ad",
+        "file_format": "2a5eaa8eeb",
+        "file_name": "dummy_clinical",
+        "file_size": 67,
+        "ga4gh_drs_uri": "09674668e8",
+        "md5sum": "eff3970cd38716ad58102ba8e0f5b433",
+        "submitter_id": "aligned_reads_file_4610d3de14",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_e4d5af79a9"
+        },
+        "cv": 36.499607795758735,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "a9ea0bdc04",
+        "facility_run_date": "5097-09-32",
+        "facility_run_id": "d469c40e6f",
+        "file_format": "8d0b963ae2",
+        "file_name": "dummy_clinical",
+        "file_size": 42,
+        "ga4gh_drs_uri": "b64a601094",
+        "md5sum": "0a35e4a9c0c0856535d0971bdb239f1d",
+        "submitter_id": "aligned_reads_file_7ff8570a03",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_f4334fb586"
+        },
+        "cv": 36.20817286711251,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "30e9c11e47",
+        "facility_run_date": "8290-92-02",
+        "facility_run_id": "d0691859d2",
+        "file_format": "7a780aa6b8",
+        "file_name": "dummy_clinical",
+        "file_size": 85,
+        "ga4gh_drs_uri": "230ffa6a40",
+        "md5sum": "a4537823a94eb27148ffdcee0d2807ef",
+        "submitter_id": "aligned_reads_file_2c8236dfe0",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_4e84f0c90a"
+        },
+        "cv": 63.14486988869046,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "c674629c05",
+        "facility_run_date": "9556-35-69",
+        "facility_run_id": "552b1a0c34",
+        "file_format": "b6e3685bc8",
+        "file_name": "dummy_clinical",
+        "file_size": 49,
+        "ga4gh_drs_uri": "c5c2464fa7",
+        "md5sum": "9287ef6e75d0f23d4e238d672627d323",
+        "submitter_id": "aligned_reads_file_b5f451ee9b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_363103d2a2"
+        },
+        "cv": 79.29064247968968,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "3a131744af",
+        "facility_run_date": "3013-49-21",
+        "facility_run_id": "6a1a245673",
+        "file_format": "cc8500f1cf",
+        "file_name": "dummy_clinical",
+        "file_size": 64,
+        "ga4gh_drs_uri": "c197b7f36e",
+        "md5sum": "66a5130855d38f4896a24641dad71f38",
+        "submitter_id": "aligned_reads_file_835061abc7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_2f15c5cc10"
+        },
+        "cv": 93.87401458104904,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "67d7a6cdce",
+        "facility_run_date": "8316-01-59",
+        "facility_run_id": "16af337eca",
+        "file_format": "1fbfb6affb",
+        "file_name": "dummy_clinical",
+        "file_size": 49,
+        "ga4gh_drs_uri": "fa87185468",
+        "md5sum": "fa19b025c0f3c9239c51b53dbde0484d",
+        "submitter_id": "aligned_reads_file_dfedd322c0",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_8e7207892a"
+        },
+        "cv": 94.72905724865151,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "e9c7cdf8aa",
+        "facility_run_date": "8784-53-51",
+        "facility_run_id": "1908e8618f",
+        "file_format": "a9e05f6410",
+        "file_name": "dummy_clinical",
+        "file_size": 45,
+        "ga4gh_drs_uri": "5e009d02fb",
+        "md5sum": "35d6f82527cfe82dc64b9c205b16fd4f",
+        "submitter_id": "aligned_reads_file_822a5c4502",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_8f7a025733"
+        },
+        "cv": 57.80757593139326,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "34a6d8a31c",
+        "facility_run_date": "1384-32-83",
+        "facility_run_id": "0969f06394",
+        "file_format": "3deedc1985",
+        "file_name": "dummy_clinical",
+        "file_size": 17,
+        "ga4gh_drs_uri": "5cee1aa126",
+        "md5sum": "545e4df4d17b589b6fdd667dfb18150e",
+        "submitter_id": "aligned_reads_file_39f2cc984c",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_47d8c32cf9"
+        },
+        "cv": 76.55398906546806,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "398717c35b",
+        "facility_run_date": "2176-39-29",
+        "facility_run_id": "7258d5d72f",
+        "file_format": "8ed4c6e882",
+        "file_name": "dummy_clinical",
+        "file_size": 4,
+        "ga4gh_drs_uri": "5b683bacd7",
+        "md5sum": "5feb92cd181271cb577440c4c0653015",
+        "submitter_id": "aligned_reads_file_24ca5c3194",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_46c08e1f54"
+        },
+        "cv": 55.64035960215432,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "35283cd636",
+        "facility_run_date": "5243-61-66",
+        "facility_run_id": "2b43c9f739",
+        "file_format": "b0fee177f1",
+        "file_name": "dummy_clinical",
+        "file_size": 18,
+        "ga4gh_drs_uri": "9f5048481d",
+        "md5sum": "8a75f7355ad1361e220396157b685962",
+        "submitter_id": "aligned_reads_file_e137c01072",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b6858140e8"
+        },
+        "cv": 65.82362154810906,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "37819dc426",
+        "facility_run_date": "0032-35-86",
+        "facility_run_id": "0a8de2d184",
+        "file_format": "4e73567c22",
+        "file_name": "dummy_clinical",
+        "file_size": 42,
+        "ga4gh_drs_uri": "42a74e2864",
+        "md5sum": "a0d034ea39fc319c5f7158c61bd6f8f8",
+        "submitter_id": "aligned_reads_file_f73d663165",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_1f66cad584"
+        },
+        "cv": 10.351504165459225,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "fab6d9f0ff",
+        "facility_run_date": "1063-30-63",
+        "facility_run_id": "17e9769349",
+        "file_format": "770668ca8c",
+        "file_name": "dummy_clinical",
+        "file_size": 92,
+        "ga4gh_drs_uri": "1f9e82f75a",
+        "md5sum": "c6f92151a9f3b87d8662e8c959a897d1",
+        "submitter_id": "aligned_reads_file_bb936b058c",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ba95bbfba0"
+        },
+        "cv": 50.37388296568545,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "93ffe399c6",
+        "facility_run_date": "8341-96-00",
+        "facility_run_id": "6f003cb077",
+        "file_format": "db40d38415",
+        "file_name": "dummy_clinical",
+        "file_size": 13,
+        "ga4gh_drs_uri": "f6bce20647",
+        "md5sum": "5f1b1e3af08f08317af495a4981516a5",
+        "submitter_id": "aligned_reads_file_92c03457e2",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_53ac450a30"
+        },
+        "cv": 33.15298357157555,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "4ada4563ad",
+        "facility_run_date": "4221-40-85",
+        "facility_run_id": "ad94848f6d",
+        "file_format": "d74257d480",
+        "file_name": "dummy_clinical",
+        "file_size": 31,
+        "ga4gh_drs_uri": "80b5467b90",
+        "md5sum": "08ac0c6f80d3b7daee4d6bd43d6bed04",
+        "submitter_id": "aligned_reads_file_e5bea9bb5d",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_9dbfd0a0dd"
+        },
+        "cv": 50.51505537000007,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "56587d600d",
+        "facility_run_date": "1763-77-19",
+        "facility_run_id": "2ee8666341",
+        "file_format": "a1a4453354",
+        "file_name": "dummy_clinical",
+        "file_size": 55,
+        "ga4gh_drs_uri": "7020fd893d",
+        "md5sum": "16236d928e86005f71d169970ea078a1",
+        "submitter_id": "aligned_reads_file_00595b1c04",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_bbff9c467b"
+        },
+        "cv": 59.78902945396316,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "d33a5f1fb3",
+        "facility_run_date": "7708-08-08",
+        "facility_run_id": "ec69fb045a",
+        "file_format": "2a2d5e5344",
+        "file_name": "dummy_clinical",
+        "file_size": 94,
+        "ga4gh_drs_uri": "019a4e759b",
+        "md5sum": "860f2427258306a2fbcea9ac37558fca",
+        "submitter_id": "aligned_reads_file_eb5f73284c",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_976f657d0c"
+        },
+        "cv": 79.29201913213309,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "5294db2cda",
+        "facility_run_date": "9885-94-07",
+        "facility_run_id": "1cd11f74fd",
+        "file_format": "c89492a899",
+        "file_name": "dummy_clinical",
+        "file_size": 100,
+        "ga4gh_drs_uri": "91abc7a235",
+        "md5sum": "f8f9bb7d8a76c5dc057cac53f9e27bf9",
+        "submitter_id": "aligned_reads_file_af13967345",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_68187b1099"
+        },
+        "cv": 98.47636099694765,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "32bad2014d",
+        "facility_run_date": "2921-73-97",
+        "facility_run_id": "e5db02e579",
+        "file_format": "6ea51cec5f",
+        "file_name": "dummy_clinical",
+        "file_size": 87,
+        "ga4gh_drs_uri": "c96b11574c",
+        "md5sum": "5e19b87e588da9da7e79c3b67ae4e243",
+        "submitter_id": "aligned_reads_file_06eb667281",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_db0583b508"
+        },
+        "cv": 44.779710138615656,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "d4f43c9e9b",
+        "facility_run_date": "9736-21-10",
+        "facility_run_id": "aba300b907",
+        "file_format": "9886923910",
+        "file_name": "dummy_clinical",
+        "file_size": 7,
+        "ga4gh_drs_uri": "77abded7c4",
+        "md5sum": "d12bf7ecff7841ac91d0f91763121e05",
+        "submitter_id": "aligned_reads_file_535ca279ad",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_bc68c88f2b"
+        },
+        "cv": 14.341416443539368,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "640603c048",
+        "facility_run_date": "9329-73-54",
+        "facility_run_id": "f6506a883c",
+        "file_format": "69b81d2d36",
+        "file_name": "dummy_clinical",
+        "file_size": 67,
+        "ga4gh_drs_uri": "cfed7fb344",
+        "md5sum": "3de5d4ad5e361057b1e6638e1ec86820",
+        "submitter_id": "aligned_reads_file_46f5fb9f83",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_485ff69902"
+        },
+        "cv": 57.42960124032026,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "2c0402fd94",
+        "facility_run_date": "0378-72-29",
+        "facility_run_id": "16e748e4ad",
+        "file_format": "75873657a1",
+        "file_name": "dummy_clinical",
+        "file_size": 32,
+        "ga4gh_drs_uri": "0b53664bf1",
+        "md5sum": "dfdb5d56de8b6c9187338b94c1105958",
+        "submitter_id": "aligned_reads_file_76c6397d67",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_2a6569642d"
+        },
+        "cv": 86.2521994416598,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "263e54030e",
+        "facility_run_date": "8127-25-52",
+        "facility_run_id": "5b6c103446",
+        "file_format": "5cf9c234cf",
+        "file_name": "dummy_clinical",
+        "file_size": 43,
+        "ga4gh_drs_uri": "719ecc6b28",
+        "md5sum": "ffa687d0e0fc2bdfe629f36533256a71",
+        "submitter_id": "aligned_reads_file_433a428536",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_7c235d1635"
+        },
+        "cv": 27.012746897384154,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "446e650fa7",
+        "facility_run_date": "8716-85-15",
+        "facility_run_id": "6ee133426a",
+        "file_format": "0d4d13b781",
+        "file_name": "dummy_clinical",
+        "file_size": 74,
+        "ga4gh_drs_uri": "dd15149245",
+        "md5sum": "f5fbd3fd4278efe385d02b38de6538d4",
+        "submitter_id": "aligned_reads_file_7cfdd27e9e",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_3ca2e1f619"
+        },
+        "cv": 62.74215148296911,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "86ecebe7a9",
+        "facility_run_date": "0249-16-39",
+        "facility_run_id": "88fd2bf1ae",
+        "file_format": "b12e413a0c",
+        "file_name": "dummy_clinical",
+        "file_size": 59,
+        "ga4gh_drs_uri": "a18bb0f0ac",
+        "md5sum": "9852e4dad8b1b6acc131abe1c8afa576",
+        "submitter_id": "aligned_reads_file_a5c338706b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_b89192b765"
+        },
+        "cv": 2.944965991486892,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "48dac1fb01",
+        "facility_run_date": "5921-90-62",
+        "facility_run_id": "56655f27b7",
+        "file_format": "3f3b6d35b5",
+        "file_name": "dummy_clinical",
+        "file_size": 57,
+        "ga4gh_drs_uri": "9417b3d5e1",
+        "md5sum": "742e3efcd1d355e1574c2a013f4ef872",
+        "submitter_id": "aligned_reads_file_af69c6f626",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_067341037c"
+        },
+        "cv": 32.68547657594427,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "717b3164eb",
+        "facility_run_date": "7199-84-61",
+        "facility_run_id": "824e944710",
+        "file_format": "be97936141",
+        "file_name": "dummy_clinical",
+        "file_size": 80,
+        "ga4gh_drs_uri": "26da21c3e9",
+        "md5sum": "d9557a41302f1d65ff7b9c701e8f705c",
+        "submitter_id": "aligned_reads_file_272d0dad69",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_2e996fbed0"
+        },
+        "cv": 82.8846612766515,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "c26e68cd7c",
+        "facility_run_date": "6625-93-08",
+        "facility_run_id": "441d9c9fd7",
+        "file_format": "391e28c035",
+        "file_name": "dummy_clinical",
+        "file_size": 77,
+        "ga4gh_drs_uri": "7bb8d9ee35",
+        "md5sum": "66e204218d215b846986d6fa235d4b05",
+        "submitter_id": "aligned_reads_file_b6c5c554aa",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_10372a3eae"
+        },
+        "cv": 96.4317739141968,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "80373dbbbb",
+        "facility_run_date": "0078-66-45",
+        "facility_run_id": "fcef785362",
+        "file_format": "b6fd36b83a",
+        "file_name": "dummy_clinical",
+        "file_size": 28,
+        "ga4gh_drs_uri": "b92636db05",
+        "md5sum": "c2bd0711e4191a0a47969e6c1cb41744",
+        "submitter_id": "aligned_reads_file_5652241768",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_39c39d091e"
+        },
+        "cv": 79.47852516899549,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "9373a1859c",
+        "facility_run_date": "5551-82-65",
+        "facility_run_id": "eb6ef4fe72",
+        "file_format": "6868f4be4f",
+        "file_name": "dummy_clinical",
+        "file_size": 24,
+        "ga4gh_drs_uri": "8163852dbd",
+        "md5sum": "020fe9444701e64d936a8756be66ff97",
+        "submitter_id": "aligned_reads_file_891c00347b",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_a911b19414"
+        },
+        "cv": 68.35898748293698,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "5bff55d951",
+        "facility_run_date": "8871-00-37",
+        "facility_run_id": "ce3d3e1d39",
+        "file_format": "42eb9746a3",
+        "file_name": "dummy_clinical",
+        "file_size": 43,
+        "ga4gh_drs_uri": "a4b3570c36",
+        "md5sum": "754014551b0172341576c675a2dce840",
+        "submitter_id": "aligned_reads_file_b8b56947a9",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_419cb968f2"
+        },
+        "cv": 46.85940190077776,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "e27cd80299",
+        "facility_run_date": "7186-60-93",
+        "facility_run_id": "63f7d51996",
+        "file_format": "8ce0b8968b",
+        "file_name": "dummy_clinical",
+        "file_size": 59,
+        "ga4gh_drs_uri": "66593d1777",
+        "md5sum": "5cacde36c4e814826086f9faf3582e50",
+        "submitter_id": "aligned_reads_file_2a1297a7e7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_764497fc15"
+        },
+        "cv": 33.60630658487547,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "644f9adee6",
+        "facility_run_date": "0925-48-16",
+        "facility_run_id": "314aa94c87",
+        "file_format": "b46b607537",
+        "file_name": "dummy_clinical",
+        "file_size": 21,
+        "ga4gh_drs_uri": "3a9f7f8565",
+        "md5sum": "eafd97108fd8e5ea000d56dabc759a34",
+        "submitter_id": "aligned_reads_file_02e3ad46d8",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_6f5e70f8b5"
+        },
+        "cv": 37.09575785763867,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "fff5ee201c",
+        "facility_run_date": "8489-51-96",
+        "facility_run_id": "ad414c41cb",
+        "file_format": "59ee85ca40",
+        "file_name": "dummy_clinical",
+        "file_size": 92,
+        "ga4gh_drs_uri": "f177601fd5",
+        "md5sum": "b2683c37e47a78f9ae4888b637db017d",
+        "submitter_id": "aligned_reads_file_2322bd0717",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_529f1d3653"
+        },
+        "cv": 89.37062886962583,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "e9eaadba52",
+        "facility_run_date": "5857-58-29",
+        "facility_run_id": "cb95be6c43",
+        "file_format": "7b4fe7015a",
+        "file_name": "dummy_clinical",
+        "file_size": 57,
+        "ga4gh_drs_uri": "bb965fb080",
+        "md5sum": "99858d564b6ea23727c462382c5816c6",
+        "submitter_id": "aligned_reads_file_b43ef60433",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_d2da3e1084"
+        },
+        "cv": 6.035912933789234,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "e8b27307bf",
+        "facility_run_date": "7710-60-87",
+        "facility_run_id": "8751e3b0a3",
+        "file_format": "911e4d4c07",
+        "file_name": "dummy_clinical",
+        "file_size": 77,
+        "ga4gh_drs_uri": "1e9797806b",
+        "md5sum": "59fc7530c5e80bba9d9a1e9662460923",
+        "submitter_id": "aligned_reads_file_9a045a42d7",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_faa533b248"
+        },
+        "cv": 86.43479433270001,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "d05f3c02d8",
+        "facility_run_date": "4590-15-23",
+        "facility_run_id": "3c7ae65958",
+        "file_format": "29e116c410",
+        "file_name": "dummy_clinical",
+        "file_size": 87,
+        "ga4gh_drs_uri": "248c91fdfb",
+        "md5sum": "df3908f0d07b1c855e54f58fa1cf2470",
+        "submitter_id": "aligned_reads_file_8e040fd2f9",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_07cb0513f3"
+        },
+        "cv": 17.086292647702006,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "d1ea0eba08",
+        "facility_run_date": "5748-01-33",
+        "facility_run_id": "4849615eaa",
+        "file_format": "1e83d9da3b",
+        "file_name": "dummy_clinical",
+        "file_size": 6,
+        "ga4gh_drs_uri": "1c901f5e20",
+        "md5sum": "fb5db1f9d9e6c226637b616251edf8b4",
+        "submitter_id": "aligned_reads_file_83527bb0fc",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_5071853bba"
+        },
+        "cv": 93.78615592507896,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "41cc19f6ab",
+        "facility_run_date": "8776-09-48",
+        "facility_run_id": "aa826f125e",
+        "file_format": "2ec0054510",
+        "file_name": "dummy_clinical",
+        "file_size": 1,
+        "ga4gh_drs_uri": "bb64417bfa",
+        "md5sum": "fe03108088965bb7660bb39edcfee36b",
+        "submitter_id": "aligned_reads_file_f4222c23cd",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_ffb376a061"
+        },
+        "cv": 59.32873618944361,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "e7a55003b5",
+        "facility_run_date": "7417-76-11",
+        "facility_run_id": "1a2df1baa2",
+        "file_format": "93fdc2d9d6",
+        "file_name": "dummy_clinical",
+        "file_size": 80,
+        "ga4gh_drs_uri": "db5899c7f4",
+        "md5sum": "ba73293c022d8e5ab8cbdedc4d715bca",
+        "submitter_id": "aligned_reads_file_74feab6478",
+        "type": "aligned_reads_file"
+    },
+    {
+        "alignment_workflows": {
+            "submitter_id": "alignment_workflow_8b0b52513a"
+        },
+        "cv": 60.39122692727676,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "8d7d4f8dca",
+        "facility_run_date": "6779-37-70",
+        "facility_run_id": "58bd1da44d",
+        "file_format": "e7fb2fc637",
+        "file_name": "dummy_clinical",
+        "file_size": 31,
+        "ga4gh_drs_uri": "566b44393d",
+        "md5sum": "8758253675c362ff868e6028bd352c12",
+        "submitter_id": "aligned_reads_file_034ef83391",
+        "type": "aligned_reads_file"
+    }
+]

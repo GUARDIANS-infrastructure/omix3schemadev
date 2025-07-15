@@ -1,0 +1,2202 @@
+[
+    {
+        "cv": 56.428008104337444,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "8704ac6081",
+        "facility_run_date": "3694-93-00",
+        "facility_run_id": "25e34f4be2",
+        "file_format": "78f087c0b3",
+        "file_name": "dummy_clinical",
+        "file_size": 38,
+        "ga4gh_drs_uri": "ef6dc11eff",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_0f2b8799a0"
+        },
+        "md5sum": "474e5f99304fa5954a8df414539e37f7",
+        "submitter_id": "unaligned_reads_file_01e9a837f9",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 88.40507585408031,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "5b519089ba",
+        "facility_run_date": "3553-78-59",
+        "facility_run_id": "6141b4ff3e",
+        "file_format": "d961de8e6d",
+        "file_name": "dummy_clinical",
+        "file_size": 86,
+        "ga4gh_drs_uri": "a492fe185f",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_6fa6047687"
+        },
+        "md5sum": "82776987c5e50cf8f8eda78603d0d64b",
+        "submitter_id": "unaligned_reads_file_43322fad17",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 66.93256022465293,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "e1fce1e1fd",
+        "facility_run_date": "1412-02-38",
+        "facility_run_id": "9deae8b2f8",
+        "file_format": "4ef4c26568",
+        "file_name": "dummy_clinical",
+        "file_size": 80,
+        "ga4gh_drs_uri": "7cb3aad2f0",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_2e58dd44f7"
+        },
+        "md5sum": "9adb18b41a3a75036d7e1980e939a31a",
+        "submitter_id": "unaligned_reads_file_5fe06ca1c1",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 33.75572235500556,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "9bf6e72b79",
+        "facility_run_date": "3040-42-39",
+        "facility_run_id": "c4c461a5f4",
+        "file_format": "e8beabcfb0",
+        "file_name": "dummy_clinical",
+        "file_size": 98,
+        "ga4gh_drs_uri": "140f55eda2",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_386c2faf76"
+        },
+        "md5sum": "83e56b87a46d51813fb548b8c2c5e971",
+        "submitter_id": "unaligned_reads_file_870aaae1a5",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 18.051951493308206,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "7bc6c07533",
+        "facility_run_date": "9952-19-80",
+        "facility_run_id": "d3854d2ac3",
+        "file_format": "5d3fb6e1a3",
+        "file_name": "dummy_clinical",
+        "file_size": 64,
+        "ga4gh_drs_uri": "c30dd61040",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_4d97546a0f"
+        },
+        "md5sum": "78c9801b7a35ba35690a6ad80cf328d8",
+        "submitter_id": "unaligned_reads_file_4f6f91187a",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 22.137223823266428,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "c892c1afcc",
+        "facility_run_date": "6635-71-32",
+        "facility_run_id": "02896d74ee",
+        "file_format": "fcc066538c",
+        "file_name": "dummy_clinical",
+        "file_size": 13,
+        "ga4gh_drs_uri": "f43125d2a1",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_caf6aab60b"
+        },
+        "md5sum": "22a87d4070d1118ee8ef6383a17df1e4",
+        "submitter_id": "unaligned_reads_file_e98c032215",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 90.91155654140148,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "ce56971333",
+        "facility_run_date": "9087-23-48",
+        "facility_run_id": "fbd057d477",
+        "file_format": "94e2079f8a",
+        "file_name": "dummy_clinical",
+        "file_size": 86,
+        "ga4gh_drs_uri": "0cc8a2ff59",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_eb89a8157c"
+        },
+        "md5sum": "0cb4586348f74a678192b07110bca860",
+        "submitter_id": "unaligned_reads_file_d030b699f1",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 34.66543467613674,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "3d77e572cb",
+        "facility_run_date": "7209-51-43",
+        "facility_run_id": "13d34d40c4",
+        "file_format": "ae005a4212",
+        "file_name": "dummy_clinical",
+        "file_size": 13,
+        "ga4gh_drs_uri": "945a384213",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_bb728f7f11"
+        },
+        "md5sum": "36301be1b4be8f354ab1b9615d79b802",
+        "submitter_id": "unaligned_reads_file_6a981f912c",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 58.89299675554334,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "928ad990ed",
+        "facility_run_date": "2297-07-99",
+        "facility_run_id": "2bd34c3a14",
+        "file_format": "99cd19e98f",
+        "file_name": "dummy_clinical",
+        "file_size": 11,
+        "ga4gh_drs_uri": "5c91453392",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_ea2c08077f"
+        },
+        "md5sum": "565ebdc946a0ce800ab3a5dfda2d68fe",
+        "submitter_id": "unaligned_reads_file_7ddb67af86",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 20.279901533449895,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "5dd04d5f7b",
+        "facility_run_date": "8429-30-69",
+        "facility_run_id": "454940e0cc",
+        "file_format": "e2ad9952c5",
+        "file_name": "dummy_clinical",
+        "file_size": 33,
+        "ga4gh_drs_uri": "56ab77ccbb",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_e33a692b85"
+        },
+        "md5sum": "05f98e9b2912beca848a6f6425d9bba9",
+        "submitter_id": "unaligned_reads_file_594205bf72",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 62.83162308925084,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "7d1165cf6f",
+        "facility_run_date": "9558-64-48",
+        "facility_run_id": "bc45e8c425",
+        "file_format": "043b0d7f0d",
+        "file_name": "dummy_clinical",
+        "file_size": 52,
+        "ga4gh_drs_uri": "eba07d55d6",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_e4413d8f41"
+        },
+        "md5sum": "8f419b460ec4533194487c10c4b70bc5",
+        "submitter_id": "unaligned_reads_file_7f6587b629",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 38.52072595632491,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "924fb33ee3",
+        "facility_run_date": "6476-29-29",
+        "facility_run_id": "b2af905245",
+        "file_format": "d6d51a252c",
+        "file_name": "dummy_clinical",
+        "file_size": 9,
+        "ga4gh_drs_uri": "82fab03a89",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_c98aad4efa"
+        },
+        "md5sum": "c6e832c08c933ed1171bd2bd92b46716",
+        "submitter_id": "unaligned_reads_file_eb62769deb",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 23.1862369737591,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "718caa562c",
+        "facility_run_date": "2598-72-09",
+        "facility_run_id": "936bda0ec2",
+        "file_format": "b48ee78c5f",
+        "file_name": "dummy_clinical",
+        "file_size": 91,
+        "ga4gh_drs_uri": "d078769cc5",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_80895be7f7"
+        },
+        "md5sum": "8166378c8d8cafac8912eba297e2b862",
+        "submitter_id": "unaligned_reads_file_958d0ab7ba",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 72.51565750867663,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "b51db5f6d5",
+        "facility_run_date": "5338-22-76",
+        "facility_run_id": "804b6b9f3c",
+        "file_format": "600ca79291",
+        "file_name": "dummy_clinical",
+        "file_size": 97,
+        "ga4gh_drs_uri": "246089e5bd",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_ad847dea3e"
+        },
+        "md5sum": "e4ddc0b459c4f8d325f7b5ae92351431",
+        "submitter_id": "unaligned_reads_file_a0f20f2729",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 70.59733604339849,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "f48e25a494",
+        "facility_run_date": "7306-94-44",
+        "facility_run_id": "68ab2033c1",
+        "file_format": "459fda115d",
+        "file_name": "dummy_clinical",
+        "file_size": 31,
+        "ga4gh_drs_uri": "0bfe326535",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_a6959c5123"
+        },
+        "md5sum": "076eec438e52ba2b4760f490f9cd5571",
+        "submitter_id": "unaligned_reads_file_4bb64c8a59",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 47.29055112776476,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "78eebcb1ee",
+        "facility_run_date": "7195-25-91",
+        "facility_run_id": "993c0a97ff",
+        "file_format": "5ed58e5a66",
+        "file_name": "dummy_clinical",
+        "file_size": 30,
+        "ga4gh_drs_uri": "74e6feab2a",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_0d0afae157"
+        },
+        "md5sum": "de48a92436da05ca5957485f470c4064",
+        "submitter_id": "unaligned_reads_file_9e9307d794",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 91.23391461128921,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "1310d474eb",
+        "facility_run_date": "8092-94-22",
+        "facility_run_id": "ec750179bd",
+        "file_format": "f2be12ae78",
+        "file_name": "dummy_clinical",
+        "file_size": 93,
+        "ga4gh_drs_uri": "9221eefcca",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_5fcea14fc5"
+        },
+        "md5sum": "78a6777326bba31c92c6b94f8d554827",
+        "submitter_id": "unaligned_reads_file_1946750132",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 62.28548150972737,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "ee66dfeeb4",
+        "facility_run_date": "4028-19-50",
+        "facility_run_id": "b2bb439602",
+        "file_format": "a5f5c959dd",
+        "file_name": "dummy_clinical",
+        "file_size": 28,
+        "ga4gh_drs_uri": "c131d53dac",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_b49b7c3d08"
+        },
+        "md5sum": "a7b60b0dc573b30e6415f4810b40ab08",
+        "submitter_id": "unaligned_reads_file_fc8a977ac8",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 15.00575920858429,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "8765c72e76",
+        "facility_run_date": "8735-15-82",
+        "facility_run_id": "f32dd7b530",
+        "file_format": "3aaf34323a",
+        "file_name": "dummy_clinical",
+        "file_size": 32,
+        "ga4gh_drs_uri": "d32a23ce5f",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_9611c40580"
+        },
+        "md5sum": "0b8a42f8ed684211334d36cbddea8587",
+        "submitter_id": "unaligned_reads_file_ef84329d67",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 72.39674108754303,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "f5ea6e3c91",
+        "facility_run_date": "6240-75-92",
+        "facility_run_id": "cf8e9b7b0e",
+        "file_format": "e9d0bf8831",
+        "file_name": "dummy_clinical",
+        "file_size": 62,
+        "ga4gh_drs_uri": "37496e4478",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_bac902e889"
+        },
+        "md5sum": "ca22b5f575208e242b1dfe2dd5d60a1a",
+        "submitter_id": "unaligned_reads_file_e0b41ff663",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 28.400835026159033,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "082046f69a",
+        "facility_run_date": "0543-40-28",
+        "facility_run_id": "42add21de9",
+        "file_format": "5a6ea2bbe2",
+        "file_name": "dummy_clinical",
+        "file_size": 68,
+        "ga4gh_drs_uri": "8d9f4e61a2",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_a64f50bb79"
+        },
+        "md5sum": "96876d8cf315284f50d875fcd85c3fab",
+        "submitter_id": "unaligned_reads_file_42ae3ef690",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 35.239290981759964,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "55987140e2",
+        "facility_run_date": "9546-73-04",
+        "facility_run_id": "eb0416fdf6",
+        "file_format": "b97409f9c7",
+        "file_name": "dummy_clinical",
+        "file_size": 88,
+        "ga4gh_drs_uri": "7ed2a68b8a",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_0e96ecef82"
+        },
+        "md5sum": "0c107b8d86c286dbf3f9c88cee25152c",
+        "submitter_id": "unaligned_reads_file_a5d7eaeea0",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 88.69822963043069,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "bd8cbd4ded",
+        "facility_run_date": "2556-03-91",
+        "facility_run_id": "545b06ddcf",
+        "file_format": "687c19233b",
+        "file_name": "dummy_clinical",
+        "file_size": 88,
+        "ga4gh_drs_uri": "9bd8a6392f",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_bade0a97c1"
+        },
+        "md5sum": "253cceaf74fd25daab44c594e1db7c55",
+        "submitter_id": "unaligned_reads_file_9536845c04",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 97.3064772630305,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "81d7443902",
+        "facility_run_date": "8002-46-14",
+        "facility_run_id": "d0e6bda70c",
+        "file_format": "ac9f4176a3",
+        "file_name": "dummy_clinical",
+        "file_size": 9,
+        "ga4gh_drs_uri": "2866411e21",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_b24d6dfc21"
+        },
+        "md5sum": "af0373aa726326e64d9297c24dd67826",
+        "submitter_id": "unaligned_reads_file_86d40e3a48",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 73.01804930733476,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "d02d28bc6f",
+        "facility_run_date": "6765-57-13",
+        "facility_run_id": "fc6cf1f54a",
+        "file_format": "753b05a5d0",
+        "file_name": "dummy_clinical",
+        "file_size": 63,
+        "ga4gh_drs_uri": "7d5374470d",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_69d6c751a1"
+        },
+        "md5sum": "522740eb946ba32c5f3fe72325b89f82",
+        "submitter_id": "unaligned_reads_file_6604870f93",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 67.97836630032049,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "16fdf57a35",
+        "facility_run_date": "9992-21-17",
+        "facility_run_id": "8aee7431a9",
+        "file_format": "48e1e2a53f",
+        "file_name": "dummy_clinical",
+        "file_size": 48,
+        "ga4gh_drs_uri": "f0874ef131",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_3d5e6da721"
+        },
+        "md5sum": "7754c88601c169152c46789018b8cd69",
+        "submitter_id": "unaligned_reads_file_a312272b8d",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 31.084449104786483,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "1f0ee58499",
+        "facility_run_date": "0934-03-25",
+        "facility_run_id": "a06505ba33",
+        "file_format": "fbf76a15b6",
+        "file_name": "dummy_clinical",
+        "file_size": 48,
+        "ga4gh_drs_uri": "473dcfd956",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_016059c24c"
+        },
+        "md5sum": "0d5fd96508c239d137a7c837913e0bd7",
+        "submitter_id": "unaligned_reads_file_622c9933d0",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 84.56958742214297,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "8a180f4562",
+        "facility_run_date": "3121-06-12",
+        "facility_run_id": "bc65c470d9",
+        "file_format": "5b64e03cd2",
+        "file_name": "dummy_clinical",
+        "file_size": 18,
+        "ga4gh_drs_uri": "7f482f984c",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_67dc4b162e"
+        },
+        "md5sum": "b9a1fc8b035abba874192a43c59b19af",
+        "submitter_id": "unaligned_reads_file_71e78568c2",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 51.86457149900766,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "ec7e317660",
+        "facility_run_date": "0600-02-20",
+        "facility_run_id": "af64287392",
+        "file_format": "448d1dd1f4",
+        "file_name": "dummy_clinical",
+        "file_size": 76,
+        "ga4gh_drs_uri": "ac415be6ae",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_9906fca844"
+        },
+        "md5sum": "423375835fb93aa923b66f2248a7b274",
+        "submitter_id": "unaligned_reads_file_23d890c277",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 66.01058112434487,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "dec87ae12f",
+        "facility_run_date": "2132-16-13",
+        "facility_run_id": "330ba4b1fd",
+        "file_format": "aa5661a75a",
+        "file_name": "dummy_clinical",
+        "file_size": 47,
+        "ga4gh_drs_uri": "98b54b96ea",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_a8d80a80e5"
+        },
+        "md5sum": "36911c9a93691c0f232151048a3f1d38",
+        "submitter_id": "unaligned_reads_file_8e297c03d1",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 73.96338440743436,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "ef68008d81",
+        "facility_run_date": "1404-59-05",
+        "facility_run_id": "5a38269e87",
+        "file_format": "0c2b5a2190",
+        "file_name": "dummy_clinical",
+        "file_size": 40,
+        "ga4gh_drs_uri": "7d35890ca4",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_4feb58060a"
+        },
+        "md5sum": "4f3debdb5d7d8aaacfbb4ef508c913c2",
+        "submitter_id": "unaligned_reads_file_6b07c6b40d",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 22.321263359757783,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "ec5dd38769",
+        "facility_run_date": "3384-32-76",
+        "facility_run_id": "b737342a59",
+        "file_format": "9e324e0a35",
+        "file_name": "dummy_clinical",
+        "file_size": 46,
+        "ga4gh_drs_uri": "4c45cb86ac",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_1cacaf07ec"
+        },
+        "md5sum": "95ae136bbc6ef4e4cca99ee86b20586c",
+        "submitter_id": "unaligned_reads_file_c3f4d64ef3",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 45.389110975488244,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "54685557ca",
+        "facility_run_date": "5009-95-88",
+        "facility_run_id": "93f97c8ab2",
+        "file_format": "30226e0c28",
+        "file_name": "dummy_clinical",
+        "file_size": 77,
+        "ga4gh_drs_uri": "48600d010e",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_c219160f20"
+        },
+        "md5sum": "176b04a382a1d60961b1d243dcce9f14",
+        "submitter_id": "unaligned_reads_file_0b5e2e6103",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 8.302715270313998,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "d9082703f8",
+        "facility_run_date": "2634-85-36",
+        "facility_run_id": "79bf104396",
+        "file_format": "d77a3bb41b",
+        "file_name": "dummy_clinical",
+        "file_size": 28,
+        "ga4gh_drs_uri": "574b561e82",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_46725c6c0a"
+        },
+        "md5sum": "0e52bf2be0dd2e4072994ea6401e38b0",
+        "submitter_id": "unaligned_reads_file_a7f84a4f7f",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 25.123374436570746,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "1f93823498",
+        "facility_run_date": "5852-98-22",
+        "facility_run_id": "143bcc2f82",
+        "file_format": "7fe5e0e955",
+        "file_name": "dummy_clinical",
+        "file_size": 94,
+        "ga4gh_drs_uri": "8cdb14974e",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_3f552f95d6"
+        },
+        "md5sum": "600b8a081e7ea01e9373af13ad3b049b",
+        "submitter_id": "unaligned_reads_file_d42c6dfb6c",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 94.90701666974083,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "6072a57a78",
+        "facility_run_date": "0430-91-16",
+        "facility_run_id": "7130b3184f",
+        "file_format": "a96dd70351",
+        "file_name": "dummy_clinical",
+        "file_size": 28,
+        "ga4gh_drs_uri": "df379d840a",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_af6ca4418f"
+        },
+        "md5sum": "855e0803a599ab6f25cb827c9c728e6c",
+        "submitter_id": "unaligned_reads_file_91562511be",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 84.98937648070837,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "57c520b25e",
+        "facility_run_date": "4659-78-42",
+        "facility_run_id": "afe5e8c871",
+        "file_format": "4da39686cc",
+        "file_name": "dummy_clinical",
+        "file_size": 4,
+        "ga4gh_drs_uri": "40eab6e289",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_7ada4e9c61"
+        },
+        "md5sum": "2355bde42e15b2ac9d95e5d2811e033f",
+        "submitter_id": "unaligned_reads_file_5645c341d5",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 16.667731747486847,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "fdf65dbfd2",
+        "facility_run_date": "6810-63-07",
+        "facility_run_id": "13fd83bcd7",
+        "file_format": "1fc20a17df",
+        "file_name": "dummy_clinical",
+        "file_size": 91,
+        "ga4gh_drs_uri": "7f88a3cf64",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_54765fc2a9"
+        },
+        "md5sum": "bf0dd255b856d4b85692152c7a535d98",
+        "submitter_id": "unaligned_reads_file_e21b014f44",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 20.879814614996807,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "b397b37f12",
+        "facility_run_date": "3088-24-39",
+        "facility_run_id": "f38b44efe1",
+        "file_format": "51da36d7f6",
+        "file_name": "dummy_clinical",
+        "file_size": 28,
+        "ga4gh_drs_uri": "f167816955",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_931a3b5775"
+        },
+        "md5sum": "fe3207af1cd6c8bdf1b7e359878aca1d",
+        "submitter_id": "unaligned_reads_file_be0c51b67b",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 39.05217946506665,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "3f8f25d4e0",
+        "facility_run_date": "8879-81-11",
+        "facility_run_id": "dfd9ca989e",
+        "file_format": "ca8520b4be",
+        "file_name": "dummy_clinical",
+        "file_size": 25,
+        "ga4gh_drs_uri": "853473530f",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_d38b244ff3"
+        },
+        "md5sum": "037a2faf4fe3adba796699acc6bd9b6c",
+        "submitter_id": "unaligned_reads_file_22b68ac403",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 12.328690508994967,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "bea2ef401b",
+        "facility_run_date": "2374-14-30",
+        "facility_run_id": "ce03e12ca2",
+        "file_format": "9f32f7f3e2",
+        "file_name": "dummy_clinical",
+        "file_size": 1,
+        "ga4gh_drs_uri": "1e891bfe2c",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_4d9249efc8"
+        },
+        "md5sum": "f8165f6ae1bd4f75da4143678022d09e",
+        "submitter_id": "unaligned_reads_file_80080ddafa",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 26.408676335018853,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "de91d34ed8",
+        "facility_run_date": "4807-13-01",
+        "facility_run_id": "ca2143da14",
+        "file_format": "7c7e39ce3b",
+        "file_name": "dummy_clinical",
+        "file_size": 44,
+        "ga4gh_drs_uri": "6bcc2c9344",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_a7a0bbcb77"
+        },
+        "md5sum": "71df4e048083287f96aadbf2d6df6246",
+        "submitter_id": "unaligned_reads_file_b28c4a480a",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 88.1818428208872,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "fb43f7dbcd",
+        "facility_run_date": "9389-78-97",
+        "facility_run_id": "22c2d48023",
+        "file_format": "d1da3c180c",
+        "file_name": "dummy_clinical",
+        "file_size": 49,
+        "ga4gh_drs_uri": "418618645c",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_654936d1a0"
+        },
+        "md5sum": "8908804c8451a0b87e08350c70a7c094",
+        "submitter_id": "unaligned_reads_file_48111464cb",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 81.30135774059804,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "650adc2cc2",
+        "facility_run_date": "8103-58-88",
+        "facility_run_id": "7a6ef6b6c6",
+        "file_format": "2f3c5ab349",
+        "file_name": "dummy_clinical",
+        "file_size": 21,
+        "ga4gh_drs_uri": "ffd735b858",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_72f3a8b5b3"
+        },
+        "md5sum": "387192061c56fc7e0711943f8135c467",
+        "submitter_id": "unaligned_reads_file_9722f8154a",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 60.86802315183773,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "4aaed0b8b7",
+        "facility_run_date": "1062-40-94",
+        "facility_run_id": "674aab58c7",
+        "file_format": "361f6979e8",
+        "file_name": "dummy_clinical",
+        "file_size": 26,
+        "ga4gh_drs_uri": "5eb12ae6ce",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_9df8c93b5f"
+        },
+        "md5sum": "ca79602890f6fbae291c38dcba0dc1c1",
+        "submitter_id": "unaligned_reads_file_57d650e417",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 58.56020631501363,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "5c9afee765",
+        "facility_run_date": "9017-50-07",
+        "facility_run_id": "5a78ceab65",
+        "file_format": "eac9d548a6",
+        "file_name": "dummy_clinical",
+        "file_size": 94,
+        "ga4gh_drs_uri": "e7e3967069",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_3ced631676"
+        },
+        "md5sum": "bb51f97745aa19b1b4577a36026d0b0f",
+        "submitter_id": "unaligned_reads_file_45db877861",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 62.380985279408286,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "4d1b19f2e5",
+        "facility_run_date": "2914-48-77",
+        "facility_run_id": "be7d09858e",
+        "file_format": "9ddcff7929",
+        "file_name": "dummy_clinical",
+        "file_size": 91,
+        "ga4gh_drs_uri": "b0d8752abe",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_e84407865e"
+        },
+        "md5sum": "6a0abe81e4965202f0d40425ffeb5b22",
+        "submitter_id": "unaligned_reads_file_d0a5c5d246",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 94.73016395601101,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "42506eb639",
+        "facility_run_date": "0417-12-42",
+        "facility_run_id": "77bce142ff",
+        "file_format": "d976d327a9",
+        "file_name": "dummy_clinical",
+        "file_size": 67,
+        "ga4gh_drs_uri": "bad5c5908b",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_2de6a9c665"
+        },
+        "md5sum": "37c27fc22f8115569a2fa7852eff5f45",
+        "submitter_id": "unaligned_reads_file_305fd01727",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 53.25582886343204,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "360786a7d4",
+        "facility_run_date": "5994-71-32",
+        "facility_run_id": "aa7527aa8c",
+        "file_format": "d1fcd33aa9",
+        "file_name": "dummy_clinical",
+        "file_size": 32,
+        "ga4gh_drs_uri": "648355f86e",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_ccf852e284"
+        },
+        "md5sum": "2ae4c445b47375edc1044133fe52dd61",
+        "submitter_id": "unaligned_reads_file_1de2746b5c",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 82.34767729029507,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "4806ce86db",
+        "facility_run_date": "6569-68-52",
+        "facility_run_id": "b24d0de043",
+        "file_format": "48d427b06f",
+        "file_name": "dummy_clinical",
+        "file_size": 8,
+        "ga4gh_drs_uri": "3e0c709bf4",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_437ee23818"
+        },
+        "md5sum": "c00799de04925a318877342eb389405b",
+        "submitter_id": "unaligned_reads_file_7eeaf2c81f",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 77.51795633942817,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "5220f86166",
+        "facility_run_date": "6545-38-94",
+        "facility_run_id": "6060c76811",
+        "file_format": "f8e6073ad8",
+        "file_name": "dummy_clinical",
+        "file_size": 96,
+        "ga4gh_drs_uri": "b82800321e",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_d3cced86d1"
+        },
+        "md5sum": "7ca97afc5b65c3d9d6a98671c38de73c",
+        "submitter_id": "unaligned_reads_file_6f45fd4091",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 68.70468583485376,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "e86ff8e450",
+        "facility_run_date": "8044-85-08",
+        "facility_run_id": "22953857bd",
+        "file_format": "d9b05b18d8",
+        "file_name": "dummy_clinical",
+        "file_size": 98,
+        "ga4gh_drs_uri": "9c691259ca",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_be25ac12dc"
+        },
+        "md5sum": "8f17f8dc1455dd61a41ce9ff963ffdc5",
+        "submitter_id": "unaligned_reads_file_e744d031cb",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 94.93706364694265,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "a69d59a3d3",
+        "facility_run_date": "5593-65-65",
+        "facility_run_id": "6e3b137121",
+        "file_format": "12c373804c",
+        "file_name": "dummy_clinical",
+        "file_size": 68,
+        "ga4gh_drs_uri": "83d6d9f300",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_9108df6a3e"
+        },
+        "md5sum": "8f4abd76a7fe36f8c8ec8381555ff3e4",
+        "submitter_id": "unaligned_reads_file_becedeb460",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 27.513286915826928,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "4f4e243996",
+        "facility_run_date": "4255-81-16",
+        "facility_run_id": "844d7477eb",
+        "file_format": "1ce866b03e",
+        "file_name": "dummy_clinical",
+        "file_size": 32,
+        "ga4gh_drs_uri": "02e27522d3",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_34e4b38c3c"
+        },
+        "md5sum": "8f4c44bd978b888b9a33358a1a5aee03",
+        "submitter_id": "unaligned_reads_file_f12df32520",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 22.45543802038067,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "9efb291919",
+        "facility_run_date": "7706-39-28",
+        "facility_run_id": "8bfc530e9a",
+        "file_format": "d86402a834",
+        "file_name": "dummy_clinical",
+        "file_size": 5,
+        "ga4gh_drs_uri": "6564d2beca",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_15464ef809"
+        },
+        "md5sum": "1564df46e40ec870953aaa9ef682780e",
+        "submitter_id": "unaligned_reads_file_9e816de78b",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 34.6770237669773,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "dfa0290b32",
+        "facility_run_date": "2707-78-86",
+        "facility_run_id": "b9d9818334",
+        "file_format": "9a4f40f6a0",
+        "file_name": "dummy_clinical",
+        "file_size": 89,
+        "ga4gh_drs_uri": "3633c29a11",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_7cdbc9fb50"
+        },
+        "md5sum": "d08c9ba3316a84ed6c7ab1d1a660f5b5",
+        "submitter_id": "unaligned_reads_file_68a3dda2e3",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 95.34942055205987,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "59c82eb7fd",
+        "facility_run_date": "7756-47-74",
+        "facility_run_id": "f3d489a2f7",
+        "file_format": "6cbb68f95f",
+        "file_name": "dummy_clinical",
+        "file_size": 50,
+        "ga4gh_drs_uri": "6504abc1b1",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_bc0042f423"
+        },
+        "md5sum": "7ab80f5471f523ee6f89dc19c8d26065",
+        "submitter_id": "unaligned_reads_file_603319909f",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 86.38530100762559,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "d0f4cb1fd4",
+        "facility_run_date": "3175-75-47",
+        "facility_run_id": "72d6a0c26a",
+        "file_format": "1487c2254b",
+        "file_name": "dummy_clinical",
+        "file_size": 1,
+        "ga4gh_drs_uri": "8be890a4bf",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_6d182e70a8"
+        },
+        "md5sum": "20f2e64a64c42cc30628e1292cd03011",
+        "submitter_id": "unaligned_reads_file_e42933526b",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 37.266588889333875,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "297abd634d",
+        "facility_run_date": "1344-61-85",
+        "facility_run_id": "6929d40e19",
+        "file_format": "931c79a92f",
+        "file_name": "dummy_clinical",
+        "file_size": 26,
+        "ga4gh_drs_uri": "ae6cd887c9",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_23e7f402eb"
+        },
+        "md5sum": "ebd61d8faae05099dd6cd0e2a760b3dc",
+        "submitter_id": "unaligned_reads_file_6be23aaf26",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 32.7077459508347,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "2bceac1790",
+        "facility_run_date": "4474-55-89",
+        "facility_run_id": "9885c33a8b",
+        "file_format": "f46a509eda",
+        "file_name": "dummy_clinical",
+        "file_size": 74,
+        "ga4gh_drs_uri": "ef216bc50c",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_be3bca040d"
+        },
+        "md5sum": "7c251a6ab81f14b2e8e99daa7a129830",
+        "submitter_id": "unaligned_reads_file_e5b1337d60",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 64.1801010659151,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "3ef4a28d4d",
+        "facility_run_date": "9190-23-00",
+        "facility_run_id": "b2213f5f3f",
+        "file_format": "837ed4ec68",
+        "file_name": "dummy_clinical",
+        "file_size": 67,
+        "ga4gh_drs_uri": "4529f271d9",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_b4f39569c6"
+        },
+        "md5sum": "0f0be459b0d5b9c12264f72e1b69801a",
+        "submitter_id": "unaligned_reads_file_253e9ae599",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 8.886992384290659,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "fe09889fc6",
+        "facility_run_date": "4170-27-54",
+        "facility_run_id": "cfa59a4cc6",
+        "file_format": "be344e2aab",
+        "file_name": "dummy_clinical",
+        "file_size": 44,
+        "ga4gh_drs_uri": "c6550df2c3",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_46a420868d"
+        },
+        "md5sum": "069167f0e998d8a2511ebbd31b08691d",
+        "submitter_id": "unaligned_reads_file_affc4a519d",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 8.829167777374069,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "dc823cfe14",
+        "facility_run_date": "9599-12-45",
+        "facility_run_id": "e64052ccb0",
+        "file_format": "3d3e52af47",
+        "file_name": "dummy_clinical",
+        "file_size": 70,
+        "ga4gh_drs_uri": "a3b4dd11b4",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_4477bae64e"
+        },
+        "md5sum": "4e6e30260dd615890611553b9811dfdc",
+        "submitter_id": "unaligned_reads_file_44e9eaa4ce",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 18.36053409170395,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "a892328f7a",
+        "facility_run_date": "6844-26-06",
+        "facility_run_id": "eff4be76ea",
+        "file_format": "fae93428af",
+        "file_name": "dummy_clinical",
+        "file_size": 5,
+        "ga4gh_drs_uri": "0d1fd0b636",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_95630e113d"
+        },
+        "md5sum": "a239e9226454b082e451176b2b7c3462",
+        "submitter_id": "unaligned_reads_file_7f59cd9b6f",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 25.38609690050837,
+        "data_category": "mass spec processed",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "944568c37f",
+        "facility_run_date": "5377-63-23",
+        "facility_run_id": "6f27cebca1",
+        "file_format": "193692e3b6",
+        "file_name": "dummy_clinical",
+        "file_size": 72,
+        "ga4gh_drs_uri": "a30432f86a",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_3b8c06281e"
+        },
+        "md5sum": "5ffa1e2fc371294f7d966acbf62c9e81",
+        "submitter_id": "unaligned_reads_file_55ebbe3032",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 9.4990589797745,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "cb34838b64",
+        "facility_run_date": "4936-76-81",
+        "facility_run_id": "955618022f",
+        "file_format": "9dc3ab30e1",
+        "file_name": "dummy_clinical",
+        "file_size": 68,
+        "ga4gh_drs_uri": "f908cf1e93",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_3e937e0e1d"
+        },
+        "md5sum": "8330cc950427ed1566a96bc58484ad6e",
+        "submitter_id": "unaligned_reads_file_a85f2d570c",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 30.970483839216854,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "18f39d81a5",
+        "facility_run_date": "9097-58-55",
+        "facility_run_id": "46f5c8acec",
+        "file_format": "c0507d5c0d",
+        "file_name": "dummy_clinical",
+        "file_size": 85,
+        "ga4gh_drs_uri": "217f26192e",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_80998fb98e"
+        },
+        "md5sum": "1fedd808bbd2ddec53b1514504c629cb",
+        "submitter_id": "unaligned_reads_file_494faaea60",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 88.31500907265986,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "1cdccc87e7",
+        "facility_run_date": "5687-66-38",
+        "facility_run_id": "8ba490123b",
+        "file_format": "e712427e1c",
+        "file_name": "dummy_clinical",
+        "file_size": 93,
+        "ga4gh_drs_uri": "eb0d7fe597",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_14f4b1ef88"
+        },
+        "md5sum": "33fc3d8bddcb75d2f99208f4c4b6efac",
+        "submitter_id": "unaligned_reads_file_3e76f345f4",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 97.63017957118666,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "eb2456cb53",
+        "facility_run_date": "2964-27-92",
+        "facility_run_id": "9aecf3bdec",
+        "file_format": "839bfc675f",
+        "file_name": "dummy_clinical",
+        "file_size": 80,
+        "ga4gh_drs_uri": "46db18d52f",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_2fb5bcdedc"
+        },
+        "md5sum": "57b1514d1ecd851d1bf5be284de0381e",
+        "submitter_id": "unaligned_reads_file_9659bca985",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 53.43235195587778,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "fbf164e546",
+        "facility_run_date": "1349-49-53",
+        "facility_run_id": "938d47f327",
+        "file_format": "dedfa40be2",
+        "file_name": "dummy_clinical",
+        "file_size": 75,
+        "ga4gh_drs_uri": "0683f9f660",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_cc245025da"
+        },
+        "md5sum": "1a197e751224d17c5e4bf9910aa73598",
+        "submitter_id": "unaligned_reads_file_2de8789198",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 74.04260610130139,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "4fe01383c9",
+        "facility_run_date": "9493-99-96",
+        "facility_run_id": "a3890c912e",
+        "file_format": "83b0755d6a",
+        "file_name": "dummy_clinical",
+        "file_size": 62,
+        "ga4gh_drs_uri": "6ae698a139",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_e79c652306"
+        },
+        "md5sum": "a66a885ca0ecbb61244105037ae282e2",
+        "submitter_id": "unaligned_reads_file_bbc714d231",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 89.4818862214515,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "33a0945feb",
+        "facility_run_date": "7210-73-35",
+        "facility_run_id": "f8fea700e7",
+        "file_format": "54687dc4de",
+        "file_name": "dummy_clinical",
+        "file_size": 59,
+        "ga4gh_drs_uri": "567a761d95",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_2da0982d7b"
+        },
+        "md5sum": "465a5f83857d378b64a38b2fdfd08b6c",
+        "submitter_id": "unaligned_reads_file_52770c20ee",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 83.6372565993343,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "597a6dfcfb",
+        "facility_run_date": "1450-28-63",
+        "facility_run_id": "83a9980193",
+        "file_format": "caacc938ef",
+        "file_name": "dummy_clinical",
+        "file_size": 36,
+        "ga4gh_drs_uri": "a9aea593ec",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_27c31c873e"
+        },
+        "md5sum": "43354cdceca944f91a49bf2bd51bf223",
+        "submitter_id": "unaligned_reads_file_e2575aabe1",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 85.15571027448239,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "4f04036bc4",
+        "facility_run_date": "5353-95-79",
+        "facility_run_id": "a9a1879831",
+        "file_format": "caef803d0a",
+        "file_name": "dummy_clinical",
+        "file_size": 97,
+        "ga4gh_drs_uri": "8f8a4193b3",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_eff98cada2"
+        },
+        "md5sum": "fd78506d1f89170e448f4b59ffd0fcc1",
+        "submitter_id": "unaligned_reads_file_35eb8fb53e",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 88.78703582953682,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "901d0c0246",
+        "facility_run_date": "2971-07-02",
+        "facility_run_id": "95ec692abf",
+        "file_format": "f0a053a185",
+        "file_name": "dummy_clinical",
+        "file_size": 74,
+        "ga4gh_drs_uri": "4ead583c48",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_62272ea463"
+        },
+        "md5sum": "bd90a4986533511846dd34500e843c2a",
+        "submitter_id": "unaligned_reads_file_78132c1208",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 52.407891211122724,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": null,
+        "data_type": "csv",
+        "facility_batch_id": "4d5b0869e8",
+        "facility_run_date": "7435-28-19",
+        "facility_run_id": "b11a04199d",
+        "file_format": "fad9f3da89",
+        "file_name": "dummy_clinical",
+        "file_size": 70,
+        "ga4gh_drs_uri": "ee916c0f28",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_ba65c64523"
+        },
+        "md5sum": "dcd8e11c88dcae647bff56527b074cca",
+        "submitter_id": "unaligned_reads_file_06c6c448ed",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 10.348909025180419,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "397bbf5771",
+        "facility_run_date": "6448-67-57",
+        "facility_run_id": "fe9209c769",
+        "file_format": "7e20bf1991",
+        "file_name": "dummy_clinical",
+        "file_size": 17,
+        "ga4gh_drs_uri": "09351165a5",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_94f6a3cc9c"
+        },
+        "md5sum": "7050073e0232a368ae2e66ee3940a958",
+        "submitter_id": "unaligned_reads_file_d6d8dc340d",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 61.721685556976034,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "6f6d977748",
+        "facility_run_date": "2507-70-12",
+        "facility_run_id": "5818a87a05",
+        "file_format": "661db9b5fb",
+        "file_name": "dummy_clinical",
+        "file_size": 98,
+        "ga4gh_drs_uri": "9cdb715cf2",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_4bc824e8e6"
+        },
+        "md5sum": "b0eaeb34701752283d420cb56872dba5",
+        "submitter_id": "unaligned_reads_file_4c86f29608",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 69.57000713511565,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "49cf89cd37",
+        "facility_run_date": "0171-25-67",
+        "facility_run_id": "9d5dc20c15",
+        "file_format": "fecb640987",
+        "file_name": "dummy_clinical",
+        "file_size": 49,
+        "ga4gh_drs_uri": "d9cf55bccc",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_18202eef0c"
+        },
+        "md5sum": "00b2be241a9233d59fbc216215858531",
+        "submitter_id": "unaligned_reads_file_8eb6f9d47f",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 86.62315846133075,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "53265b193b",
+        "facility_run_date": "8374-28-67",
+        "facility_run_id": "50c5d3187e",
+        "file_format": "b7f7648ee9",
+        "file_name": "dummy_clinical",
+        "file_size": 36,
+        "ga4gh_drs_uri": "5855978b8a",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_1d7ac6d5a3"
+        },
+        "md5sum": "d9db244bf25095efc32632fd7369357b",
+        "submitter_id": "unaligned_reads_file_a577bb9b33",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 23.735108296946137,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "xls",
+        "facility_batch_id": "8f6f617e34",
+        "facility_run_date": "2517-35-48",
+        "facility_run_id": "6207a8d3db",
+        "file_format": "454b298e89",
+        "file_name": "dummy_clinical",
+        "file_size": 99,
+        "ga4gh_drs_uri": "348bb8ed0b",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_fc60eca444"
+        },
+        "md5sum": "a6684e3d89c187ff890c8b1f91a1269d",
+        "submitter_id": "unaligned_reads_file_635950efd2",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 8.927074486663534,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "tsv",
+        "facility_batch_id": "f318f1d3ca",
+        "facility_run_date": "5617-79-69",
+        "facility_run_id": "0021e886ae",
+        "file_format": "f8e44e27b5",
+        "file_name": "dummy_clinical",
+        "file_size": 26,
+        "ga4gh_drs_uri": "a9db37313c",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_b5e2477da2"
+        },
+        "md5sum": "79a701a9e81fd6b3319f1ec0586f02f4",
+        "submitter_id": "unaligned_reads_file_17c660d937",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 48.11723153892322,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "11996b9612",
+        "facility_run_date": "1512-52-92",
+        "facility_run_id": "7aa0f83a3e",
+        "file_format": "1d6703db5e",
+        "file_name": "dummy_clinical",
+        "file_size": 65,
+        "ga4gh_drs_uri": "89538537b4",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_aae086fb8e"
+        },
+        "md5sum": "7d48e24a3c72ecee9bd18e7241f096fb",
+        "submitter_id": "unaligned_reads_file_f7c1436186",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 36.99747475169629,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "4beb3777f9",
+        "facility_run_date": "3701-28-91",
+        "facility_run_id": "7fdd38e1eb",
+        "file_format": "5487e4cd43",
+        "file_name": "dummy_clinical",
+        "file_size": 15,
+        "ga4gh_drs_uri": "63239570bf",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_92e79f897f"
+        },
+        "md5sum": "b98292907be2f2bd6b1261be232ef228",
+        "submitter_id": "unaligned_reads_file_85b76c903b",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 39.47694354791442,
+        "data_category": "mass spec processed",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "7a926e61b2",
+        "facility_run_date": "3474-79-81",
+        "facility_run_id": "c4a60a8fbc",
+        "file_format": "2b958d4173",
+        "file_name": "dummy_clinical",
+        "file_size": 86,
+        "ga4gh_drs_uri": "69641e2a5f",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_cdcb62e4c8"
+        },
+        "md5sum": "011e45088d7d03ab65b89aec2c510860",
+        "submitter_id": "unaligned_reads_file_6b333a33d5",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 68.45212462962502,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "csv",
+        "facility_batch_id": "64c0d04240",
+        "facility_run_date": "3313-76-78",
+        "facility_run_id": "fa06603eee",
+        "file_format": "2922368889",
+        "file_name": "dummy_clinical",
+        "file_size": 51,
+        "ga4gh_drs_uri": "46925198c4",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_272d9e4812"
+        },
+        "md5sum": "473c3332204f45a6834706b77940c598",
+        "submitter_id": "unaligned_reads_file_6b0bca521c",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 31.379372525795535,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "13a6d9b80e",
+        "facility_run_date": "0572-00-42",
+        "facility_run_id": "01965401d6",
+        "file_format": "5b1aaa09c6",
+        "file_name": "dummy_clinical",
+        "file_size": 12,
+        "ga4gh_drs_uri": "c75b62be92",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_0a32dbb3e2"
+        },
+        "md5sum": "3bc747e431d4e2f3d8486fc0e6a7ba57",
+        "submitter_id": "unaligned_reads_file_c377a16c9a",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 19.59639265474391,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "cb0c8bcde5",
+        "facility_run_date": "6176-87-08",
+        "facility_run_id": "2fa494c105",
+        "file_format": "dc14469f8d",
+        "file_name": "dummy_clinical",
+        "file_size": 100,
+        "ga4gh_drs_uri": "b00917a907",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_9352bd9683"
+        },
+        "md5sum": "ca2315a85ba34378a004bba175ca2358",
+        "submitter_id": "unaligned_reads_file_31b0c81fa3",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 73.76301245321231,
+        "data_category": "quality control",
+        "data_format": "csv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "92cf18d524",
+        "facility_run_date": "9192-63-22",
+        "facility_run_id": "cb18683b21",
+        "file_format": "56af7b39b9",
+        "file_name": "dummy_clinical",
+        "file_size": 30,
+        "ga4gh_drs_uri": "908c71c49e",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_dc83a91cbe"
+        },
+        "md5sum": "013b09f2bf368a85a53d1bd5e107d366",
+        "submitter_id": "unaligned_reads_file_6908180a4e",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 34.524057565991995,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "d5c2c1428d",
+        "facility_run_date": "8393-92-62",
+        "facility_run_id": "db582c6013",
+        "file_format": "99c3ab9035",
+        "file_name": "dummy_clinical",
+        "file_size": 94,
+        "ga4gh_drs_uri": "17356c8ec5",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_2056df5aee"
+        },
+        "md5sum": "69ac133308881044b28068077d064cb2",
+        "submitter_id": "unaligned_reads_file_57df0544ad",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 94.86177727461883,
+        "data_category": "quality control",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "317ef6ec74",
+        "facility_run_date": "2635-99-09",
+        "facility_run_id": "5937217687",
+        "file_format": "e9481c6b18",
+        "file_name": "dummy_clinical",
+        "file_size": 20,
+        "ga4gh_drs_uri": "9fd54586e4",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_a75d6401fd"
+        },
+        "md5sum": "e5fa0744a89c439354e4c0d58889e87e",
+        "submitter_id": "unaligned_reads_file_b0799a7337",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 99.40049754217478,
+        "data_category": "mass spec raw",
+        "data_format": "csv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "4c82ce3ca1",
+        "facility_run_date": "9117-73-20",
+        "facility_run_id": "01f0bfabfe",
+        "file_format": "66f2f26249",
+        "file_name": "dummy_clinical",
+        "file_size": 24,
+        "ga4gh_drs_uri": "d03435b7ff",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_e14d8de7fd"
+        },
+        "md5sum": "473ee951db17039af7d16794dc210f4b",
+        "submitter_id": "unaligned_reads_file_3bbae56ed1",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 36.91832951606755,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "fc5811cca2",
+        "facility_run_date": "9917-41-19",
+        "facility_run_id": "7b18b72894",
+        "file_format": "d4429e577b",
+        "file_name": "dummy_clinical",
+        "file_size": 15,
+        "ga4gh_drs_uri": "78b6f45718",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_5eca619d01"
+        },
+        "md5sum": "9987dcae080fd091bf62a8ee20ee593e",
+        "submitter_id": "unaligned_reads_file_7728da1ac8",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 31.116470750130375,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "951d3336f6",
+        "facility_run_date": "7850-23-19",
+        "facility_run_id": "e88a2cbd9c",
+        "file_format": "ec6d1cf76c",
+        "file_name": "dummy_clinical",
+        "file_size": 70,
+        "ga4gh_drs_uri": "5a8f7e8362",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_9915470422"
+        },
+        "md5sum": "6db15a934f42b9534d79563a6a1fd241",
+        "submitter_id": "unaligned_reads_file_d17602d35f",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 9.656559379062857,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "2e54df9f00",
+        "facility_run_date": "2754-10-18",
+        "facility_run_id": "410d386413",
+        "file_format": "ef31584ac4",
+        "file_name": "dummy_clinical",
+        "file_size": 26,
+        "ga4gh_drs_uri": "5f2b925e33",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_27b1c1855e"
+        },
+        "md5sum": "2ddc8e3162a3e75ec1f77029f1c3c4b2",
+        "submitter_id": "unaligned_reads_file_f02ba6c71e",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 43.48197276860084,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xls",
+        "facility_batch_id": "17326cb433",
+        "facility_run_date": "3343-95-49",
+        "facility_run_id": "728696c30e",
+        "file_format": "a44169ef9f",
+        "file_name": "dummy_clinical",
+        "file_size": 84,
+        "ga4gh_drs_uri": "8524c2671e",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_590f2dda35"
+        },
+        "md5sum": "7abeff0ae116787e86acc218bdc3fe6b",
+        "submitter_id": "unaligned_reads_file_7443f3ce74",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 48.03336217157119,
+        "data_category": "mass spec raw",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "2ce099a042",
+        "facility_run_date": "2050-19-94",
+        "facility_run_id": "f10b7e65e5",
+        "file_format": "5eafb4292e",
+        "file_name": "dummy_clinical",
+        "file_size": 3,
+        "ga4gh_drs_uri": "c6b192d437",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_6f4f7be2ce"
+        },
+        "md5sum": "d3508b1391aab67eeab57cce835e852b",
+        "submitter_id": "unaligned_reads_file_49c5c7ec18",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 49.572448275479665,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "2466881c66",
+        "facility_run_date": "2333-04-42",
+        "facility_run_id": "487ef8a191",
+        "file_format": "c108fc1859",
+        "file_name": "dummy_clinical",
+        "file_size": 100,
+        "ga4gh_drs_uri": "56b5e5c46f",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_3e05d134df"
+        },
+        "md5sum": "2bf8abb8f0ed41dca69d8ed9da1d768a",
+        "submitter_id": "unaligned_reads_file_d34fdde436",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 43.480786160854635,
+        "data_category": "summarised results",
+        "data_format": "csv",
+        "data_processing_app": null,
+        "data_type": "xlsx",
+        "facility_batch_id": "c5a723a6a8",
+        "facility_run_date": "1252-44-87",
+        "facility_run_id": "824daf43b8",
+        "file_format": "63330dcc13",
+        "file_name": "dummy_clinical",
+        "file_size": 88,
+        "ga4gh_drs_uri": "b0397f7fa0",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_1c873faa74"
+        },
+        "md5sum": "78ffebef0f8a03da44d7761a1aaed85a",
+        "submitter_id": "unaligned_reads_file_758000a230",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 21.519049405484715,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "xlsx",
+        "facility_batch_id": "98deb14e35",
+        "facility_run_date": "5020-54-84",
+        "facility_run_id": "4099303ce0",
+        "file_format": "b51cc016a1",
+        "file_name": "dummy_clinical",
+        "file_size": 71,
+        "ga4gh_drs_uri": "6e61d28d97",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_50d6605a05"
+        },
+        "md5sum": "3b23b895a54dfcffa7a4a89910a98609",
+        "submitter_id": "unaligned_reads_file_6605688844",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 10.844774375401666,
+        "data_category": "mass spec processed",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "a16d644255",
+        "facility_run_date": "4740-16-46",
+        "facility_run_id": "e3004a25ef",
+        "file_format": "32821e1b1e",
+        "file_name": "dummy_clinical",
+        "file_size": 58,
+        "ga4gh_drs_uri": "8148a38dd2",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_d8692f7cea"
+        },
+        "md5sum": "56cc678fe912a329432ccca9a387bac0",
+        "submitter_id": "unaligned_reads_file_dd6a459275",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 32.61024260082761,
+        "data_category": "summarised results",
+        "data_format": "xls",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "de1f49e317",
+        "facility_run_date": "8443-77-54",
+        "facility_run_id": "691bad3918",
+        "file_format": "d6ec868f92",
+        "file_name": "dummy_clinical",
+        "file_size": 44,
+        "ga4gh_drs_uri": "35eb1b4607",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_8c4b088580"
+        },
+        "md5sum": "fb467dfff9498d2627fe04ed840eae5e",
+        "submitter_id": "unaligned_reads_file_298f5d81ec",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 11.412562695881235,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "b558915346",
+        "facility_run_date": "5153-30-19",
+        "facility_run_id": "9c0ac4291a",
+        "file_format": "2add34f6fc",
+        "file_name": "dummy_clinical",
+        "file_size": 32,
+        "ga4gh_drs_uri": "82b0de41a8",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_aadc136194"
+        },
+        "md5sum": "414ccf17b9b52e53021b7305a347b71a",
+        "submitter_id": "unaligned_reads_file_3a0562250d",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 60.104471422349945,
+        "data_category": "quality control",
+        "data_format": "tsv",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "38028e2909",
+        "facility_run_date": "7907-84-16",
+        "facility_run_id": "490ddf2ba1",
+        "file_format": "6b4c9d4466",
+        "file_name": "dummy_clinical",
+        "file_size": 80,
+        "ga4gh_drs_uri": "c94e383adc",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_0675dd20c1"
+        },
+        "md5sum": "b02c8296a83c314f615c5cc6ff3e77a7",
+        "submitter_id": "unaligned_reads_file_47c3013829",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 13.40487010796898,
+        "data_category": "summarised results",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "csv",
+        "facility_batch_id": "6562889eec",
+        "facility_run_date": "9773-44-31",
+        "facility_run_id": "d7008ff770",
+        "file_format": "df27ac37f6",
+        "file_name": "dummy_clinical",
+        "file_size": 99,
+        "ga4gh_drs_uri": "82134660f1",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_febcf3da96"
+        },
+        "md5sum": "40781e3898ca539c8038c205387c170e",
+        "submitter_id": "unaligned_reads_file_abb1b2acd1",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 73.57671829272168,
+        "data_category": "mass spec raw",
+        "data_format": "tsv",
+        "data_processing_app": "Skyline",
+        "data_type": "tsv",
+        "facility_batch_id": "bfda42c2ad",
+        "facility_run_date": "8705-83-55",
+        "facility_run_id": "06cfc58849",
+        "file_format": "6fd11ce15d",
+        "file_name": "dummy_clinical",
+        "file_size": 34,
+        "ga4gh_drs_uri": "cd4d2ad207",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_dfffd1acf2"
+        },
+        "md5sum": "6bc79fb84c79a0aabcc5756ecd71a431",
+        "submitter_id": "unaligned_reads_file_30af2fb93f",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 70.07390429857264,
+        "data_category": "mass spec processed",
+        "data_format": "xlsx",
+        "data_processing_app": null,
+        "data_type": "xls",
+        "facility_batch_id": "0340a88c42",
+        "facility_run_date": "7128-80-88",
+        "facility_run_id": "dd8500182e",
+        "file_format": "6dde91455e",
+        "file_name": "dummy_clinical",
+        "file_size": 99,
+        "ga4gh_drs_uri": "9086f9ab32",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_acc52677bd"
+        },
+        "md5sum": "999b3ad7cb54d09c393c195874e9e1cf",
+        "submitter_id": "unaligned_reads_file_15ef55f29c",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 97.92647508736829,
+        "data_category": "summarised results",
+        "data_format": "xlsx",
+        "data_processing_app": "DIA-NN",
+        "data_type": "xlsx",
+        "facility_batch_id": "366e1dc766",
+        "facility_run_date": "4639-69-71",
+        "facility_run_id": "a4bc59aa4c",
+        "file_format": "b034c85769",
+        "file_name": "dummy_clinical",
+        "file_size": 73,
+        "ga4gh_drs_uri": "b6cfcb4c65",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_941589b6dc"
+        },
+        "md5sum": "049aec12c3b0bb615325fe7430b7120c",
+        "submitter_id": "unaligned_reads_file_c6325df929",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 64.95393617961336,
+        "data_category": "mass spec raw",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "05a639bf9c",
+        "facility_run_date": "7501-37-42",
+        "facility_run_id": "b5d8daea0c",
+        "file_format": "26a5c8afa2",
+        "file_name": "dummy_clinical",
+        "file_size": 24,
+        "ga4gh_drs_uri": "f22564a7f9",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_8a2b7b4fdc"
+        },
+        "md5sum": "9d66528d748bab8a1dc72c2ccbeeefac",
+        "submitter_id": "unaligned_reads_file_729f981054",
+        "type": "unaligned_reads_file"
+    },
+    {
+        "cv": 17.460421517850044,
+        "data_category": "quality control",
+        "data_format": "xls",
+        "data_processing_app": "DIA-NN",
+        "data_type": "tsv",
+        "facility_batch_id": "9e08b08792",
+        "facility_run_date": "2475-62-85",
+        "facility_run_id": "2b96525a73",
+        "file_format": "1b694f99f4",
+        "file_name": "dummy_clinical",
+        "file_size": 47,
+        "ga4gh_drs_uri": "ceafc728f2",
+        "genomics_assays": {
+            "submitter_id": "genomics_assay_64d5d0ade1"
+        },
+        "md5sum": "142fbcb662ae82fb25a0364d0dfbec5c",
+        "submitter_id": "unaligned_reads_file_e91957d065",
+        "type": "unaligned_reads_file"
+    }
+]
