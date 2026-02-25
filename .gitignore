@@ -1,12 +1,91 @@
-.idea
-_local/*
-dummy_files/*
-edited_jsons/*
-split_file/*
-transformed_jsons/*
-.venv/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
 build/
+develop-eggs/
 dist/
-gen3schemadev.egg-info/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.venv/
+.ddvis
+.cache
+
+# PyInstaller
+*.manifest
+*.spec
+
+# pylint
+.pylint.d/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype
+.pytype/
+
+# Coverage directory used by pytest-cov
+.coverage/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Misc
+*.log
+*.pot
+*.mo
+
+# macOS / Linux / Windows junk
 .DS_Store
-gen3schemadev/__pycache__/
+*.swp
+*~
+Thumbs.db
+desktop.ini
