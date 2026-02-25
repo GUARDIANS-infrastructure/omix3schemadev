@@ -1,0 +1,85 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: unaligned_reads_file
+title: unaligned_reads_file
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: data_file
+program: '*'
+project: '*'
+description: 'Data file containing raw reads from a genomics assay
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- exclusive: false
+  required: true
+  subgroup:
+  - name: genomics_assays
+    backref: unaligned_reads_files
+    label: part_of
+    target_type: genomics_assay
+    multiplicity: many_to_one
+    required: true
+  - name: core_metadata_collections
+    backref: unaligned_reads_files
+    label: part_of
+    target_type: core_metadata_collection
+    multiplicity: one_to_one
+    required: false
+properties:
+  $ref: _definitions.yaml#/data_file_properties
+  data_format:
+    description: The format of the data in this data file
+    enum:
+    - data_format_1
+    - data_format_2
+    - data_format_3
+  data_category:
+    description: Broad categorization of the contents of the data file.
+    enum:
+    - data_category_1
+    - data_category_2
+    - data_category_3
+  data_type:
+    description: The type of data in this data file
+    enum:
+    - data_type_1
+    - data_type_2
+    - data_type_3
+  cv:
+    type: number
+    description: Coefficient of variation (%)
+  facility_run_id:
+    type: string
+    description: A unique identifier of which run the file was generated from
+  facility_batch_id:
+    type: string
+    description: A unique identifier of which batch of samples the file was generated
+      from
+  facility_run_date:
+    type: string
+    description: The date the batch was analysed (YYYY-MM-DD)
+  data_processing_app:
+    description: Application/software used to pre-process the data
+    enum:
+    - DIA-NN
+    - Skyline
+  genomics_assays:
+    $ref: _definitions.yaml#/to_one
+  core_metadata_collections:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false
