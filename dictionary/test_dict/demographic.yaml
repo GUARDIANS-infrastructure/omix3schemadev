@@ -1,0 +1,45 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: demographic
+title: demographic
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: clinical
+program: '*'
+project: '*'
+description: 'Data for the characterization of the patient by means of segmenting
+  the population (e.g. characterization by age, sex, or race).
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: subjects
+  backref: demographics
+  label: part_of
+  target_type: subject
+  multiplicity: one_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  year_birth:
+    type: integer
+    description: Year of birth at baseline (YYYY)
+  month_birth:
+    type: integer
+    description: Month of birth at baseline (MM)
+  subjects:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

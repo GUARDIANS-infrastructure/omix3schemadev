@@ -1,0 +1,60 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: proteomics_assay
+title: proteomics_assay
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: experimental_methods
+program: '*'
+project: '*'
+description: 'Details about the methods that produced the proteomics data
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: samples
+  backref: proteomics_assays
+  label: part_of
+  target_type: sample
+  multiplicity: one_to_many
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  experiment_id:
+    type: string
+    description: A unique identifier of the experiment performed. (For OMIX3, this
+      will be the iLab ID)
+  instrument_make:
+    description: The manufacturer of the instrument used
+    enum:
+    - Thermo Fisher Scientific
+  instrument_model:
+    description: The model of the instrument used
+    enum:
+    - Orbitrap Astral
+    - Stellar
+  operator:
+    type: string
+    description: Name of the instrument operator
+  processing_steps:
+    description: The processing step that was performed for this experiment
+    enum:
+    - Depletion
+    - Digestion
+    - LC-MS
+  samples:
+    $ref: _definitions.yaml#/to_many
+additionalProperties: false

@@ -1,2 +1,541 @@
-# Omix3 Data Dictionary Input
-# Use gen3schemadev init to generate a template, or define your data model here.
+version: 0.1.0
+url: https://data.acdc.ozheart.org
+
+####################################
+# Nodes
+####################################
+nodes:
+
+##### Administrative nodes
+- name: program
+  category: administrative
+  description: >
+    A broad framework of goals to be achieved.
+
+- name: project
+  category: administrative
+  description: >
+    The study the data is coming from
+
+- name: acknowledgement
+  category: administrative
+  description: >
+    Acknowledgement of an individual or group involved in a project.
+
+- name: publication
+  category: administrative
+  description: >
+    Publication for a project
+
+
+##### Clinical nodes
+- name: subject
+  category: clinical
+  description: >
+    An individual participant in the study with baseline measurements.
+  properties:
+    - name: consent_codes
+      description: "Data Use Restrictions that are used to indicate permissions/restrictions for datasets and/or materials."
+      type: array
+    - name: baseline_year
+      description: "Year when baseline measurements were taken"
+      type: string
+    - name: cohort_id
+      description: "Identifier for the cohort the subject is a part of"
+      type: string
+
+- name: demographic
+  category: clinical
+  description: >
+    Data for the characterization of the patient by means of segmenting
+    the population (e.g. characterization by age, sex, or race).
+  properties:
+    - name: year_birth
+      description: "Year of birth at baseline (YYYY)"
+      type: integer
+    - name: month_birth
+      description: "Month of birth at baseline (MM)"
+      type: integer
+
+- name: medical_history
+  category: clinical
+  description: >
+    Medical history of the participant
+  properties:
+    - name: diabetes_type
+      description: "Diabetes diagnosed by fasting blood glucose >=7 mmol/l or tx AHA or 2 hour blood glucose >=11.1 mmol/l."
+      type: enum
+      enums:
+        - "IGT"
+        - "KDM"
+        - "IFG"
+        - "NDM"
+        - "NGT"
+    - name: hypertension
+      description: "Whether the participant has Hypertension"
+      type: enum
+      enums:
+        - "yes, measured or on treatment"
+        - "yes, self-reported"
+        - "no"
+        - "not reported"
+        - "not collected"
+    - name: hypertension_measurement_type
+      description: "Whether the hypertension was measured at recruitment/patients on hypertension treatment or self-reported medical diagnosis"
+      type: enum
+      enums:
+        - "self-reported"
+        - "measured"
+    - name: diabetes
+      description: "Self-reported diabetes in the participant"
+      type: enum
+      enums:
+        - "yes"
+        - "no"
+        - "unsure"
+        - "not reported"
+        - "not collected"
+
+
+##### Biospecimen nodes
+- name: sample
+  category: biospecimen
+  description: >
+    Biospecimen information that links subjects to samples including
+    sample's provider and source.
+  properties:
+    - name: sample_id
+      description: "A unique identifier of a sample obtained from a subject"
+      type: string
+    - name: sample_provider
+      description: "The name of collaborating institute that provided the sample"
+      type: enum
+      enums:
+        - "Baker"
+        - "USYD"
+        - "UMELB"
+        - "UQ"
+    - name: sample_source
+      description: "Uberon identifier, anatomical location as described by the Uber Anatomy Ontology (UBERON)."
+      type: string
+    - name: date_collected
+      description: "The date of sample collection (YYYY-MM-DD)"
+      type: string
+
+
+##### Experimental Methods nodes
+- name: genomics_assay
+  category: experimental_methods
+  description: >
+    Details about the methods that produced the genomics data
+
+- name: lipidomics_assay
+  category: experimental_methods
+  description: >
+    Details about the methods that produced the lipidomics data
+  properties:
+    - name: experiment_id
+      description: "A unique identifier of the experiment performed. (For OMIX3, this will be the iLab ID)"
+      type: string
+    - name: instrument_make
+      description: "The manufacturer of the instrument used"
+      type: enum
+      enums:
+        - "Thermo Fisher Scientific"
+    - name: instrument_model
+      description: "The model of the instrument used"
+      type: enum
+      enums:
+        - "Orbitrap Astral"
+        - "Stellar"
+    - name: operator
+      description: "Name of the instrument operator"
+      type: string
+    - name: processing_steps
+      description: "The processing step that was performed for this experiment"
+      type: enum
+      enums:
+        - "Depletion"
+        - "Digestion"
+        - "LC-MS"
+
+- name: proteomics_assay
+  category: experimental_methods
+  description: >
+    Details about the methods that produced the proteomics data
+  properties:
+    - name: experiment_id
+      description: "A unique identifier of the experiment performed. (For OMIX3, this will be the iLab ID)"
+      type: string
+    - name: instrument_make
+      description: "The manufacturer of the instrument used"
+      type: enum
+      enums:
+        - "Thermo Fisher Scientific"
+    - name: instrument_model
+      description: "The model of the instrument used"
+      type: enum
+      enums:
+        - "Orbitrap Astral"
+        - "Stellar"
+    - name: operator
+      description: "Name of the instrument operator"
+      type: string
+    - name: processing_steps
+      description: "The processing step that was performed for this experiment"
+      type: enum
+      enums:
+        - "Depletion"
+        - "Digestion"
+        - "LC-MS"
+
+- name: metabolomics_assay
+  category: experimental_methods
+  description: >
+    Details about the methods that produced the metabolomics data
+  properties:
+    - name: experiment_id
+      description: "A unique identifier of the experiment performed. (For OMIX3, this will be the iLab ID)"
+      type: string
+    - name: instrument_make
+      description: "The manufacturer of the instrument used"
+      type: enum
+      enums:
+        - "Thermo Fisher Scientific"
+    - name: instrument_model
+      description: "The model of the instrument used"
+      type: enum
+      enums:
+        - "Orbitrap Astral"
+        - "Stellar"
+    - name: operator
+      description: "Name of the instrument operator"
+      type: string
+    - name: processing_steps
+      description: "The processing step that was performed for this experiment"
+      type: enum
+      enums:
+        - "Depletion"
+        - "Digestion"
+        - "LC-MS"
+
+
+##### Data File and Analysis nodes
+- name: unaligned_reads_file
+  category: data_file
+  description: >
+    Data file containing raw reads from a genomics assay
+  properties:
+    - name: data_format
+      description: "The format of the data in this data file"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: data_category
+      description: "Broad categorization of the contents of the data file."
+      type: enum
+      enums:
+        - "mass spec raw"
+        - "mass spec processed"
+        - "summarised results"
+        - "quality control"
+    - name: data_type
+      description: "The data type"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: cv
+      description: "Coefficient of variation (%)"
+      type: number
+    - name: facility_run_id
+      description: "A unique identifier of which run the file was generated from"
+      type: string
+    - name: facility_batch_id
+      description: "A unique identifier of which batch of samples the file was generated from"
+      type: string
+    - name: facility_run_date
+      description: "The date the batch was analysed (YYYY-MM-DD)"
+      type: string
+    - name: data_processing_app
+      description: "Application/software used to pre-process the data"
+      type: enum
+      enums:
+        - "DIA-NN"
+        - "Skyline"
+
+- name: aligned_reads_file
+  category: data_file
+  description: >
+    Data file containing aligned reads
+  properties:
+    - name: data_format
+      description: "The format of the data in this data file"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: data_category
+      description: "Broad categorization of the contents of the data file."
+      type: enum
+      enums:
+        - "mass spec raw"
+        - "mass spec processed"
+        - "summarised results"
+        - "quality control"
+    - name: data_type
+      description: "The data type"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: cv
+      description: "Coefficient of variation (%)"
+      type: number
+    - name: facility_run_id
+      description: "A unique identifier of which run the file was generated from"
+      type: string
+    - name: facility_batch_id
+      description: "A unique identifier of which batch of samples the file was generated from"
+      type: string
+    - name: facility_run_date
+      description: "The date the batch was analysed (YYYY-MM-DD)"
+      type: string
+    - name: data_processing_app
+      description: "Application/software used to pre-process the data"
+      type: enum
+      enums:
+        - "DIA-NN"
+        - "Skyline"
+
+- name: lipidomics_file
+  category: data_file
+  description: >
+    Data file containing lipidomics data
+  properties:
+    - name: data_format
+      description: "The format of the data in this data file"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: data_category
+      description: "Broad categorization of the contents of the data file."
+      type: enum
+      enums:
+        - "mass spec raw"
+        - "mass spec processed"
+        - "summarised results"
+        - "quality control"
+    - name: data_type
+      description: "The data type"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: cv
+      description: "Coefficient of variation (%)"
+      type: number
+    - name: facility_run_id
+      description: "A unique identifier of which run the file was generated from"
+      type: string
+    - name: facility_batch_id
+      description: "A unique identifier of which batch of samples the file was generated from"
+      type: string
+    - name: facility_run_date
+      description: "The date the batch was analysed (YYYY-MM-DD)"
+      type: string
+    - name: data_processing_app
+      description: "Application/software used to pre-process the data"
+      type: enum
+      enums:
+        - "DIA-NN"
+        - "Skyline"
+
+- name: proteomics_file
+  category: data_file
+  description: >
+    Data file containing proteomics data
+  properties:
+    - name: data_format
+      description: "The format of the data in this data file"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: data_category
+      description: "Broad categorization of the contents of the data file."
+      type: enum
+      enums:
+        - "mass spec raw"
+        - "mass spec processed"
+        - "summarised results"
+        - "quality control"
+    - name: data_type
+      description: "The data type"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: cv
+      description: "Coefficient of variation (%)"
+      type: number
+    - name: facility_run_id
+      description: "A unique identifier of which run the file was generated from"
+      type: string
+    - name: facility_batch_id
+      description: "A unique identifier of which batch of samples the file was generated from"
+      type: string
+    - name: facility_run_date
+      description: "The date the batch was analysed (YYYY-MM-DD)"
+      type: string
+    - name: data_processing_app
+      description: "Application/software used to pre-process the data"
+      type: enum
+      enums:
+        - "DIA-NN"
+        - "Skyline"
+
+- name: metabolomics_file
+  category: data_file
+  description: >
+    Data file containing metabolomics data
+  properties:
+    - name: data_format
+      description: "The format of the data in this data file"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: data_category
+      description: "Broad categorization of the contents of the data file."
+      type: enum
+      enums:
+        - "mass spec raw"
+        - "mass spec processed"
+        - "summarised results"
+        - "quality control"
+    - name: data_type
+      description: "The data type"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "xls"
+        - "xlsx"
+    - name: cv
+      description: "Coefficient of variation (%)"
+      type: number
+    - name: facility_run_id
+      description: "A unique identifier of which run the file was generated from"
+      type: string
+    - name: facility_batch_id
+      description: "A unique identifier of which batch of samples the file was generated from"
+      type: string
+    - name: facility_run_date
+      description: "The date the batch was analysed (YYYY-MM-DD)"
+      type: string
+    - name: data_processing_app
+      description: "Application/software used to pre-process the data"
+      type: enum
+      enums:
+        - "DIA-NN"
+        - "Skyline"
+
+- name: alignment_workflow
+  category: analysis
+  description: >
+    Metadata for the alignment pipeline used to align reads during
+    genomic harmonisation
+
+
+####################################
+# Links
+####################################
+links:
+- parent: program
+  multiplicity: one_to_many
+  child: project
+
+- parent: project
+  multiplicity: one_to_many
+  child: acknowledgement
+
+- parent: project
+  multiplicity: one_to_many
+  child: publication
+
+- parent: project
+  multiplicity: one_to_many
+  child: subject
+
+- parent: subject
+  multiplicity: one_to_one
+  child: demographic
+
+- parent: subject
+  multiplicity: one_to_one
+  child: medical_history
+
+- parent: subject
+  multiplicity: one_to_many
+  child: sample
+
+- parent: sample
+  multiplicity: many_to_one
+  child: genomics_assay
+
+- parent: sample
+  multiplicity: many_to_one
+  child: lipidomics_assay
+
+- parent: sample
+  multiplicity: many_to_one
+  child: proteomics_assay
+
+- parent: sample
+  multiplicity: many_to_one
+  child: metabolomics_assay
+
+- parent: genomics_assay
+  multiplicity: one_to_many
+  child: unaligned_reads_file
+
+- parent: lipidomics_assay
+  multiplicity: one_to_many
+  child: lipidomics_file
+
+- parent: proteomics_assay
+  multiplicity: one_to_many
+  child: proteomics_file
+
+- parent: metabolomics_assay
+  multiplicity: one_to_many
+  child: metabolomics_file
+
+- parent: unaligned_reads_file
+  multiplicity: many_to_one
+  child: alignment_workflow
+
+- parent: alignment_workflow
+  multiplicity: one_to_many
+  child: aligned_reads_file

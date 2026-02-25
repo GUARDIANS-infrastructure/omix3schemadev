@@ -1,0 +1,56 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: sample
+title: sample
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: biospecimen
+program: '*'
+project: '*'
+description: 'Biospecimen information that links subjects to samples including sample''s
+  provider and source.
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: subjects
+  backref: samples
+  label: part_of
+  target_type: subject
+  multiplicity: many_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  sample_id:
+    type: string
+    description: A unique identifier of a sample obtained from a subject
+  sample_provider:
+    description: The name of collaborating institute that provided the sample
+    enum:
+    - Baker
+    - USYD
+    - UMELB
+    - UQ
+  sample_source:
+    type: string
+    description: Uberon identifier, anatomical location as described by the Uber Anatomy
+      Ontology (UBERON).
+  date_collected:
+    type: string
+    description: The date of sample collection (YYYY-MM-DD)
+  subjects:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

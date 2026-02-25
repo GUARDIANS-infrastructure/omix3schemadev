@@ -1,0 +1,69 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: medical_history
+title: medical_history
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: clinical
+program: '*'
+project: '*'
+description: 'Medical history of the participant
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: subjects
+  backref: medical_historys
+  label: part_of
+  target_type: subject
+  multiplicity: one_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  diabetes_type:
+    description: Diabetes diagnosed by fasting blood glucose >=7 mmol/l or tx AHA
+      or 2 hour blood glucose >=11.1 mmol/l.
+    enum:
+    - IGT
+    - KDM
+    - IFG
+    - NDM
+    - NGT
+  hypertension:
+    description: Whether the participant has Hypertension
+    enum:
+    - yes, measured or on treatment
+    - yes, self-reported
+    - 'no'
+    - not reported
+    - not collected
+  hypertension_measurement_type:
+    description: Whether the hypertension was measured at recruitment/patients on
+      hypertension treatment or self-reported medical diagnosis
+    enum:
+    - self-reported
+    - measured
+  diabetes:
+    description: Self-reported diabetes in the participant
+    enum:
+    - 'yes'
+    - 'no'
+    - unsure
+    - not reported
+    - not collected
+  subjects:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

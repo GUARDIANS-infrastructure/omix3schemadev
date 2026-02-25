@@ -1,0 +1,38 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: project
+title: project
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: administrative
+program: '*'
+project: '*'
+description: 'The study the data is coming from
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: programs
+  backref: projects
+  label: part_of
+  target_type: program
+  multiplicity: many_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  programs:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false
