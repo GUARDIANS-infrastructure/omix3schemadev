@@ -1,0 +1,42 @@
+# omix3schemadev
+
+**omix3schemadev** is a package for developing and managing Gen3 schema definitions and metadata for omics data.
+
+## Features
+
+- Tools to handle schema development for Gen3-based data commons
+- Supports synthetic data generation and upload
+
+## Installation
+
+Clone the repository and install dependencies:
+```bash
+# create a virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
+# install poetry
+pip install poetry
+
+# install dependencies
+poetry install
+
+# activate the virtual environment
+source .venv/bin/activate
+```
+
+## Usage
+
+This package is primarily designed for developers extending or validating Gen3 schemas for omics metadata. See included tools and scripts for examples. You can explore example schema files and test data in the `output/` folder.
+
+## Development
+
+- Python ≥ 3.9 required
+- See `pyproject.toml` for dependency versions
+
+Contributions welcome! Open an issue or submit a pull request for improvements and new features.
+
+## License
+
+Apache 2.0 License
+
