@@ -1,6 +1,6 @@
 [project]
 name = "omix3schemadev"
-version = "1.0.0"
+version = "1.0.1"
 description = "Gen3 Data Dictionary for Omix3"
 authors = [
     {name = "JoshuaHarris391",email = "harjo391@gmail.com"}
