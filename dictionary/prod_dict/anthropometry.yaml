@@ -1,0 +1,48 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: anthropometry
+title: anthropometry
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: clinical
+program: '*'
+project: '*'
+description: 'Physical measurements taken for the participant at baseline.
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: participant_assessment_centres
+  backref: anthropometrys
+  label: part_of
+  target_type: participant_assessment_centre
+  multiplicity: one_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  height:
+    type: number
+    description: Height of the participant in centimeters
+  weight:
+    type: number
+    description: Weight of the participant in kilograms
+  bmi:
+    type: number
+    description: Body mass index (BMI) of the participant calculated as weight (kg)
+      / height (m)^2
+  participant_assessment_centres:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

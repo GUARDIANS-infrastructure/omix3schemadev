@@ -1,0 +1,45 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: wearable
+title: wearable
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: clinical
+program: '*'
+project: '*'
+description: 'Wearable measurements obtained from a Fitbit device taken for the participant
+  at baseline.
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: participant_assessment_centres
+  backref: wearables
+  label: part_of
+  target_type: participant_assessment_centre
+  multiplicity: one_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  avg_heart_rate:
+    type: number
+    description: Average heart rate of the participant in beats per minute
+  avg_step_count:
+    type: number
+    description: Average daily step count of the participant
+  participant_assessment_centres:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

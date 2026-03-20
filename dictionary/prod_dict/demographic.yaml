@@ -40,6 +40,32 @@ properties:
   month_birth:
     type: integer
     description: Month of birth at baseline (MM)
+  sex:
+    description: Sex assigned at birth
+    enum:
+    - Male
+    - Female
+    - Unknown
+  country_birth:
+    type: string
+    description: Country of birth
+  education_highest_level:
+    description: The highest level of education attained by the participant
+    enum:
+    - Postgraduate degree Masters/PhD
+    - Honours Bachelor degree/Graduate diploma/Graduate certificate
+    - Bachelor degree but not Honours
+    - TAFE diploma/TAFE advanced diploma/TAFE graduate diploma
+    - TAFE certificate 3 or 4
+    - TAFE certificate 1 or 2
+    - Year 12 or equivalent
+    - Year 11 or equivalent
+    - Year 9, 10, or equivalent
+    - Year 7, 8, or equivalent
+    - Finished primary school
+    - Did not finish primary school
+    - No schooling
+    - Other
   subjects:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

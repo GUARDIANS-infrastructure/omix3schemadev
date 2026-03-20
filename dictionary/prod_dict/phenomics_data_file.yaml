@@ -1,0 +1,75 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: phenomics_data_file
+title: phenomics_data_file
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: data_file
+program: '*'
+project: '*'
+description: 'Data file containing the results of a measurement/assessment performed
+  on a participant at baseline.
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- exclusive: false
+  required: true
+  subgroup:
+  - name: participant_assessment_centres
+    backref: phenomics_data_files
+    label: part_of
+    target_type: participant_assessment_centre
+    multiplicity: many_to_one
+    required: true
+  - name: core_metadata_collections
+    backref: phenomics_data_files
+    label: part_of
+    target_type: core_metadata_collection
+    multiplicity: one_to_one
+    required: false
+properties:
+  $ref: _definitions.yaml#/data_file_properties
+  data_format:
+    description: The format of the data in this data file
+    enum:
+    - data_format_1
+    - data_format_2
+    - data_format_3
+  data_category:
+    description: Broad categorization of the contents of the data file.
+    enum:
+    - data_category_1
+    - data_category_2
+    - data_category_3
+  data_type:
+    description: The type of data in this data file
+    enum:
+    - data_type_1
+    - data_type_2
+    - data_type_3
+  measurement_name:
+    description: Name of the measurement/assessment performed that this data file
+      contains results for
+    enum:
+    - Electrocardiogram
+    - Spirometry
+    - DXA
+  participant_assessment_centres:
+    $ref: _definitions.yaml#/to_one
+  core_metadata_collections:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

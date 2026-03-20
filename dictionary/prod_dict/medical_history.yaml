@@ -25,12 +25,21 @@ required:
 - submitter_id
 - type
 links:
-- name: subjects
-  backref: medical_historys
-  label: part_of
-  target_type: subject
-  multiplicity: one_to_one
+- exclusive: false
   required: true
+  subgroup:
+  - name: participant_assessment_centres
+    backref: medical_historys
+    label: part_of
+    target_type: participant_assessment_centre
+    multiplicity: one_to_one
+    required: true
+  - name: participant_assessment_centres
+    backref: medical_historys
+    label: part_of
+    target_type: participant_assessment_centre
+    multiplicity: one_to_one
+    required: true
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   diabetes_type:
@@ -64,6 +73,14 @@ properties:
     - unsure
     - not reported
     - not collected
-  subjects:
+  cancer:
+    description: Self-reported cancer in the participant
+    enum:
+    - 'yes'
+    - 'no'
+    - unsure
+    - not reported
+    - not collected
+  participant_assessment_centres:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

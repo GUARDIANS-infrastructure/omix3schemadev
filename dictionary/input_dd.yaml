@@ -1,4 +1,4 @@
-version: 0.1.0
+version: 0.1.2
 url: https://data.acdc.ozheart.org
 
 ####################################
@@ -56,7 +56,87 @@ nodes:
     - name: month_birth
       description: "Month of birth at baseline (MM)"
       type: integer
+    - name: sex
+      description: "Sex assigned at birth"
+      type: enum
+      enums:
+        - "Male"
+        - "Female"
+        - "Unknown"
+    - name: country_birth
+      description: "Country of birth"
+      type: string
+    - name: education_highest_level
+      description: "The highest level of education attained by the participant"
+      type: enum
+      enums:
+        - Postgraduate degree Masters/PhD
+        - Honours Bachelor degree/Graduate diploma/Graduate certificate
+        - Bachelor degree but not Honours
+        - TAFE diploma/TAFE advanced diploma/TAFE graduate diploma
+        - TAFE certificate 3 or 4
+        - TAFE certificate 1 or 2
+        - Year 12 or equivalent
+        - Year 11 or equivalent
+        - Year 9, 10, or equivalent
+        - Year 7, 8, or equivalent
+        - Finished primary school
+        - Did not finish primary school
+        - No schooling
+        - Other
 
+- name: participant_assessment_centre
+  category: clinical
+  description: >
+    The assessment centre where the participant attended at baseline.
+  properties:
+    - name: assessment_centre_name
+      description: "Name of the assessment centre"
+      type: enum
+      enums:
+        - "Px4 Health Participant Assessment Centre"
+    - name: assessment_centre_location
+      description: "Location of the assessment centre"
+      type: string
+    - name: assessment_centre_version
+      description: "Version of the assessment protocol used at the assessment centre"
+      type: string
+- name: anthropometry
+  category: clinical
+  description: >
+    Physical measurements taken for the participant at baseline.
+  properties:
+    - name: height
+      description: "Height of the participant in centimeters"
+      type: number
+    - name: weight
+      description: "Weight of the participant in kilograms"
+      type: number
+    - name: bmi
+      description: "Body mass index (BMI) of the participant calculated as weight (kg) / height (m)^2"
+      type: number
+- name: cardiovascular
+  category: clinical
+  description: >
+    Cardiovascular measurements taken for the participant at baseline.
+  properties:
+    - name: systolic_bp
+      description: "Systolic blood pressure of the participant in mmHg"
+      type: number
+    - name: diastolic_bp
+      description: "Diastolic blood pressure of the participant in mmHg"
+      type: number
+- name: wearable
+  category: clinical
+  description: >
+    Wearable measurements obtained from a Fitbit device taken for the participant at baseline.
+  properties:
+    - name: avg_heart_rate
+      description: "Average heart rate of the participant in beats per minute"
+      type: number
+    - name: avg_step_count
+      description: "Average daily step count of the participant"
+      type: number
 - name: medical_history
   category: clinical
   description: >
@@ -95,7 +175,15 @@ nodes:
         - "unsure"
         - "not reported"
         - "not collected"
-
+    - name: cancer
+      description: "Self-reported cancer in the participant"
+      type: enum
+      enums:
+        - "yes"
+        - "no"
+        - "unsure"
+        - "not reported"
+        - "not collected"
 
 ##### Biospecimen nodes
 - name: sample
@@ -221,6 +309,50 @@ nodes:
 
 
 ##### Data File and Analysis nodes
+- name: phenomics_data_file
+  category: data_file
+  description: >
+    Data file containing the results of a measurement/assessment performed on a participant at baseline.
+  properties:
+    - name: data_format
+      description: "The format of the data in this data file"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "jpeg"
+        - "png"
+        - "pdf"
+    - name: data_category
+      description: "Broad categorization of the contents of the data file."
+      type: enum
+      enums:
+        - "summarised results"
+        - "quality control"
+        - "raw data"
+        - "processed data"
+        - "dxa report"
+        - "spirometry report"
+        - "ecg report"
+        - "other"
+    - name: data_type
+      description: "The data type"
+      type: enum
+      enums:
+        - "csv"
+        - "tsv"
+        - "jpeg"
+        - "png"
+        - "pdf"
+    - name: measurement_name
+      description: "Name of the measurement/assessment performed that this data file contains results for"
+      type: enum
+      enums:
+        - "Electrocardiogram"
+        - "Spirometry"
+        - "DXA"
+
+        
 - name: unaligned_reads_file
   category: data_file
   description: >
@@ -493,12 +625,36 @@ links:
   child: demographic
 
 - parent: subject
+  multiplicity: one_to_many
+  child: sample
+
+- parent: subject
+  multiplicity: one_to_one
+  child: participant_assessment_centre
+
+- parent: participant_assessment_centre
   multiplicity: one_to_one
   child: medical_history
 
-- parent: subject
+- parent: participant_assessment_centre
+  multiplicity: one_to_one
+  child: anthropometry
+
+- parent: participant_assessment_centre
+  multiplicity: one_to_one
+  child: wearable
+
+- parent: participant_assessment_centre
+  multiplicity: one_to_one
+  child: cardiovascular
+
+- parent: participant_assessment_centre
+  multiplicity: one_to_one
+  child: medical_history
+
+- parent: participant_assessment_centre
   multiplicity: one_to_many
-  child: sample
+  child: phenomics_data_file
 
 - parent: sample
   multiplicity: many_to_one

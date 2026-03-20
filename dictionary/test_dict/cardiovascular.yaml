@@ -1,0 +1,44 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: cardiovascular
+title: cardiovascular
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: clinical
+program: '*'
+project: '*'
+description: 'Cardiovascular measurements taken for the participant at baseline.
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: participant_assessment_centres
+  backref: cardiovasculars
+  label: part_of
+  target_type: participant_assessment_centre
+  multiplicity: one_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  systolic_bp:
+    type: number
+    description: Systolic blood pressure of the participant in mmHg
+  diastolic_bp:
+    type: number
+    description: Diastolic blood pressure of the participant in mmHg
+  participant_assessment_centres:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false
