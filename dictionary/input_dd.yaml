@@ -209,6 +209,7 @@ nodes:
     - name: sample_type
       description: The type of sample collected
       type: enum
+      enums:
         - PBMC
         - Plasma
         - Saliva

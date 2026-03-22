@@ -37,8 +37,8 @@ properties:
   sample_id:
     type: string
     description: A unique identifier of a sample obtained from a subject
-  sample_provider:
-    description: The name of collaborating institute that provided the sample
+  sample_orig_provider:
+    description: The name of original institute that provided the sample
     enum:
     - Baker
     - USYD
@@ -48,6 +48,15 @@ properties:
     type: string
     description: Uberon identifier, anatomical location as described by the Uber Anatomy
       Ontology (UBERON).
+  sample_type:
+    description: The type of sample collected
+    enum:
+    - PBMC
+    - Plasma
+    - Saliva
+    - Faeces
+    - Urine
+    - Plaque
   date_collected:
     type: string
     description: The date of sample collection (YYYY-MM-DD)
