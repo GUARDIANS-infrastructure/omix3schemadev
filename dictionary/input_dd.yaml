@@ -195,8 +195,8 @@ nodes:
     - name: sample_id
       description: "A unique identifier of a sample obtained from a subject"
       type: string
-    - name: sample_provider
-      description: "The name of collaborating institute that provided the sample"
+    - name: sample_orig_provider
+      description: "The name of original institute that provided the sample"
       type: enum
       enums:
         - "Baker"
@@ -206,6 +206,15 @@ nodes:
     - name: sample_source
       description: "Uberon identifier, anatomical location as described by the Uber Anatomy Ontology (UBERON)."
       type: string
+    - name: sample_type
+      description: The type of sample collected
+      type: enum
+        - PBMC
+        - Plasma
+        - Saliva
+        - Faeces
+        - Urine
+        - Plaque
     - name: date_collected
       description: "The date of sample collection (YYYY-MM-DD)"
       type: string
