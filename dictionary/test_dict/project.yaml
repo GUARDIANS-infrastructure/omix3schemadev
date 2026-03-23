@@ -24,6 +24,7 @@ uniqueKeys:
 required:
 - submitter_id
 - type
+- code
 links:
 - name: programs
   backref: projects
@@ -35,4 +36,7 @@ properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   programs:
     $ref: _definitions.yaml#/to_one
+  code:
+    type: string
+    description: A unique identifier for the project
 additionalProperties: false
