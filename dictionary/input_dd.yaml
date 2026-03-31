@@ -7,16 +7,6 @@ url: https://data.acdc.ozheart.org
 nodes:
 
 ##### Administrative nodes
-- name: program
-  category: administrative
-  description: >
-    A broad framework of goals to be achieved.
-
-- name: project
-  category: administrative
-  description: >
-    The study the data is coming from
-
 - name: acknowledgement
   category: administrative
   description: >
