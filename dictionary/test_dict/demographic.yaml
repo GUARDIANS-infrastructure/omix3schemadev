@@ -72,93 +72,314 @@ properties:
   sex_at_birth:
     description: Biological sex recorded at birth.
     enum:
-    - assigned_female
-    - assigned_male
-    - assigned_intersex
+    - Assigned female
+    - Assigned male
+    - Assigned intersex
   country_of_birth:
-    type: string
-    description: Country in which the participant was born. ISO 3166-1 alpha-2 codes.
-  mother_country_of_birth:
-    type: string
-    description: Country in which the participant's biological mother was born.
-  father_country_of_birth:
-    type: string
-    description: Country in which the participant's biological father was born.
+    description: Country in which the participant was born. ISO 3166-1 alpha-2 coded.
+    enum:
+    - AU, Australia
+    - AF, Afghanistan
+    - AL, Albania
+    - DZ, Algeria
+    - AS, American Samoa
+    - AD, Andorra
+    - AO, Angola
+    - AI, Anguilla
+    - AQ, Antarctica
+    - AG, Antigua and Barbuda
+    - AR, Argentina
+    - AM, Armenia
+    - AW, Aruba
+    - AT, Austria
+    - AZ, Azerbaijan
+    - BS, Bahamas
+    - BH, Bahrain
+    - BD, Bangladesh
+    - BB, Barbados
+    - BY, Belarus
+    - BE, Belgium
+    - BZ, Belize
+    - BJ, Benin
+    - BM, Bermuda
+    - BT, Bhutan
+    - BO, Bolivia
+    - BA, Bosnia and Herzegovina
+    - BW, Botswana
+    - BR, Brazil
+    - BN, Brunei Darussalam
+    - BG, Bulgaria
+    - BF, Burkina Faso
+    - BI, Burundi
+    - CV, Cabo Verde
+    - KH, Cambodia
+    - CM, Cameroon
+    - CA, Canada
+    - KY, Cayman Islands
+    - CF, Central African Republic
+    - TD, Chad
+    - CL, Chile
+    - CN, China
+    - CO, Colombia
+    - KM, Comoros
+    - CG, Congo
+    - CD, Congo (Democratic Republic)
+    - CK, Cook Islands
+    - CR, Costa Rica
+    - "CI, C\xF4te d'Ivoire"
+    - HR, Croatia
+    - CU, Cuba
+    - CY, Cyprus
+    - CZ, Czech Republic
+    - DK, Denmark
+    - DJ, Djibouti
+    - DM, Dominica
+    - DO, Dominican Republic
+    - EC, Ecuador
+    - EG, Egypt
+    - SV, El Salvador
+    - GQ, Equatorial Guinea
+    - ER, Eritrea
+    - EE, Estonia
+    - SZ, Eswatini
+    - ET, Ethiopia
+    - FJ, Fiji
+    - FI, Finland
+    - FR, France
+    - GA, Gabon
+    - GM, Gambia
+    - GE, Georgia
+    - DE, Germany
+    - GH, Ghana
+    - GI, Gibraltar
+    - GR, Greece
+    - GL, Greenland
+    - GD, Grenada
+    - GU, Guam
+    - GT, Guatemala
+    - GG, Guernsey
+    - GN, Guinea
+    - GW, Guinea-Bissau
+    - GY, Guyana
+    - HT, Haiti
+    - VA, Holy See
+    - HN, Honduras
+    - HK, Hong Kong
+    - HU, Hungary
+    - IS, Iceland
+    - IN, India
+    - ID, Indonesia
+    - IR, Iran
+    - IQ, Iraq
+    - IE, Ireland
+    - IM, Isle of Man
+    - IL, Israel
+    - IT, Italy
+    - JM, Jamaica
+    - JP, Japan
+    - JE, Jersey
+    - JO, Jordan
+    - KZ, Kazakhstan
+    - KE, Kenya
+    - KI, Kiribati
+    - KP, Korea (Democratic People's Republic)
+    - KR, Korea (Republic)
+    - KW, Kuwait
+    - KG, Kyrgyzstan
+    - LA, Lao People's Democratic Republic
+    - LV, Latvia
+    - LB, Lebanon
+    - LS, Lesotho
+    - LR, Liberia
+    - LY, Libya
+    - LI, Liechtenstein
+    - LT, Lithuania
+    - LU, Luxembourg
+    - MO, Macao
+    - MG, Madagascar
+    - MW, Malawi
+    - MY, Malaysia
+    - MV, Maldives
+    - ML, Mali
+    - MT, Malta
+    - MH, Marshall Islands
+    - MR, Mauritania
+    - MU, Mauritius
+    - MX, Mexico
+    - FM, Micronesia
+    - MD, Moldova
+    - MC, Monaco
+    - MN, Mongolia
+    - ME, Montenegro
+    - MA, Morocco
+    - MZ, Mozambique
+    - MM, Myanmar
+    - NA, Namibia
+    - NR, Nauru
+    - NP, Nepal
+    - NL, Netherlands
+    - NZ, New Zealand
+    - NI, Nicaragua
+    - NE, Niger
+    - NG, Nigeria
+    - NU, Niue
+    - NF, Norfolk Island
+    - MK, North Macedonia
+    - MP, Northern Mariana Islands
+    - NO, Norway
+    - OM, Oman
+    - PK, Pakistan
+    - PW, Palau
+    - PS, Palestine
+    - PA, Panama
+    - PG, Papua New Guinea
+    - PY, Paraguay
+    - PE, Peru
+    - PH, Philippines
+    - PN, Pitcairn
+    - PL, Poland
+    - PT, Portugal
+    - PR, Puerto Rico
+    - QA, Qatar
+    - RO, Romania
+    - RU, Russian Federation
+    - RW, Rwanda
+    - "RE, R\xE9union"
+    - "BL, Saint Barth\xE9lemy"
+    - SH, Saint Helena
+    - KN, Saint Kitts and Nevis
+    - LC, Saint Lucia
+    - MF, Saint Martin
+    - PM, Saint Pierre and Miquelon
+    - VC, Saint Vincent and the Grenadines
+    - WS, Samoa
+    - SM, San Marino
+    - ST, Sao Tome and Principe
+    - SA, Saudi Arabia
+    - SN, Senegal
+    - RS, Serbia
+    - SC, Seychelles
+    - SL, Sierra Leone
+    - SG, Singapore
+    - SX, Sint Maarten
+    - SK, Slovakia
+    - SI, Slovenia
+    - SB, Solomon Islands
+    - SO, Somalia
+    - ZA, South Africa
+    - SS, South Sudan
+    - ES, Spain
+    - LK, Sri Lanka
+    - SD, Sudan
+    - SR, Suriname
+    - SE, Sweden
+    - CH, Switzerland
+    - SY, Syrian Arab Republic
+    - TW, Taiwan
+    - TJ, Tajikistan
+    - TZ, Tanzania
+    - TH, Thailand
+    - TL, Timor-Leste
+    - TG, Togo
+    - TK, Tokelau
+    - TO, Tonga
+    - TT, Trinidad and Tobago
+    - TN, Tunisia
+    - TR, Turkey
+    - TM, Turkmenistan
+    - TV, Tuvalu
+    - UG, Uganda
+    - UA, Ukraine
+    - AE, United Arab Emirates
+    - GB, United Kingdom
+    - US, United States of America
+    - UY, Uruguay
+    - UZ, Uzbekistan
+    - VU, Vanuatu
+    - VE, Venezuela
+    - VN, Viet Nam
+    - VG, Virgin Islands (British)
+    - VI, Virgin Islands (U.S.)
+    - EH, Western Sahara
+    - YE, Yemen
+    - ZM, Zambia
+    - ZW, Zimbabwe
   ancestry:
     description: Self-reported ancestry (up to two selections).
     enum:
-    - english
-    - irish
-    - scottish
-    - chinese
-    - italian
-    - german
-    - aboriginal
-    - torres_strait_islander
-    - australian
-    - other_1
-    - other_2
+    - English
+    - Irish
+    - Scottish
+    - Chinese
+    - Italian
+    - German
+    - Aboriginal
+    - Torres Strait Islander
+    - Australian
+    - Other 1
+    - Other 2
   education_level:
     description: Highest level of formal education completed.
     enum:
-    - postgraduate
-    - honours_grad_dip
-    - bachelor
-    - tafe_diploma
-    - tafe_cert_3_4
-    - tafe_cert_1_2
-    - year_12
-    - year_11
-    - year_9_10
-    - year_7_8
-    - finished_primary
-    - did_not_finish_primary
-    - no_schooling
-    - other
+    - Postgraduate degree
+    - Honours Bachelor degree/Graduate diploma/Graduate certificate
+    - Bachelor degree but not Honours
+    - TAFE diploma/TAFE advanced diploma/TAFE graduate diploma
+    - TAFE certificate 3 or 4
+    - TAFE certificate 1 or 2
+    - Year 12 or equivalent
+    - Year 11 or equivalent
+    - Year 9, 10, or equivalent
+    - Year 7, 8, or equivalent
+    - Finished primary school
+    - Did not finish primary school
+    - No schooling
+    - Other
   relationship_status:
     description: Current relationship or marital status.
     enum:
-    - single
-    - married_de_facto
-    - divorced_separated
-    - widowed
-    - partner_not_cohabiting
-    - other
+    - Single
+    - Married, or living with a partner (de facto)
+    - Divorced or separated
+    - Widow/widower
+    - Have a partner but not living together
+    - Other
   residence_type:
-    description: Classification of the participant's current place of residence.
+    description: Classification of current place of residence by urbanisation level.
     enum:
-    - rural_semi_rural
-    - regional_city_town
-    - suburban
-    - urban_fringe
-    - cbd
+    - Rural or semi-rural
+    - Regional city or town
+    - Suburban
+    - Urban fringe
+    - Central business district
   income_adequacy:
     description: Self-assessed ability to manage on available income.
     enum:
-    - easily
-    - not_too_bad
-    - difficult_sometimes
-    - difficult_always
-    - impossible
+    - Easily
+    - Not too bad
+    - Difficult some of the time
+    - Difficult all of the time
+    - Impossible
   employment_status:
     description: Current employment or occupational situation. Multiple selections
       allowed.
     enum:
-    - employed_self_employed
-    - retired
-    - home_family
-    - unable_to_work
-    - unemployed
-    - voluntary_work
-    - student
-    - none_of_above
+    - In paid employment or self-employed
+    - Retired
+    - Looking after home and/or family
+    - Unable to work because of illness or disability
+    - Unemployed
+    - Doing unpaid or voluntary work
+    - Full or part-time student
+    - None of the above
   household_size:
     type: integer
-    description: Total number of people living in the participant's household, including
-      the participant.
+    description: Total number of people living in the household including the participant.
   pet_in_home:
-    type: boolean
     description: Whether the participant has a pet living in their home.
+    enum:
+    - 'No'
+    - 'Yes'
   subjects:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

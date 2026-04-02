@@ -36,25 +36,25 @@ properties:
   quality_of_life:
     description: Self-rated overall quality of life (WHOQOL-BREF question 1).
     enum:
-    - very_poor
-    - poor
-    - neither
-    - good
-    - very_good
+    - Very poor
+    - Poor
+    - Neither poor nor good
+    - Good
+    - Very good
   sleep_satisfaction:
     description: Satisfaction with sleep quality (SATED sleep health questionnaire).
     enum:
-    - rarely_never
-    - sometimes
-    - usually_always
+    - Rarely/Never
+    - Sometimes
+    - Usually/Always
   social_isolation:
     description: How often the participant feels isolated from others (Three-Item
       Loneliness Scale).
     enum:
-    - hardly_ever
-    - some_of_the_time
-    - often
-    - prefer_not_to_answer
+    - Hardly ever or never
+    - Some of the time
+    - Often
+    - Prefer not to answer
   participant_assessment_centres:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

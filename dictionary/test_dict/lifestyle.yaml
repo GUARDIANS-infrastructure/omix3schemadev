@@ -37,92 +37,92 @@ properties:
     description: Current frequency of use of tobacco or smoking implements (cigarettes,
       cigars, pipes, hookah, etc.).
     enum:
-    - never
-    - less_than_monthly
-    - several_times_monthly
-    - weekly
-    - several_times_weekly
-    - daily
+    - Never
+    - Less than once a month
+    - Several times a month but less than once a week
+    - Once a week
+    - Several times a week but not daily
+    - Daily
   vaping_frequency:
     description: Current frequency of e-cigarette or vape use.
     enum:
-    - never
-    - seldom
-    - several_times_monthly
-    - weekly
-    - several_times_weekly
-    - daily
+    - Never
+    - Seldom
+    - Several times a month
+    - Once a week
+    - Several times a week
+    - Every day
   alcohol_frequency:
     description: How often the participant consumes a drink containing alcohol (AUDIT
       question 1).
     enum:
-    - never
-    - monthly_or_less
-    - two_to_four_monthly
-    - two_to_three_weekly
-    - four_plus_weekly
-    - prefer_not_to_answer
+    - Never
+    - Monthly or Less
+    - 2 to 4 times a month
+    - 2 to 3 times a week
+    - 4 or more times a week
+    - Prefer not to answer
   time_outdoors:
     description: Usual time spent outside per day in activities such as gardening,
       parks, hiking, cycling, swimming.
     enum:
-    - lt_1hr_week
-    - 1_to_3hrs_week
-    - 3_to_6hrs_week
-    - 1_to_2hrs_day
-    - 2_to_4hrs_day
-    - gt_4hrs_day
+    - Less than one hour per week (10 minutes or less a day)
+    - 1-3 hours per week (10-30 minutes each day)
+    - 3-6 hours per week (31-60 minutes each day)
+    - 7-14 hours per week (1-2 hours each day)
+    - 14-28 hours per week (2-4 hours each day)
+    - More than 28 hours per week (4 or more hours each day)
   screen_time_hours:
     type: number
     description: Daily hours spent in front of a screen for leisure activities (TV,
-      computer, tablet, mobile), excluding work.
+      computer, tablet, mobile), excluding work. Slider 0-20.
   shift_work:
     description: Frequency of shift work in current or most recent employment.
     enum:
-    - never_rarely
-    - sometimes
-    - usually
-    - always
+    - Never/rarely
+    - Sometimes
+    - Usually
+    - Always
   greenspace_proximity:
     description: Walking time from home to the nearest green or natural space.
     enum:
-    - lt_5min
-    - 5_to_9min
-    - 10_to_19min
-    - 20_to_30min
-    - gt_30min
-    - no_green_space
+    - Fewer than 5 minutes
+    - 5-9 minutes
+    - 10-19 minutes
+    - 20-30 minutes
+    - More than 30 minutes
+    - No green space/too far to walk
   social_contact_frequency:
-    description: How often the participant visits friends or family, or has them visit.
+    description: How often the participant visits friends or family or has them visit.
     enum:
-    - daily
-    - 2_to_4_weekly
-    - weekly
-    - monthly
-    - every_few_months
-    - never
-    - no_friends_family_outside_household
+    - Daily or almost daily
+    - 2-4 times a week
+    - About once a week
+    - About once a month
+    - Once every few months
+    - Never or almost never
+    - No friends or family outside household
   diet_type:
     description: General classification of the participant's usual dietary pattern.
     enum:
-    - omnivore
-    - no_red_meat
-    - flexitarian
-    - vegetarian
-    - pescatarian
-    - vegan
-    - other
-    - prefer_not_to_say
+    - I eat anything with no or few exclusions (omnivore)
+    - I eat anything except red meat
+    - I eat some meat, but mostly have a vegetable diet (flexitarian)
+    - Vegetarian
+    - Vegetarian but eat seafood (pescatarian)
+    - Vegan
+    - Other
+    - Prefer not to say
   diet_healthiness:
-    description: Self-assessed healthiness of diet based on the participant's own
-      understanding of healthy eating.
+    description: Self-assessed healthiness of diet based on participant's own understanding
+      of healthy eating.
     enum:
-    - almost_always_healthy
-    - more_healthy
-    - half_the_time
-    - more_unhealthy
-    - almost_always_unhealthy
-    - prefer_not_to_answer
+    - Almost always healthy
+    - Healthy more often than unhealthy
+    - Healthy about half the time
+    - Unhealthy more often than healthy
+    - Almost always unhealthy
+    - Prefer not to answer
   participant_assessment_centres:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false
