@@ -1,0 +1,128 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: lifestyle
+title: lifestyle
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: clinical
+program: '*'
+project: '*'
+description: 'Lifestyle and behavioural data for the participant.
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: participant_assessment_centres
+  backref: lifestyles
+  label: part_of
+  target_type: participant_assessment_centre
+  multiplicity: one_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  smoking_frequency:
+    description: Current frequency of use of tobacco or smoking implements (cigarettes,
+      cigars, pipes, hookah, etc.).
+    enum:
+    - never
+    - less_than_monthly
+    - several_times_monthly
+    - weekly
+    - several_times_weekly
+    - daily
+  vaping_frequency:
+    description: Current frequency of e-cigarette or vape use.
+    enum:
+    - never
+    - seldom
+    - several_times_monthly
+    - weekly
+    - several_times_weekly
+    - daily
+  alcohol_frequency:
+    description: How often the participant consumes a drink containing alcohol (AUDIT
+      question 1).
+    enum:
+    - never
+    - monthly_or_less
+    - two_to_four_monthly
+    - two_to_three_weekly
+    - four_plus_weekly
+    - prefer_not_to_answer
+  time_outdoors:
+    description: Usual time spent outside per day in activities such as gardening,
+      parks, hiking, cycling, swimming.
+    enum:
+    - lt_1hr_week
+    - 1_to_3hrs_week
+    - 3_to_6hrs_week
+    - 1_to_2hrs_day
+    - 2_to_4hrs_day
+    - gt_4hrs_day
+  screen_time_hours:
+    type: number
+    description: Daily hours spent in front of a screen for leisure activities (TV,
+      computer, tablet, mobile), excluding work.
+  shift_work:
+    description: Frequency of shift work in current or most recent employment.
+    enum:
+    - never_rarely
+    - sometimes
+    - usually
+    - always
+  greenspace_proximity:
+    description: Walking time from home to the nearest green or natural space.
+    enum:
+    - lt_5min
+    - 5_to_9min
+    - 10_to_19min
+    - 20_to_30min
+    - gt_30min
+    - no_green_space
+  social_contact_frequency:
+    description: How often the participant visits friends or family, or has them visit.
+    enum:
+    - daily
+    - 2_to_4_weekly
+    - weekly
+    - monthly
+    - every_few_months
+    - never
+    - no_friends_family_outside_household
+  diet_type:
+    description: General classification of the participant's usual dietary pattern.
+    enum:
+    - omnivore
+    - no_red_meat
+    - flexitarian
+    - vegetarian
+    - pescatarian
+    - vegan
+    - other
+    - prefer_not_to_say
+  diet_healthiness:
+    description: Self-assessed healthiness of diet based on the participant's own
+      understanding of healthy eating.
+    enum:
+    - almost_always_healthy
+    - more_healthy
+    - half_the_time
+    - more_unhealthy
+    - almost_always_unhealthy
+    - prefer_not_to_answer
+  participant_assessment_centres:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

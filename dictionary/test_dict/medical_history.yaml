@@ -81,6 +81,67 @@ properties:
     - unsure
     - not reported
     - not collected
+  diagnosed_conditions:
+    description: Broad condition categories the participant has ever been diagnosed
+      with by a doctor or health professional.
+    enum:
+    - autoimmune
+    - anaemia
+    - cancer
+    - gi_liver
+    - endocrine_metabolic
+    - eye_visual
+    - fractures_bone_joint
+    - heart_cardiovascular
+    - kidney_urinary
+    - lung_respiratory
+    - mental_health
+    - neurodevelopmental
+    - neurological
+    - reproductive
+    - other
+    - none
+    - unknown
+    - prefer_not_to_answer
+  hay_fever:
+    description: Whether the participant reports having hay fever or allergic rhinitis.
+    enum:
+    - 'no'
+    - 'yes'
+    - do_not_know
+  gluten_status:
+    description: Whether the participant has been identified as gluten intolerant
+      or diagnosed with coeliac disease.
+    enum:
+    - 'no'
+    - gluten_intolerant
+    - coeliac
+    - unsure
+  food_allergies:
+    description: Self-reported food allergies. Multiple selections allowed.
+    enum:
+    - none
+    - peanuts
+    - tree_nuts
+    - seafood
+    - dairy
+    - wheat
+    - eggs
+    - soy
+    - other
+  mode_of_birth:
+    description: How the participant was delivered at birth.
+    enum:
+    - vaginal
+    - caesarean
+    - unknown
+  infant_feeding:
+    description: Primary feeding method during infancy.
+    enum:
+    - breastmilk
+    - formula
+    - mixture
+    - unknown
   participant_assessment_centres:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

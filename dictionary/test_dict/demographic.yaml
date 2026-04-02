@@ -66,6 +66,99 @@ properties:
     - Did not finish primary school
     - No schooling
     - Other
+  age:
+    type: number
+    description: Participant's current age in years, calculated from date of birth.
+  sex_at_birth:
+    description: Biological sex recorded at birth.
+    enum:
+    - assigned_female
+    - assigned_male
+    - assigned_intersex
+  country_of_birth:
+    type: string
+    description: Country in which the participant was born. ISO 3166-1 alpha-2 codes.
+  mother_country_of_birth:
+    type: string
+    description: Country in which the participant's biological mother was born.
+  father_country_of_birth:
+    type: string
+    description: Country in which the participant's biological father was born.
+  ancestry:
+    description: Self-reported ancestry (up to two selections).
+    enum:
+    - english
+    - irish
+    - scottish
+    - chinese
+    - italian
+    - german
+    - aboriginal
+    - torres_strait_islander
+    - australian
+    - other_1
+    - other_2
+  education_level:
+    description: Highest level of formal education completed.
+    enum:
+    - postgraduate
+    - honours_grad_dip
+    - bachelor
+    - tafe_diploma
+    - tafe_cert_3_4
+    - tafe_cert_1_2
+    - year_12
+    - year_11
+    - year_9_10
+    - year_7_8
+    - finished_primary
+    - did_not_finish_primary
+    - no_schooling
+    - other
+  relationship_status:
+    description: Current relationship or marital status.
+    enum:
+    - single
+    - married_de_facto
+    - divorced_separated
+    - widowed
+    - partner_not_cohabiting
+    - other
+  residence_type:
+    description: Classification of the participant's current place of residence.
+    enum:
+    - rural_semi_rural
+    - regional_city_town
+    - suburban
+    - urban_fringe
+    - cbd
+  income_adequacy:
+    description: Self-assessed ability to manage on available income.
+    enum:
+    - easily
+    - not_too_bad
+    - difficult_sometimes
+    - difficult_always
+    - impossible
+  employment_status:
+    description: Current employment or occupational situation. Multiple selections
+      allowed.
+    enum:
+    - employed_self_employed
+    - retired
+    - home_family
+    - unable_to_work
+    - unemployed
+    - voluntary_work
+    - student
+    - none_of_above
+  household_size:
+    type: integer
+    description: Total number of people living in the participant's household, including
+      the participant.
+  pet_in_home:
+    type: boolean
+    description: Whether the participant has a pet living in their home.
   subjects:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false
