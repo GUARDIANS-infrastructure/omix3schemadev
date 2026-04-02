@@ -1,0 +1,36 @@
+﻿#,Node,HViC Variable Name,Clean Variable Name,Variable Label,Description,Data Type,Enums
+1,demographics,sd_age,age,Age,"Participant's current age in years, calculated from date of birth.",decimal,
+2,demographics,sd_saab,sex_at_birth,Sex Assigned at Birth,Biological sex recorded at birth.,enum,assigned_female | assigned_male | assigned_intersex
+3,demographics,sd_cob,country_of_birth,Country of Birth,Country in which the participant was born. ISO 3166-1 alpha-2 codes.,enum,"AU | AF | AL | DZ | … (ISO 3166-1 list, ~200 countries)"
+4,demographics,sd_cob_mother,mother_country_of_birth,Mother's Country of Birth,Country in which the participant's biological mother was born.,enum,"AU | AF | AL | DZ | … (ISO 3166-1 list, ~200 countries) | ZZ (Unknown)"
+5,demographics,sd_cob_father,father_country_of_birth,Father's Country of Birth,Country in which the participant's biological father was born.,enum,"AU | AF | AL | DZ | … (ISO 3166-1 list, ~200 countries) | ZZ (Unknown)"
+6,demographics,sd_ancestry,ancestry,Ancestry,Self-reported ancestry (up to two selections).,enum[],english | irish | scottish | chinese | italian | german | aboriginal | torres_strait_islander | australian | other_1 | other_2
+7,demographics,sd_education,education_level,Highest Education Level,Highest level of formal education completed.,enum,postgraduate | honours_grad_dip | bachelor | tafe_diploma | tafe_cert_3_4 | tafe_cert_1_2 | year_12 | year_11 | year_9_10 | year_7_8 | finished_primary | did_not_finish_primary | no_schooling | other
+8,demographics,sd_marital,relationship_status,Relationship Status,Current relationship or marital status.,enum,single | married_de_facto | divorced_separated | widowed | partner_not_cohabiting | other
+9,demographics,sd_residence,residence_type,Residence Type,Classification of the participant's current place of residence.,enum,rural_semi_rural | regional_city_town | suburban | urban_fringe | cbd
+10,demographics,sd_income,income_adequacy,Income Adequacy,Self-assessed ability to manage on available income.,enum,easily | not_too_bad | difficult_sometimes | difficult_always | impossible
+11,demographics,sd_worktype,employment_status,Employment Status,Current employment or occupational situation. Multiple selections allowed.,enum[],employed_self_employed | retired | home_family | unable_to_work | unemployed | voluntary_work | student | none_of_above
+12,demographics,sd_people,household_size,Household Size,"Total number of people living in the participant's household, including the participant.",integer,
+13,demographics,sd_pets,pet_in_home,Pet in Home,Whether the participant has a pet living in their home.,boolean,yes | no
+14,anthropometry,height_avg,height_cm,Height (cm),"Average of three standing height measurements, in centimetres.",decimal,
+15,anthropometry,weight_avg,weight_kg,Weight (kg),"Average of three weight measurements, in kilograms.",decimal,
+16,anthropometry,bmi_v2,bmi,BMI,Body mass index derived from average weight (kg) divided by average height (m) squared.,decimal,
+17,medical_history,hi_your_cond,diagnosed_conditions,Diagnosed Conditions,Broad condition categories the participant has ever been diagnosed with by a doctor or health professional.,enum[],autoimmune | anaemia | cancer | gi_liver | endocrine_metabolic | eye_visual | fractures_bone_joint | heart_cardiovascular | kidney_urinary | lung_respiratory | mental_health | neurodevelopmental | neurological | reproductive | other | none | unknown | prefer_not_to_answer
+18,medical_history,health_hayfever,hay_fever,Hay Fever / Allergies,Whether the participant reports having hay fever or allergic rhinitis.,enum,no | yes | do_not_know
+19,medical_history,health_gluten,gluten_status,Gluten Intolerance / Coeliac,Whether the participant has been identified as gluten intolerant or diagnosed with coeliac disease.,enum,no | gluten_intolerant | coeliac | unsure
+20,medical_history,health_foodallergy,food_allergies,Food Allergies,Self-reported food allergies. Multiple selections allowed.,enum[],none | peanuts | tree_nuts | seafood | dairy | wheat | eggs | soy | other
+21,medical_history,earlylife_birth,mode_of_birth,Mode of Birth,How the participant was delivered at birth.,enum,vaginal | caesarean | unknown
+22,medical_history,earlylife_feeding,infant_feeding,Infant Feeding Method,Primary feeding method during infancy.,enum,breastmilk | formula | mixture | unknown
+23,lifestyle,lifestyle_smoking,smoking_frequency,Tobacco / Smoking Frequency,"Current frequency of use of tobacco or smoking implements (cigarettes, cigars, pipes, hookah, etc.).",enum,never | less_than_monthly | several_times_monthly | weekly | several_times_weekly | daily
+24,lifestyle,lifestyle_vape,vaping_frequency,Vaping Frequency,Current frequency of e-cigarette or vape use.,enum,never | seldom | several_times_monthly | weekly | several_times_weekly | daily
+25,lifestyle,audit_1,alcohol_frequency,Alcohol Frequency,How often the participant consumes a drink containing alcohol (AUDIT question 1).,enum,never | monthly_or_less | two_to_four_monthly | two_to_three_weekly | four_plus_weekly | prefer_not_to_answer
+26,lifestyle,lifestyle_outside,time_outdoors,Daily Time Outdoors,"Usual time spent outside per day in activities such as gardening, parks, hiking, cycling, swimming.",enum,lt_1hr_week | 1_to_3hrs_week | 3_to_6hrs_week | 1_to_2hrs_day | 2_to_4hrs_day | gt_4hrs_day
+27,lifestyle,lifestyle_screen,screen_time_hours,Leisure Screen Time (hrs),"Daily hours spent in front of a screen for leisure activities (TV, computer, tablet, mobile), excluding work.",decimal,0–20 (slider)
+28,lifestyle,sd_workshift,shift_work,Shift Work,Frequency of shift work in current or most recent employment.,enum,never_rarely | sometimes | usually | always
+29,lifestyle,lifestyle_greenspace,greenspace_proximity,Walk Time to Green Space,Walking time from home to the nearest green or natural space.,enum,lt_5min | 5_to_9min | 10_to_19min | 20_to_30min | gt_30min | no_green_space
+30,lifestyle,lifestyle_friends,social_contact_frequency,Social Contact Frequency,"How often the participant visits friends or family, or has them visit.",enum,daily | 2_to_4_weekly | weekly | monthly | every_few_months | never | no_friends_family_outside_household
+31,lifestyle,diet_classify,diet_type,Diet Type,General classification of the participant's usual dietary pattern.,enum,omnivore | no_red_meat | flexitarian | vegetarian | pescatarian | vegan | other | prefer_not_to_say
+32,lifestyle,diet_und_diet,diet_healthiness,Self-Rated Diet Healthiness,Self-assessed healthiness of diet based on the participant's own understanding of healthy eating.,enum,almost_always_healthy | more_healthy | half_the_time | more_unhealthy | almost_always_unhealthy | prefer_not_to_answer
+33,wellbeing,whoqol_1,quality_of_life,Quality of Life,Self-rated overall quality of life (WHOQOL-BREF question 1).,enum,very_poor | poor | neither | good | very_good
+34,wellbeing,sleep_satisfied,sleep_satisfaction,Sleep Satisfaction,Satisfaction with sleep quality (SATED sleep health questionnaire).,enum,rarely_never | sometimes | usually_always
+35,wellbeing,tils_isolated,social_isolation,Feeling Isolated,How often the participant feels isolated from others (Three-Item Loneliness Scale).,enum,hardly_ever | some_of_the_time | often | prefer_not_to_answer

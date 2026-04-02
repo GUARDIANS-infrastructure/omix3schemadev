@@ -1,0 +1,60 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: wellbeing
+title: wellbeing
+type: object
+namespace: https://data.acdc.ozheart.org/
+category: clinical
+program: '*'
+project: '*'
+description: 'Wellbeing and quality of life data for the participant.
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: participant_assessment_centres
+  backref: wellbeings
+  label: part_of
+  target_type: participant_assessment_centre
+  multiplicity: one_to_one
+  required: true
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  quality_of_life:
+    description: Self-rated overall quality of life (WHOQOL-BREF question 1).
+    enum:
+    - Very poor
+    - Poor
+    - Neither poor nor good
+    - Good
+    - Very good
+  sleep_satisfaction:
+    description: Satisfaction with sleep quality (SATED sleep health questionnaire).
+    enum:
+    - Rarely/Never
+    - Sometimes
+    - Usually/Always
+  social_isolation:
+    description: How often the participant feels isolated from others (Three-Item
+      Loneliness Scale).
+    enum:
+    - Hardly ever or never
+    - Some of the time
+    - Often
+    - Prefer not to answer
+  participant_assessment_centres:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

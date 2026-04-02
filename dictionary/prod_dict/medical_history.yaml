@@ -81,6 +81,68 @@ properties:
     - unsure
     - not reported
     - not collected
+  diagnosed_conditions:
+    description: Broad condition categories the participant has ever been diagnosed
+      with by a doctor or health professional.
+    enum:
+    - Autoimmune disorder
+    - Blood disorders (Anaemia)
+    - Cancer
+    - Digestive system or liver problems
+    - Endocrine, nutritional and metabolic disorders (e.g., diabetes, thyroid disorder,
+      vitamin deficiencies)
+    - Eye or visual problems
+    - Fractures, breaks, or joint problems
+    - Heart or circulatory disease (e.g., high blood pressure or stroke)
+    - Kidney or urinary system disorders
+    - Lung or respiratory problems
+    - Mental health conditions (e.g.depression, bipolar disorder)
+    - Neurodevelopmental conditions (e.g., Autism spectrum disorder, ADHD)
+    - Neurological disorders (things that affect that brain or nervous system)
+    - Reproductive health conditions
+    - Other not listed
+    - None of the above
+    - I don't know
+    - Prefer not to answer
+  hay_fever:
+    description: Whether the participant reports having hay fever or allergic rhinitis.
+    enum:
+    - 'No'
+    - 'Yes'
+    - Do not know
+  gluten_status:
+    description: Whether the participant has been identified as gluten intolerant
+      or diagnosed with coeliac disease.
+    enum:
+    - 'No'
+    - Yes, gluten intolerant
+    - Yes, coeliac
+    - Unsure
+  food_allergies:
+    description: Self-reported food allergies. Multiple selections allowed.
+    enum:
+    - I have no food allergies that I know of
+    - Peanuts
+    - Tree nuts
+    - Seafood (fish or shellfish)
+    - Dairy
+    - Wheat
+    - Eggs
+    - Soy
+    - Other
+  mode_of_birth:
+    description: How the participant was delivered at birth.
+    enum:
+    - Vaginal/Natural Birth
+    - Caesarean section
+    - Don't know
+  infant_feeding:
+    description: Primary feeding method during infancy.
+    enum:
+    - Primarily breastmilk
+    - Primarily infant formula
+    - A mixture of breastmilk and formula
+    - Don't know
   participant_assessment_centres:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false
