@@ -34,5 +34,5 @@ links:
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   projects:
-    $ref: _definitions.yaml#/to_one_project
+    $ref: _definitions.yaml#/to_one
 additionalProperties: false

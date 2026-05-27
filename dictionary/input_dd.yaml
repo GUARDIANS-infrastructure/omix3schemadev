@@ -38,24 +38,18 @@ nodes:
   category: clinical
   description: >
     Data for the characterization of the patient by means of segmenting
-    the population (e.g. characterization by age, sex, or race).
+    the population (e.g. characterization by age, sex, or country of birth).
   properties:
     - name: year_birth
       description: "Year of birth at baseline (YYYY)"
       type: integer
-    - name: month_birth
-      description: "Month of birth at baseline (MM)"
-      type: integer
-    - name: sex
-      description: "Sex assigned at birth"
+    - name: sex_at_birth
+      description: "Biological sex recorded at birth."
       type: enum
       enums:
-        - "Male"
-        - "Female"
-        - "Unknown"
-    - name: country_birth
-      description: "Country of birth"
-      type: string
+        - "Assigned female"
+        - "Assigned male"
+        - "Assigned intersex"
     - name: education_highest_level
       description: "The highest level of education attained by the participant"
       type: enum
@@ -77,13 +71,6 @@ nodes:
     - name: age
       description: "Participant's current age in years, calculated from date of birth."
       type: number
-    - name: sex_at_birth
-      description: "Biological sex recorded at birth."
-      type: enum
-      enums:
-        - "Assigned female"
-        - "Assigned male"
-        - "Assigned intersex"
     - name: country_of_birth
       description: "Country in which the participant was born. ISO 3166-1 alpha-2 coded."
       type: enum
@@ -314,21 +301,6 @@ nodes:
         - "YE, Yemen"
         - "ZM, Zambia"
         - "ZW, Zimbabwe"
-    - name: ancestry
-      description: "Self-reported ancestry (up to two selections)."
-      type: enum
-      enums:
-        - "English"
-        - "Irish"
-        - "Scottish"
-        - "Chinese"
-        - "Italian"
-        - "German"
-        - "Aboriginal"
-        - "Torres Strait Islander"
-        - "Australian"
-        - "Other 1"
-        - "Other 2"
     - name: education_level
       description: "Highest level of formal education completed."
       type: enum
@@ -366,15 +338,6 @@ nodes:
         - "Suburban"
         - "Urban fringe"
         - "Central business district"
-    - name: income_adequacy
-      description: "Self-assessed ability to manage on available income."
-      type: enum
-      enums:
-        - "Easily"
-        - "Not too bad"
-        - "Difficult some of the time"
-        - "Difficult all of the time"
-        - "Impossible"
     - name: employment_status
       description: "Current employment or occupational situation. Multiple selections allowed."
       type: enum
@@ -387,15 +350,13 @@ nodes:
         - "Doing unpaid or voluntary work"
         - "Full or part-time student"
         - "None of the above"
-    - name: household_size
-      description: "Total number of people living in the household including the participant."
-      type: integer
     - name: pet_in_home
       description: "Whether the participant has a pet living in their home."
       type: enum
       enums:
-        - "No"
         - "Yes"
+        - "No"
+
 
 - name: participant_assessment_centre
   category: clinical
@@ -413,7 +374,7 @@ nodes:
     - name: assessment_centre_version
       description: "Version of the assessment protocol used at the assessment centre"
       type: string
-- name: anthropometry
+- name: anthropometric_measurements
   category: clinical
   description: >
     Physical measurements taken for the participant at baseline.
@@ -427,7 +388,7 @@ nodes:
     - name: bmi
       description: "Body mass index (BMI) of the participant calculated as weight (kg) / height (m)^2"
       type: number
-- name: cardiovascular
+- name: cardiovascular_measurements
   category: clinical
   description: >
     Cardiovascular measurements taken for the participant at baseline.
@@ -438,7 +399,7 @@ nodes:
     - name: diastolic_bp
       description: "Diastolic blood pressure of the participant in mmHg"
       type: number
-- name: wearable
+- name: wearable_measurements
   category: clinical
   description: >
     Wearable measurements obtained from a Fitbit device taken for the participant at baseline.
@@ -454,98 +415,42 @@ nodes:
   description: >
     Medical history of the participant
   properties:
-    - name: diabetes_type
-      description: "Diabetes diagnosed by fasting blood glucose >=7 mmol/l or tx AHA or 2 hour blood glucose >=11.1 mmol/l."
-      type: enum
-      enums:
-        - "IGT"
-        - "KDM"
-        - "IFG"
-        - "NDM"
-        - "NGT"
     - name: hypertension
-      description: "Whether the participant has Hypertension"
+      description: "Self-reported hypertension in the participant."
       type: enum
       enums:
-        - "yes, measured or on treatment"
-        - "yes, self-reported"
-        - "no"
-        - "not reported"
-        - "not collected"
-    - name: hypertension_measurement_type
-      description: "Whether the hypertension was measured at recruitment/patients on hypertension treatment or self-reported medical diagnosis"
-      type: enum
-      enums:
-        - "self-reported"
-        - "measured"
-    - name: diabetes
-      description: "Self-reported diabetes in the participant"
-      type: enum
-      enums:
-        - "yes"
-        - "no"
-        - "unsure"
-        - "not reported"
-        - "not collected"
-    - name: cancer
-      description: "Self-reported cancer in the participant"
-      type: enum
-      enums:
-        - "yes"
-        - "no"
-        - "unsure"
-        - "not reported"
-        - "not collected"
-    - name: diagnosed_conditions
-      description: "Broad condition categories the participant has ever been diagnosed with by a doctor or health professional."
-      type: enum
-      enums:
-        - "Autoimmune disorder"
-        - "Blood disorders (Anaemia)"
-        - "Cancer"
-        - "Digestive system or liver problems"
-        - "Endocrine, nutritional and metabolic disorders (e.g., diabetes, thyroid disorder, vitamin deficiencies)"
-        - "Eye or visual problems"
-        - "Fractures, breaks, or joint problems"
-        - "Heart or circulatory disease (e.g., high blood pressure or stroke)"
-        - "Kidney or urinary system disorders"
-        - "Lung or respiratory problems"
-        - "Mental health conditions (e.g.depression, bipolar disorder)"
-        - "Neurodevelopmental conditions (e.g., Autism spectrum disorder, ADHD)"
-        - "Neurological disorders (things that affect that brain or nervous system)"
-        - "Reproductive health conditions"
-        - "Other not listed"
-        - "None of the above"
-        - "I don't know"
-        - "Prefer not to answer"
-    - name: hay_fever
-      description: "Whether the participant reports having hay fever or allergic rhinitis."
-      type: enum
-      enums:
-        - "No"
         - "Yes"
-        - "Do not know"
-    - name: gluten_status
-      description: "Whether the participant has been identified as gluten intolerant or diagnosed with coeliac disease."
-      type: enum
-      enums:
         - "No"
-        - "Yes, gluten intolerant"
-        - "Yes, coeliac"
-        - "Unsure"
-    - name: food_allergies
-      description: "Self-reported food allergies. Multiple selections allowed."
+    - name: diabetes
+      description: "Self-reported diabetes in the participant."
       type: enum
       enums:
-        - "I have no food allergies that I know of"
-        - "Peanuts"
-        - "Tree nuts"
-        - "Seafood (fish or shellfish)"
-        - "Dairy"
-        - "Wheat"
-        - "Eggs"
-        - "Soy"
-        - "Other"
+        - "Yes"
+        - "No"
+    - name: cancer
+      description: "Self-reported cancer in the participant."
+      type: enum
+      enums:
+        - "Yes"
+        - "No"
+    - name: hay_fever
+      description: "Self-reported hay fever or allergic rhinitis in the participant."
+      type: enum
+      enums:
+        - "Yes"
+        - "No"
+    - name: coeliac_disease
+      description: "Self-reported coeliac disease in the participant."
+      type: enum
+      enums:
+        - "Yes"
+        - "No"
+    - name: depression
+      description: "Self-reported depression in the participant."
+      type: enum
+      enums:
+        - "Yes"
+        - "No"
     - name: mode_of_birth
       description: "How the participant was delivered at birth."
       type: enum
@@ -561,11 +466,24 @@ nodes:
         - "Primarily infant formula"
         - "A mixture of breastmilk and formula"
         - "Don't know"
-- name: lifestyle
+- name: behavioural_measures
   category: clinical
   description: >
-    Lifestyle and behavioural data for the participant.
+    Behavioural data for the participant.
   properties:
+    - name: ipaq_sf_total_score
+      description: "Total physical activity score calculated from the International Physical Activity Questionnaire Short Form (IPAQ-SF)."
+      type: integer
+    - name: ipaq_sf_category
+      description: "Physical activity category calculated from the International Physical Activity Questionnaire Short Form (IPAQ-SF)."
+      type: enum
+      enums:
+        - "Low"
+        - "Moderate"
+        - "High"
+    - name: ru_sated_total_score
+      description: "Total sleep health score calculated from the 6-item RU-SATED sleep health questionnaire."
+      type: integer
     - name: smoking_frequency
       description: "Current frequency of use of tobacco or smoking implements (cigarettes, cigars, pipes, hookah, etc.)."
       type: enum
@@ -617,16 +535,6 @@ nodes:
         - "Sometimes"
         - "Usually"
         - "Always"
-    - name: greenspace_proximity
-      description: "Walking time from home to the nearest green or natural space."
-      type: enum
-      enums:
-        - "Fewer than 5 minutes"
-        - "5-9 minutes"
-        - "10-19 minutes"
-        - "20-30 minutes"
-        - "More than 30 minutes"
-        - "No green space/too far to walk"
     - name: social_contact_frequency
       description: "How often the participant visits friends or family or has them visit."
       type: enum
@@ -660,35 +568,50 @@ nodes:
         - "Unhealthy more often than healthy"
         - "Almost always unhealthy"
         - "Prefer not to answer"
-- name: wellbeing
+- name: environmental_measurements
   category: clinical
   description: >
-    Wellbeing and quality of life data for the participant.
+    Environmental exposure measurements taken for the participant at baseline.
   properties:
-    - name: quality_of_life
-      description: "Self-rated overall quality of life (WHOQOL-BREF question 1)."
+    - name: greenspace_proximity
+      description: "Walking time from home to the nearest green or natural space."
       type: enum
       enums:
-        - "Very poor"
-        - "Poor"
-        - "Neither poor nor good"
-        - "Good"
-        - "Very good"
-    - name: sleep_satisfaction
-      description: "Satisfaction with sleep quality (SATED sleep health questionnaire)."
+        - "Fewer than 5 minutes"
+        - "5-9 minutes"
+        - "10-19 minutes"
+        - "20-30 minutes"
+        - "More than 30 minutes"
+        - "No green space/too far to walk"
+    - name: household_size
+      description: "Total number of people living in the household including the participant."
+      type: integer
+- name: psychosocial_measurements
+  category: clinical
+  description: >
+    Psychosocial measurements taken for the participant at baseline.
+  properties:
+    - name: phq9_total_score
+      description: "Total score calculated from the Patient Health Questionnaire-9 (PHQ-9) depression scale."
+      type: integer
+    - name: pss_total_score
+      description: "Total score calculated from the Perceived Stress Scale (PSS-10)."
+      type: integer
+    - name: asrs_total_score
+      description: "Total score calculated from the Adult ADHD Self-Report Scale (ASRS-5) symptom checklist."
+      type: integer
+    - name: gad7_total_score
+      description: "Total score calculated from the Generalized Anxiety Disorder 7-item (GAD-7) scale."
+      type: integer
+    - name: gad7_category
+      description: "Anxiety severity category calculated from the Generalized Anxiety Disorder 7-item (GAD-7) scale."
       type: enum
       enums:
-        - "Rarely/Never"
-        - "Sometimes"
-        - "Usually/Always"
-    - name: social_isolation
-      description: "How often the participant feels isolated from others (Three-Item Loneliness Scale)."
-      type: enum
-      enums:
-        - "Hardly ever or never"
-        - "Some of the time"
-        - "Often"
-        - "Prefer not to answer"
+        - "Minimal anxiety"
+        - "Mild anxiety"
+        - "Moderate anxiety"
+        - "Severe anxiety"
+
 ##### Biospecimen nodes
 - name: sample
   category: biospecimen
@@ -1152,15 +1075,15 @@ links:
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one
-  child: anthropometry
+  child: anthropometric_measurements
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one
-  child: wearable
+  child: wearable_measurements
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one
-  child: cardiovascular
+  child: cardiovascular_measurements
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one
@@ -1168,11 +1091,11 @@ links:
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one
-  child: lifestyle
+  child: behavioural_measurements
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one
-  child: wellbeing
+  child: psychosocial_measurements
 
 - parent: participant_assessment_centre
   multiplicity: one_to_many
