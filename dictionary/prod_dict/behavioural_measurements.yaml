@@ -1,6 +1,6 @@
 $schema: http://json-schema.org/draft-04/schema#
-id: behavioural_measures
-title: behavioural_measures
+id: behavioural_measurements
+title: behavioural_measurements
 type: object
 namespace: https://data.acdc.ozheart.org/
 category: clinical
@@ -24,7 +24,13 @@ uniqueKeys:
 required:
 - submitter_id
 - type
-links: []
+links:
+- name: participant_assessment_centres
+  backref: behavioural_measurementss
+  label: part_of
+  target_type: participant_assessment_centre
+  multiplicity: one_to_one
+  required: true
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   ipaq_sf_total_score:
@@ -123,4 +129,6 @@ properties:
     - Unhealthy more often than healthy
     - Almost always unhealthy
     - Prefer not to answer
+  participant_assessment_centres:
+    $ref: _definitions.yaml#/to_one
 additionalProperties: false

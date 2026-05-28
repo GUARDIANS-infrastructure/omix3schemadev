@@ -1,4 +1,4 @@
-version: 0.1.2
+version: 1.2.1
 url: https://data.acdc.ozheart.org
 
 ####################################
@@ -466,7 +466,7 @@ nodes:
         - "Primarily infant formula"
         - "A mixture of breastmilk and formula"
         - "Don't know"
-- name: behavioural_measures
+- name: behavioural_measurements
   category: clinical
   description: >
     Behavioural data for the participant.
@@ -1087,11 +1087,11 @@ links:
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one
-  child: medical_history
+  child: behavioural_measurements
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one
-  child: behavioural_measurements
+  child: environmental_measurements
 
 - parent: participant_assessment_centre
   multiplicity: one_to_one

@@ -1,12 +1,12 @@
 $schema: http://json-schema.org/draft-04/schema#
-id: lifestyle
-title: lifestyle
+id: behavioural_measurements
+title: behavioural_measurements
 type: object
 namespace: https://data.acdc.ozheart.org/
 category: clinical
 program: '*'
 project: '*'
-description: 'Lifestyle and behavioural data for the participant.
+description: 'Behavioural data for the participant.
 
   '
 submittable: true
@@ -26,13 +26,28 @@ required:
 - type
 links:
 - name: participant_assessment_centres
-  backref: lifestyles
+  backref: behavioural_measurementss
   label: part_of
   target_type: participant_assessment_centre
   multiplicity: one_to_one
   required: true
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
+  ipaq_sf_total_score:
+    type: integer
+    description: Total physical activity score calculated from the International Physical
+      Activity Questionnaire Short Form (IPAQ-SF).
+  ipaq_sf_category:
+    description: Physical activity category calculated from the International Physical
+      Activity Questionnaire Short Form (IPAQ-SF).
+    enum:
+    - Low
+    - Moderate
+    - High
+  ru_sated_total_score:
+    type: integer
+    description: Total sleep health score calculated from the 6-item RU-SATED sleep
+      health questionnaire.
   smoking_frequency:
     description: Current frequency of use of tobacco or smoking implements (cigarettes,
       cigars, pipes, hookah, etc.).
@@ -83,15 +98,6 @@ properties:
     - Sometimes
     - Usually
     - Always
-  greenspace_proximity:
-    description: Walking time from home to the nearest green or natural space.
-    enum:
-    - Fewer than 5 minutes
-    - 5-9 minutes
-    - 10-19 minutes
-    - 20-30 minutes
-    - More than 30 minutes
-    - No green space/too far to walk
   social_contact_frequency:
     description: How often the participant visits friends or family or has them visit.
     enum:

@@ -1,13 +1,12 @@
 $schema: http://json-schema.org/draft-04/schema#
-id: wearable
-title: wearable
+id: cardiovascular_measurements
+title: cardiovascular_measurements
 type: object
 namespace: https://data.acdc.ozheart.org/
 category: clinical
 program: '*'
 project: '*'
-description: 'Wearable measurements obtained from a Fitbit device taken for the participant
-  at baseline.
+description: 'Cardiovascular measurements taken for the participant at baseline.
 
   '
 submittable: true
@@ -27,19 +26,19 @@ required:
 - type
 links:
 - name: participant_assessment_centres
-  backref: wearables
+  backref: cardiovascular_measurementss
   label: part_of
   target_type: participant_assessment_centre
   multiplicity: one_to_one
   required: true
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
-  avg_heart_rate:
+  systolic_bp:
     type: number
-    description: Average heart rate of the participant in beats per minute
-  avg_step_count:
+    description: Systolic blood pressure of the participant in mmHg
+  diastolic_bp:
     type: number
-    description: Average daily step count of the participant
+    description: Diastolic blood pressure of the participant in mmHg
   participant_assessment_centres:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

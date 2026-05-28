@@ -1,6 +1,6 @@
 $schema: http://json-schema.org/draft-04/schema#
-id: wearable
-title: wearable
+id: wearable_measurements
+title: wearable_measurements
 type: object
 namespace: https://data.acdc.ozheart.org/
 category: clinical
@@ -27,7 +27,7 @@ required:
 - type
 links:
 - name: participant_assessment_centres
-  backref: wearables
+  backref: wearable_measurementss
   label: part_of
   target_type: participant_assessment_centre
   multiplicity: one_to_one

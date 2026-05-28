@@ -1,6 +1,6 @@
 $schema: http://json-schema.org/draft-04/schema#
-id: anthropometry
-title: anthropometry
+id: anthropometric_measurements
+title: anthropometric_measurements
 type: object
 namespace: https://data.acdc.ozheart.org/
 category: clinical
@@ -26,7 +26,7 @@ required:
 - type
 links:
 - name: participant_assessment_centres
-  backref: anthropometrys
+  backref: anthropometric_measurementss
   label: part_of
   target_type: participant_assessment_centre
   multiplicity: one_to_one

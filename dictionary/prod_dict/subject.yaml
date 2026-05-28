@@ -46,5 +46,5 @@ properties:
     type: string
     description: Identifier for the cohort the subject is a part of
   projects:
-    $ref: _definitions.yaml#/to_one_project
+    $ref: _definitions.yaml#/to_one
 additionalProperties: false

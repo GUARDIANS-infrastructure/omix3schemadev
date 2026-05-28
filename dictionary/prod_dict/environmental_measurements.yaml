@@ -1,12 +1,12 @@
 $schema: http://json-schema.org/draft-04/schema#
-id: anthropometry
-title: anthropometry
+id: environmental_measurements
+title: environmental_measurements
 type: object
 namespace: https://data.acdc.ozheart.org/
 category: clinical
 program: '*'
 project: '*'
-description: 'Physical measurements taken for the participant at baseline.
+description: 'Environmental exposure measurements taken for the participant at baseline.
 
   '
 submittable: true
@@ -26,23 +26,25 @@ required:
 - type
 links:
 - name: participant_assessment_centres
-  backref: anthropometrys
+  backref: environmental_measurementss
   label: part_of
   target_type: participant_assessment_centre
   multiplicity: one_to_one
   required: true
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
-  height:
-    type: number
-    description: Height of the participant in centimeters
-  weight:
-    type: number
-    description: Weight of the participant in kilograms
-  bmi:
-    type: number
-    description: Body mass index (BMI) of the participant calculated as weight (kg)
-      / height (m)^2
+  greenspace_proximity:
+    description: Walking time from home to the nearest green or natural space.
+    enum:
+    - Fewer than 5 minutes
+    - 5-9 minutes
+    - 10-19 minutes
+    - 20-30 minutes
+    - More than 30 minutes
+    - No green space/too far to walk
+  household_size:
+    type: integer
+    description: Total number of people living in the household including the participant.
   participant_assessment_centres:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

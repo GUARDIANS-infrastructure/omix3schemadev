@@ -25,21 +25,12 @@ required:
 - submitter_id
 - type
 links:
-- exclusive: false
+- name: participant_assessment_centres
+  backref: medical_historys
+  label: part_of
+  target_type: participant_assessment_centre
+  multiplicity: one_to_one
   required: true
-  subgroup:
-  - name: participant_assessment_centres
-    backref: medical_historys
-    label: part_of
-    target_type: participant_assessment_centre
-    multiplicity: one_to_one
-    required: true
-  - name: participant_assessment_centres
-    backref: medical_historys
-    label: part_of
-    target_type: participant_assessment_centre
-    multiplicity: one_to_one
-    required: true
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   hypertension:
