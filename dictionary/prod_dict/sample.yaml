@@ -2,7 +2,7 @@ $schema: http://json-schema.org/draft-04/schema#
 id: sample
 title: sample
 type: object
-namespace: https://data.acdc.ozheart.org/
+namespace: https://omix3.test.biocommons.org.au/
 category: biospecimen
 program: '*'
 project: '*'
@@ -26,12 +26,21 @@ required:
 - submitter_id
 - type
 links:
-- name: subjects
-  backref: samples
-  label: part_of
-  target_type: subject
-  multiplicity: many_to_one
+- exclusive: false
   required: true
+  subgroup:
+  - name: subjects
+    backref: samples
+    label: part_of
+    target_type: subject
+    multiplicity: many_to_one
+    required: true
+  - name: sites
+    backref: samples
+    label: part_of
+    target_type: site
+    multiplicity: many_to_one
+    required: true
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   sample_id:
@@ -61,5 +70,7 @@ properties:
     type: string
     description: The date of sample collection (YYYY-MM-DD)
   subjects:
+    $ref: _definitions.yaml#/to_one
+  sites:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

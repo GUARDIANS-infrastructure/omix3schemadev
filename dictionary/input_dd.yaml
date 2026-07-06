@@ -1,5 +1,5 @@
-version: 1.2.1
-url: https://data.acdc.ozheart.org
+version: 1.3.0
+url: https://omix3.test.biocommons.org.au/
 
 ####################################
 # Nodes
@@ -33,13 +33,6 @@ nodes:
     - name: cohort_id
       description: "Identifier for the cohort the subject is a part of"
       type: string
-
-- name: demographic
-  category: clinical
-  description: >
-    Data for the characterization of the patient by means of segmenting
-    the population (e.g. characterization by age, sex, or country of birth).
-  properties:
     - name: year_birth
       description: "Year of birth at baseline (YYYY)"
       type: integer
@@ -50,6 +43,68 @@ nodes:
         - "Assigned female"
         - "Assigned male"
         - "Assigned intersex"
+
+
+- name: site
+  category: clinical
+  description: >
+    The site where the participant was assessed and/or where the biospecimen was collected/analysed.
+  properties:
+    - name: site_name
+      description: "Name of the site"
+      type: enum
+      enums:
+        - "Px4 Health Participant Assessment Centre"
+        - "Px4 Health Multi-omics Platform"
+        - "Australian Genome Research Facility"
+        - "Murdoch Children's Research Institute"
+        - "Other"
+    - name: site_location
+      description: "Geographical location of the site"
+      type: string
+    - name: site_protocol_version
+      description: "Version of the process protocol used at the site"
+      type: string
+    - name: site_purpose
+      description: "Purpose of the site"
+      type: enum
+      enums:
+        - "Participant assessment"
+        - "Biospecimen collection"
+        - "Biospecimen analysis"
+- name: anthropometric_measurements
+  category: clinical
+  description: >
+    Physical measurements taken for the participant at baseline.
+  properties:
+    - name: height
+      description: "Height of the participant in centimeters"
+      type: number
+    - name: weight
+      description: "Weight of the participant in kilograms"
+      type: number
+    - name: bmi
+      description: "Body mass index (BMI) of the participant calculated as weight (kg) / height (m)^2"
+      type: number
+- name: cardiovascular_measurements
+  category: clinical
+  description: >
+    Cardiovascular measurements taken for the participant at baseline.
+  properties:
+    - name: systolic_bp
+      description: "Systolic blood pressure of the participant in mmHg"
+      type: number
+    - name: diastolic_bp
+      description: "Diastolic blood pressure of the participant in mmHg"
+      type: number
+- name: demographic_measurements
+  category: clinical
+  description: >
+    Demographic measurements taken for the participant at baseline.
+  properties:
+    - name: age
+      description: "Participant's current age in years, calculated from date of birth."
+      type: number
     - name: education_highest_level
       description: "The highest level of education attained by the participant"
       type: enum
@@ -68,9 +123,6 @@ nodes:
         - Did not finish primary school
         - No schooling
         - Other
-    - name: age
-      description: "Participant's current age in years, calculated from date of birth."
-      type: number
     - name: country_of_birth
       description: "Country in which the participant was born. ISO 3166-1 alpha-2 coded."
       type: enum
@@ -356,49 +408,6 @@ nodes:
       enums:
         - "Yes"
         - "No"
-
-
-- name: participant_assessment_centre
-  category: clinical
-  description: >
-    The assessment centre where the participant attended at baseline.
-  properties:
-    - name: assessment_centre_name
-      description: "Name of the assessment centre"
-      type: enum
-      enums:
-        - "Px4 Health Participant Assessment Centre"
-    - name: assessment_centre_location
-      description: "Location of the assessment centre"
-      type: string
-    - name: assessment_centre_version
-      description: "Version of the assessment protocol used at the assessment centre"
-      type: string
-- name: anthropometric_measurements
-  category: clinical
-  description: >
-    Physical measurements taken for the participant at baseline.
-  properties:
-    - name: height
-      description: "Height of the participant in centimeters"
-      type: number
-    - name: weight
-      description: "Weight of the participant in kilograms"
-      type: number
-    - name: bmi
-      description: "Body mass index (BMI) of the participant calculated as weight (kg) / height (m)^2"
-      type: number
-- name: cardiovascular_measurements
-  category: clinical
-  description: >
-    Cardiovascular measurements taken for the participant at baseline.
-  properties:
-    - name: systolic_bp
-      description: "Systolic blood pressure of the participant in mmHg"
-      type: number
-    - name: diastolic_bp
-      description: "Diastolic blood pressure of the participant in mmHg"
-      type: number
 - name: wearable_measurements
   category: clinical
   description: >
@@ -807,8 +816,8 @@ nodes:
       description: "Broad categorization of the contents of the data file."
       type: enum
       enums:
-        - "mass spec raw"
-        - "mass spec processed"
+        - "raw data"
+        - "processed data"
         - "summarised results"
         - "quality control"
     - name: data_type
@@ -831,12 +840,6 @@ nodes:
     - name: facility_run_date
       description: "The date the batch was analysed (YYYY-MM-DD)"
       type: string
-    - name: data_processing_app
-      description: "Application/software used to pre-process the data"
-      type: enum
-      enums:
-        - "DIA-NN"
-        - "Skyline"
 
 - name: aligned_reads_file
   category: data_file
@@ -855,8 +858,8 @@ nodes:
       description: "Broad categorization of the contents of the data file."
       type: enum
       enums:
-        - "mass spec raw"
-        - "mass spec processed"
+        - "raw data"
+        - "processed data"
         - "summarised results"
         - "quality control"
     - name: data_type
@@ -879,12 +882,6 @@ nodes:
     - name: facility_run_date
       description: "The date the batch was analysed (YYYY-MM-DD)"
       type: string
-    - name: data_processing_app
-      description: "Application/software used to pre-process the data"
-      type: enum
-      enums:
-        - "DIA-NN"
-        - "Skyline"
 
 - name: lipidomics_file
   category: data_file
@@ -931,8 +928,8 @@ nodes:
       description: "Application/software used to pre-process the data"
       type: enum
       enums:
-        - "DIA-NN"
         - "Skyline"
+        - "Other"
 
 - name: proteomics_file
   category: data_file
@@ -980,7 +977,7 @@ nodes:
       type: enum
       enums:
         - "DIA-NN"
-        - "Skyline"
+        - "Other"
 
 - name: metabolomics_file
   category: data_file
@@ -1027,15 +1024,21 @@ nodes:
       description: "Application/software used to pre-process the data"
       type: enum
       enums:
-        - "DIA-NN"
         - "Skyline"
+        - "Other"
 
-- name: alignment_workflow
+- name_workflow
   category: analysis
   description: >
     Metadata for the alignment pipeline used to align reads during
-    genomic harmonisation
-
+    genomic analysis. This includes the software and version used, as well as the parameters used for alignment.
+  properties:
+    - name: software_name
+      description: "Name of the software used for alignment"
+      type: string
+    - name: software_version
+      description: "Version of the software used for alignment"
+      type: string
 
 ####################################
 # Links
@@ -1059,47 +1062,87 @@ links:
 
 - parent: subject
   multiplicity: one_to_one
-  child: demographic
+  child: site
 
 - parent: subject
   multiplicity: one_to_many
   child: sample
 
-- parent: subject
-  multiplicity: one_to_one
-  child: participant_assessment_centre
-
-- parent: participant_assessment_centre
+- parent: site
   multiplicity: one_to_one
   child: medical_history
 
-- parent: participant_assessment_centre
+- parent: site
   multiplicity: one_to_one
   child: anthropometric_measurements
 
-- parent: participant_assessment_centre
+- parent: subject
+  multiplicity: one_to_one
+  child: demographic_measurements
+
+- parent: site
   multiplicity: one_to_one
   child: wearable_measurements
 
-- parent: participant_assessment_centre
+- parent: site
   multiplicity: one_to_one
   child: cardiovascular_measurements
 
-- parent: participant_assessment_centre
+- parent: site
   multiplicity: one_to_one
   child: behavioural_measurements
 
-- parent: participant_assessment_centre
+- parent: site
   multiplicity: one_to_one
   child: environmental_measurements
 
-- parent: participant_assessment_centre
+- parent: site
   multiplicity: one_to_one
   child: psychosocial_measurements
 
-- parent: participant_assessment_centre
+- parent: site
+  multiplicity: one_to_many
+  child: sample
+
+- parent: site
   multiplicity: one_to_many
   child: phenomics_data_file
+
+- parent: site
+  multiplicity: one_to_many
+  child: genomics_assay
+
+- parent: site
+  multiplicity: one_to_many
+  child: lipidomics_assay
+
+- parent: site
+  multiplicity: one_to_many
+  child: proteomics_assay
+
+- parent: site
+  multiplicity: one_to_many
+  child: metabolomics_assay
+
+- parent: site
+  multiplicity: one_to_many
+  child: unaligned_reads_file
+
+- parent: site
+  multiplicity: one_to_many
+  child: lipidomics_file
+
+- parent: site
+  multiplicity: one_to_many
+  child: proteomics_file
+
+- parent: site
+  multiplicity: one_to_many
+  child: metabolomics_file
+
+- parent: site
+  multiplicity: one_to_many
+  child: aligned_reads_file
 
 - parent: sample
   multiplicity: many_to_one

@@ -2,7 +2,7 @@ $schema: http://json-schema.org/draft-04/schema#
 id: wearable_measurements
 title: wearable_measurements
 type: object
-namespace: https://data.acdc.ozheart.org/
+namespace: https://omix3.test.biocommons.org.au/
 category: clinical
 program: '*'
 project: '*'
@@ -26,12 +26,12 @@ required:
 - submitter_id
 - type
 links:
-- name: participant_assessment_centres
+- name: sites
   backref: wearable_measurementss
   label: part_of
-  target_type: participant_assessment_centre
+  target_type: site
   multiplicity: one_to_one
-  required: true
+  required: false
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   avg_heart_rate:
@@ -40,6 +40,6 @@ properties:
   avg_step_count:
     type: number
     description: Average daily step count of the participant
-  participant_assessment_centres:
+  sites:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false

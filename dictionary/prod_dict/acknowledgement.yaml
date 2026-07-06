@@ -2,7 +2,7 @@ $schema: http://json-schema.org/draft-04/schema#
 id: acknowledgement
 title: acknowledgement
 type: object
-namespace: https://data.acdc.ozheart.org/
+namespace: https://omix3.test.biocommons.org.au/
 category: administrative
 program: '*'
 project: '*'

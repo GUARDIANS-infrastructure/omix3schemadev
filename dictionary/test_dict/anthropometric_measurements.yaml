@@ -2,7 +2,7 @@ $schema: http://json-schema.org/draft-04/schema#
 id: anthropometric_measurements
 title: anthropometric_measurements
 type: object
-namespace: https://data.acdc.ozheart.org/
+namespace: https://omix3.test.biocommons.org.au/
 category: clinical
 program: '*'
 project: '*'
@@ -25,12 +25,12 @@ required:
 - submitter_id
 - type
 links:
-- name: participant_assessment_centres
+- name: sites
   backref: anthropometric_measurementss
   label: part_of
-  target_type: participant_assessment_centre
+  target_type: site
   multiplicity: one_to_one
-  required: true
+  required: false
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   height:
@@ -43,6 +43,6 @@ properties:
     type: number
     description: Body mass index (BMI) of the participant calculated as weight (kg)
       / height (m)^2
-  participant_assessment_centres:
+  sites:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false
