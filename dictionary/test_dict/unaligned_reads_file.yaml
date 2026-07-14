@@ -2,7 +2,7 @@ $schema: http://json-schema.org/draft-04/schema#
 id: unaligned_reads_file
 title: unaligned_reads_file
 type: object
-namespace: https://data.acdc.ozheart.org/
+namespace: https://omix3.test.biocommons.org.au/
 category: data_file
 program: '*'
 project: '*'
@@ -28,6 +28,12 @@ links:
 - exclusive: false
   required: true
   subgroup:
+  - name: sites
+    backref: unaligned_reads_files
+    label: part_of
+    target_type: site
+    multiplicity: many_to_one
+    required: true
   - name: genomics_assays
     backref: unaligned_reads_files
     label: part_of
@@ -45,21 +51,24 @@ properties:
   data_format:
     description: The format of the data in this data file
     enum:
-    - data_format_1
-    - data_format_2
-    - data_format_3
+    - csv
+    - tsv
+    - xls
+    - xlsx
   data_category:
     description: Broad categorization of the contents of the data file.
     enum:
-    - data_category_1
-    - data_category_2
-    - data_category_3
+    - raw data
+    - processed data
+    - summarised results
+    - quality control
   data_type:
     description: The type of data in this data file
     enum:
-    - data_type_1
-    - data_type_2
-    - data_type_3
+    - csv
+    - tsv
+    - xls
+    - xlsx
   cv:
     type: number
     description: Coefficient of variation (%)
@@ -73,11 +82,8 @@ properties:
   facility_run_date:
     type: string
     description: The date the batch was analysed (YYYY-MM-DD)
-  data_processing_app:
-    description: Application/software used to pre-process the data
-    enum:
-    - DIA-NN
-    - Skyline
+  sites:
+    $ref: _definitions.yaml#/to_one
   genomics_assays:
     $ref: _definitions.yaml#/to_one
   core_metadata_collections:

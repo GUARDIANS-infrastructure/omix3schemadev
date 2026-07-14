@@ -1,0 +1,61 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: psychosocial_measurements
+title: psychosocial_measurements
+type: object
+namespace: https://omix3.test.biocommons.org.au/
+category: clinical
+program: '*'
+project: '*'
+description: 'Psychosocial measurements taken for the participant at baseline.
+
+  '
+submittable: true
+validators: null
+systemProperties:
+- id
+- project_id
+- state
+- created_datetime
+- updated_datetime
+uniqueKeys:
+- - id
+- - project_id
+  - submitter_id
+required:
+- submitter_id
+- type
+links:
+- name: sites
+  backref: psychosocial_measurementss
+  label: part_of
+  target_type: site
+  multiplicity: one_to_one
+  required: false
+properties:
+  $ref: _definitions.yaml#/ubiquitous_properties
+  phq9_total_score:
+    type: integer
+    description: Total score calculated from the Patient Health Questionnaire-9 (PHQ-9)
+      depression scale.
+  pss_total_score:
+    type: integer
+    description: Total score calculated from the Perceived Stress Scale (PSS-10).
+  asrs_total_score:
+    type: integer
+    description: Total score calculated from the Adult ADHD Self-Report Scale (ASRS-5)
+      symptom checklist.
+  gad7_total_score:
+    type: integer
+    description: Total score calculated from the Generalized Anxiety Disorder 7-item
+      (GAD-7) scale.
+  gad7_category:
+    description: Anxiety severity category calculated from the Generalized Anxiety
+      Disorder 7-item (GAD-7) scale.
+    enum:
+    - Minimal anxiety
+    - Mild anxiety
+    - Moderate anxiety
+    - Severe anxiety
+  sites:
+    $ref: _definitions.yaml#/to_one
+additionalProperties: false

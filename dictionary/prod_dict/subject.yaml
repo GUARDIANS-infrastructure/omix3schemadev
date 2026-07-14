@@ -2,7 +2,7 @@ $schema: http://json-schema.org/draft-04/schema#
 id: subject
 title: subject
 type: object
-namespace: https://data.acdc.ozheart.org/
+namespace: https://omix3.test.biocommons.org.au/
 category: clinical
 program: '*'
 project: '*'
@@ -45,6 +45,15 @@ properties:
   cohort_id:
     type: string
     description: Identifier for the cohort the subject is a part of
+  year_birth:
+    type: integer
+    description: Year of birth at baseline (YYYY)
+  sex_at_birth:
+    description: Biological sex recorded at birth.
+    enum:
+    - Assigned female
+    - Assigned male
+    - Assigned intersex
   projects:
-    $ref: _definitions.yaml#/to_one_project
+    $ref: _definitions.yaml#/to_one
 additionalProperties: false

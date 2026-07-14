@@ -2,7 +2,7 @@ $schema: http://json-schema.org/draft-04/schema#
 id: lipidomics_assay
 title: lipidomics_assay
 type: object
-namespace: https://data.acdc.ozheart.org/
+namespace: https://omix3.test.biocommons.org.au/
 category: experimental_methods
 program: '*'
 project: '*'
@@ -25,12 +25,21 @@ required:
 - submitter_id
 - type
 links:
-- name: samples
-  backref: lipidomics_assays
-  label: part_of
-  target_type: sample
-  multiplicity: one_to_many
+- exclusive: false
   required: true
+  subgroup:
+  - name: sites
+    backref: lipidomics_assays
+    label: part_of
+    target_type: site
+    multiplicity: many_to_one
+    required: true
+  - name: samples
+    backref: lipidomics_assays
+    label: part_of
+    target_type: sample
+    multiplicity: one_to_many
+    required: true
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
   experiment_id:
@@ -55,6 +64,8 @@ properties:
     - Depletion
     - Digestion
     - LC-MS
+  sites:
+    $ref: _definitions.yaml#/to_one
   samples:
     $ref: _definitions.yaml#/to_many
 additionalProperties: false

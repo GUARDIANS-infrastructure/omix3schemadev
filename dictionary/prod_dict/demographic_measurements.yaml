@@ -1,13 +1,12 @@
 $schema: http://json-schema.org/draft-04/schema#
-id: demographic
-title: demographic
+id: demographic_measurements
+title: demographic_measurements
 type: object
-namespace: https://data.acdc.ozheart.org/
+namespace: https://omix3.test.biocommons.org.au/
 category: clinical
 program: '*'
 project: '*'
-description: 'Data for the characterization of the patient by means of segmenting
-  the population (e.g. characterization by age, sex, or race).
+description: 'Demographic measurements taken for the participant at baseline.
 
   '
 submittable: true
@@ -27,28 +26,16 @@ required:
 - type
 links:
 - name: subjects
-  backref: demographics
+  backref: demographic_measurementss
   label: part_of
   target_type: subject
   multiplicity: one_to_one
-  required: true
+  required: false
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
-  year_birth:
-    type: integer
-    description: Year of birth at baseline (YYYY)
-  month_birth:
-    type: integer
-    description: Month of birth at baseline (MM)
-  sex:
-    description: Sex assigned at birth
-    enum:
-    - Male
-    - Female
-    - Unknown
-  country_birth:
-    type: string
-    description: Country of birth
+  age:
+    type: number
+    description: Participant's current age in years, calculated from date of birth.
   education_highest_level:
     description: The highest level of education attained by the participant
     enum:
@@ -66,15 +53,6 @@ properties:
     - Did not finish primary school
     - No schooling
     - Other
-  age:
-    type: number
-    description: Participant's current age in years, calculated from date of birth.
-  sex_at_birth:
-    description: Biological sex recorded at birth.
-    enum:
-    - Assigned female
-    - Assigned male
-    - Assigned intersex
   country_of_birth:
     description: Country in which the participant was born. ISO 3166-1 alpha-2 coded.
     enum:
@@ -304,20 +282,6 @@ properties:
     - YE, Yemen
     - ZM, Zambia
     - ZW, Zimbabwe
-  ancestry:
-    description: Self-reported ancestry (up to two selections).
-    enum:
-    - English
-    - Irish
-    - Scottish
-    - Chinese
-    - Italian
-    - German
-    - Aboriginal
-    - Torres Strait Islander
-    - Australian
-    - Other 1
-    - Other 2
   education_level:
     description: Highest level of formal education completed.
     enum:
@@ -352,14 +316,6 @@ properties:
     - Suburban
     - Urban fringe
     - Central business district
-  income_adequacy:
-    description: Self-assessed ability to manage on available income.
-    enum:
-    - Easily
-    - Not too bad
-    - Difficult some of the time
-    - Difficult all of the time
-    - Impossible
   employment_status:
     description: Current employment or occupational situation. Multiple selections
       allowed.
@@ -372,14 +328,11 @@ properties:
     - Doing unpaid or voluntary work
     - Full or part-time student
     - None of the above
-  household_size:
-    type: integer
-    description: Total number of people living in the household including the participant.
   pet_in_home:
     description: Whether the participant has a pet living in their home.
     enum:
-    - 'No'
     - 'Yes'
+    - 'No'
   subjects:
     $ref: _definitions.yaml#/to_one
 additionalProperties: false
