@@ -1,0 +1,105 @@
+name: Dictionary
+
+# Runs on every pull request and on main. The job answers one question: is the
+# committed dictionary exactly what dictionary/input_dd.yaml produces, and is it
+# valid Gen3? A branch that fails here would deploy something no source
+# describes.
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  dictionary:
+    name: Validate dictionary
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install
+        run: |
+          pip install poetry
+          poetry config virtualenvs.in-project true
+          poetry install --no-interaction
+
+      # The drift gate. Regenerates in memory and compares against what is
+      # committed, writing nothing. Fails if a schema was hand-edited, if the
+      # input changed without regenerating, or if the folder holds a file the
+      # input can no longer produce.
+      - name: Dictionary matches its input
+        run: |
+          poetry run gen3schemadev generate \
+            -i dictionary/input_dd.yaml \
+            -o dictionary/prod_dict/ \
+            --check
+
+      # Gen3 metaschema validation plus the business rules — every data_file
+      # node has its data properties, no property shadows a system name, and so
+      # on.
+      - name: Dictionary is valid Gen3
+        run: poetry run gen3schemadev validate -y dictionary/prod_dict
+
+      # The bundled JSON is what the deployment actually loads, and it is
+      # generated separately from the schemas. Without this check a branch could
+      # regenerate the YAMLs, forget to re-bundle, and ship a stale model that
+      # both steps above would happily pass.
+      #
+      # The comparison is on bytes. It could not be until gen3schemadev 3.0.1:
+      # the bundle was assembled by iterating os.listdir, so key order followed
+      # filesystem enumeration and a file bundled on a laptop differed from one
+      # built here despite identical content. That is fixed, so the strict check
+      # is back - it also catches a bundle built by a different tool version.
+      # If this ever fails on key order alone, check the pinned version first.
+      - name: Bundled schema is up to date
+        run: |
+          poetry run gen3schemadev bundle \
+            -i dictionary/prod_dict \
+            -f "${RUNNER_TEMP}/fresh_bundle.json"
+          if diff -q "${RUNNER_TEMP}/fresh_bundle.json" \
+                     dictionary/prod_dict/omix3_schema.json > /dev/null; then
+            echo "Bundled schema is current."
+            exit 0
+          fi
+          echo "::error file=dictionary/prod_dict/omix3_schema.json::Bundled schema is stale. Re-run: poetry run gen3schemadev bundle -i dictionary/prod_dict -f dictionary/prod_dict/omix3_schema.json"
+          # The bundle is one long line, so name what actually differs rather
+          # than dumping it.
+          python - <<'PY'
+          import json, os
+
+          fresh = json.load(open(os.path.join(os.environ["RUNNER_TEMP"], "fresh_bundle.json")))
+          committed = json.load(open("dictionary/prod_dict/omix3_schema.json"))
+
+          only_fresh = sorted(set(fresh) - set(committed))
+          only_committed = sorted(set(committed) - set(fresh))
+          differing = sorted(k for k in set(fresh) & set(committed) if fresh[k] != committed[k])
+
+          if only_fresh:
+              print(f"  missing from the committed bundle: {only_fresh}")
+          if only_committed:
+              print(f"  in the committed bundle but no longer generated: {only_committed}")
+          if differing:
+              print(f"  content differs for: {differing}")
+          if not (only_fresh or only_committed or differing):
+              print("  content matches; only the serialised form differs. "
+                    "Check the pinned gen3schemadev version.")
+          PY
+          exit 1
+
+      # The dictionary version drives the _dict_version stamped into the
+      # generated settings. If they disagree, the deployed dictionary reports a
+      # version that no commit corresponds to.
+      - name: Dictionary version is consistent
+        run: |
+          input_version=$(grep -m1 '^version:' dictionary/input_dd.yaml | awk '{print $2}')
+          settings_version=$(grep -m1 '_dict_version:' dictionary/prod_dict/_settings.yaml | awk '{print $2}')
+          echo "input_dd.yaml: ${input_version} | _settings.yaml: ${settings_version}"
+          if [ "${input_version}" != "${settings_version}" ]; then
+            echo "::error::Version mismatch. Regenerate to bring _settings.yaml in step with input_dd.yaml."
+            exit 1
+          fi

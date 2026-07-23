@@ -1027,7 +1027,7 @@ nodes:
         - "Skyline"
         - "Other"
 
-- name_workflow
+- name: alignment_workflow
   category: analysis
   description: >
     Metadata for the alignment pipeline used to align reads during
@@ -1071,34 +1071,42 @@ links:
 - parent: site
   multiplicity: one_to_one
   child: medical_history
+  required: false
 
 - parent: site
   multiplicity: one_to_one
   child: anthropometric_measurements
+  required: false
 
 - parent: subject
   multiplicity: one_to_one
   child: demographic_measurements
+  required: false
 
 - parent: site
   multiplicity: one_to_one
   child: wearable_measurements
+  required: false
 
 - parent: site
   multiplicity: one_to_one
   child: cardiovascular_measurements
+  required: false
 
 - parent: site
   multiplicity: one_to_one
   child: behavioural_measurements
+  required: false
 
 - parent: site
   multiplicity: one_to_one
   child: environmental_measurements
+  required: false
 
 - parent: site
   multiplicity: one_to_one
   child: psychosocial_measurements
+  required: false
 
 - parent: site
   multiplicity: one_to_many
@@ -1107,6 +1115,7 @@ links:
 - parent: site
   multiplicity: one_to_many
   child: phenomics_data_file
+  required: false
 
 - parent: site
   multiplicity: one_to_many
