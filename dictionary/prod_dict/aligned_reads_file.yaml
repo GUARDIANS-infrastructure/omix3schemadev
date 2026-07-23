@@ -63,7 +63,7 @@ properties:
     - summarised results
     - quality control
   data_type:
-    description: The type of data in this data file
+    description: The data type
     enum:
     - csv
     - tsv

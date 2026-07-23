@@ -13,7 +13,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/AustralianBioCommons/omix3schemadev.git
+git clone https://github.com/GUARDIANS-infrastructure/omix3schemadev.git
 cd omix3schemadev
 ```
 
@@ -35,4 +35,4 @@ Activate the Poetry environment:
 eval $(poetry env activate)
 ```
 
-Alternatively, prefix commands with `poetry run` (e.g. `poetry run gen3schemadev init`).
+Alternatively, prefix commands with `poetry run` (e.g. `poetry run gen3schemadev validate -y dictionary/prod_dict`).
