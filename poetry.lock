@@ -597,14 +597,14 @@ pandas = ">=2.2.3"
 
 [[package]]
 name = "gen3schemadev"
-version = "3.1.0"
+version = "4.0.0"
 description = "Tool for data modelling in Gen3"
 optional = false
 python-versions = "<4.0,>=3.9.5"
 groups = ["main"]
 files = [
-    {file = "gen3schemadev-3.1.0-py3-none-any.whl", hash = "sha256:edbbc4c4187c1c9c9ca075397e0cd9ddb3b89772c8f03d5f8e8da5b3d29874bc"},
-    {file = "gen3schemadev-3.1.0.tar.gz", hash = "sha256:bcb31ce57e96fb0a178205cc193080866fff9639532517e30c77f49cc9868bf8"},
+    {file = "gen3schemadev-4.0.0-py3-none-any.whl", hash = "sha256:5b29057fc1a0a5c963f5e2d2580c64909ea45acec62cdb4ba5a47b92ea43abe5"},
+    {file = "gen3schemadev-4.0.0.tar.gz", hash = "sha256:60bed51ebd2265ff3cb055c04d6e8c1c0a3007c4881d45b9597214c439169c83"},
 ]
 
 [package.dependencies]
@@ -3213,4 +3213,4 @@ dev = ["pytest", "setuptools"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12.10, <4.0.0"
-content-hash = "fd74e0f527b4e0c88b3ebad93f806a1c265cdbc95a95279620163d0e72c3742c"
+content-hash = "8279a941cd6e731bcc7b6fa7fb78568458bbe41e207e5a3a83086a14fa06c09c"
