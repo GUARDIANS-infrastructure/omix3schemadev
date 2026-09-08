@@ -29,7 +29,7 @@ links:
   backref: demographic_measurementss
   label: part_of
   target_type: subject
-  multiplicity: one_to_one
+  multiplicity: many_to_one
   required: false
 properties:
   $ref: _definitions.yaml#/ubiquitous_properties
